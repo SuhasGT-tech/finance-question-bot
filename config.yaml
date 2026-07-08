@@ -1,0 +1,74 @@
+# ---------------------------------------------------------
+# Finance Question Bot - Configuration
+# ---------------------------------------------------------
+
+# Subreddits to monitor (add/remove freely)
+subreddits:
+  - personalfinance
+  - investing
+  - stocks
+  - StockMarket
+  - FinancialPlanning
+  - CryptoCurrency
+  - tax
+  - povertyfinance
+  - dividends
+  - options
+
+# How many new posts to pull per subreddit each run
+posts_per_subreddit: 25
+
+# Minimum score (upvotes) for a post to be considered "worth answering"
+min_score: 5
+
+# Minimum comment count (low comments = still "open" question, good video opportunity)
+max_comments_for_opportunity: 15
+
+# Words that indicate a genuine question (used if flair isn't present)
+question_keywords:
+  - "?"
+  - "how do i"
+  - "how to"
+  - "should i"
+  - "what happens"
+  - "is it worth"
+  - "can someone explain"
+  - "help me understand"
+  - "eli5"
+  - "why does"
+  - "what is the difference"
+
+# Finance-relevant keywords to filter noise out of generic subs (not needed for finance-only subs, but useful if you add general subs later)
+finance_keywords:
+  - invest
+  - stock
+  - tax
+  - loan
+  - credit
+  - budget
+  - saving
+  - retirement
+  - 401k
+  - roth
+  - mortgage
+  - crypto
+  - dividend
+  - portfolio
+  - debt
+  - income
+
+# Optional: Google Custom Search for Quora questions (free tier: 100 queries/day)
+quora_search:
+  enabled: false        # set true once you add API keys as secrets
+  query: "site:quora.com (invest OR stock OR tax OR crypto OR retirement) question"
+  max_results: 10
+
+# Optional: StockTwits trending symbols (fully free, no key needed)
+stocktwits:
+  enabled: true
+  symbols:
+    - SPY
+    - AAPL
+    - TSLA
+    - NVDA
+    - BTC.X
