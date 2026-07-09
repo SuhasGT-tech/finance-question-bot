@@ -81,6 +81,7 @@ def fetch_reddit_questions(config: dict) -> list:
                 data = resp.json()
                 posts = data.get("data", [])
 
+                kept = 0
                 for post in posts:
                     title = post.get("title", "")
                     score = post.get("score", 0) or 0
@@ -109,7 +110,9 @@ def fetch_reddit_questions(config: dict) -> list:
                         "num_comments": num_comments,
                         "created_utc": post.get("created_utc"),
                     })
+                    kept += 1
 
+                print(f"[reddit_fetcher] r/{sub_name}: {len(posts)} raw posts, {kept} kept")
                 break  # success, no need to retry
 
             except Exception as e:
