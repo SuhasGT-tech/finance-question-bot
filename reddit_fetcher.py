@@ -1,32 +1,32 @@
 """
-Fetches finance-related "question" posts from Reddit via PullPush
-(https://pullpush.io), a free, unauthenticated mirror/search API for Reddit
-data. This replaces the old reddit.com/.json approach, which Reddit blocked
-for all unauthenticated requests on May 30, 2026.
+Fetches finance-related "question" posts from Reddit via the PullPush API
+(https://pullpush.io) -- a free, no-signup mirror of Reddit's search data that
+isn't blocked for cloud/data-center IPs the way Reddit's own endpoints are.
 
-No Reddit developer app, no client_id/secret, no login, no approval queue.
-
-Notes:
-- PullPush is community-run, not officially affiliated with Reddit. It can
-  have occasional outages and isn't perfectly real-time (usually minutes to
-  a couple hours of lag), but it's the best free, no-approval option today.
-- If PullPush is ever down or slow, this fetcher fails soft (logs a message,
-  returns whatever it has) rather than crashing the whole pipeline.
+Key fix vs. earlier version: this now explicitly requests only RECENT posts
+(controlled by `recency_hours` in config.yaml) sorted newest-first, instead of
+pulling whatever PullPush happens to return (which could be over a year old).
 """
 
 import requests
 import time
 
-PULLPUSH_URL = "https://api.pullpush.io/reddit/search/submission/"
-
-HEADERS = {
-    "User-Agent": "finance-question-bot/1.0 (by u/your_username_here)"
-}
+BASE_URL = "https://api.pullpush.io/reddit/search/submission/"
 
 
-def looks_like_question(title: str, keywords: list) -> bool:
-    title_lower = title.lower()
-    return any(kw.lower() in title_lower for kw in keywords)
+def is_genuine_question(title: str, keywords: list) -> bool:
+    """
+    Stricter check: a real question either ends with '?' or clearly opens
+    with a question phrase. This avoids picking up statements/rants that
+    merely contain a keyword like 'how to' buried mid-sentence.
+    """
+    t = title.strip().lower()
+    if t.endswith("?"):
+        return True
+    # Only count keyword phrases if they appear at/near the start,
+    # which is how real questions are usually phrased.
+    starters = [kw.lower() for kw in keywords if kw != "?"]
+    return any(t.startswith(kw) for kw in starters)
 
 
 def contains_finance_keyword(title: str, keywords: list) -> bool:
@@ -39,10 +39,11 @@ def fetch_reddit_questions(config: dict) -> list:
 
     subreddits = config["subreddits"]
     limit = config.get("posts_per_subreddit", 25)
-    min_score = config.get("min_score", 5)
+    min_score = config.get("min_score", 1)
     max_comments = config.get("max_comments_for_opportunity", 15)
     q_keywords = config.get("question_keywords", ["?"])
     f_keywords = config.get("finance_keywords", [])
+    recency_hours = config.get("recency_hours", 48)
 
     finance_only_subs = {
         "personalfinance", "investing", "stocks", "stockmarket",
@@ -53,13 +54,13 @@ def fetch_reddit_questions(config: dict) -> list:
     for sub_name in subreddits:
         try:
             resp = requests.get(
-                PULLPUSH_URL,
-                headers=HEADERS,
+                BASE_URL,
                 params={
                     "subreddit": sub_name,
                     "size": limit,
-                    "sort": "desc",   # newest first
+                    "sort": "desc",
                     "sort_type": "created_utc",
+                    "after": f"{recency_hours}h",  # only posts newer than this
                 },
                 timeout=15,
             )
@@ -79,29 +80,29 @@ def fetch_reddit_questions(config: dict) -> list:
                     continue
                 if num_comments > max_comments:
                     continue
-                if not looks_like_question(title, q_keywords):
+                if not is_genuine_question(title, q_keywords):
                     continue
                 if f_keywords and sub_name.lower() not in finance_only_subs:
                     if not contains_finance_keyword(title, f_keywords):
                         continue
 
-                permalink = post.get("permalink") or f"/r/{sub_name}/comments/{post.get('id')}/"
+                permalink = post.get("permalink", "")
+                url = f"https://reddit.com{permalink}" if permalink else post.get("url", "")
+
                 results.append({
                     "source": "reddit",
                     "subreddit": sub_name,
                     "id": post.get("id"),
                     "title": title,
-                    "url": f"https://reddit.com{permalink}",
+                    "url": url,
                     "score": score,
                     "num_comments": num_comments,
                     "created_utc": post.get("created_utc"),
                 })
 
-            # Be polite -- small delay between subreddits (PullPush is free
-            # and community-run; don't hammer it)
-            time.sleep(1.5)
+            time.sleep(1)  # be polite to the free API
 
         except Exception as e:
-            print(f"[reddit_fetcher] Error fetching r/{sub_name} via PullPush: {e}")
+            print(f"[reddit_fetcher] Error fetching r/{sub_name}: {e}")
 
     return results
