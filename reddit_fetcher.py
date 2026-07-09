@@ -52,57 +52,70 @@ def fetch_reddit_questions(config: dict) -> list:
     }
 
     for sub_name in subreddits:
-        try:
-            resp = requests.get(
-                BASE_URL,
-                params={
-                    "subreddit": sub_name,
-                    "size": limit,
-                    "sort": "desc",
-                    "sort_type": "created_utc",
-                    "after": f"{recency_hours}h",  # only posts newer than this
-                },
-                timeout=15,
-            )
-            if resp.status_code != 200:
-                print(f"[reddit_fetcher] r/{sub_name} returned {resp.status_code}")
-                continue
+        after_timestamp = int(time.time()) - (recency_hours * 3600)
 
-            data = resp.json()
-            posts = data.get("data", [])
+        for attempt in range(3):
+            try:
+                resp = requests.get(
+                    BASE_URL,
+                    params={
+                        "subreddit": sub_name,
+                        "size": limit,
+                        "sort": "desc",
+                        "sort_type": "created_utc",
+                        "after": after_timestamp,  # precise unix timestamp, more reliable than "48h"
+                    },
+                    timeout=15,
+                )
 
-            for post in posts:
-                title = post.get("title", "")
-                score = post.get("score", 0) or 0
-                num_comments = post.get("num_comments", 0) or 0
+                if resp.status_code == 429:
+                    wait = 5 * (attempt + 1)
+                    print(f"[reddit_fetcher] r/{sub_name} rate-limited, waiting {wait}s...")
+                    time.sleep(wait)
+                    continue
 
-                if score < min_score:
-                    continue
-                if num_comments > max_comments:
-                    continue
-                if not is_genuine_question(title, q_keywords):
-                    continue
-                if f_keywords and sub_name.lower() not in finance_only_subs:
-                    if not contains_finance_keyword(title, f_keywords):
+                if resp.status_code != 200:
+                    print(f"[reddit_fetcher] r/{sub_name} returned {resp.status_code}: {resp.text[:200]}")
+                    break
+
+                data = resp.json()
+                posts = data.get("data", [])
+
+                for post in posts:
+                    title = post.get("title", "")
+                    score = post.get("score", 0) or 0
+                    num_comments = post.get("num_comments", 0) or 0
+
+                    if score < min_score:
                         continue
+                    if num_comments > max_comments:
+                        continue
+                    if not is_genuine_question(title, q_keywords):
+                        continue
+                    if f_keywords and sub_name.lower() not in finance_only_subs:
+                        if not contains_finance_keyword(title, f_keywords):
+                            continue
 
-                permalink = post.get("permalink", "")
-                url = f"https://reddit.com{permalink}" if permalink else post.get("url", "")
+                    permalink = post.get("permalink", "")
+                    url = f"https://reddit.com{permalink}" if permalink else post.get("url", "")
 
-                results.append({
-                    "source": "reddit",
-                    "subreddit": sub_name,
-                    "id": post.get("id"),
-                    "title": title,
-                    "url": url,
-                    "score": score,
-                    "num_comments": num_comments,
-                    "created_utc": post.get("created_utc"),
-                })
+                    results.append({
+                        "source": "reddit",
+                        "subreddit": sub_name,
+                        "id": post.get("id"),
+                        "title": title,
+                        "url": url,
+                        "score": score,
+                        "num_comments": num_comments,
+                        "created_utc": post.get("created_utc"),
+                    })
 
-            time.sleep(1)  # be polite to the free API
+                break  # success, no need to retry
 
-        except Exception as e:
-            print(f"[reddit_fetcher] Error fetching r/{sub_name}: {e}")
+            except Exception as e:
+                print(f"[reddit_fetcher] Error fetching r/{sub_name}: {e}")
+                break
+
+        time.sleep(1.5)  # be polite to the free API between subreddits
 
     return results
