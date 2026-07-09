@@ -1,23 +1,26 @@
 """
-Fetches finance-related "question" posts from Reddit using Reddit's PUBLIC JSON
-endpoints (e.g. https://www.reddit.com/r/investing/new.json).
+Fetches finance-related "question" posts from Reddit via PullPush
+(https://pullpush.io), a free, unauthenticated mirror/search API for Reddit
+data. This replaces the old reddit.com/.json approach, which Reddit blocked
+for all unauthenticated requests on May 30, 2026.
 
-This requires NO Reddit developer app, NO client_id/secret, and NO login.
-It works because Reddit exposes read-only JSON versions of every public page.
+No Reddit developer app, no client_id/secret, no login, no approval queue.
 
-Note: this only works for public subreddits and is subject to normal rate limits
-(keep requests modest -- this script already does, one request per subreddit
-per run). Always send a descriptive User-Agent (required by Reddit or you'll get
-blocked/throttled).
+Notes:
+- PullPush is community-run, not officially affiliated with Reddit. It can
+  have occasional outages and isn't perfectly real-time (usually minutes to
+  a couple hours of lag), but it's the best free, no-approval option today.
+- If PullPush is ever down or slow, this fetcher fails soft (logs a message,
+  returns whatever it has) rather than crashing the whole pipeline.
 """
 
 import requests
 import time
 
+PULLPUSH_URL = "https://api.pullpush.io/reddit/search/submission/"
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "application/json",
-    "Accept-Language": "en-US,en;q=0.9",
+    "User-Agent": "finance-question-bot/1.0 (by u/your_username_here)"
 }
 
 
@@ -49,25 +52,28 @@ def fetch_reddit_questions(config: dict) -> list:
 
     for sub_name in subreddits:
         try:
-            url = f"https://www.reddit.com/r/{sub_name}/new.json"
             resp = requests.get(
-                url,
+                PULLPUSH_URL,
                 headers=HEADERS,
-                params={"limit": limit},
-                timeout=10,
+                params={
+                    "subreddit": sub_name,
+                    "size": limit,
+                    "sort": "desc",   # newest first
+                    "sort_type": "created_utc",
+                },
+                timeout=15,
             )
             if resp.status_code != 200:
                 print(f"[reddit_fetcher] r/{sub_name} returned {resp.status_code}")
                 continue
 
             data = resp.json()
-            posts = data.get("data", {}).get("children", [])
+            posts = data.get("data", [])
 
-            for post_wrapper in posts:
-                post = post_wrapper.get("data", {})
+            for post in posts:
                 title = post.get("title", "")
-                score = post.get("score", 0)
-                num_comments = post.get("num_comments", 0)
+                score = post.get("score", 0) or 0
+                num_comments = post.get("num_comments", 0) or 0
 
                 if score < min_score:
                     continue
@@ -79,21 +85,23 @@ def fetch_reddit_questions(config: dict) -> list:
                     if not contains_finance_keyword(title, f_keywords):
                         continue
 
+                permalink = post.get("permalink") or f"/r/{sub_name}/comments/{post.get('id')}/"
                 results.append({
                     "source": "reddit",
                     "subreddit": sub_name,
                     "id": post.get("id"),
                     "title": title,
-                    "url": f"https://reddit.com{post.get('permalink', '')}",
+                    "url": f"https://reddit.com{permalink}",
                     "score": score,
                     "num_comments": num_comments,
                     "created_utc": post.get("created_utc"),
                 })
 
-            # Be polite to Reddit's servers -- small delay between subreddits
+            # Be polite -- small delay between subreddits (PullPush is free
+            # and community-run; don't hammer it)
             time.sleep(1.5)
 
         except Exception as e:
-            print(f"[reddit_fetcher] Error fetching r/{sub_name}: {e}")
+            print(f"[reddit_fetcher] Error fetching r/{sub_name} via PullPush: {e}")
 
     return results
