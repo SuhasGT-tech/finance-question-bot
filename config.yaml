@@ -1,41 +1,74 @@
-name: Fetch Finance Questions
+# ---------------------------------------------------------
+# Finance Question Bot - Configuration
+# ---------------------------------------------------------
 
-on:
-  schedule:
-    # Runs every 3 hours. Adjust cron as needed (this is UTC time).
-    - cron: "0 */3 * * *"
-  workflow_dispatch: {}  # allows manual "Run workflow" button in GitHub UI
+# Subreddits to monitor (add/remove freely)
+subreddits:
+  - personalfinance
+  - investing
+  - stocks
+  - StockMarket
+  - FinancialPlanning
+  - CryptoCurrency
+  - tax
+  - povertyfinance
+  - dividends
+  - options
 
-permissions:
-  contents: write  # needed so the workflow can commit state.json back
+# How many new posts to pull per subreddit each run
+posts_per_subreddit: 25
 
-jobs:
-  fetch-and-notify:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+# Minimum score (upvotes) for a post to be considered "worth answering"
+min_score: 5
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+# Minimum comment count (low comments = still "open" question, good video opportunity)
+max_comments_for_opportunity: 15
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+# Words that indicate a genuine question (used if flair isn't present)
+question_keywords:
+  - "?"
+  - "how do i"
+  - "how to"
+  - "should i"
+  - "what happens"
+  - "is it worth"
+  - "can someone explain"
+  - "help me understand"
+  - "eli5"
+  - "why does"
+  - "what is the difference"
 
-      - name: Run bot
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          GOOGLE_CSE_API_KEY: ${{ secrets.GOOGLE_CSE_API_KEY }}
-          GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
-        run: python main.py
+# Finance-relevant keywords to filter noise out of generic subs (not needed for finance-only subs, but useful if you add general subs later)
+finance_keywords:
+  - invest
+  - stock
+  - tax
+  - loan
+  - credit
+  - budget
+  - saving
+  - retirement
+  - 401k
+  - roth
+  - mortgage
+  - crypto
+  - dividend
+  - portfolio
+  - debt
+  - income
 
-      - name: Commit updated state and dashboard files
-        run: |
-          git config --global user.name "finance-question-bot"
-          git config --global user.email "bot@users.noreply.github.com"
-          git add state.json latest_questions.json
-          git diff --quiet --cached || git commit -m "Update state + live dashboard data [skip ci]"
-          git push
+# Optional: Google Custom Search for Quora questions (free tier: 100 queries/day)
+quora_search:
+  enabled: false        # set true once you add API keys as secrets
+  query: "site:quora.com (invest OR stock OR tax OR crypto OR retirement) question"
+  max_results: 10
+
+# Optional: StockTwits trending symbols (fully free, no key needed)
+stocktwits:
+  enabled: true
+  symbols:
+    - SPY
+    - AAPL
+    - TSLA
+    - NVDA
+    - BTC.X
