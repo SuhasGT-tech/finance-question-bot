@@ -69,8 +69,11 @@ quora_search:
   max_results: 10
 
 # Optional: StockTwits trending symbols (fully free, no key needed)
+# NOTE: disabled by default -- StockTwits blocks requests from cloud/data-center
+# IPs (like GitHub Actions), similar to the issue Reddit's own API had. Only
+# enable this if you're running the script from your own PC/home network instead.
 stocktwits:
-  enabled: true
+  enabled: false
   symbols:
     - SPY
     - AAPL
