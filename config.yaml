@@ -18,13 +18,18 @@ subreddits:
 # How many new posts to pull per subreddit each run
 posts_per_subreddit: 25
 
+# NEW: only fetch posts from within this many hours (keeps the feed real-time)
+recency_hours: 48
+
 # Minimum score (upvotes) for a post to be considered "worth answering"
-min_score: 5
+# Lowered from 5 -> 1 since brand-new/real-time posts haven't accumulated votes yet
+min_score: 1
 
 # Minimum comment count (low comments = still "open" question, good video opportunity)
 max_comments_for_opportunity: 15
 
 # Words that indicate a genuine question (used if flair isn't present)
+# NOTE: with the stricter checker, only "?" and phrases at the START of a title count
 question_keywords:
   - "?"
   - "how do i"
