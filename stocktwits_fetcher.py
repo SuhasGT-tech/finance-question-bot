@@ -11,6 +11,11 @@ import requests
 
 BASE_URL = "https://api.stocktwits.com/api/2/streams/symbol/{symbol}.json"
 
+HEADERS = {
+    "User-Agent": "finance-question-bot/1.0 (personal project; contact via GitHub)",
+    "Accept": "application/json",
+}
+
 
 def fetch_stocktwits_questions(config: dict) -> list:
     st_config = config.get("stocktwits", {})
@@ -22,7 +27,7 @@ def fetch_stocktwits_questions(config: dict) -> list:
 
     for symbol in symbols:
         try:
-            resp = requests.get(BASE_URL.format(symbol=symbol), timeout=10)
+            resp = requests.get(BASE_URL.format(symbol=symbol), headers=HEADERS, timeout=10)
             if resp.status_code != 200:
                 print(f"[stocktwits_fetcher] {symbol} returned {resp.status_code}")
                 continue
