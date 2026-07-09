@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-09T13:07:13.995484+00:00",
-  "count": 7,
+  "generated_at": "2026-07-09T13:13:07.047317+00:00",
+  "count": 9,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1kq1bt9",
+      "title": "Anyone eyeing RDDT?",
+      "url": "https://reddit.com/r/options/comments/1kq1bt9/anyone_eyeing_rddt/",
+      "score": 36,
+      "num_comments": 13,
+      "created_utc": 1747622920
+    },
     {
       "source": "reddit",
       "subreddit": "povertyfinance",
@@ -41,6 +51,16 @@
       "score": 5,
       "num_comments": 4,
       "created_utc": 1747650501
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1kpzvay",
+      "title": "HIMS + HOOD options. 30 DTE ITM?",
+      "url": "https://reddit.com/r/options/comments/1kpzvay/hims_hood_options_30_dte_itm/",
+      "score": 6,
+      "num_comments": 7,
+      "created_utc": 1747618186
     },
     {
       "source": "reddit",
