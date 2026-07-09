@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finance question wire</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #14171c;
+    --panel: #1b1f26;
+    --panel-hover: #20242c;
+    --border: #2a2f38;
+    --border-soft: #21252d;
+    --text: #ece8dc;
+    --text-dim: #9298a3;
+    --text-faint: #5c6169;
+    --amber: #d9a441;
+    --amber-dim: #7a6236;
+    --teal: #4fa8a0;
+    --teal-dim: #3a6b66;
+    --coral: #d8735a;
+    --coral-dim: #7a4536;
+    --red: #c25b52;
+    --green: #6a9c5f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, sans-serif;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 40px 24px 80px; }
+
+  .masthead {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 18px;
+    margin-bottom: 4px;
+  }
+  .masthead h1 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    margin: 0;
+    color: var(--text);
+  }
+  .masthead h1 span { color: var(--amber); }
+  .status-line {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-faint);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .pulse {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--green);
+    box-shadow: 0 0 0 0 rgba(106,156,95,0.5);
+    animation: pulse 2s infinite;
+  }
+  .pulse.stale { background: var(--red); box-shadow: none; animation: none; }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(106,156,95,0.45); }
+    70% { box-shadow: 0 0 0 6px rgba(106,156,95,0); }
+    100% { box-shadow: 0 0 0 0 rgba(106,156,95,0); }
+  }
+
+  .toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 20px 0 24px;
+  }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .chip:hover { border-color: var(--text-faint); color: var(--text); }
+  .chip.active { border-color: var(--amber); color: var(--amber); }
+
+  .right-controls { display: flex; align-items: center; gap: 10px; }
+  select#sort {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    background: var(--panel);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+  }
+  button#refresh {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    background: transparent;
+    color: var(--text-dim);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  button#refresh:hover { color: var(--text); border-color: var(--text-faint); }
+  button#refresh:disabled { opacity: 0.5; cursor: default; }
+
+  .feed { display: flex; flex-direction: column; }
+
+  .entry {
+    display: grid;
+    grid-template-columns: 28px 1fr auto;
+    gap: 16px;
+    padding: 16px 4px;
+    border-bottom: 1px solid var(--border-soft);
+    text-decoration: none;
+    color: inherit;
+  }
+  .entry:hover { background: var(--panel-hover); }
+  .entry-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-faint);
+    padding-top: 2px;
+  }
+  .entry-main { min-width: 0; }
+  .entry-title {
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--text);
+    margin: 0 0 8px;
+  }
+  .entry-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-faint);
+  }
+  .tag {
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+  }
+  .tag.reddit { background: rgba(217,164,65,0.12); color: var(--amber); }
+  .tag.stocktwits { background: rgba(79,168,160,0.12); color: var(--teal); }
+  .tag.quora { background: rgba(216,115,90,0.12); color: var(--coral); }
+
+  .signal {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+    height: 24px;
+    padding-top: 4px;
+  }
+  .signal .bar {
+    width: 3px;
+    background: var(--border);
+    border-radius: 1px;
+  }
+  .signal .bar.on { background: var(--amber); }
+
+  .empty, .error {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.8;
+    padding: 60px 12px;
+    text-align: center;
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  .error { color: var(--red); }
+  .error code {
+    background: var(--panel);
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 560px) {
+    .wrap { padding: 24px 16px 60px; }
+    .masthead { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .entry { grid-template-columns: 20px 1fr; }
+    .signal { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="masthead">
+    <h1>finance<span>_</span>wire</h1>
+    <div class="status-line">
+      <span class="pulse" id="pulse"></span>
+      <span id="status-text">connecting&hellip;</span>
+    </div>
+  </div>
+
+  <div class="toolbar">
+    <div class="chips" id="source-chips">
+      <button class="chip active" data-source="all">all</button>
+      <button class="chip" data-source="reddit">reddit</button>
+      <button class="chip" data-source="stocktwits">stocktwits</button>
+      <button class="chip" data-source="quora">quora</button>
+    </div>
+    <div class="right-controls">
+      <select id="sort">
+        <option value="opportunity">sort: opportunity</option>
+        <option value="newest">sort: newest</option>
+      </select>
+      <button id="refresh">refresh</button>
+    </div>
+  </div>
+
+  <div class="feed" id="feed"></div>
+
+</div>
+
+<script>
+  const REPO_OWNER = "SuhasGT-tech";
+  const REPO_NAME = "finance-question-bot";
+  const DATA_URL = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/latest_questions.json`;
+
+  let allQuestions = [];
+  let activeSource = "all";
+  let generatedAt = null;
+
+  const feedEl = document.getElementById("feed");
+  const statusEl = document.getElementById("status-text");
+  const pulseEl = document.getElementById("pulse");
+  const refreshBtn = document.getElementById("refresh");
+  const sortSelect = document.getElementById("sort");
+  const chipButtons = document.querySelectorAll(".chip");
+
+  function timeAgo(unixSeconds) {
+    if (!unixSeconds) return "";
+    const diff = Math.max(0, (Date.now() / 1000) - unixSeconds);
+    if (diff < 60) return "just now";
+    if (diff < 3600) return Math.floor(diff / 60) + "m ago";
+    if (diff < 86400) return Math.floor(diff / 3600) + "h ago";
+    return Math.floor(diff / 86400) + "d ago";
+  }
+
+  function opportunityScore(item) {
+    const s = (item.score || 0) - (item.num_comments || 0);
+    return s;
+  }
+
+  function signalBars(item) {
+    const raw = Math.max(0, opportunityScore(item));
+    const level = Math.min(5, Math.ceil(raw / 8));
+    let html = '<div class="signal" aria-hidden="true">';
+    for (let i = 1; i <= 5; i++) {
+      const h = 6 + i * 3;
+      html += `<div class="bar ${i <= level ? "on" : ""}" style="height:${h}px"></div>`;
+    }
+    html += "</div>";
+    return html;
+  }
+
+  function sourceLabel(item) {
+    if (item.source === "reddit") return `r/${item.subreddit || "?"}`;
+    if (item.source === "stocktwits") return `$${item.symbol || "?"}`;
+    if (item.source === "quora") return "quora";
+    return item.source || "unknown";
+  }
+
+  function render() {
+    let items = allQuestions.filter(q => activeSource === "all" || q.source === activeSource);
+
+    if (sortSelect.value === "newest") {
+      items = [...items].sort((a, b) => (b.created_utc || 0) - (a.created_utc || 0));
+    } else {
+      items = [...items].sort((a, b) => opportunityScore(b) - opportunityScore(a));
+    }
+
+    if (items.length === 0) {
+      feedEl.innerHTML = `<div class="empty">no questions match this filter right now<br>try a different source, or check back after the next run</div>`;
+      return;
+    }
+
+    feedEl.innerHTML = items.map((item, i) => `
+      <a class="entry" href="${item.url || "#"}" target="_blank" rel="noopener">
+        <span class="entry-num">${String(i + 1).padStart(2, "0")}</span>
+        <span class="entry-main">
+          <p class="entry-title">${escapeHtml(item.title || "")}</p>
+          <span class="entry-meta">
+            <span class="tag ${item.source}">${sourceLabel(item)}</span>
+            <span>score ${item.score ?? 0}</span>
+            <span>${item.num_comments ?? 0} replies</span>
+            <span>${timeAgo(item.created_utc)}</span>
+          </span>
+        </span>
+        ${signalBars(item)}
+      </a>
+    `).join("");
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  async function loadData() {
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = "loading\u2026";
+    statusEl.textContent = "checking for updates\u2026";
+
+    try {
+      const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
+
+      if (res.status === 404) {
+        pulseEl.classList.add("stale");
+        statusEl.textContent = "no data yet";
+        feedEl.innerHTML = `<div class="error">
+          the workflow hasn't published <code>latest_questions.json</code> yet.<br><br>
+          go to the repo's <strong>Actions</strong> tab and run <strong>Fetch Finance Questions</strong> once manually &mdash;
+          this file appears automatically after the first successful run.
+        </div>`;
+        return;
+      }
+
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+      const data = await res.json();
+      allQuestions = data.questions || [];
+      generatedAt = data.generated_at || null;
+
+      pulseEl.classList.remove("stale");
+      statusEl.textContent = generatedAt
+        ? `live \u00b7 updated ${timeAgo(new Date(generatedAt).getTime() / 1000)} \u00b7 ${allQuestions.length} questions`
+        : `${allQuestions.length} questions`;
+
+      render();
+    } catch (err) {
+      pulseEl.classList.add("stale");
+      statusEl.textContent = "connection issue";
+      feedEl.innerHTML = `<div class="error">
+        couldn't load live data (${escapeHtml(err.message)}).<br><br>
+        this can happen right after the repo is created, or if it's set to private.<br>
+        make sure <code>${REPO_OWNER}/${REPO_NAME}</code> is public, then hit refresh.
+      </div>`;
+    } finally {
+      refreshBtn.disabled = false;
+      refreshBtn.textContent = "refresh";
+    }
+  }
+
+  chipButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      chipButtons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeSource = btn.dataset.source;
+      render();
+    });
+  });
+
+  sortSelect.addEventListener("change", render);
+  refreshBtn.addEventListener("click", loadData);
+
+  loadData();
+  setInterval(loadData, 5 * 60 * 1000); // auto-refresh every 5 minutes
+</script>
+</body>
+</html>
