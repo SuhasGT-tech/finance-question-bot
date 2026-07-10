@@ -73,7 +73,7 @@ quora_search:
 # IPs (like GitHub Actions), similar to the issue Reddit's own API had. Only
 # enable this if you're running the script from your own PC/home network instead.
 stocktwits:
-  enabled: false
+  enabled: true
   symbols:
     - SPY
     - AAPL
