@@ -64,7 +64,7 @@ finance_keywords:
 
 # Optional: Google Custom Search for Quora questions (free tier: 100 queries/day)
 quora_search:
-  enabled: false        # set true once you add API keys as secrets
+  enabled: true       # set true once you add API keys as secrets
   query: "site:quora.com (invest OR stock OR tax OR crypto OR retirement) question"
   max_results: 10
 
