@@ -87,4 +87,4 @@ stackexchange:
   enabled: true
   site: money
   pagesize: 25
-  tags: []   # optional: e.g. [investing, taxes, retirement] to narrow results
+  tags: [budgeting, taxes, investing, retirement, credit, mortgage, debt]   # optional: e.g. [investing, taxes, retirement] to narrow results
