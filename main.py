@@ -17,6 +17,7 @@ import yaml
 
 from reddit_fetcher import fetch_reddit_questions
 from stocktwits_fetcher import fetch_stocktwits_questions
+from stackexchange_fetcher import fetch_stackexchange_questions
 from quora_search import fetch_quora_questions
 from telegram_notifier import send_telegram_digest
 
@@ -68,6 +69,7 @@ def main():
     all_items += fetch_reddit_questions(config)
     all_items += fetch_stocktwits_questions(config)
     all_items += fetch_quora_questions(config)
+    all_items += fetch_stackexchange_questions(config)
 
     # Dedup against previously sent items
     new_items = [item for item in all_items if item["id"] not in sent_ids]
