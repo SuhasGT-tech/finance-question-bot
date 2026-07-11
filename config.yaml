@@ -68,6 +68,8 @@ quora_search:
   query: "site:quora.com (invest OR stock OR tax OR crypto OR retirement) question"
   max_results: 10
 
+
+
 # Optional: StockTwits trending symbols (fully free, no key needed)
 # NOTE: disabled by default -- StockTwits blocks requests from cloud/data-center
 # IPs (like GitHub Actions), similar to the issue Reddit's own API had. Only
@@ -80,3 +82,9 @@ stocktwits:
     - TSLA
     - NVDA
     - BTC.X
+
+stackexchange:
+  enabled: true
+  site: money
+  pagesize: 25
+  tags: []   # optional: e.g. [investing, taxes, retirement] to narrow results
