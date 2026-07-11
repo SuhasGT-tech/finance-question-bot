@@ -1,5 +1,146 @@
 {
-  "generated_at": "2026-07-11T15:52:29.520456+00:00",
-  "count": 0,
-  "questions": []
+  "generated_at": "2026-07-11T18:44:32.769315+00:00",
+  "count": 14,
+  "questions": [
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169737",
+      "title": "How does a business get money from investors?",
+      "url": "https://money.stackexchange.com/questions/169737/how-does-a-business-get-money-from-investors",
+      "score": 22,
+      "num_comments": 1,
+      "created_utc": 1782137553
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169773",
+      "title": "How to react to debt collection claim when the delay in payment is the creditor&#39;s fault?",
+      "url": "https://money.stackexchange.com/questions/169773/how-to-react-to-debt-collection-claim-when-the-delay-in-payment-is-the-creditor",
+      "score": 12,
+      "num_comments": 2,
+      "created_utc": 1783200859
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169698",
+      "title": "Why can only US residents participate in some IPOs?",
+      "url": "https://money.stackexchange.com/questions/169698/why-can-only-us-residents-participate-in-some-ipos",
+      "score": 9,
+      "num_comments": 1,
+      "created_utc": 1781049558
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169684",
+      "title": "Financial implications of paying off the equity on my parents property",
+      "url": "https://money.stackexchange.com/questions/169684/financial-implications-of-paying-off-the-equity-on-my-parents-property",
+      "score": 9,
+      "num_comments": 1,
+      "created_utc": 1780853380
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169744",
+      "title": "I own the land that a house was built on. What happens to the land if I can&#39;t pay the mortgage on the house that was built?",
+      "url": "https://money.stackexchange.com/questions/169744/i-own-the-land-that-a-house-was-built-on-what-happens-to-the-land-if-i-cant-pa",
+      "score": 8,
+      "num_comments": 2,
+      "created_utc": 1782232577
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169779",
+      "title": "How can an international postgraduate dental student secure private US student loans without a US cosigner?",
+      "url": "https://money.stackexchange.com/questions/169779/how-can-an-international-postgraduate-dental-student-secure-private-us-student-l",
+      "score": 6,
+      "num_comments": 1,
+      "created_utc": 1783437565
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169747",
+      "title": "Allocation of mortgage interest deduction between joint homeowners",
+      "url": "https://money.stackexchange.com/questions/169747/allocation-of-mortgage-interest-deduction-between-joint-homeowners",
+      "score": 6,
+      "num_comments": 1,
+      "created_utc": 1782263766
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169726",
+      "title": "IPO stocks: does selling covered calls trigger the flipping rule?",
+      "url": "https://money.stackexchange.com/questions/169726/ipo-stocks-does-selling-covered-calls-trigger-the-flipping-rule",
+      "score": 2,
+      "num_comments": 1,
+      "created_utc": 1781630325
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169688",
+      "title": "Does subscribing to an IPO via multiple brokers increase the chance of receiving shares?",
+      "url": "https://money.stackexchange.com/questions/169688/does-subscribing-to-an-ipo-via-multiple-brokers-increase-the-chance-of-receiving",
+      "score": 2,
+      "num_comments": 1,
+      "created_utc": 1780909888
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169714",
+      "title": "Since brokers make money by trading, why restrict on IPO trading?",
+      "url": "https://money.stackexchange.com/questions/169714/since-brokers-make-money-by-trading-why-restrict-on-ipo-trading",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1781390527
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169701",
+      "title": "Settlement date for IPO in 2026",
+      "url": "https://money.stackexchange.com/questions/169701/settlement-date-for-ipo-in-2026",
+      "score": 2,
+      "num_comments": 2,
+      "created_utc": 1781100929
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169681",
+      "title": "Selling a stock and then selling a put and the wash rule",
+      "url": "https://money.stackexchange.com/questions/169681/selling-a-stock-and-then-selling-a-put-and-the-wash-rule",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1780788669
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169790",
+      "title": "Refund for paying taxes on Social Security in foreign country",
+      "url": "https://money.stackexchange.com/questions/169790/refund-for-paying-taxes-on-social-security-in-foreign-country",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1783591210
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "169722",
+      "title": "How can I do a wire transfer from Fidelity to Sofi?",
+      "url": "https://money.stackexchange.com/questions/169722/how-can-i-do-a-wire-transfer-from-fidelity-to-sofi",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1781481567
+    }
+  ]
 }
