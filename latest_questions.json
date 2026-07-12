@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-12T19:04:48.711162+00:00",
-  "count": 180,
+  "generated_at": "2026-07-12T21:49:15.694747+00:00",
+  "count": 198,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uusj33",
+      "title": "What\u2019s everyone doing to get out of poverty?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uusj33/whats_everyone_doing_to_get_out_of_poverty/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783892764,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uus6ey",
+      "title": "Needing to generate cash - should I sell holdings or borrow on margin?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uus6ey/needing_to_generate_cash_should_i_sell_holdings/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783891896,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uurvtm",
+      "title": "Should I move out or keep investing?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uurvtm/should_i_move_out_or_keep_investing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783891183,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uurugb",
+      "title": "How to think about my retirement savings rates with combo of pre and post tax contributions?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uurugb/how_to_think_about_my_retirement_savings_rates/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783891090,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uurjo1",
+      "title": "How to think about my retirement savings rates with combo of pre and post tax contributions?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uurjo1/how_to_think_about_my_retirement_savings_rates/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783890373,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuriad",
+      "title": "Does Paypal Savings use an use an FBO (For Benefit Of) Account or a Direct ownership?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuriad/does_paypal_savings_use_an_use_an_fbo_for_benefit/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783890280,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uur5ql",
+      "title": "Self employed 40yo, no pension. Can I ever retire?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uur5ql/self_employed_40yo_no_pension_can_i_ever_retire/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783889451,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uur5eq",
+      "title": "how to get better at saving",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uur5eq/how_to_get_better_at_saving/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783889430,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuqjkm",
+      "title": "Do I have any options after accidentally using the wrong payment method?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuqjkm/do_i_have_any_options_after_accidentally_using/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783888004,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuqevl",
+      "title": "How is my overall financial health and how can I best plan for saving for a house and future kids?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuqevl/how_is_my_overall_financial_health_and_how_can_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783887699,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuqazv",
+      "title": "Are we holding too much in cash?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuqazv/are_we_holding_too_much_in_cash/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783887453,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uuq4lf",
+      "title": "Micron Technology: a value trap?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uuq4lf/micron_technology_a_value_trap/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783887043,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uupwk4",
+      "title": "Planning on investing \u00a3150-200 a month into S&S ISA. What would you advise for a beginner? Vanguard S&P 500?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uupwk4/planning_on_investing_150200_a_month_into_ss_isa/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783886526,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uupoyz",
+      "title": "Have grandparent owned 529,$5k a year contributions for 10 years. Would a Trump account be a useful addition?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uupoyz/have_grandparent_owned_5295k_a_year_contributions/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783886055,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uupbr2",
+      "title": "Is this a good time to convert to a Roth?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uupbr2/is_this_a_good_time_to_convert_to_a_roth/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783885221,
+      "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuovij",
+      "title": "How much should I leave in my HYSA?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuovij/how_much_should_i_leave_in_my_hysa/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783884187,
+      "first_seen_utc": 1783892955
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -56,6 +232,17 @@
       "num_comments": 0,
       "created_utc": 1783879838,
       "first_seen_utc": 1783883088
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uumu56",
+      "title": "Roth investing. Does this look sane?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uumu56/roth_investing_does_this_look_sane/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783879703,
+      "first_seen_utc": 1783892955
     },
     {
       "source": "reddit",
@@ -188,6 +375,17 @@
       "num_comments": 0,
       "created_utc": 1783876727,
       "first_seen_utc": 1783883088
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uulhno",
+      "title": "What are some Chinese clothing brands that are cheap and high quality? Is it possible to import used clothing from China for cheaper than goodwill prices?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uulhno/what_are_some_chinese_clothing_brands_that_are/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783876724,
+      "first_seen_utc": 1783892955
     },
     {
       "source": "reddit",
