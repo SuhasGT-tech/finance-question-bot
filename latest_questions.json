@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-12T13:15:47.383934+00:00",
-  "count": 139,
+  "generated_at": "2026-07-12T16:00:14.239254+00:00",
+  "count": 163,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuj4kp",
+      "title": "Should I sell my house",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuj4kp/should_i_sell_my_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783871451,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uui73n",
+      "title": "Critique savings plan and whether we are missing anything else?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uui73n/critique_savings_plan_and_whether_we_are_missing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783869337,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uui2po",
+      "title": "Got $10k saved up. Is MSFT at $385 an absolute steal right now?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uui2po/got_10k_saved_up_is_msft_at_385_an_absolute_steal/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783869059,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuhu35",
+      "title": "Bad College spending habits. How to better myself?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuhu35/bad_college_spending_habits_how_to_better_myself/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783868502,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uuhn69",
+      "title": "What is the shelter experience like?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uuhn69/what_is_the_shelter_experience_like/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783868050,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uuhebl",
+      "title": "Should I combine(rollover?) my old 401K into my new 401K?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uuhebl/should_i_combinerollover_my_old_401k_into_my_new/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783867472,
+      "first_seen_utc": 1783872014
+    },
     {
       "source": "reddit",
       "subreddit": "CryptoCurrency",
@@ -45,6 +111,17 @@
       "num_comments": 0,
       "created_utc": 1783857316,
       "first_seen_utc": 1783862147
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uucadc",
+      "title": "How do you deal with it if you are on a bunch of prescription meds?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uucadc/how_do_you_deal_with_it_if_you_are_on_a_bunch_of/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783853843,
+      "first_seen_utc": 1783872014
     },
     {
       "source": "reddit",
@@ -92,6 +169,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uu6j6b",
+      "title": "Can I get Section 8 housing voucher on 40k salary?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uu6j6b/can_i_get_section_8_housing_voucher_on_40k_salary/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783834335,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
       "subreddit": "CryptoCurrency",
       "id": "1uu664g",
       "title": "If u had to pick a meme coin whichone wouldu pick?",
@@ -136,6 +224,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uu52ez",
+      "title": "Pay for Raymond James full(er) service, or stick with ETFs at Morgan Stanley?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uu52ez/pay_for_raymond_james_fuller_service_or_stick/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783829844,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1uu4t1w",
       "title": "Currently 17, how would I move money from my savings into my checking without access to my mom\u2019s bank account?",
@@ -144,6 +243,17 @@
       "num_comments": 0,
       "created_utc": 1783829078,
       "first_seen_utc": 1783851399
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uu47ll",
+      "title": "115k ESOP Payout, Pay off House or roll into IRA?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uu47ll/115k_esop_payout_pay_off_house_or_roll_into_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783827302,
+      "first_seen_utc": 1783872014
     },
     {
       "source": "reddit",
@@ -180,6 +290,61 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uu15ku",
+      "title": "Has anyone in here ever done a cold-turkey strict budget cut?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uu15ku/has_anyone_in_here_ever_done_a_coldturkey_strict/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783818242,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1utxzf7",
+      "title": "How much should I contribute to my 403(b)?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1utxzf7/how_much_should_i_contribute_to_my_403b/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783809837,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1utxpgy",
+      "title": "[Tips] Neurodivergent person in a difficult family and economic situation: prioritizing work, independence or university preparation?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1utxpgy/tips_neurodivergent_person_in_a_difficult_family/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783809097,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1utxot1",
+      "title": "21 year old with no savings and wants to know where should I put my money?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1utxot1/21_year_old_with_no_savings_and_wants_to_know/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783809048,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1utx6g0",
+      "title": "How to accept its all downhill from here?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1utx6g0/how_to_accept_its_all_downhill_from_here/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783807722,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
       "subreddit": "dividends",
       "id": "1utvszg",
       "title": "27M started dividend this year \u2026how am I doing?",
@@ -188,6 +353,17 @@
       "num_comments": 0,
       "created_utc": 1783804190,
       "first_seen_utc": 1783851399
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1utuonk",
+      "title": "What are some Realistic next steps???",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1utuonk/what_are_some_realistic_next_steps/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783801491,
+      "first_seen_utc": 1783872014
     },
     {
       "source": "reddit",
@@ -290,6 +466,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1ut7uk0",
+      "title": "What to do with $10k?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1ut7uk0/what_to_do_with_10k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783737380,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
       "subreddit": "dividends",
       "id": "1ut7kxe",
       "title": "Has anyone thought about this?",
@@ -309,6 +496,17 @@
       "num_comments": 0,
       "created_utc": 1783733981,
       "first_seen_utc": 1783851399
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1ut5dl5",
+      "title": "Early 40\u2019s and I feel like I\u2019m behind and not prepared. $350k income, $1.5M net worth. What would do to future proof and be ok?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1ut5dl5/early_40s_and_i_feel_like_im_behind_and_not/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783730298,
+      "first_seen_utc": 1783872014
     },
     {
       "source": "reddit",
@@ -345,6 +543,39 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1ut2m24",
+      "title": "Anything I'm Missing in my Retirement Plans?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1ut2m24/anything_im_missing_in_my_retirement_plans/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783723250,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1ut2g28",
+      "title": "Should I rent this room or am I taking too much of a financial risk?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1ut2g28/should_i_rent_this_room_or_am_i_taking_too_much/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783722845,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1usvtx4",
+      "title": "Keep a 2.8% mortgage or sell for $140k in equity?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1usvtx4/keep_a_28_mortgage_or_sell_for_140k_in_equity/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783707856,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
       "subreddit": "stocks",
       "id": "1usrtxd",
       "title": "Using Margin to buy stocks thoughts?",
@@ -375,6 +606,39 @@
       "num_comments": 0,
       "created_utc": 1783681606,
       "first_seen_utc": 1783851399
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1us9y06",
+      "title": "18 years old going to college soon \u2014 is putting $10k into an S&P 500 index fund a good idea?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1us9y06/18_years_old_going_to_college_soon_is_putting_10k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783648065,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uryhls",
+      "title": "How should I invest 70,000 at 17 years old?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uryhls/how_should_i_invest_70000_at_17_years_old/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783621245,
+      "first_seen_utc": 1783872014
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1urwjtn",
+      "title": "What should I save first?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1urwjtn/what_should_i_save_first/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783617225,
+      "first_seen_utc": 1783872014
     },
     {
       "source": "reddit",
