@@ -25,7 +25,7 @@ STATE_FILE = "state.json"
 DASHBOARD_FILE = "latest_questions.json"
 MAX_ITEMS_PER_DIGEST = 15
 MAX_STATE_IDS = 2000
-MAX_DASHBOARD_ITEMS = 3000  # dashboard accumulates across runs, capped here
+MAX_DASHBOARD_ITEMS = 1000  # how many questions the live dashboard keeps (accumulates across runs)
 
 
 def load_config():
@@ -49,7 +49,15 @@ def save_state(state):
 def save_dashboard(items, generated_at):
     """Merge this run's questions into the existing dashboard file instead
     of overwriting it, so the dashboard accumulates history across runs.
-    Deduped by (source, id); capped at MAX_DASHBOARD_ITEMS, oldest first out."""
+
+    Each question carries two separate timestamps:
+    - created_utc: when it was originally posted on Reddit/Quora/etc.
+    - first_seen_utc: when THIS bot first discovered it (set once, never
+      overwritten on later runs). This lets the dashboard answer "what's
+      new since I last checked" separately from "what's recently posted",
+      since a years-old question can still be newly discovered.
+
+    Capped at MAX_DASHBOARD_ITEMS (oldest by created_utc drop off first)."""
     existing_by_key = {}
 
     if os.path.exists(DASHBOARD_FILE):
@@ -62,8 +70,15 @@ def save_dashboard(items, generated_at):
         except Exception as e:
             print(f"[main] Could not read existing dashboard file, starting fresh: {e}")
 
+    now_unix = int(datetime.now(timezone.utc).timestamp())
+
     for item in items:
         key = f"{item.get('source')}:{item.get('id')}"
+        if key in existing_by_key:
+            first_seen = existing_by_key[key].get("first_seen_utc", now_unix)
+            item = {**item, "first_seen_utc": first_seen}
+        else:
+            item = {**item, "first_seen_utc": now_unix}
         existing_by_key[key] = item
 
     merged = list(existing_by_key.values())
