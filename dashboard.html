@@ -97,7 +97,7 @@
   .chip.active { border-color: var(--amber); color: var(--amber); }
 
   .right-controls { display: flex; align-items: center; gap: 10px; }
-  select#sort {
+  select#sort, select#date-filter {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 12px;
     background: var(--panel);
@@ -106,6 +106,28 @@
     border-radius: 6px;
     padding: 6px 10px;
   }
+  input#date-picker {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    background: var(--panel);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 8px;
+    color-scheme: dark;
+  }
+  button#date-clear {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+    background: transparent;
+    color: var(--text-dim);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 9px;
+    cursor: pointer;
+    line-height: 1;
+  }
+  button#date-clear:hover { color: var(--text); border-color: var(--text-faint); }
   button#refresh {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 12px;
@@ -162,6 +184,7 @@
   .tag.reddit { background: rgba(217,164,65,0.12); color: var(--amber); }
   .tag.stocktwits { background: rgba(79,168,160,0.12); color: var(--teal); }
   .tag.quora { background: rgba(216,115,90,0.12); color: var(--coral); }
+  .tag.stackexchange { background: rgba(148,163,184,0.14); color: #94a3b8; }
 
   .signal {
     display: flex;
@@ -221,8 +244,18 @@
       <button class="chip" data-source="reddit">reddit</button>
       <button class="chip" data-source="stocktwits">stocktwits</button>
       <button class="chip" data-source="quora">quora</button>
+      <button class="chip" data-source="stackexchange">stack exchange</button>
     </div>
     <div class="right-controls">
+      <select id="date-filter">
+        <option value="all">any time</option>
+        <option value="1">today</option>
+        <option value="3">last 3 days</option>
+        <option value="7">last 7 days</option>
+        <option value="30">last 30 days</option>
+      </select>
+      <input type="date" id="date-picker" title="jump to a specific date">
+      <button id="date-clear" title="clear date" style="display:none;">&times;</button>
       <select id="sort">
         <option value="opportunity">sort: opportunity</option>
         <option value="newest">sort: newest</option>
@@ -249,6 +282,9 @@
   const pulseEl = document.getElementById("pulse");
   const refreshBtn = document.getElementById("refresh");
   const sortSelect = document.getElementById("sort");
+  const dateSelect = document.getElementById("date-filter");
+  const datePicker = document.getElementById("date-picker");
+  const dateClearBtn = document.getElementById("date-clear");
   const chipButtons = document.querySelectorAll(".chip");
 
   function timeAgo(unixSeconds) {
@@ -281,11 +317,32 @@
     if (item.source === "reddit") return `r/${item.subreddit || "?"}`;
     if (item.source === "stocktwits") return `$${item.symbol || "?"}`;
     if (item.source === "quora") return "quora";
+    if (item.source === "stackexchange") return item.site || "stackexchange";
     return item.source || "unknown";
   }
 
   function render() {
     let items = allQuestions.filter(q => activeSource === "all" || q.source === activeSource);
+
+    if (datePicker.value) {
+      // Exact date selected -- overrides the quick-range dropdown.
+      // Compare in the browser's local timezone so "today" matches what
+      // the person actually sees on their clock.
+      items = items.filter(q => {
+        if (!q.created_utc) return false;
+        const d = new Date(q.created_utc * 1000);
+        const localIso = d.getFullYear() + "-" +
+          String(d.getMonth() + 1).padStart(2, "0") + "-" +
+          String(d.getDate()).padStart(2, "0");
+        return localIso === datePicker.value;
+      });
+    } else {
+      const dateRange = dateSelect.value;
+      if (dateRange !== "all") {
+        const cutoff = (Date.now() / 1000) - (parseInt(dateRange, 10) * 86400);
+        items = items.filter(q => (q.created_utc || 0) >= cutoff);
+      }
+    }
 
     if (sortSelect.value === "newest") {
       items = [...items].sort((a, b) => (b.created_utc || 0) - (a.created_utc || 0));
@@ -376,6 +433,23 @@
   });
 
   sortSelect.addEventListener("change", render);
+  dateSelect.addEventListener("change", render);
+
+  datePicker.addEventListener("change", () => {
+    if (datePicker.value) {
+      dateSelect.value = "all";
+      dateSelect.disabled = true;
+      dateClearBtn.style.display = "inline-block";
+    }
+    render();
+  });
+
+  dateClearBtn.addEventListener("click", () => {
+    datePicker.value = "";
+    dateSelect.disabled = false;
+    dateClearBtn.style.display = "none";
+    render();
+  });
   refreshBtn.addEventListener("click", loadData);
 
   loadData();
