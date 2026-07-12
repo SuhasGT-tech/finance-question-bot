@@ -16,6 +16,7 @@ from datetime import datetime, timezone
 import yaml
 
 from reddit_fetcher import fetch_reddit_questions
+from reddit_rss_fetcher import fetch_reddit_rss_questions
 from stocktwits_fetcher import fetch_stocktwits_questions
 from quora_search import fetch_quora_questions
 from stackexchange_fetcher import fetch_stackexchange_questions
@@ -104,6 +105,7 @@ def main():
     all_items += fetch_stocktwits_questions(config)
     all_items += fetch_quora_questions(config)
     all_items += fetch_stackexchange_questions(config)
+    all_items += fetch_reddit_rss_questions(config)
 
     new_items = [item for item in all_items if item["id"] not in sent_ids]
     new_items.sort(key=lambda x: (x.get("score", 0) - x.get("num_comments", 0)), reverse=True)
