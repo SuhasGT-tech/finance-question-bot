@@ -88,3 +88,7 @@ stackexchange:
   site: money
   pagesize: 25
   tags: [budgeting, taxes, investing, retirement, credit, mortgage, debt]   # optional: e.g. [investing, taxes, retirement] to narrow results
+
+reddit_rss:
+  enabled: true
+  limit: 25
