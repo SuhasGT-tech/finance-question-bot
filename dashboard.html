@@ -424,6 +424,12 @@
   }
 
   async function loadData() {
+    // Don't let the person pick a future date -- nothing can exist there yet.
+    const today = new Date();
+    datePicker.max = today.getFullYear() + "-" +
+      String(today.getMonth() + 1).padStart(2, "0") + "-" +
+      String(today.getDate()).padStart(2, "0");
+
     refreshBtn.disabled = true;
     refreshBtn.textContent = "loading\u2026";
     statusEl.textContent = "checking for updates\u2026";
