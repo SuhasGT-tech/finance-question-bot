@@ -25,7 +25,7 @@ STATE_FILE = "state.json"
 DASHBOARD_FILE = "latest_questions.json"
 MAX_ITEMS_PER_DIGEST = 15
 MAX_STATE_IDS = 2000
-MAX_DASHBOARD_ITEMS = 1000  # how many questions the live dashboard keeps (accumulates across runs)
+MAX_DASHBOARD_ITEMS = 5000  # how many questions the live dashboard keeps (accumulates across runs)
 
 
 def load_config():
