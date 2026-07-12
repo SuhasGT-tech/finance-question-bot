@@ -181,6 +181,36 @@
     font-size: 11px;
     letter-spacing: 0.02em;
   }
+  .mode-toggle {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .mode-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    background: transparent;
+    color: var(--text-faint);
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    border-right: 1px solid var(--border);
+  }
+  .mode-btn:last-child { border-right: none; }
+  .mode-btn:hover { color: var(--text-dim); }
+  .mode-btn.active { background: rgba(217,164,65,0.14); color: var(--amber); }
+
+  .mode-explainer {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-faint);
+    margin: -12px 0 20px;
+  }
+  .mode-explainer strong { color: var(--text-dim); font-weight: 500; }
+
+  .entry-meta .timestamps { display: flex; gap: 10px; }
+
   .tag.reddit { background: rgba(217,164,65,0.12); color: var(--amber); }
   .tag.stocktwits { background: rgba(79,168,160,0.12); color: var(--teal); }
   .tag.quora { background: rgba(216,115,90,0.12); color: var(--coral); }
@@ -247,6 +277,10 @@
       <button class="chip" data-source="stackexchange">stack exchange</button>
     </div>
     <div class="right-controls">
+      <div class="mode-toggle" id="mode-toggle" title="Choose whether the date filter looks at when the question was originally posted, or when this bot first found it">
+        <button class="mode-btn active" data-mode="created">posted date</button>
+        <button class="mode-btn" data-mode="first_seen">added to dashboard</button>
+      </div>
       <select id="date-filter">
         <option value="all">any time</option>
         <option value="1">today</option>
@@ -264,6 +298,10 @@
     </div>
   </div>
 
+  <div class="mode-explainer" id="mode-explainer">
+    filtering by <strong>when the question was posted</strong> on its original site (Reddit, Quora, etc.)
+  </div>
+
   <div class="feed" id="feed"></div>
 
 </div>
@@ -275,6 +313,7 @@
 
   let allQuestions = [];
   let activeSource = "all";
+  let dateMode = "created"; // "created" = posted date, "first_seen" = added to dashboard
   let generatedAt = null;
 
   const feedEl = document.getElementById("feed");
@@ -286,6 +325,8 @@
   const datePicker = document.getElementById("date-picker");
   const dateClearBtn = document.getElementById("date-clear");
   const chipButtons = document.querySelectorAll(".chip");
+  const modeButtons = document.querySelectorAll(".mode-btn");
+  const modeExplainer = document.getElementById("mode-explainer");
 
   function timeAgo(unixSeconds) {
     if (!unixSeconds) return "";
@@ -324,13 +365,16 @@
   function render() {
     let items = allQuestions.filter(q => activeSource === "all" || q.source === activeSource);
 
+    const dateField = dateMode === "first_seen" ? "first_seen_utc" : "created_utc";
+
     if (datePicker.value) {
       // Exact date selected -- overrides the quick-range dropdown.
       // Compare in the browser's local timezone so "today" matches what
       // the person actually sees on their clock.
       items = items.filter(q => {
-        if (!q.created_utc) return false;
-        const d = new Date(q.created_utc * 1000);
+        const ts = q[dateField];
+        if (!ts) return false;
+        const d = new Date(ts * 1000);
         const localIso = d.getFullYear() + "-" +
           String(d.getMonth() + 1).padStart(2, "0") + "-" +
           String(d.getDate()).padStart(2, "0");
@@ -340,7 +384,7 @@
       const dateRange = dateSelect.value;
       if (dateRange !== "all") {
         const cutoff = (Date.now() / 1000) - (parseInt(dateRange, 10) * 86400);
-        items = items.filter(q => (q.created_utc || 0) >= cutoff);
+        items = items.filter(q => (q[dateField] || 0) >= cutoff);
       }
     }
 
@@ -364,7 +408,8 @@
             <span class="tag ${item.source}">${sourceLabel(item)}</span>
             <span>score ${item.score ?? 0}</span>
             <span>${item.num_comments ?? 0} replies</span>
-            <span>${timeAgo(item.created_utc)}</span>
+            <span>posted ${timeAgo(item.created_utc)}</span>
+            <span>&middot; added ${timeAgo(item.first_seen_utc)}</span>
           </span>
         </span>
         ${signalBars(item)}
@@ -428,6 +473,18 @@
       chipButtons.forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       activeSource = btn.dataset.source;
+      render();
+    });
+  });
+
+  modeButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      modeButtons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      dateMode = btn.dataset.mode;
+      modeExplainer.innerHTML = dateMode === "first_seen"
+        ? 'filtering by <strong>when this bot first found the question</strong> (could be an old post, newly discovered)'
+        : 'filtering by <strong>when the question was posted</strong> on its original site (Reddit, Quora, etc.)';
       render();
     });
   });
