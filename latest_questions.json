@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-13T21:56:47.296548+00:00",
-  "count": 291,
+  "generated_at": "2026-07-14T02:11:37.945521+00:00",
+  "count": 310,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvv10u",
+      "title": "By EOY I have a spare $1,650 every month, what do I do with it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvv10u/by_eoy_i_have_a_spare_1650_every_month_what_do_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783993673,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvuhms",
+      "title": "Pay off debt or rate buydown?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvuhms/pay_off_debt_or_rate_buydown/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783992188,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvu9nx",
+      "title": "Is there any reason to not have all my money in robinhood?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvu9nx/is_there_any_reason_to_not_have_all_my_money_in/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783991573,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvtr8c",
+      "title": "Best app to pay off debt?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvtr8c/best_app_to_pay_off_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783990211,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvtni5",
+      "title": "Should we pay off a HELOC to secure a new loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvtni5/should_we_pay_off_a_heloc_to_secure_a_new_loan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783989938,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvtgib",
+      "title": "Inherited Roth & 401K - Where to go from here?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvtgib/inherited_roth_401k_where_to_go_from_here/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783989409,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uvszw1",
+      "title": "My EIN says I have to file Form 1065, but I've never had a business partner. What do I do?",
+      "url": "https://www.reddit.com/r/tax/comments/1uvszw1/my_ein_says_i_have_to_file_form_1065_but_ive/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783988205,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uvsx4k",
+      "title": "My EIN says I have to file Form 1065, but I've never had a business partner. What do I do?",
+      "url": "https://www.reddit.com/r/tax/comments/1uvsx4k/my_ein_says_i_have_to_file_form_1065_but_ive/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783987998,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvsa2u",
+      "title": "Non-BS financial advice for a teenager?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvsa2u/nonbs_financial_advice_for_a_teenager/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783986354,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvrqrj",
+      "title": "How to handle an unused 529 account?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvrqrj/how_to_handle_an_unused_529_account/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783984968,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvrepd",
+      "title": "Can I afford to work part-time?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvrepd/can_i_afford_to_work_parttime/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783984119,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvqqla",
+      "title": "I\u2019m 20 years old from Turkey. This is my investment portfolio. What would you change?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvqqla/im_20_years_old_from_turkey_this_is_my_investment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783982457,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvqcfz",
+      "title": "How doomed am I with this debt?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvqcfz/how_doomed_am_i_with_this_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783981504,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uvpviz",
+      "title": "1100-1400 rent, am I making enough?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uvpviz/11001400_rent_am_i_making_enough/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783980384,
+      "first_seen_utc": 1783995097
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -356,6 +510,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uve947",
+      "title": "Oregon method for income tax on 3 month travel nurse non resident?",
+      "url": "https://www.reddit.com/r/tax/comments/1uve947/oregon_method_for_income_tax_on_3_month_travel/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783955343,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
       "subreddit": "CryptoCurrency",
       "id": "1uve6lf",
       "title": "Why aren't big companies accepting stablecoins in 2026?",
@@ -364,6 +529,17 @@
       "num_comments": 0,
       "created_utc": 1783955188,
       "first_seen_utc": 1783962885
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uvdv8b",
+      "title": "Becoming temporary landlord worth it?",
+      "url": "https://www.reddit.com/r/tax/comments/1uvdv8b/becoming_temporary_landlord_worth_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783954517,
+      "first_seen_utc": 1783995097
     },
     {
       "source": "reddit",
@@ -917,6 +1093,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uutp40",
+      "title": "HELP: Past due taxes for online Sportsbook winnings - how do I file?",
+      "url": "https://www.reddit.com/r/tax/comments/1uutp40/help_past_due_taxes_for_online_sportsbook/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783895651,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
       "subreddit": "dividends",
       "id": "1uut9s8",
       "title": "How would you invest an extra $8,000?",
@@ -1258,6 +1445,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uumbz6",
+      "title": "Genuinely question about paying taxes when living the digital nomad lifestyle??",
+      "url": "https://www.reddit.com/r/tax/comments/1uumbz6/genuinely_question_about_paying_taxes_when_living/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783878565,
+      "first_seen_utc": 1783995097
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1uulxnk",
       "title": "What do you do when you keep getting collections from different collection agencies on behalf of a company you never did business with and have no accounts with?",
@@ -1332,6 +1530,17 @@
       "num_comments": 0,
       "created_utc": 1783876724,
       "first_seen_utc": 1783892955
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uukzyu",
+      "title": "19M in Toronto/GTA studying Accounting & Finance. What advice would you give someone early who wants to become a CPA and eventually start their own practice?",
+      "url": "https://www.reddit.com/r/tax/comments/1uukzyu/19m_in_torontogta_studying_accounting_finance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1783875656,
+      "first_seen_utc": 1783995097
     },
     {
       "source": "reddit",
