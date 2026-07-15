@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-15T10:49:36.713634+00:00",
-  "count": 428,
+  "generated_at": "2026-07-15T13:33:39.360382+00:00",
+  "count": 432,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1ux4vab",
+      "title": "Am I correct about the negligible impact of decreasing my 401(k) contributions at this point?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1ux4vab/am_i_correct_about_the_negligible_impact_of/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784119585,
+      "first_seen_utc": 1784122419
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1ux4kub",
+      "title": "What's One Investing Lesson That Cost You Money?",
+      "url": "https://www.reddit.com/r/dividends/comments/1ux4kub/whats_one_investing_lesson_that_cost_you_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784118816,
+      "first_seen_utc": 1784122419
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1ux4ew8",
+      "title": "Can I afford a summer house?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1ux4ew8/can_i_afford_a_summer_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784118382,
+      "first_seen_utc": 1784122419
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1ux49b2",
+      "title": "Help me with math regarding where my money should go?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1ux49b2/help_me_with_math_regarding_where_my_money_should/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784117965,
+      "first_seen_utc": 1784122419
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -3572,7 +3616,7 @@
       "id": "169790",
       "title": "Refund for paying taxes on Social Security in foreign country",
       "url": "https://money.stackexchange.com/questions/169790/refund-for-paying-taxes-on-social-security-in-foreign-country",
-      "score": 2,
+      "score": 3,
       "num_comments": 2,
       "created_utc": 1783591210,
       "first_seen_utc": 1783851399
