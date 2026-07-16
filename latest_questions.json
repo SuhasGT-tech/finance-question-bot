@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-16T05:40:50.190218+00:00",
-  "count": 503,
+  "generated_at": "2026-07-16T08:10:46.603890+00:00",
+  "count": 505,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uxv44d",
+      "title": "tips on how to master financial literacy?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uxv44d/tips_on_how_to_master_financial_literacy/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784184438,
+      "first_seen_utc": 1784189446
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uxuw4p",
+      "title": "Would it be best to sell my car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uxuw4p/would_it_be_best_to_sell_my_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784183679,
+      "first_seen_utc": 1784189446
+    },
     {
       "source": "reddit",
       "subreddit": "CryptoCurrency",
