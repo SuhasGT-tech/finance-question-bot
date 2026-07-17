@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-17T16:17:14.021782+00:00",
-  "count": 637,
+  "generated_at": "2026-07-17T19:06:38.578383+00:00",
+  "count": 652,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1uz8kwe",
+      "title": "Is it technically time for the DUOL bird to fly again?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1uz8kwe/is_it_technically_time_for_the_duol_bird_to_fly/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784314222,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz86aa",
+      "title": "Which loan is best for me?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz86aa/which_loan_is_best_for_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784313332,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz7yfk",
+      "title": "Urge to switch HYSA account from the Citizens Access - any rec?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz7yfk/urge_to_switch_hysa_account_from_the_citizens/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784312870,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz780k",
+      "title": "Vanguard PAS Service after 1 Year - Necessary?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz780k/vanguard_pas_service_after_1_year_necessary/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784311305,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz6myj",
+      "title": "26, new to investing, about to max out my Roth IRA\u2014keep buying the S&P 500 or diversify?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz6myj/26_new_to_investing_about_to_max_out_my_roth/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784310065,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uz5oc1",
+      "title": "How to import from japan in India",
+      "url": "https://www.reddit.com/r/tax/comments/1uz5oc1/how_to_import_from_japan_in_india/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784308008,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz4vce",
+      "title": "Should I buy a house now or prioritize immigrating?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz4vce/should_i_buy_a_house_now_or_prioritize_immigrating/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784306269,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uz4eyi",
+      "title": "Who needs a financial advisor ?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uz4eyi/who_needs_a_financial_advisor/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784305276,
+      "first_seen_utc": 1784315198
+    },
     {
       "source": "reddit",
       "subreddit": "stocks",
@@ -37,6 +125,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uz345m",
+      "title": "Is a $5k per year dividend goal useful or distracting?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uz345m/is_a_5k_per_year_dividend_goal_useful_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784302417,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1uz2u6b",
       "title": "Should I pay or not",
@@ -59,6 +158,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uz1wcb",
+      "title": "How do I choose suitable stocks in the stock market now? I always lose money because I choose the wrong stocks.",
+      "url": "https://www.reddit.com/r/dividends/comments/1uz1wcb/how_do_i_choose_suitable_stocks_in_the_stock/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784299745,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1uz137f",
+      "title": "Is Nvidia still worth watching or already too expensive?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1uz137f/is_nvidia_still_worth_watching_or_already_too/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784297908,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
       "subreddit": "stocks",
       "id": "1uz0un1",
       "title": "Are there stocks with 6%+ dividends that still keep pace on IRR overall with equity ETFs (12%+)?",
@@ -67,6 +188,17 @@
       "num_comments": 0,
       "created_utc": 1784297404,
       "first_seen_utc": 1784305034
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1uz0pdd",
+      "title": "The Most Brutal High Beta Momentum Sell-Off Ever Recorded?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1uz0pdd/the_most_brutal_high_beta_momentum_selloff_ever/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784297063,
+      "first_seen_utc": 1784315198
     },
     {
       "source": "reddit",
@@ -345,6 +477,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uyouin",
+      "title": "Is the Colorado department of revenue just completely incompetent?",
+      "url": "https://www.reddit.com/r/tax/comments/1uyouin/is_the_colorado_department_of_revenue_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784260678,
+      "first_seen_utc": 1784315198
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1uyorvm",
       "title": "Got my Paycheck, how to save??",
@@ -364,6 +507,17 @@
       "num_comments": 0,
       "created_utc": 1784259338,
       "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uyo7c1",
+      "title": "Do I have to report Plasma Donation money on my taxes?",
+      "url": "https://www.reddit.com/r/tax/comments/1uyo7c1/do_i_have_to_report_plasma_donation_money_on_my/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784258782,
+      "first_seen_utc": 1784315198
     },
     {
       "source": "reddit",
@@ -1255,6 +1409,17 @@
       "num_comments": 0,
       "created_utc": 1784188452,
       "first_seen_utc": 1784218811
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1uxvyjw",
+      "title": "PayPal\u2019s $60.50 Stripe-Advent Offer: Is the $53 Billion Bid Too Low?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1uxvyjw/paypals_6050_stripeadvent_offer_is_the_53_billion/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784187360,
+      "first_seen_utc": 1784315198
     },
     {
       "source": "reddit",
