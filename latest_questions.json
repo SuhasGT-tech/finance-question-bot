@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-17T02:25:11.105257+00:00",
-  "count": 594,
+  "generated_at": "2026-07-17T05:43:03.515016+00:00",
+  "count": 606,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1uyqim6",
+      "title": "Is this an investment scam?",
+      "url": "https://www.reddit.com/r/investing/comments/1uyqim6/is_this_an_investment_scam/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784265844,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyq76i",
+      "title": "ELI5 - Explain \"timing the market\" with fiscal examples/tax implications",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyq76i/eli5_explain_timing_the_market_with_fiscal/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784264823,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uypjbu",
+      "title": "New job, six figure salary, what should I do with the money?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uypjbu/new_job_six_figure_salary_what_should_i_do_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784262756,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyp8up",
+      "title": "Is it better for a down payment?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyp8up/is_it_better_for_a_down_payment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784261852,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyozmq",
+      "title": "Is it worth a 401k rollover to anew plan if the expense ratio is worse?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyozmq/is_it_worth_a_401k_rollover_to_anew_plan_if_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784261076,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyovyn",
+      "title": "How often is tuition reimbursement used?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyovyn/how_often_is_tuition_reimbursement_used/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784260799,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uyorvm",
+      "title": "Got my Paycheck, how to save??",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uyorvm/got_my_paycheck_how_to_save/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784260463,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyoeck",
+      "title": "Is it reasonable to pull back on retirement contributions for a few years after having our first child?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyoeck/is_it_reasonable_to_pull_back_on_retirement/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784259338,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyo4ot",
+      "title": "Is it worth using cloud based personal financial app?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyo4ot/is_it_worth_using_cloud_based_personal_financial/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784258569,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uynqjr",
+      "title": "35 years old. Should I pay off my 7.44% car loan or keep investing?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uynqjr/35_years_old_should_i_pay_off_my_744_car_loan_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784257464,
+      "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1uymy8f",
+      "title": "If I put 5,000 or 10,000 into some Vanguard, just set it and forget it for 10+ years, is it possible I lose all my money?",
+      "url": "https://www.reddit.com/r/investing/comments/1uymy8f/if_i_put_5000_or_10000_into_some_vanguard_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784255249,
+      "first_seen_utc": 1784266983
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -23,6 +144,17 @@
       "num_comments": 0,
       "created_utc": 1784251317,
       "first_seen_utc": 1784255111
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uykbpi",
+      "title": "Am I crazy for wanting to move from North Orange County, CA to Bismarck, ND as a 23 year old man seeking a simple life and a LCOL?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uykbpi/am_i_crazy_for_wanting_to_move_from_north_orange/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784248027,
+      "first_seen_utc": 1784266983
     },
     {
       "source": "reddit",
