@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-17T10:47:03.958770+00:00",
-  "count": 614,
+  "generated_at": "2026-07-17T13:23:48.492238+00:00",
+  "count": 628,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uyzb9z",
+      "title": "Today's U.S. Stock Market: Is the AI Rally Just Getting Started?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uyzb9z/todays_us_stock_market_is_the_ai_rally_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784293849,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyy565",
+      "title": "is reducing my hours for a better work/life balance a good idea?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyy565/is_reducing_my_hours_for_a_better_worklife/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784290862,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uyxugs",
+      "title": "Is my portfolio good?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uyxugs/is_my_portfolio_good/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784290073,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uyx7pn",
+      "title": "Would you move for this job?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uyx7pn/would_you_move_for_this_job/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784288312,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uywxnu",
+      "title": "Is 'O' ordinary income vs return of capital?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uywxnu/is_o_ordinary_income_vs_return_of_capital/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784287489,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uywh4w",
+      "title": "Is xchangic.global legit?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uywh4w/is_xchangicglobal_legit/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784286131,
+      "first_seen_utc": 1784294628
+    },
     {
       "source": "reddit",
       "subreddit": "investing",
@@ -92,6 +158,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uyrahf",
+      "title": "Opinions on my portfolio?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uyrahf/opinions_on_my_portfolio/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784268395,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
       "subreddit": "investing",
       "id": "1uyqim6",
       "title": "Is this an investment scam?",
@@ -111,6 +188,17 @@
       "num_comments": 0,
       "created_utc": 1784264823,
       "first_seen_utc": 1784266983
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uyq1e9",
+      "title": "Netflix Q2: A buying opportunity after the dip?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uyq1e9/netflix_q2_a_buying_opportunity_after_the_dip/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784264335,
+      "first_seen_utc": 1784294628
     },
     {
       "source": "reddit",
@@ -213,6 +301,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uymsdp",
+      "title": "Should we be futire proofing against a tech crash?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uymsdp/should_we_be_futire_proofing_against_a_tech_crash/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784254790,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1uymmnt",
       "title": "Extra $6k towards 401k over a few months or all into brokerage account now?",
@@ -221,6 +320,28 @@
       "num_comments": 0,
       "created_utc": 1784254341,
       "first_seen_utc": 1784255111
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uylyt6",
+      "title": "Trump made $1.4bn from crypto in one year. Is Justin Sun the man who helped him do it?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uylyt6/trump_made_14bn_from_crypto_in_one_year_is_justin/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784252509,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uylr4g",
+      "title": "How much do you think AI is effecting stock markets?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uylr4g/how_much_do_you_think_ai_is_effecting_stock/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784251919,
+      "first_seen_utc": 1784294628
     },
     {
       "source": "reddit",
@@ -323,6 +444,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uyi2sc",
+      "title": "Which physically backed gold fund would you choose: BAR, PHYS, IAU, or GLD?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uyi2sc/which_physically_backed_gold_fund_would_you/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784242266,
+      "first_seen_utc": 1784294628
+    },
+    {
+      "source": "reddit",
       "subreddit": "tax",
       "id": "1uyi0ew",
       "title": "Will my fed and state refund affect my SSI benefits?",
@@ -364,6 +496,17 @@
       "num_comments": 0,
       "created_utc": 1784239952,
       "first_seen_utc": 1784255111
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uyh2ox",
+      "title": "How to find stocks that go up instead of down?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uyh2ox/how_to_find_stocks_that_go_up_instead_of_down/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784239789,
+      "first_seen_utc": 1784294628
     },
     {
       "source": "reddit",
@@ -518,6 +661,17 @@
       "num_comments": 0,
       "created_utc": 1784230333,
       "first_seen_utc": 1784255111
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uyckjl",
+      "title": "Invest in $Realty income or $VOO?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uyckjl/invest_in_realty_income_or_voo/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784229740,
+      "first_seen_utc": 1784294628
     },
     {
       "source": "reddit",
