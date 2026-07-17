@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-17T19:06:38.578383+00:00",
-  "count": 652,
+  "generated_at": "2026-07-17T21:53:48.760623+00:00",
+  "count": 664,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzd9jw",
+      "title": "I hit 17 a month ago barely and from june 22th i been working and i am about to get my paycheck in few days what should i do with it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd9jw/i_hit_17_a_month_ago_barely_and_from_june_22th_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784324892,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzd61w",
+      "title": "Saving and investing for a goal with a highly ambiguous timeline?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd61w/saving_and_investing_for_a_goal_with_a_highly/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784324650,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzd61r",
+      "title": "I save each year to fund my Roth IRA on the first day of the new year - Is it best to put it into the market?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd61r/i_save_each_year_to_fund_my_roth_ira_on_the_first/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784324649,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzd2qb",
+      "title": "Good habits but bad planning?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd2qb/good_habits_but_bad_planning/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784324417,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzcyz3",
+      "title": "Launchlab HQ - anyone tried it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzcyz3/launchlab_hq_anyone_tried_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784324156,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzcu4s",
+      "title": "HYSA recommendation?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzcu4s/hysa_recommendation/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784323838,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzb69g",
+      "title": "Is my income enough to move out?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzb69g/is_my_income_enough_to_move_out/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784319986,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uza8tx",
+      "title": "Could someone explain to me the actual effect on the economy, or anything, of sudden swings in the stock market, like where it goes down a bunch one day but then rebounds the next?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uza8tx/could_someone_explain_to_me_the_actual_effect_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784317894,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uza6pu",
+      "title": "SPCX wasn\u2019t just a failure of financial wisdom. It was a moral failure too. What can we learn from this?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uza6pu/spcx_wasnt_just_a_failure_of_financial_wisdom_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784317760,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uza2ki",
+      "title": "Is owning a car within the question for me?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uza2ki/is_owning_a_car_within_the_question_for_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784317504,
+      "first_seen_utc": 1784325228
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uz8x14",
+      "title": "Should I sell or hold my Netflix shares?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uz8x14/should_i_sell_or_hold_my_netflix_shares/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784314968,
+      "first_seen_utc": 1784325228
+    },
     {
       "source": "reddit",
       "subreddit": "StockMarket",
@@ -144,6 +265,17 @@
       "num_comments": 0,
       "created_utc": 1784301815,
       "first_seen_utc": 1784305034
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uz2smg",
+      "title": "When was the last time NEWS made you buy/sell ?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uz2smg/when_was_the_last_time_news_made_you_buysell/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784301714,
+      "first_seen_utc": 1784325228
     },
     {
       "source": "reddit",
