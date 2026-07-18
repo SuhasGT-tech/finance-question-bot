@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-18T10:21:13.175988+00:00",
-  "count": 708,
+  "generated_at": "2026-07-18T13:11:06.815522+00:00",
+  "count": 710,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uzt95s",
+      "title": "UK - How do you ask for a payrise when you are struggling?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzt95s/uk_how_do_you_ask_for_a_payrise_when_you_are/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784373598,
+      "first_seen_utc": 1784380266
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -56,6 +67,17 @@
       "num_comments": 0,
       "created_utc": 1784358535,
       "first_seen_utc": 1784360886
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1uzmszy",
+      "title": "Who are the 99% ?",
+      "url": "https://www.reddit.com/r/options/comments/1uzmszy/who_are_the_99/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784351567,
+      "first_seen_utc": 1784380266
     },
     {
       "source": "reddit",
