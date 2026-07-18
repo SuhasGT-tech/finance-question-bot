@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-18T19:03:10.995164+00:00",
-  "count": 738,
+  "generated_at": "2026-07-18T21:51:12.274710+00:00",
+  "count": 747,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0845w",
+      "title": "How to Figure The Best Credit Unions Near Me",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0845w/how_to_figure_the_best_credit_unions_near_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784410631,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v082o4",
+      "title": "Casual House Shopping. Pay off current mortgage or keep for downpayment?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v082o4/casual_house_shopping_pay_off_current_mortgage_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784410524,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v07q5t",
+      "title": "Low-income incoming college student. How beneficial would a Roth IRA and high interest savings account be for me?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v07q5t/lowincome_incoming_college_student_how_beneficial/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784409638,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v073sw",
+      "title": "Vehicle's transmission failing. Stay in it, or get what I can for it and roll into a lease?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v073sw/vehicles_transmission_failing_stay_in_it_or_get/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784408053,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v066qc",
+      "title": "I have low expenses and am opening an account specifically to save up for surgery/medical expenses. What should I choose?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v066qc/i_have_low_expenses_and_am_opening_an_account/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784405788,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v05lu6",
+      "title": "How to build emergency fund for easy access?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v05lu6/how_to_build_emergency_fund_for_easy_access/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784404415,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v057ln",
+      "title": "Advice, Sell house? Rent?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v057ln/advice_sell_house_rent/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784403459,
+      "first_seen_utc": 1784411472
+    },
     {
       "source": "reddit",
       "subreddit": "tax",
@@ -89,6 +166,28 @@
       "num_comments": 0,
       "created_utc": 1784393464,
       "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v00x01",
+      "title": "What are my chances of repossession this weekend?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v00x01/what_are_my_chances_of_repossession_this_weekend/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784393412,
+      "first_seen_utc": 1784411472
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uzzl71",
+      "title": "Financial advice/resources for medical issues?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzzl71/financial_adviceresources_for_medical_issues/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784390272,
+      "first_seen_utc": 1784411472
     },
     {
       "source": "reddit",
@@ -248,8 +347,8 @@
       "source": "stackexchange",
       "site": "money",
       "id": "169822",
-      "title": "I&#39;m confused about using the credit card without paying an interest",
-      "url": "https://money.stackexchange.com/questions/169822/im-confused-about-using-the-credit-card-without-paying-an-interest",
+      "title": "How di I use a credit card without paying an interest?",
+      "url": "https://money.stackexchange.com/questions/169822/how-di-i-use-a-credit-card-without-paying-an-interest",
       "score": 1,
       "num_comments": 2,
       "created_utc": 1784380905,
