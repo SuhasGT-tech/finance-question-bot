@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-07-18T15:58:10.041273+00:00",
-  "count": 723,
+  "generated_at": "2026-07-18T19:03:10.995164+00:00",
+  "count": 738,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v03o2s",
+      "title": "Is there any better example of the useless bureaucracy of our tax system than the Backdoor Roth?",
+      "url": "https://www.reddit.com/r/tax/comments/1v03o2s/is_there_any_better_example_of_the_useless/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784399807,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v03jet",
+      "title": "Is there an app or service that audits my bills (electric, water, utilities etc) and makes sure I'm getting the best rates and prices?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v03jet/is_there_an_app_or_service_that_audits_my_bills/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784399500,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v035si",
+      "title": "What should I do with my money?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v035si/what_should_i_do_with_my_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784398628,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v033w4",
+      "title": "How to maximize investing with quality of life changes",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v033w4/how_to_maximize_investing_with_quality_of_life/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784398511,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1v02zto",
+      "title": "Finding spreads for 0.01 and selling at .10+?",
+      "url": "https://www.reddit.com/r/options/comments/1v02zto/finding_spreads_for_001_and_selling_at_10/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784398251,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v02wyb",
+      "title": "Dad wants to gift me a paid-off condo so I can fix and sell it instead of him. What am I potentially getting myself into?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v02wyb/dad_wants_to_gift_me_a_paidoff_condo_so_i_can_fix/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784398065,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v01iij",
+      "title": "529 plan for grandchild. Should I put it in the parents names or mine?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v01iij/529_plan_for_grandchild_should_i_put_it_in_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784394813,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v00xt7",
+      "title": "Should I invest in a 529 for my kids or put that money in a regular investment account for them?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v00xt7/should_i_invest_in_a_529_for_my_kids_or_put_that/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784393464,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzzjdg",
+      "title": "My 14 year old has a city summer job with no pay stub. Can I still create an IRA without one?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzzjdg/my_14_year_old_has_a_city_summer_job_with_no_pay/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784390151,
+      "first_seen_utc": 1784401390
+    },
     {
       "source": "reddit",
       "subreddit": "povertyfinance",
@@ -45,6 +144,17 @@
       "num_comments": 0,
       "created_utc": 1784389218,
       "first_seen_utc": 1784390290
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1uzz2p2",
+      "title": "Can we buy a $1M house?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uzz2p2/can_we_buy_a_1m_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784389029,
+      "first_seen_utc": 1784401390
     },
     {
       "source": "reddit",
@@ -124,13 +234,24 @@
       "first_seen_utc": 1784390290
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uzxj7m",
+      "title": "How to get better at navigating CCH Axcess?",
+      "url": "https://www.reddit.com/r/tax/comments/1uzxj7m/how_to_get_better_at_navigating_cch_axcess/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784385315,
+      "first_seen_utc": 1784401390
+    },
+    {
       "source": "stackexchange",
       "site": "money",
       "id": "169822",
       "title": "I&#39;m confused about using the credit card without paying an interest",
       "url": "https://money.stackexchange.com/questions/169822/im-confused-about-using-the-credit-card-without-paying-an-interest",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "created_utc": 1784380905,
       "first_seen_utc": 1784390290
     },
@@ -246,6 +367,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uzlln0",
+      "title": "Louisiana MFS Community Property Question: Should State Tax Withholding Be Split 50/50?",
+      "url": "https://www.reddit.com/r/tax/comments/1uzlln0/louisiana_mfs_community_property_question_should/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784347851,
+      "first_seen_utc": 1784401390
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1uzl4xv",
       "title": "Is there anyone here who uses monero for privacy?",
@@ -265,6 +397,17 @@
       "num_comments": 0,
       "created_utc": 1784345795,
       "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uzki26",
+      "title": "Paypal sent my 1099-K late and I already filed my taxes and put it under Other Income. Do I need to do anything?",
+      "url": "https://www.reddit.com/r/tax/comments/1uzki26/paypal_sent_my_1099k_late_and_i_already_filed_my/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784344508,
+      "first_seen_utc": 1784401390
     },
     {
       "source": "reddit",
@@ -364,6 +507,17 @@
       "num_comments": 0,
       "created_utc": 1784340490,
       "first_seen_utc": 1784340666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uzivfw",
+      "title": "Can someone talk to me about SEPPs? Why wouldn't everyone use this??",
+      "url": "https://www.reddit.com/r/tax/comments/1uzivfw/can_someone_talk_to_me_about_sepps_why_wouldnt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784339767,
+      "first_seen_utc": 1784401390
     },
     {
       "source": "reddit",
@@ -661,6 +815,17 @@
       "num_comments": 0,
       "created_utc": 1784322361,
       "first_seen_utc": 1784340666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1uzbsjj",
+      "title": "Where to report Fed overtime credit on California schedule CA?",
+      "url": "https://www.reddit.com/r/tax/comments/1uzbsjj/where_to_report_fed_overtime_credit_on_california/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784321396,
+      "first_seen_utc": 1784401390
     },
     {
       "source": "reddit",
