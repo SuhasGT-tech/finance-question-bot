@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-18T02:11:06.123931+00:00",
-  "count": 687,
+  "generated_at": "2026-07-18T05:26:47.305847+00:00",
+  "count": 699,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzls16",
+      "title": "How to optimize my retirement planning as a late starter?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzls16/how_to_optimize_my_retirement_planning_as_a_late/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784348391,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzl4xv",
+      "title": "Is there anyone here who uses monero for privacy?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzl4xv/is_there_anyone_here_who_uses_monero_for_privacy/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784346461,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uzkx9i",
+      "title": "Does anyone here use Kraken?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzkx9i/does_anyone_here_use_kraken/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784345795,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzkho5",
+      "title": "Should I DCA my inheritance?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzkho5/should_i_dca_my_inheritance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784344478,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzk7n3",
+      "title": "2400 rent on large suburban house vs 1100 rent on short term apartment to save for house?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzk7n3/2400_rent_on_large_suburban_house_vs_1100_rent_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784343652,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzk0i8",
+      "title": "Got my first job and no debt how do I start investing if I will probably leave before I'm vested?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzk0i8/got_my_first_job_and_no_debt_how_do_i_start/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784343061,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uzjp5t",
+      "title": "How can this happen?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzjp5t/how_can_this_happen/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784342149,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzj682",
+      "title": "19 and want to move out, build credit, and have a Roth IRA, any advice?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzj682/19_and_want_to_move_out_build_credit_and_have_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784340622,
+      "first_seen_utc": 1784352407
+    },
     {
       "source": "reddit",
       "subreddit": "povertyfinance",
@@ -81,6 +169,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1uzfttz",
+      "title": "Will semis and memory recover?",
+      "url": "https://www.reddit.com/r/stocks/comments/1uzfttz/will_semis_and_memory_recover/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784331338,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1uzfjs2",
       "title": "What do I need to do to move out?",
@@ -111,6 +210,17 @@
       "num_comments": 0,
       "created_utc": 1784328015,
       "first_seen_utc": 1784340666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uzehc6",
+      "title": "What happens to your crypto when you die? I built something to solve this",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzehc6/what_happens_to_your_crypto_when_you_die_i_built/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784327917,
+      "first_seen_utc": 1784352407
     },
     {
       "source": "reddit",
@@ -155,6 +265,28 @@
       "num_comments": 0,
       "created_utc": 1784325399,
       "first_seen_utc": 1784340666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1uzdfns",
+      "title": "Any Small Cap Dividend ETFs ?",
+      "url": "https://www.reddit.com/r/dividends/comments/1uzdfns/any_small_cap_dividend_etfs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784325310,
+      "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1uzdea1",
+      "title": "Anyone seen BONK tanking?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzdea1/anyone_seen_bonk_tanking/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784325216,
+      "first_seen_utc": 1784352407
     },
     {
       "source": "reddit",
