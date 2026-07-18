@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-18T05:26:47.305847+00:00",
-  "count": 699,
+  "generated_at": "2026-07-18T07:48:06.627519+00:00",
+  "count": 702,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1uzoxom",
+      "title": "Best HYSA or equivalent for NYC?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1uzoxom/best_hysa_or_equivalent_for_nyc/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784358535,
+      "first_seen_utc": 1784360886
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -12,6 +23,17 @@
       "num_comments": 0,
       "created_utc": 1784348391,
       "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uzlpfg",
+      "title": "Why does life hits hard? I need genuine help.",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzlpfg/why_does_life_hits_hard_i_need_genuine_help/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784348166,
+      "first_seen_utc": 1784360886
     },
     {
       "source": "reddit",
@@ -67,6 +89,17 @@
       "num_comments": 0,
       "created_utc": 1784343061,
       "first_seen_utc": 1784352407
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1uzjym4",
+      "title": "What\u2019s something to buy once that saves you a good amount of money in the long run?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzjym4/whats_something_to_buy_once_that_saves_you_a_good/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784342908,
+      "first_seen_utc": 1784360886
     },
     {
       "source": "reddit",
