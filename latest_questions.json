@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-19T15:58:39.799278+00:00",
-  "count": 799,
+  "generated_at": "2026-07-19T19:05:44.903110+00:00",
+  "count": 810,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0yvx2",
+      "title": "What\u2019s the best way to manage an inheritance?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0yvx2/whats_the_best_way_to_manage_an_inheritance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784487568,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0ypji",
+      "title": "A tale of 3 cars\u2026Help?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0ypji/a_tale_of_3_carshelp/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784487127,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1v0yfqc",
+      "title": "Advice for my teenager's plans?",
+      "url": "https://www.reddit.com/r/stocks/comments/1v0yfqc/advice_for_my_teenagers_plans/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784486460,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0wrz1",
+      "title": "Should I just pay off my ParentPlus loans?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0wrz1/should_i_just_pay_off_my_parentplus_loans/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784482566,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0wryq",
+      "title": "Is This Offer Worth It?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0wryq/is_this_offer_worth_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784482565,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0wenj",
+      "title": "Where to invest paycheck?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0wenj/where_to_invest_paycheck/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784481706,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0vlju",
+      "title": "First time homeowner?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0vlju/first_time_homeowner/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784479837,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0vfca",
+      "title": "Just started investing. How does this look?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0vfca/just_started_investing_how_does_this_look/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784479433,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0v7ri",
+      "title": "Hitting TSP and Roth max, what next???",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0v7ri/hitting_tsp_and_roth_max_what_next/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784478934,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0v116",
+      "title": "Can I afford a $30k car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0v116/can_i_afford_a_30k_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784478492,
+      "first_seen_utc": 1784487944
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0umcf",
+      "title": "How am I doing and what else do I need to be thinking about?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0umcf/how_am_i_doing_and_what_else_do_i_need_to_be/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784477512,
+      "first_seen_utc": 1784487944
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -875,9 +996,9 @@
       "source": "stackexchange",
       "site": "money",
       "id": "169822",
-      "title": "How di I use a credit card without paying an interest?",
-      "url": "https://money.stackexchange.com/questions/169822/how-di-i-use-a-credit-card-without-paying-an-interest",
-      "score": 2,
+      "title": "How do I use a credit card without paying an interest?",
+      "url": "https://money.stackexchange.com/questions/169822/how-do-i-use-a-credit-card-without-paying-an-interest",
+      "score": 4,
       "num_comments": 2,
       "created_utc": 1784380905,
       "first_seen_utc": 1784390290
