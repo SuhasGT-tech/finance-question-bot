@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-19T02:27:10.874847+00:00",
-  "count": 756,
+  "generated_at": "2026-07-19T05:53:02.975255+00:00",
+  "count": 764,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0i3on",
+      "title": "I am getting GA funding to cover cost of living but need a car. How do I (finance?) a car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0i3on/i_am_getting_ga_funding_to_cover_cost_of_living/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784439698,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0hxev",
+      "title": "Roth IRA Over Income Limit & Pro-rata rule?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0hxev/roth_ira_over_income_limit_prorata_rule/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784439107,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0furs",
+      "title": "Florida Prepaid vs 529 for two young kids. What would you do?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0furs/florida_prepaid_vs_529_for_two_young_kids_what/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784432411,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v0fuaj",
+      "title": "Did I do the right thing passing on this house?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v0fuaj/did_i_do_the_right_thing_passing_on_this_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784432370,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0ez20",
+      "title": "Savings bonds, How the heck is the value calculated?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0ez20/savings_bonds_how_the_heck_is_the_value_calculated/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784429739,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0emu8",
+      "title": "Just had a baby\u2026what accounts should I open up for them?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0emu8/just_had_a_babywhat_accounts_should_i_open_up_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784428666,
+      "first_seen_utc": 1784440382
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v0eh2z",
+      "title": "Should I get an apartment or stay put and save toward a house?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v0eh2z/should_i_get_an_apartment_or_stay_put_and_save/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784428199,
+      "first_seen_utc": 1784440382
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -56,6 +133,17 @@
       "num_comments": 0,
       "created_utc": 1784421451,
       "first_seen_utc": 1784428030
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v0blge",
+      "title": "How should I calculate the growth of this investment?",
+      "url": "https://www.reddit.com/r/investing/comments/1v0blge/how_should_i_calculate_the_growth_of_this/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784419779,
+      "first_seen_utc": 1784440382
     },
     {
       "source": "reddit",
@@ -448,7 +536,7 @@
       "id": "169822",
       "title": "How di I use a credit card without paying an interest?",
       "url": "https://money.stackexchange.com/questions/169822/how-di-i-use-a-credit-card-without-paying-an-interest",
-      "score": 1,
+      "score": 2,
       "num_comments": 2,
       "created_utc": 1784380905,
       "first_seen_utc": 1784390290
