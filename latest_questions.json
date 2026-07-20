@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-20T02:43:34.161187+00:00",
-  "count": 824,
+  "generated_at": "2026-07-20T06:18:44.757294+00:00",
+  "count": 830,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v1csf3",
+      "title": "Can I afford another car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v1csf3/can_i_afford_another_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784526425,
+      "first_seen_utc": 1784528324
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v1brsu",
+      "title": "I trapped myself in an $850/mo truck payment. How do I get out?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v1brsu/i_trapped_myself_in_an_850mo_truck_payment_how_do/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784523084,
+      "first_seen_utc": 1784528324
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v1axmq",
+      "title": "What are your favourite crypto exchanges?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v1axmq/what_are_your_favourite_crypto_exchanges/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784520354,
+      "first_seen_utc": 1784528324
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v19h3f",
+      "title": "How To Go About Setting Up A Roth IRA And Investing In An Index Fund For A Dummy",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v19h3f/how_to_go_about_setting_up_a_roth_ira_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784515898,
+      "first_seen_utc": 1784528324
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v19ajk",
+      "title": "Why do people keep asking if BTC and ETH are dead?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v19ajk/why_do_people_keep_asking_if_btc_and_eth_are_dead/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784515365,
+      "first_seen_utc": 1784528324
+    },
     {
       "source": "reddit",
       "subreddit": "tax",
@@ -34,6 +89,17 @@
       "num_comments": 0,
       "created_utc": 1784500899,
       "first_seen_utc": 1784515414
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1v139ir",
+      "title": "Would you hold music royalties as a non-correlated income sleeve, or is it a fad?",
+      "url": "https://www.reddit.com/r/stocks/comments/1v139ir/would_you_hold_music_royalties_as_a_noncorrelated/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784499102,
+      "first_seen_utc": 1784528324
     },
     {
       "source": "reddit",
@@ -1152,7 +1218,7 @@
       "id": "169822",
       "title": "How do I use a credit card without paying an interest?",
       "url": "https://money.stackexchange.com/questions/169822/how-do-i-use-a-credit-card-without-paying-an-interest",
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "created_utc": 1784380905,
       "first_seen_utc": 1784390290
