@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-07-23T19:15:34.705321+00:00",
-  "count": 1128,
+  "generated_at": "2026-07-23T22:05:39.811669+00:00",
+  "count": 1149,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659884913",
+      "title": "$SPY does that end of day pump mean futures will pump?  I have no idea",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:57:11Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659884855",
+      "title": "What a day $LMT $RTX $UNP $SPY $QQQ https://open.substack.com/pub/rigatonicapital/p/the-wartime-economy-shows-up-in-the?r=ckhjv&amp;utm_medium=ios",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:56:24Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659884580",
+      "title": "$AAPL  anyone make money on calls?!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:52:51Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659884185",
+      "title": "$TSLA can you imagine all these guys hanging out and just straight lying to each other nonstop?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:47:28Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659884065",
+      "title": "$SPY we flexing dailies?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:46:00Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659883612",
+      "title": "$BTC.X the magenta circle in the weekly price chart is zeroed in on the the gray 20 wk sma as it is crossing over the upper downward price channel established at ATHs in early last October. The same observation during 2022 occurred the week of November 21 AFTER price encountered the 20 wk sma. But price already tested and broke that boundary in mid April. It\u2019s visible and recorded in the chart here. There will be a test coming as price approaches the same channel boundary AND the 20 ma, looking separately now. It\u2019ll be a great test bcuz Chaikin Money Flows all up and down the time spectrum are knocking the ball out the park unlike 2022. Even RSI and OBV are more advanced here vs 2022. The test will be epic for buyers and sellers. But we already know who will ultimately win. Bcuz sellers never win the long race. The problem for you is can you be just as resolute. If not, then wtf r u doing here?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:40:24Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659882929",
+      "title": "$AAPL Negative (84%): AAPL&#39;s stock price is pressured by the risk that new duties raise the landed cost of iPhones, Macs, accessories, and components, forcing Apple to accept lower margins or pass costs to consumers and risk weaker unit demand. Full AI impact map, source, and watch-next details: https://nimpact.tech/newsimpact/news/0958427f0372bc2c?utm_source=stocktwits&amp;utm_medium=story_url",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:31:31Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659881488",
+      "title": "$PWCM Do you guys think HPC data centers just fell out of style?? 26 American based MegaWatts backed by 330 $BTC.X and almost 1 E/H mining 10 BTC per month. Re-Rate will be spectacular and will fund even more USA based energy infrastructure for HPC/AI..\nCurrently $2M market cap could easily gap up to double digits any day.. Seamonkies are notoriously patient.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:14:21Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659881061",
+      "title": "$ASML $NVDA $BTC.X $ETH.X Are you talking to yourself?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:10:04Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v4qudn",
+      "title": "How much does yield on cost actually matter?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v4qudn/how_much_does_yield_on_cost_actually_matter/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784840978,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659880742",
+      "title": "As of this timestamp ask yourself this; 218,662 $LCID followers can\u2019t ALL be shorting &amp; wanting the sexiest best tech since $AAPL to NOT survive &amp; thrive? Unless the $RIVN $TSLA fanboy army are truly unstoppable &amp; pissed their cheap, fugly &amp; inefficient models are being challenged simultaneously by Lucid? F*ck Wall Street &amp; RIVN/TSLA owners that are ALSO short sellers preventing me from reclining in my director\u2019s chair studying my zenith metallic red Air Grand Touring late at night while doing laundry in the garage! I seriously do gaze in wonder upon the Lucid contour lines &amp; color\u2026how can this EV be equally breathtaking/elegant &amp; brutally badass in Guinness World record performance!?! #PerfectZenith #Sapphire",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T21:06:40Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4qdzw",
+      "title": "Investing for adult stepchild?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4qdzw/investing_for_adult_stepchild/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784839999,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659877478",
+      "title": "$BTC.X Pullback? \nMore Analysis: https://onlytradersfans.com/",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T20:33:41Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v4pr5q",
+      "title": "Is it a good idea to invest in Ethereum this way?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v4pr5q/is_it_a_good_idea_to_invest_in_ethereum_this_way/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784838609,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659875412",
+      "title": "@Skimman LOL. If Cook teases bigger buybacks or stronger services growth, $AAPL could gap higher. Watch EPS guide, buyback comment, and iPhone unit/revenue color on the call. Trading it into the print or holding long?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T20:16:18Z",
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4or60",
+      "title": "Money Market or something else for short-term?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4or60/money_market_or_something_else_for_shortterm/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784836446,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4okd7",
+      "title": "Best investments while I\u2019m still young?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4okd7/best_investments_while_im_still_young/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784836042,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v4oj6p",
+      "title": "Best no KYC swap for XMR?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v4oj6p/best_no_kyc_swap_for_xmr/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784835969,
+      "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4o59w",
+      "title": "Is a HYSA the best option for kiddos future success right now or is there something else out there?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4o59w/is_a_hysa_the_best_option_for_kiddos_future/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784835155,
+      "first_seen_utc": 1784844339
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -92,10 +301,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "659864527",
       "title": "$NVDA $MU $SNDK $AAPL $B  \n \nCan we get a nice RUN into the Close today ? \n \nCome on Trump !!! Get the F-ing war over... \n \nWe need OIL way down Bitch !!!!",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-07-23T18:54:15Z",
@@ -144,6 +353,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-23T18:39:37Z",
       "first_seen_utc": 1784834134
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4mlm5",
+      "title": "How do you prioritize your financial goals?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4mlm5/how_do_you_prioritize_your_financial_goals/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784831913,
+      "first_seen_utc": 1784844339
     },
     {
       "source": "stocktwits",
@@ -276,6 +496,17 @@
       "num_comments": 0,
       "created_utc": 1784825665,
       "first_seen_utc": 1784834134
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v4j8dh",
+      "title": "How to make money from crypto ?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v4j8dh/how_to_make_money_from_crypto/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784824856,
+      "first_seen_utc": 1784844339
     },
     {
       "source": "stocktwits",
