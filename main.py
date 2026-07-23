@@ -83,7 +83,18 @@ def save_dashboard(items, generated_at):
         existing_by_key[key] = item
 
     merged = list(existing_by_key.values())
-    merged.sort(key=lambda x: x.get("created_utc") or 0, reverse=True)
+    def _sort_key(item):
+        val = item.get("created_utc")
+        if isinstance(val, (int, float)):
+            return val
+        if isinstance(val, str):
+            try:
+                return int(datetime.fromisoformat(val.replace("Z", "+00:00")).timestamp())
+            except Exception:
+                return 0
+        return 0
+
+    merged.sort(key=_sort_key, reverse=True)
     merged = merged[:MAX_DASHBOARD_ITEMS]
 
     payload = {
