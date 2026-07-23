@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-23T05:56:13.701138+00:00",
-  "count": 999,
+  "generated_at": "2026-07-23T08:29:07.507490+00:00",
+  "count": 1013,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659794749",
+      "title": "$SPY what do you want? Fungi over pasta(gluten). $META",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T08:23:50Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659794707",
+      "title": "$TSLA BYD and others are way cheaper and people know that own them say Tesla wasnt even close! \n \nTesla financials dont work and cant compete with discounting, hence earnings miss. i am shorting down to -$150. \n \nSpaceX buyout??? with what, spacex overvalued stock that has fallen nearly 50% since dumb high",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T08:21:38Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659794438",
+      "title": "$SPY $QQQ Are you great yet?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T08:06:10Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659794356",
+      "title": "$TSLA down 6% premarket at 356, off the 374 close. record deliveries headline out but tape&#39;s selling the gap, grinding lower. watching how it sits into the open, chart&#39;s worth a look here. anyone else seeing this bleed or am I early?\n\nlive premarket tape: https://tapeboard.com/go/st/scanner?utm_source=stocktwits&amp;utm_medium=post&amp;utm_campaign=olivia&amp;utm_content=tsla-pm-dn-tape&amp;utm_term=scanner&amp;s=TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T08:01:13Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659794309",
+      "title": "$QQQ $SPY  \n \nOh my god...if it does, what should we do? Sell everything?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T07:57:57Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659794301",
+      "title": "$SPY two mistakes at once? That&#39;s crazy",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T07:57:34Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659794242",
+      "title": "$TSLA $SPCX $AAPL $AMZN $MSFT \n\nHEY MAGA IS AMERICA GREAT AGAIN YET????\n\nASKING FOR AN ENTIRE CIVILISATION",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T07:53:44Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659793585",
+      "title": "$SMCI $TSLA  what about wave D? Deez nutz!!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T07:11:58Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659793467",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA Come on God. I wanna hear YOUr voice. https://youtu.be/NUyV3uklpcY?is=njLRF5E1p7hLt8IQ",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T07:04:13Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v464rq",
+      "title": "Live Life Now or Continue Saving?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v464rq/live_life_now_or_continue_saving/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784789542,
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659793229",
+      "title": "$DIA $QQQ $BTC.X $SPY $DJIA Come here God. I just wanna talk is all https://youtu.be/tq3bYPLBcA4?is=jYB9oyArLHshvTi5",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T06:48:41Z",
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v45yqw",
+      "title": "Should I pay off my 2.4% mortgage",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v45yqw/should_i_pay_off_my_24_mortgage/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784788979,
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v45ul7",
+      "title": "Can someone explain to me these billions and trillions being invested AI.",
+      "url": "https://www.reddit.com/r/investing/comments/1v45ul7/can_someone_explain_to_me_these_billions_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784788591,
+      "first_seen_utc": 1784795347
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659792766",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA Nothing to see here. Just two giant babies is all. Everyone else is flawless. https://youtu.be/btIwdEUOjJA?is=Pb0-BvIom6h1W5DC",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T06:18:39Z",
+      "first_seen_utc": 1784795347
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -19,7 +173,7 @@
       "id": "659792220",
       "title": "$BTC.X $SUI.X $DOT.X \nBITCOIN ETFs JUST EXTENDED THEIR BUYING STREAK TO 7 DAYS.\n\nSpot Bitcoin ETFs have now recorded 7 consecutive days of net inflows, bringing in a total of $999.3 million.\n\nAre institutions positioning ahead of a potential CLARITY Act breakthrough?",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-07-23T05:42:20Z",
       "first_seen_utc": 1784786173
