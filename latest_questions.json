@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-07-23T13:53:07.850735+00:00",
-  "count": 1069,
+  "generated_at": "2026-07-23T16:28:36.898927+00:00",
+  "count": 1103,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659845185",
+      "title": "$SPY test 742?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:24:47Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659844911",
+      "title": "$NVDA can we go green?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:23:01Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659844793",
+      "title": "$SPY All the main sectors are down 1.1%++, what&#39;s propping this up?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:22:09Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659844716",
+      "title": "$TSLA be tanking on missed expectations and $BYDDY is beating expectations. IS IT CORROLATED ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:21:31Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659844386",
+      "title": "$NVDA are you all buying rips or selling them?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:19:14Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659844261",
+      "title": "$BTC.X Buttcorn in trouble?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:18:24Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4id1y",
+      "title": "Prioritize increasing emergency fund or paying off car loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4id1y/prioritize_increasing_emergency_fund_or_paying/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784823022,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659842952",
+      "title": "$BTC.X only Q is, will 58k hold as about to be retested in a bit?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:09:11Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4iaju",
+      "title": "Am I ready to buy a house?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4iaju/am_i_ready_to_buy_a_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784822877,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v4i9wg",
+      "title": "How do you verify a CSED when the dates don\u2019t match?",
+      "url": "https://www.reddit.com/r/tax/comments/1v4i9wg/how_do_you_verify_a_csed_when_the_dates_dont_match/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784822842,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659842174",
+      "title": "$NVDA when green? \ud83d\ude0a",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T16:03:35Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659841612",
+      "title": "@Satillionaire2 I don&#39;t understand... $BTC.X is up, $MSTR raised its USD reserve by $675M, the dividend was raised to 12%, and a BTC monetization program was announced alongside a buyback program why won&#39;t $STRC go back to par??",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T15:59:35Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659840846",
+      "title": "$BTC.X the Dem say they will have a vote on it be patient the American people will have to drag them kicking and screaming but they will vote for the clarity act.https://x.com/pete_rizzo_/status/2080303953690996932?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T15:54:45Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659839326",
+      "title": "The real AI race is accelerating \u2014 and the biggest players are increasing investment. \n \n$BABA is spending to capture the AI opportunity. \n$MSFT is spending to expand its AI ecosystem. \n$ORCL is spending to build cloud AI infrastructure. \n$GOOG is spending to scale AI capacity. \n \nMeanwhile, $AAPL continues trading near highs despite a more cautious AI investment approach. \n \nThe market often rewards companies making aggressive investments when those investments begin translating into revenue growth. \n \nInvestors should watch businesses that have pulled back but continue to build exposure to major AI trends. \n \nThe key question: \n \nAre you buying the companies creating the next AI infrastructure cycle \u2014 or chasing stocks after the move? \n \nFollow my page for more AI, technology, and growth stock analysis.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T15:44:41Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659838896",
+      "title": "$AAPL  Can we hold 300$ this month? Wouldn&#39;t bet on it. 285$ summer magnet still intact.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-23T15:41:40Z",
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4gjov",
+      "title": "Wanting to Start a Traditional IRA and Need Help Understanding How That Works and What to Do?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4gjov/wanting_to_start_a_traditional_ira_and_need_help/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784819142,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v4ggxw",
+      "title": "RSP S&P 500 etf?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v4ggxw/rsp_sp_500_etf/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784818982,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4g8h0",
+      "title": "Reasonable Car for 95k income 23 y/o?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4g8h0/reasonable_car_for_95k_income_23_yo/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784818465,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4g4wo",
+      "title": "Townhome to small for family - should we move or try to make it work?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4g4wo/townhome_to_small_for_family_should_we_move_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784818239,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4fsew",
+      "title": "Investing while in college/graduating with student loans?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4fsew/investing_while_in_collegegraduating_with_student/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784817458,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v4flta",
+      "title": "How to invest newly funded Roth?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v4flta/how_to_invest_newly_funded_roth/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784817061,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1v4ek9g",
+      "title": "Alphabet\u2019s AI spend is turning into a free-cash-flow debate. Healthy investment or margin warning?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1v4ek9g/alphabets_ai_spend_is_turning_into_a_freecashflow/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784814749,
+      "first_seen_utc": 1784824116
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -265,6 +507,17 @@
       "num_comments": 0,
       "created_utc": 1784808147,
       "first_seen_utc": 1784814787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v4bpzb",
+      "title": "Dividend ETFs during volatile markets: VIG vs SCHD vs VYM, which one are you actually holding?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v4bpzb/dividend_etfs_during_volatile_markets_vig_vs_schd/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784807635,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "stocktwits",
@@ -630,6 +883,17 @@
       "first_seen_utc": 1784795347
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v476m9",
+      "title": "Do I need to GST while working as a freelancer for foreign client?",
+      "url": "https://www.reddit.com/r/tax/comments/1v476m9/do_i_need_to_gst_while_working_as_a_freelancer/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784793075,
+      "first_seen_utc": 1784824116
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "659793585",
@@ -683,6 +947,17 @@
       "num_comments": 0,
       "created_utc": 1784789304,
       "first_seen_utc": 1784814787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v45zjt",
+      "title": "How Can I Calculate My Net Income Bi-Weekly?",
+      "url": "https://www.reddit.com/r/tax/comments/1v45zjt/how_can_i_calculate_my_net_income_biweekly/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784789051,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "reddit",
@@ -914,6 +1189,17 @@
       "num_comments": 0,
       "created_utc": 1784779375,
       "first_seen_utc": 1784786173
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v42sqo",
+      "title": "KO is worth the investment?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v42sqo/ko_is_worth_the_investment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784779059,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "stocktwits",
@@ -1400,6 +1686,17 @@
       "first_seen_utc": 1784773810
     },
     {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1v3zdcm",
+      "title": "INTC options flow before earnings: P/C at 0.54, calls running the show. Anyone else reading into this?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1v3zdcm/intc_options_flow_before_earnings_pc_at_054_calls/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784769597,
+      "first_seen_utc": 1784824116
+    },
+    {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "659783956",
@@ -1588,6 +1885,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v3w4j8",
+      "title": "Received a 2645C. Is this alarming?",
+      "url": "https://www.reddit.com/r/tax/comments/1v3w4j8/received_a_2645c_is_this_alarming/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784761178,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v3vynu",
       "title": "Where can I find the Best Exchange Rates (and are there tax implications)?",
@@ -1640,6 +1948,17 @@
       "num_comments": 0,
       "created_utc": 1784758849,
       "first_seen_utc": 1784770624
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v3utpi",
+      "title": "Which stocks are the best right now?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v3utpi/which_stocks_are_the_best_right_now/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784758097,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "reddit",
@@ -1750,6 +2069,28 @@
       "num_comments": 0,
       "created_utc": 1784753006,
       "first_seen_utc": 1784773810
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v3sc68",
+      "title": "Hundreds of Thousands in QQQI - Why?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v3sc68/hundreds_of_thousands_in_qqqi_why/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784752547,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v3ro40",
+      "title": "Am I missing a sector, or is this diversified enough?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v3ro40/am_i_missing_a_sector_or_is_this_diversified/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784751190,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "reddit",
@@ -1885,6 +2226,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v3kvbc",
+      "title": "When do you expect BDC's to go up again? 2028?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v3kvbc/when_do_you_expect_bdcs_to_go_up_again_2028/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784737115,
+      "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
       "subreddit": "stocks",
       "id": "1v3kmko",
       "title": "If Cash is such a bad investment then why is Berkshire holding $397B in cash in Q1 2026?",
@@ -1948,6 +2300,17 @@
       "num_comments": 0,
       "created_utc": 1784727291,
       "first_seen_utc": 1784773810
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1v3ehpk",
+      "title": "SOXX down 16% from June highs but Monday printed +5.5%. Dip or dead cat?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1v3ehpk/soxx_down_16_from_june_highs_but_monday_printed/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784722690,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "reddit",
@@ -2036,6 +2399,17 @@
       "num_comments": 0,
       "created_utc": 1784667211,
       "first_seen_utc": 1784770624
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1v2uxp2",
+      "title": "Standard Nuclear potential?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1v2uxp2/standard_nuclear_potential/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784667188,
+      "first_seen_utc": 1784824116
     },
     {
       "source": "reddit",
