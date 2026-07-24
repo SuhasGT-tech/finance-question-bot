@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-07-24T08:26:47.794892+00:00",
-  "count": 1221,
+  "generated_at": "2026-07-24T11:05:38.709876+00:00",
+  "count": 1240,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659909656",
+      "title": "$TSLA lmao 350?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T11:01:07Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659909609",
+      "title": "$TSLA what happened to recovery today? I thought bulls said 330,340 and 350? Lmao",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:59:49Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659909522",
+      "title": "$SPY \n\nOh look at that. \nMagically brought oil down. \nShocker. \nGuess the supply isn\u2019t as bad off as they say. \nAgain shocker. \nDon\u2019t believe the BS. \nDoesn\u2019t change what we\u2019ve got to pay for gas \nBut don\u2019t be naive. \n\nWe never seem to actually run out, do we. \nConsumer driven demand destruction is the only remedy. \nFunny how alternative energy sources keep facing headwinds don\u2019t you think??\n\nIf I were the CEO of one of these big oil giants I\u2019d make sure I was the world leader in alternative energy. \n I\u2019ve hit lots of good ideas. \nI just aint in charge. \nlol.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:57:36Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659909519",
+      "title": "$GOOG $MU $NVDA $QQQ $SPY \n\nDude, your thesis is so full of holes I feel bad for you, but I gotta say the dumbest thing you said is also the funniest - &quot;Everyone thought by 2030 we would all drive EVs&quot;.  I&#39;m pretty sure &quot;everyone&quot;, by definition, must include me, and I sure as hell never thought that, and you no what?  No one I know thought that either.  Not a single person.  You&#39;re basing your prediction on completely false assumptions and making wild exaggerations.  Good luck to you investing with that mindset, you&#39;ll need it.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:57:30Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659909400",
+      "title": "$SPY $USDJPY ninja power again ?!?! after testing the middle of the 4h trendline \nmight go near 164.070~250 there this might find some sellers if bulls hold this above 163.671 here",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:54:30Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659909227",
+      "title": "$SPY $USDJPY meanwhile ninja power again ?!?! who knows ?? after testing the middle of the 4h trendline",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:49:14Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659909226",
+      "title": "$SPY so when orange man tweeting to pump this?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:49:13Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659909203",
+      "title": "$SPY anyone remember the Friday song girl Rebecca Black? You should check out her latest music video.  Never ceases to amaze me how quickly ppl will drop their dignity (and clothing) for the hope of success",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:48:42Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659908997",
+      "title": "$ACN $GOOGL $TSLA \n\nWho\u2019s Tom?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:42:18Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659908951",
+      "title": "$SPY $QQQ $NVDA $MU $GOOG \n\nI see this AI buildout taking 10+ years. That\u2019s just to get some of it completed. It will take decades for the full buildout. \nThe earnings won\u2019t come for years, especially enough to cover the debt that\u2019s being accumulated. \n\nPermitting issues. \nLack of skilled workers for the buildout. \nEnergy infrastructure buildout. \n\nYears and years. \n\nMargin compression will get even worse moving forward for corporations as interest debt increases and margins are compressed via stagflation. \n\nThis is similar to the EV hype from 2020-2021. \nEveryone thought by 2030 we would all drive EV\u2019s. \nWhat happened?\n1.9% of vehicles in the USA are EV\u2019s. \nThat tells me all I need to know about this AI buildout. \nIt will flop just like EV\u2019s. \nHundreds of companies will go bankrupt. \n\nMiners and Energy will be the real winners here.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:40:51Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659908910",
+      "title": "$TOMZ Buy like crazy now from the clowns that bought high. They never learn. Maybe they graduated from the LEARING center? $TSLA $STE Its all about the patents according to Rick James bitch.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:39:55Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659908907",
+      "title": "$TSLA Headed to $300?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:39:50Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659908544",
+      "title": "$TSLA  \n \nThank you Sir \n \nMay I have another? \n \n~======&gt;",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:27:49Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659908462",
+      "title": "$TSLA sup hombres?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:24:45Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659908192",
+      "title": "$SMCI $MFG $NDX $SPY $NVDA Did they take a short position? Was this market manipulation, intentionally mistating financial information, they are a prominent figure so have higher standards they should be following. \n \nOr is the analyst that they hired just that bad at his job, didnt use AI to fact check and subsequently produced a target based on outdated incorrect assumptions?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:14:26Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659908012",
+      "title": "$SMCI $MFG $NDX $SPY $NVDA Look at how unprofessional the analysts are that are providing &quot;guidance&quot;. \n \nAfter the raise, you can tell it was written afterwards because they mentioned the $60B backlog. \n \nThe analyst had the gall to state 1.3b cash. \n \nShould we be reporting him to the SEC? \n \nhttps://stkt.co/GoqiHUHM",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:07:31Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659907923",
+      "title": "$TSLA all aboard ????",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T10:03:53Z",
+      "first_seen_utc": 1784891138
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v56331",
+      "title": "Is a savings account what I'm looking for?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v56331/is_a_savings_account_what_im_looking_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784884067,
+      "first_seen_utc": 1784891138
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -327,7 +525,7 @@
       "id": "659902772",
       "title": "$BTC.X $AAPL $VOO $GPUS $SPCX For who?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-07-24T04:19:33Z",
       "first_seen_utc": 1784872309
@@ -397,6 +595,17 @@
       "num_comments": 0,
       "created_utc": 1784863661,
       "first_seen_utc": 1784872309
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v4zki5",
+      "title": "Subleasing tax implications in CA?",
+      "url": "https://www.reddit.com/r/tax/comments/1v4zki5/subleasing_tax_implications_in_ca/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784863338,
+      "first_seen_utc": 1784891138
     },
     {
       "source": "stocktwits",
