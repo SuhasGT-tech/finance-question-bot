@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-07-24T13:32:15.666685+00:00",
-  "count": 1273,
+  "generated_at": "2026-07-24T16:36:06.056971+00:00",
+  "count": 1301,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659954729",
+      "title": "$TSLA lmao locked and loaded while it\u2019s still dropping?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:32:30Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659954543",
+      "title": "$AAPL seriously\u2026..what is the news?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:31:05Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659954322",
+      "title": "$AAPL Oh there you are.  Just show up when it&#39;s up.  Where were you when it was dropping? \ud83e\udd23.  Not over yet buddy.  I left you alone when it was going mt way.  But since you re- engaged. It&#39;s on! See you next week.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:29:33Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5gbe0",
+      "title": "Google Finance historical transaction data disappeared after update \u2014 anyone else experience this?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5gbe0/google_finance_historical_transaction_data/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784910558,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5gath",
+      "title": "What do I do about my 22.75% APR car loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5gath/what_do_i_do_about_my_2275_apr_car_loan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784910522,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659954117",
+      "title": "$BAC $JPM $SPY $XRP.X \n\u201cGolden Age\u201d\nhttps://youtu.be/0qSsWcZcAUI?is=D5Xqxjuz4TovROoj",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:28:00Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659954111",
+      "title": "$TSLA $315 close???",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:27:58Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659954093",
+      "title": "$TSLA are my 7/24 400c cooked chat?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:27:52Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659954048",
+      "title": "$SPY any chance this crashes down to $735 today?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:27:31Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5g8ti",
+      "title": "Why have individual 529 plans for each kid?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5g8ti/why_have_individual_529_plans_for_each_kid/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784910400,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659953300",
+      "title": "$BTC.X https://x.com/_Crypto_Barbie/status/2080646347963629974?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:21:59Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659953255",
+      "title": "$AAPL Why short?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:21:42Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659953139",
+      "title": "$NVDA what\u2019s the chances we see 215 today ?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:20:49Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659952742",
+      "title": "$SPY Do you feel bonita? $META $RDDT $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:17:34Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659952696",
+      "title": "$AAPL why?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:17:10Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659950735",
+      "title": "$SPY Do you wish to live as a Lion for 1 day? yes yes I do... $META $RDDT $MU $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T16:03:13Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659949394",
+      "title": "$BTC.X $ADA.X \n\nDid you hear this\nADA ????\nSolana sure \nXrp sure \nTrump balls deep in ADA obviously \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T15:54:08Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659948820",
+      "title": "$BTC.X oh shit crypto reserve \ud83d\udc40 https://x.com/MrPascalNajadi2/status/2080427771868631120?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T15:50:20Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5f7gn",
+      "title": "Is it worth taking unpaid leave for a vacation while working and studying?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5f7gn/is_it_worth_taking_unpaid_leave_for_a_vacation/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784908195,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v5f5mj",
+      "title": "Is it worth taking unpaid leave for a vacation while working and studying?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v5f5mj/is_it_worth_taking_unpaid_leave_for_a_vacation/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784908087,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659947725",
+      "title": "$BTC.X how cute, a second day shakeout across the markets after tech earnings. \ud83d\ude05\n\nWho else scooped some at the morning lows?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T15:43:18Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659947470",
+      "title": "$BTC.X  anyone want to comment? Two different subjects",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T15:41:39Z",
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5ey58",
+      "title": "Large investment in VOO?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5ey58/large_investment_in_voo/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784907629,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5elo6",
+      "title": "Moving out in 8-10 months. Invest heavily in 457 b or Roth IRA in the meantime?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5elo6/moving_out_in_810_months_invest_heavily_in_457_b/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784906868,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5c513",
+      "title": "Best way to move forward for 5-10 year growth?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5c513/best_way_to_move_forward_for_510_year_growth/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784901400,
+      "first_seen_utc": 1784910966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5btmu",
+      "title": "How to make the most of my credit score?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5btmu/how_to_make_the_most_of_my_credit_score/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784900636,
+      "first_seen_utc": 1784910966
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -1024,6 +1310,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-24T02:07:03Z",
       "first_seen_utc": 1784859994
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1v4xqeg",
+      "title": "Can I simply find a terrible strategy and just take the opposite side over and over?",
+      "url": "https://www.reddit.com/r/options/comments/1v4xqeg/can_i_simply_find_a_terrible_strategy_and_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784858202,
+      "first_seen_utc": 1784910966
     },
     {
       "source": "stocktwits",
@@ -3125,6 +3422,17 @@
       "num_comments": 0,
       "created_utc": 1784777349,
       "first_seen_utc": 1784786173
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1v426yi",
+      "title": "Am I overestimating how much a near-ATM call should appreciate when the stock reaches the strike?",
+      "url": "https://www.reddit.com/r/options/comments/1v426yi/am_i_overestimating_how_much_a_nearatm_call/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784777294,
+      "first_seen_utc": 1784910966
     },
     {
       "source": "reddit",
