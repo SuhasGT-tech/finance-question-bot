@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-07-24T11:05:38.709876+00:00",
-  "count": 1240,
+  "generated_at": "2026-07-24T13:32:15.666685+00:00",
+  "count": 1273,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659920890",
+      "title": "$TSLA anyone gambling either way at open?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:28:16Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659920789",
+      "title": "$AAPL $MU $QQQ $SPCX $SPY sure but when?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:27:27Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659920719",
+      "title": "$NVDA any thoughts?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:26:57Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659920703",
+      "title": "$SPY Deal this weekend- or escalation?? That\u2019s really the only thing that matters- and Trump isn\u2019t making any more deals. \n\nHe\u2019s going to bomb the shit out of Iran until they learn their place. I\u2019ll be getting puts on any spike today.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:26:50Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659920567",
+      "title": "Come to $SPCX IF YOU WANNA MAKE QUICK 20%? \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\udcb0\n\n $MU $SPY $QQQ $AAPL",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:25:42Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "659920341",
+      "title": "$LOW $HD $SPY $TLT $215 lighting up . 5% move today?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:23:43Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659920128",
+      "title": "$TSLA Other than this being \u201clow\u201d, what are the realistic catalyst for the next 3 to 6 months? Anyone ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:21:48Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659919939",
+      "title": "$TSLA EOD 330 or 300?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:19:57Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659919864",
+      "title": "$TSLA market always paid a premium because of Elon Musk and his \u201cso called vision\u201d. Is market finally coming to terms with reality that it is just a car company with a $1.2T valuation? None of the other stuff Musk has hyped produced meaningful revenue. Are they going to continue to speculate on what the future might look like?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:19:20Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "659919531",
+      "title": "$TSLA alright let&#39;s hear today&#39;s predictions, where is this headed?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:16:06Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659919530",
+      "title": "$STRC $MSTR $BTC.X \n\nRetail panic sells and institutions get a discount. \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\n\nhttps://x.com/phongle/status/2080637435197718672?s=46",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:16:04Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5b10u",
+      "title": "If I invest like $500 a month should I put that money into a HYSA and then invest it every 3 months or would it not be worth it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5b10u/if_i_invest_like_500_a_month_should_i_put_that/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784898743,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659918943",
+      "title": "$BTC.X Why does this trash always suck?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:09:59Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659918409",
+      "title": "Massive dip or bear trap on tech royalty? Look at the discount from 52-week highs: \n \n$AMD -7.7%     Holding strong, coiling for a move. \n$ASML -9.3%    Litho titan testing key support levels. \n$NVDA -12%     AI king offering a prime entry? \n$AMZN -16%     Smart money absorbing the float. \n$MU -21%     Memory play heavily mispriced. \n \nWhich is the safest buy?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:04:08Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "659918224",
+      "title": "$NVDA what happened to 203 yesterday, did i miss that print?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T13:02:08Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v5all7",
+      "title": "How to?: Savings and 401K acct",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v5all7/how_to_savings_and_401k_acct/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784897703,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "659917124",
+      "title": "$SPY price stability and long term\n 2% inflation right?\n\nThis is why we Bitcoin!\n$BTC.X $MSTR",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T12:50:18Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659915641",
+      "title": "$PLTR Doubled $DELL when Dell got rid of $MSFT !!!  \n$SPY $AAPL Ai  STRATEGY!?!?!?!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T12:30:46Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v59lka",
+      "title": "Is investing at 15 to buy a car at 18 a good idea?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v59lka/is_investing_at_15_to_buy_a_car_at_18_a_good_idea/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784895056,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "659913592",
+      "title": "$DELL doubled when they swapped out $MSFT for $PLTR !!! \n \n$SPY nvda on the chips!!! \n \n$AAPL next??? \n \nhttps://www.dell.com/en-us/blog/dell-and-palantir-introduce-an-on-premises-ai-operating-system/",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-24T12:04:25Z",
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v59bed",
+      "title": "Pay off 401K loan or invest now and repay later?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v59bed/pay_off_401k_loan_or_invest_now_and_repay_later/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784894335,
+      "first_seen_utc": 1784899935
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -202,6 +433,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v55ejc",
+      "title": "Easiest broker to get a margin account?",
+      "url": "https://www.reddit.com/r/investing/comments/1v55ejc/easiest_broker_to_get_a_margin_account/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784881708,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v54l63",
       "title": "Should I move my Roth annuity with Silac back into my Roth IRA with Schwab?",
@@ -243,6 +485,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-24T07:24:29Z",
       "first_seen_utc": 1784881607
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v548b8",
+      "title": "Has anyone made money with MetLife investments?",
+      "url": "https://www.reddit.com/r/investing/comments/1v548b8/has_anyone_made_money_with_metlife_investments/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784877682,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "stocktwits",
@@ -400,6 +653,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v51z5h",
+      "title": "Can I get approved for a 3-5k credit card with a rough financial situation ?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v51z5h/can_i_get_approved_for_a_35k_credit_card_with_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784870462,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v51w14",
       "title": "Can I get approved for a 3-5k credit card with a rough financial situation?",
@@ -463,6 +727,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-24T05:02:38Z",
       "first_seen_utc": 1784872309
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v51k8v",
+      "title": "any advice??",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v51k8v/any_advice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784869228,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "stocktwits",
@@ -763,6 +1038,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v4xi53",
+      "title": "how to manage money",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v4xi53/how_to_manage_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784857561,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v4xgee",
       "title": "I have about $45,000 in USD from book sales and have never invested before. Are there good starter resources or basic strategies that I could get started with?",
@@ -826,6 +1112,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-24T00:55:56Z",
       "first_seen_utc": 1784859994
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v4w5xu",
+      "title": "Which State\u2019s 529 Account is right for me?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v4w5xu/which_states_529_account_is_right_for_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784853927,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "reddit",
@@ -936,6 +1233,17 @@
       "num_comments": 0,
       "created_utc": 1784847845,
       "first_seen_utc": 1784859994
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v4t64n",
+      "title": "Investing while in college/graduating with student loans?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v4t64n/investing_while_in_collegegraduating_with_student/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784846328,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "stocktwits",
@@ -1101,6 +1409,28 @@
       "num_comments": 0,
       "created_utc": 1784839999,
       "first_seen_utc": 1784844339
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v4q88h",
+      "title": "Should I rent now or stay put and keep saving to buy?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v4q88h/should_i_rent_now_or_stay_put_and_keep_saving_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784839648,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v4q886",
+      "title": "Is tesla stock a dip? Or start of a fall?",
+      "url": "https://www.reddit.com/r/investing/comments/1v4q886/is_tesla_stock_a_dip_or_start_of_a_fall/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784839647,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "stocktwits",
@@ -1401,6 +1731,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v4mazh",
+      "title": "Best Strategy to get 20% Down payment for a 250k-300k home in a year(34.M)?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v4mazh/best_strategy_to_get_20_down_payment_for_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784831311,
+      "first_seen_utc": 1784899935
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v4lv2m",
       "title": "Debt Consolidation Loan?",
@@ -1497,6 +1838,17 @@
       "num_comments": 0,
       "created_utc": 1784825665,
       "first_seen_utc": 1784834134
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v4jeqh",
+      "title": "Can I afford to move out alone with low income but $20k in savings?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v4jeqh/can_i_afford_to_move_out_alone_with_low_income/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784825226,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "reddit",
@@ -1706,6 +2058,17 @@
       "num_comments": 0,
       "created_utc": 1784818465,
       "first_seen_utc": 1784824116
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v4g8bd",
+      "title": "Why do big Tech stocks get hammered by Wall Street when they increase spending on AI?",
+      "url": "https://www.reddit.com/r/investing/comments/1v4g8bd/why_do_big_tech_stocks_get_hammered_by_wall/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784818455,
+      "first_seen_utc": 1784899935
     },
     {
       "source": "reddit",
