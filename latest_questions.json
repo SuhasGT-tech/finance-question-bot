@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-07-25T08:05:12.107877+00:00",
-  "count": 1458,
+  "generated_at": "2026-07-25T10:28:46.736909+00:00",
+  "count": 1477,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660010907",
+      "title": "$SPY How low can we go?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T10:24:18Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010798",
+      "title": "$BTC.X $ATH.X $KITE.X $ENA.X $SUI.X \n\nhttps://x.com/turfnetworkchan/status/2080954141359190355?s=46",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T10:03:22Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010747",
+      "title": "$BTC.X Didnt gold pull back? .....   ITS LIKE MARKETS ARE MANIPULATED... ENJOY YA MEDIOCRE GAINS",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:57:51Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010717",
+      "title": "$BTC.X what happened to all that &quot;its as good as digital gold&quot; talk all of a sudden?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:52:03Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660010675",
+      "title": "$QQQ $SPY \n\nSo much investment in Saudi Arabia from around the world\n\nThey didn\u2019t think to secure it?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:45:36Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660010649",
+      "title": "$TSLA For someone who has been maniacally lumping immigrant groups of certain origins as criminals, where is Elmo&#39;s outrage on the Tate brothers for the despicable things that are being alleged against them? By investing in this trash, you are basically supporting a racist hypocrite.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:40:42Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660010550",
+      "title": "$TSLA imagine anyone of us smoking bullcrap like this. \nhttps://youtu.be/yvDoSJ5LHik?is=4g2Q7R4ibMx0Io5g\n\nCant even get tesla car to work , now robots? Biggest bubble we created ... \n$SPCX $SPY",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:25:35Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660010459",
+      "title": "$QQQ $SPY $AAPL  One more thing that I would like to bring up about distribution today. Although it was quite effective, We noticed and unusual Price action on Apple rising up to near 4%  approaching 5 Trillion which is quite significant onsidering flat earnings and limited growth. ilIn my opinion, there are two concerns : \n\n1- If selling pressure rotates into a very large stock like Apple rather than disappearing, then the risk is transferred rather than eliminated. Because Apple has such a large weight in major indexes, a significant decline in Apple could have an outsized effect on the Nasdaq and other index-tracking portfolios.\nIf that occurred during a period of weak liquidity or broader risk aversion,\n\n2- If a handful of mega-cap companies account for a large share of index performance, how representative is the index of the broader market or economy?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T09:06:45Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v62wuc",
+      "title": "Building a dividend portfolio in Europe (IBKR) \u2013 am I making a mistake with these ETFs?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v62wuc/building_a_dividend_portfolio_in_europe_ibkr_am_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784969264,
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660010305",
+      "title": "$SPCX  $TSLA   If any  founder / ceo promises the things elon promises (self driving robots, robotaxis, colonizine mars etc etc etc, and fails every one of those predictions and timelines.   Would you sell their stock?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:40:59Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010285",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nAre there any real bulls left or just gamers and tiktok influencers?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:38:22Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v62owj",
+      "title": "Random 4k chargeback on debit card? Is this from a scam?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v62owj/random_4k_chargeback_on_debit_card_is_this_from_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784968472,
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010231",
+      "title": "$BTC.X TACO 100k when? \n\nBREAKING: \ud83d\ude80\ud83d\udea8\nTHE U.S. DID NOT ANNOUNCE NEW WAVES OF ATTACKS FOR THE FIRST TIME IN 2 WEEKS\nIRAN AND PAKISTAN ARE NOW EXPLORING OPTIONS TO RESTART TALKS\nINSIDERS REPORT THAT NEGOTIATIONS COULD BEGIN AT ANY TIME",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:31:04Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660010217",
+      "title": "\ud83d\udd34 Trump on Truth Social (11:32 PM ET, Jul 24):\n\nhttps://x.com/lauraloomer/status/2080657818466586812?s=46\n\n$DJT $SPY | https://truthsocial.com/@realDonaldTrump/116978507306393239",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:28:23Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660010215",
+      "title": "$btc.x $mstr $eth.x $xrp.x\nhttps://youtube.com/watch?v=8iKGtHB8Gdw&amp;si=K0K2RvY2_ii3eAIj",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:28:19Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660010152",
+      "title": "$SKHY on Monday may do +10% on $NVDA openai, anthropic news. Then there will be earnings on tuesday. Loaded some on Polymarket perps Join it, here is my invite code https://polymarket.com/perps?c=01sqko85",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-25T08:17:18Z",
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v6290t",
+      "title": "How much should I budget for my first used car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v6290t/how_much_should_i_budget_for_my_first_used_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784966926,
+      "first_seen_utc": 1784975326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v624oy",
+      "title": "21, starting my first job. Is this a good long-term personal finance system?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v624oy/21_starting_my_first_job_is_this_a_good_longterm/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784966521,
+      "first_seen_utc": 1784975326
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -151,10 +349,21 @@
       "id": "660009287",
       "title": "$TSLA $SPCX  https://youtu.be/fcKtfPA64hI?is=VyR04psIlNJedl2S",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-07-25T06:07:31Z",
       "first_seen_utc": 1784966712
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v5zr9b",
+      "title": "Good afternoon, gentlemen. I want to know how safe it is to buy USDT using P2P inside Telegram Wallet?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v5zr9b/good_afternoon_gentlemen_i_want_to_know_how_safe/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1784958809,
+      "first_seen_utc": 1784975326
     },
     {
       "source": "stocktwits",
@@ -371,7 +580,7 @@
       "id": "660008060",
       "title": "$SPY $TSLA $AAPL \n\n&quot;Only risk-takers win. \n\nBy definition, if you are the same as everybody else, if you&#39;re not taking a risk over and above what everybody else is taking, by definition you can&#39;t win. \n\nIf you&#39;re doing exactly what everybody else is doing, how can you possibly win? \n\nYou have to be different to win. You have to take risks.&quot;\n\nRemember as long as your win rate is over your loss rate per YTD youre on the path.\n\nYou&#39;re competing against Wall St algos aka computers. Retail order flow makes up 5% of total daily market volume \n\nI had someone shit on me for taking only 150% ROE today on a TSLA trade that went 300%.\n\nAnd another for me taking profits yesterday on the EOD gap up for ONLY 50%.\n\nWhat type of planet are people living in where even 50% ROE isnt fucking amazing!\n\nHave a good weekend all.\n\nIf youre green this week. Or last week. Youre on your path.\n\nLife each other up, hate never comes from above. We&#39;re all here trying to make money.",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 16,
+      "score": 21,
       "num_comments": 0,
       "created_utc": "2026-07-25T04:17:02Z",
       "first_seen_utc": 1784958287
@@ -602,7 +811,7 @@
       "id": "660005862",
       "title": "$SPY Any member of the cabinet not working to invoke the 25th Amendment right at this very moment is acting in defiance of their oath of office.  \nThe putin puppet pedo is a train wreck. A train wreck that keeps wrecking. A train wreck that will never stop wrecking until its lindsey&#39;ed or removed from office.  \nMeanwhile...how about that $AAPL? Woohoo!",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 3,
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-07-25T02:20:31Z",
       "first_seen_utc": 1784946374
