@@ -1,7 +1,260 @@
 {
-  "generated_at": "2026-07-27T22:07:14.575217+00:00",
-  "count": 2013,
+  "generated_at": "2026-07-28T02:13:07.696914+00:00",
+  "count": 2040,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157810",
+      "title": "$NVDA remember - those investments to other companies will come back as investments to this one right.....RIGHT?!?!?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:08:44Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660157748",
+      "title": "$TSLA wtf????? \ud83e\udd2c \ud83d\ude2c \ud83d\ude33",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:07:25Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660157540",
+      "title": "$SPY $QQQ Eyyo! We going for two circuit breakers on the KOSPI tonight??",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:02:46Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157518",
+      "title": "$MU $AMD $NVDA $AMKR  Funny how the same people screaming \u201cBUY!\u201d a few weeks ago are now screaming \u201cSELL!\u201d Ask yourself: what will you do when they flip back to \u201cBUY\u201d next week? Ignore the noise. Does anyone seriously believe the AI data centers attracting hundreds of billions in investment are about to become the shopping malls of the 1990s? That next week we&#39;re going to bulldoze them all? We&#39;re about to get a second chance to make a sh*t town of money in tech for a second time this year - it&#39;s like Christmas is coming twice.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:02:23Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660157450",
+      "title": "$BTC.X wtf just happened?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:00:46Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660157428",
+      "title": "$SPY Please like and subscribe if you like Jack\u2019s channel. He needs you.\nhttps://youtu.be/Pff29ytWJzM?is=ltHowVQrDdaZ7O1-",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T02:00:11Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157404",
+      "title": "$AAPL $NVDA $RTX $FBRX Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today? \nhttps://stocktwits.com/news-articles/default/equity/why-did-aapl-fbrx-rtx-stocks-surge-to-52-week-highs-today/cZZC4XQR76C",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:59:42Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157341",
+      "title": "$NVDA we testing $164?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:58:14Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157311",
+      "title": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today? \n\n$AAPL $FBRX $RTX $NVDA\n\nhttps://stocktwits.com/news/equity/markets/why-did-aapl-fbrx-rtx-stocks-surge-to-52-week-highs-today/cZZC4XQR76C",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:57:33Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660157260",
+      "title": "$NVDA why not both?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:56:16Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660156899",
+      "title": "$BTC.X \n\nWhy piece of shit?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:47:11Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660156310",
+      "title": "$BTC.X BTC GOLD - LTC SILVER \ud83d\ude80 What if Litecoin returns to its 2017 BTC ratio?  \n  \nBack in the 2017 cycle, Litecoin reached around 0.025 LTC/BTC.  \n  \nWith Bitcoin trading around $64,300, a return to that historical ratio would imply:  \n  \n\ud83d\udd25 LTC \u2248 $1,600+  \nBullish",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-28T01:34:01Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8jwcu",
+      "title": "HELOAN refinance lenders?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8jwcu/heloan_refinance_lenders/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785202407,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8jl8b",
+      "title": "Lake House or Regular House, which would you sell?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8jl8b/lake_house_or_regular_house_which_would_you_sell/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785201595,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8jkhr",
+      "title": "Carson Smithfield Collections account seemingly\u2026gone?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8jkhr/carson_smithfield_collections_account/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785201539,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8j332",
+      "title": "How to use Health Savings Account (HSA) check?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8j332/how_to_use_health_savings_account_hsa_check/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785200297,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8ity1",
+      "title": "Pay down mortgage or open a solo 401k?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8ity1/pay_down_mortgage_or_open_a_solo_401k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785199631,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v8hunk",
+      "title": "Does the firm you work at allow you have an EFIN to do returns on the side?",
+      "url": "https://www.reddit.com/r/tax/comments/1v8hunk/does_the_firm_you_work_at_allow_you_have_an_efin/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785197153,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660150551",
+      "title": "$AAL $AAPL $CCL Iran now says there are no negotiations???!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-27T23:43:40Z",
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8hac9",
+      "title": "How can one determine the exact expected clearing date and time for an ACH transfer before initiating it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8hac9/how_can_one_determine_the_exact_expected_clearing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785195793,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v8grz9",
+      "title": "Best comprehensive source for learning standard finance from scratch?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v8grz9/best_comprehensive_source_for_learning_standard/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785194532,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v8grq3",
+      "title": "Boss isn\u2019t taking income state tax out of my checks?",
+      "url": "https://www.reddit.com/r/tax/comments/1v8grq3/boss_isnt_taking_income_state_tax_out_of_my_checks/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785194515,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v8fxvp",
+      "title": "Got a tax return on mail after paying what I owed, what does it mean?",
+      "url": "https://www.reddit.com/r/tax/comments/1v8fxvp/got_a_tax_return_on_mail_after_paying_what_i_owed/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785192522,
+      "first_seen_utc": 1785204787
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -177,6 +430,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-27T21:32:48Z",
       "first_seen_utc": 1785190034
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v8dy4f",
+      "title": "Do mid-tier or specialized boutique firms typically handle Sec. 475(f) MTM traders with foreign real estate?",
+      "url": "https://www.reddit.com/r/tax/comments/1v8dy4f/do_midtier_or_specialized_boutique_firms/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785187911,
+      "first_seen_utc": 1785204787
     },
     {
       "source": "stocktwits",
@@ -993,6 +1257,17 @@
       "first_seen_utc": 1785171524
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v85fpo",
+      "title": "How to get ahold of IRS?",
+      "url": "https://www.reddit.com/r/tax/comments/1v85fpo/how_to_get_ahold_of_irs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785169914,
+      "first_seen_utc": 1785204787
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660106710",
@@ -1148,6 +1423,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v837ze",
+      "title": "Can someone clarify the new gambling tax rules for me? If I have an overall net loss at the end of the year will I owe anything in taxes?? Or is it only if you have a net positive?",
+      "url": "https://www.reddit.com/r/tax/comments/1v837ze/can_someone_clarify_the_new_gambling_tax_rules/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785165178,
+      "first_seen_utc": 1785204787
+    },
+    {
+      "source": "reddit",
       "subreddit": "CryptoCurrency",
       "id": "1v8261z",
       "title": "How can I track which Bitcoin nodes have signalled for BIP110?",
@@ -1211,6 +1497,17 @@
       "num_comments": 0,
       "created_utc": 1785160731,
       "first_seen_utc": 1785171524
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1v813l7",
+      "title": "Reporting vehicle/property damage settlement as income?",
+      "url": "https://www.reddit.com/r/tax/comments/1v813l7/reporting_vehicleproperty_damage_settlement_as/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785160473,
+      "first_seen_utc": 1785204787
     },
     {
       "source": "reddit",
