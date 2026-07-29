@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-29T08:37:49.838522+00:00",
-  "count": 2314,
+  "generated_at": "2026-07-29T11:26:15.453169+00:00",
+  "count": 2343,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660294151",
+      "title": "$TSLA  are we worn out yet from selling? Is today finally the day we trek back upwards?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T11:18:57Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660294094",
+      "title": "$SPY https://youtu.be/77xDTmuCP2I?is=FgnPrKGUUvGswokI",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T11:18:00Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660293740",
+      "title": "$TSLA I can\u2019t believe my eyes do I see green? Lmao",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T11:12:23Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9t2ah",
+      "title": "Can anyone explain where my Starbucks money is going?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9t2ah/can_anyone_explain_where_my_starbucks_money_is/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785323377,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660293032",
+      "title": "Today\u2019s schedule for Live sessions! We will explain the right side of the market using #Elliottwave sequences, market correlations &amp; explain possible opportunities with key levels. Can join at https://elliottwave-forecast.com/?fpr=vlada14  &amp; trade the #Bluebox as high frequency zones. #Trading $SPX $BTC.X $EURUSD $XAUUSD",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T11:02:31Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660292793",
+      "title": "$NVDA do you remember the times when we all believed Trump would make rates to go down? Instead of finishing one war, he started another. Inflation jumped up and now there is no Powell to blame.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:58:02Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660292776",
+      "title": "$NVDA what time fed meeting?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:57:39Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660292324",
+      "title": "WHAT ABOUT THE WARRANTS???? T 3 Defense: $DFNS .....  D F N S W ..... \n$NVDA .. $MSFT .....",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:48:19Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660292005",
+      "title": "$MU  $SNDK  $RAM  $SKHY  How we feeling this morning?  $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 14,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:39:28Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660291896",
+      "title": "$NVDA  big run today?\nLet&#39;s hope so....",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:36:40Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660291663",
+      "title": "Tech giants unite for AI safety after OpenAI hack! Is this the future?\n\n$NVDA $SPCX $MSFT",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:29:26Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9s01q",
+      "title": "Should I get my own place? Get roommates? Or just keep living with parents?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9s01q/should_i_get_my_own_place_get_roommates_or_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785320149,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660290833",
+      "title": "Free Articles on Cryptos can be found at this page : https://elliottwave-forecast.com/crypto-currencies/?fpr=vlada14 \n#elliottwave #trading #ilovetrading #bitcoin #BTCUSD #ETHUSD $BTC.X $ETH.X $DOGE.X $ADA.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T10:04:57Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660290524",
+      "title": "Free Elliott Wave articles &amp; market insights: \nhttps://elliottwave-forecast.com/elliottwave/?fpr=vlada14 \nLearn how to identify high-probability setups. Don\u2019t trade blind. \n#elliottwave #trading #crypto \n$BTC.X $ETH.X $DAX $EURUSD $SPX",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T09:54:51Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660290468",
+      "title": "$TSLA \n\nGreeen? LOL. \ud83e\udd22",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T09:52:40Z",
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9qk4a",
+      "title": "started from zero at 35 years-old. in a city where buying an apartment is very hard, what's the best strategy for my future?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9qk4a/started_from_zero_at_35_yearsold_in_a_city_where/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785315363,
+      "first_seen_utc": 1785324375
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -422,6 +598,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9jyu0",
+      "title": "lost job but trying to min/max $ for food?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9jyu0/lost_job_but_trying_to_minmax_for_food/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785294551,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v9jwum",
+      "title": "My retirement 401 /457 plan?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v9jwum/my_retirement_401_457_plan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785294395,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v9joqm",
       "title": "Is my current finance setup good for 24? Any suggestions?",
@@ -452,6 +650,17 @@
       "num_comments": 0,
       "created_utc": 1785293568,
       "first_seen_utc": 1785304306
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9jkq1",
+      "title": "ELI5: Why would I ever lease a car?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9jkq1/eli5_why_would_i_ever_lease_a_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785293481,
+      "first_seen_utc": 1785324375
     },
     {
       "source": "stocktwits",
@@ -532,6 +741,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9i1i3",
+      "title": "3 more days until payday and I am almost completely out of money already. And immediately a day after rent will be due as well, how do people do this?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9i1i3/3_more_days_until_payday_and_i_am_almost/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785289360,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v9hy7b",
       "title": "What would be my continuing investing strategy for my age - 58?",
@@ -540,6 +760,17 @@
       "num_comments": 0,
       "created_utc": 1785289113,
       "first_seen_utc": 1785291409
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v9hqms",
+      "title": "How to prepare my child for financial security",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v9hqms/how_to_prepare_my_child_for_financial_security/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785288563,
+      "first_seen_utc": 1785324375
     },
     {
       "source": "stocktwits",
@@ -796,6 +1027,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9cc0r",
+      "title": "Can someone eli5 how to finance a car in america?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9cc0r/can_someone_eli5_how_to_finance_a_car_in_america/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785275292,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v9ca1l",
       "title": "Can anyone give me some personal loan advise?",
@@ -983,6 +1225,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v9avam",
+      "title": "Using 401K to get out of negative equity car loan?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v9avam/using_401k_to_get_out_of_negative_equity_car_loan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785272048,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v9atkb",
+      "title": "23 and 60k to my name, advice?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v9atkb/23_and_60k_to_my_name_advice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785271940,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1v9arww",
       "title": "Got in a car accident and getting a new auto loan with a 5.67% interest rate. Should I put my insurance money into the principle of my loan or should invest it?",
@@ -1046,6 +1310,39 @@
       "num_comments": 0,
       "created_utc": "2026-07-28T20:34:56Z",
       "first_seen_utc": 1785276286
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9a0xj",
+      "title": "What should I do with $476.66?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9a0xj/what_should_i_do_with_47666/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785269957,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v99pwz",
+      "title": "Food banks or churches for food in va?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v99pwz/food_banks_or_churches_for_food_in_va/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785269307,
+      "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v99d5m",
+      "title": "What happens when entry level jobs pay like $15/hr but rent is literally $1400 genuinely what is the plan??",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v99d5m/what_happens_when_entry_level_jobs_pay_like_15hr/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785268569,
+      "first_seen_utc": 1785324375
     },
     {
       "source": "reddit",
@@ -1145,6 +1442,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-28T19:12:44Z",
       "first_seen_utc": 1785266448
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v984h3",
+      "title": "What are some of your favorite cheap and easy comfort meals?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v984h3/what_are_some_of_your_favorite_cheap_and_easy/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785265925,
+      "first_seen_utc": 1785324375
     },
     {
       "source": "stocktwits",
@@ -1376,6 +1684,17 @@
       "num_comments": 0,
       "created_utc": 1785259167,
       "first_seen_utc": 1785266448
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v94o5b",
+      "title": "In-laws want to gift us 20k. Wondering tax implications and logistics?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v94o5b/inlaws_want_to_gift_us_20k_wondering_tax/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785258702,
+      "first_seen_utc": 1785324375
     },
     {
       "source": "reddit",
