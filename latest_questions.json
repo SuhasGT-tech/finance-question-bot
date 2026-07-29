@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-29T05:51:46.156122+00:00",
-  "count": 2300,
+  "generated_at": "2026-07-29T08:37:49.838522+00:00",
+  "count": 2314,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660288636",
+      "title": "Market Sentiment, News, Key Charts, &amp; Momentum.  \nFull CTKS Cheatsheet analysis \n \nHave a great one ahead CTKS Fam \ud83e\udd73 \n \nhttps://youtu.be/OWKTb2MoWT0?si=9z_cJvPkMQgVTPKh  #CTKSMethod #Bitcoin #BTC  $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T08:27:34Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9pw6b",
+      "title": "Can I switch my IRA to a different brokerage?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9pw6b/can_i_switch_my_ira_to_a_different_brokerage/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785313035,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9pu00",
+      "title": "Backdoor IRA, pro rata, and tax responsibilities?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9pu00/backdoor_ira_pro_rata_and_tax_responsibilities/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785312831,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660288059",
+      "title": "$SPY  These headlines are getting more and more absurd every day. Ai reasoning? \nCNBC - S&amp;P 500 futures edge higher as oil climbs; investors await Fed rates decision: Live updates",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T07:55:27Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660287499",
+      "title": "Kimi K3: DeepSeek 2.0, Or Is This Time Different? $GOOGL $NVDA $META $AMZN $QQQ https://talkmarkets.com/article/kimi-k3-deepseek-20-or-is-this-time-different-1785309085",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T07:12:31Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660287202",
+      "title": "$TSLA\u2019s July 22 results shifted the focus from delivery growth to capital discipline. Q2 revenue rose 26% to $28.24 billion, yet net income attributable to common shareholders was nearly flat at $1.11 billion. Tesla also said 2026 capital spending should exceed $25 billion, largely for AI infrastructure, factories, robotics and company-operated AI assets. \n \nThat mix leaves investors with a clear question: can robotaxi, Optimus and the broader AI strategy start producing measurable commercial returns before spending meaningfully pressures free cash flow? The next few quarters need milestones, not just long-term potential. \n \nNot financial advice. Do your own research.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T06:51:01Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1v9ob4f",
+      "title": "At what portfolio size did the \"dividend snowball\" finally start feeling real to you?",
+      "url": "https://www.reddit.com/r/dividends/comments/1v9ob4f/at_what_portfolio_size_did_the_dividend_snowball/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785307721,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9o4q1",
+      "title": "How to manage a large 401k inheritence",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9o4q1/how_to_manage_a_large_401k_inheritence/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785307135,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660286813",
+      "title": "$AAPL what a coaster. Some richy sold 2 billion at eod. Maybe that&#39;s telling something or just taking profits to not gamble on earnings/fed decision?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T06:28:11Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9nvts",
+      "title": "Has Bitcoin changed the way you invest?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9nvts/has_bitcoin_changed_the_way_you_invest/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785306328,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660286752",
+      "title": "Meta EPS Preview: Can AI Monetization Justify Soaring CAPEX? $META $GOOGL $AMZN $SNAP $TSLA https://talkmarkets.com/article/meta-eps-preview-can-ai-monetization-justify-soaring-capex-1785306221",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T06:24:15Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660286563",
+      "title": "$SMCI $NVDA $DELL Why do you think in the last few quarters SMCI has had higher institutional inflows than outflows, meanwhile DELL has had higher institutional outflows than inflows? \n \nGuess who their betting on?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T06:12:51Z",
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9n9gc",
+      "title": "What\u2019s the best crypto API for a trading bot that runs 24/7?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9n9gc/whats_the_best_crypto_api_for_a_trading_bot_that/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785304357,
+      "first_seen_utc": 1785314269
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660286194",
+      "title": "Good morning, traders. \ud83d\udcca Today&#39;s Daily Technical Videos are now available in the membership area. Stay informed with our latest market insights: https://elliottwave-forecast.com/?fpr=vlada14 \n \n#ElliottWave #Trading $SPX $NQ_F $DAX $BTC.X $ETH.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T05:51:42Z",
+      "first_seen_utc": 1785314269
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -52,7 +206,7 @@
       "id": "660285764",
       "title": "$DIA $QQQ $BTC.X $SPY $DJIA Is God not mentally handicapped?",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-07-29T05:28:29Z",
       "first_seen_utc": 1785304306
