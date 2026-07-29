@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-07-29T11:26:15.453169+00:00",
-  "count": 2343,
+  "generated_at": "2026-07-29T14:05:15.935659+00:00",
+  "count": 2368,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660311819",
+      "title": "$BB what could see the stock rise? Beta programs announced by $NVDA users with functional safety? A deeper relationship with $AMD? Alloy Kore sale? Anything else?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T14:00:22Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660311759",
+      "title": "$NVDA \nI wonder if Jensen is gonna come out and tell everybody to buy the dip ?! LOL what a total fuck !!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T14:00:07Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660311714",
+      "title": "$USO tip: every time oil dips you should buy, NOT RELEASE your position. See post from 3/26/2026. This has been an extremely easy trade from 70 since my signal last summer 2025. Not sure why people hurt themselves getting scared by fake news? You don\u2019t trust the crazy rich Asians and their armies of taxlawyers and hedge fund managers (in terms of investing)? @LetsGoMets107 @Khalifha @TaoistTrader $SPY",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:59:47Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660311466",
+      "title": "$SPY any other countries on Planet Earth I have to pay attn to while trading the AMERICAN market? Bangladesh? Ivory Coast? anything",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:58:49Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660311286",
+      "title": "$AAPL more and more people leaving Apple by the minute and then price increases? Seems like a bad decision to be now getting into this",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:58:01Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660311209",
+      "title": "$SPY $QQQ $MU $NVDA &lt;&lt;&lt;The market is expecting the fed will hold the rate, isn&#39;t it? DOW FUT is -650... geez, NAS FUT -230",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:57:46Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660310480",
+      "title": "@Checkburner @unix_007 We\u2019ve been here before, haven\u2019t we?! Simply because $AAPL  is one of the best run companies does not preclude it from corrections. And it is long overdue for one.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:54:44Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660310251",
+      "title": "$AAPL what is going on with scam?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:53:50Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660310099",
+      "title": "$AAPL still getting punished from July 27?  LOL. And he wants people to subscribe to his discord. LOL. No credibility.   Do not give this clown your money",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:53:13Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660309610",
+      "title": "$AAPL who listened to this idiot?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:50:56Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660308252",
+      "title": "$BTC.X   $ETH.X \n\nThe last Fed decision on June 17 kept rates unchanged. \n\nEven then, Bitcoin dropped to a low of $58,147 over the next 8 days.  \n\nWhere do you think $BTC.X goes today?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:44:28Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660306545",
+      "title": "$BANK.X $BTC.X How did Bank survive BTC dip? Unbelievable bullshit.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T13:36:12Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1v9w3en",
+      "title": "401k withdrawal to pay off car loan?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v9w3en/401k_withdrawal_to_pay_off_car_loan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785331381,
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9vxji",
+      "title": "Should we keep life insurance policies?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9vxji/should_we_keep_life_insurance_policies/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785330985,
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1v9vniq",
+      "title": "Take out a loan for my mom?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1v9vniq/take_out_a_loan_for_my_mom/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785330325,
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660301565",
+      "title": "$BTC.X The Recent Buy Signal Is Still Holding, And That\u2019s Exactly How the System Is Designed \n \nThe current buy signal on Bitcoin is still active \u2014 and that\u2019s not unusual at all. The way this system is built, each cycle\u2011of\u2011trades can generate up to 10 buy alerts, but only one sell. That\u2019s intentional. \n \nWhy? Because Bitcoin doesn\u2019t move in a straight line. It moves in waves, pullbacks, volatility expansions, and re\u2011accumulation phases. A single trend can offer multiple clean re\u2011entry points, and the system is designed to capture all of them without prematurely exiting. \n \nWhat this means for us traders - we don\u2019t need to chase. We don\u2019t need to guess tops or bottoms. We don\u2019t need to worry if we missed the first alert. \n \nIf the trend continues, the system will keep presenting structured opportunities \u2014 each one aligned with volatility, momentum, and cycle behavior. \n \nWhy multiple buys and one sell works.  \nA trend often has: early\u2011trend breakouts, mid\u2011trend pullbacks, late\u2011trend accelerations, consolidation resets, volatility squeezes, and continuation patterns. \n \nEach of these can produce a valid buy alert. But the exit only fires when the entire cycle completes \u2014 not when a single pullback occurs. \n \nThat\u2019s why the current buy is still holding. The cycle hasn\u2019t finished. \n \nBottom line for you and me \nBitcoin is still in its active buy phase. And if history is any guide, there will be more opportunities \u2014 because the system is built to recognize every legitimate re\u2011entry within the same trend, while keeping the exit clean and singular.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T12:54:53Z",
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v9tf5p",
+      "title": "If you had to start investing today with $10,000, knowing everything you know now, what would you do differently?",
+      "url": "https://www.reddit.com/r/investing/comments/1v9tf5p/if_you_had_to_start_investing_today_with_10000/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785324394,
+      "first_seen_utc": 1785333915
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -166,6 +353,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T09:52:40Z",
       "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v9quzs",
+      "title": "65% gold share in portfolio - how to rebalance ?",
+      "url": "https://www.reddit.com/r/investing/comments/1v9quzs/65_gold_share_in_portfolio_how_to_rebalance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785316386,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "reddit",
@@ -529,6 +727,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T04:10:27Z",
       "first_seen_utc": 1785304306
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1v9l64j",
+      "title": "Best way to approach my $28k debt?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1v9l64j/best_way_to_approach_my_28k_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785297997,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "stocktwits",
@@ -1720,6 +1929,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v948ka",
+      "title": "Why do so many people believe 'Mag 7' companies in 2050 do not exist yet ?",
+      "url": "https://www.reddit.com/r/investing/comments/1v948ka/why_do_so_many_people_believe_mag_7_companies_in/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785257816,
+      "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
       "subreddit": "stocks",
       "id": "1v947zs",
       "title": "Why do so many people believe 'Mag 7' companies in 2050 do not exist yet ?",
@@ -1728,6 +1948,17 @@
       "num_comments": 0,
       "created_utc": 1785257779,
       "first_seen_utc": 1785266448
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v943te",
+      "title": "What is your monthly investment plan?",
+      "url": "https://www.reddit.com/r/investing/comments/1v943te/what_is_your_monthly_investment_plan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785257525,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "reddit",
@@ -1750,6 +1981,17 @@
       "num_comments": 0,
       "created_utc": 1785256983,
       "first_seen_utc": 1785266448
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v93qgo",
+      "title": "I lost 3k in stocks and options, how do I come back from this?",
+      "url": "https://www.reddit.com/r/investing/comments/1v93qgo/i_lost_3k_in_stocks_and_options_how_do_i_come/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785256727,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "stocktwits",
@@ -1884,6 +2126,17 @@
       "first_seen_utc": 1785256935
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v93ayd",
+      "title": "How would you rate my portfolio?",
+      "url": "https://www.reddit.com/r/investing/comments/1v93ayd/how_would_you_rate_my_portfolio/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785255803,
+      "first_seen_utc": 1785333915
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660218942",
@@ -1970,6 +2223,17 @@
       "num_comments": 0,
       "created_utc": 1785254512,
       "first_seen_utc": 1785256935
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v920p9",
+      "title": "how much would you realistically pay for software that gave you hedge fund tools?",
+      "url": "https://www.reddit.com/r/investing/comments/1v920p9/how_much_would_you_realistically_pay_for_software/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785253050,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "stocktwits",
@@ -2542,6 +2806,17 @@
       "num_comments": 0,
       "created_utc": 1785229775,
       "first_seen_utc": 1785237463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1v8sjh0",
+      "title": "Are bond investors getting nervous about AI spending before stock investors?",
+      "url": "https://www.reddit.com/r/investing/comments/1v8sjh0/are_bond_investors_getting_nervous_about_ai/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785228600,
+      "first_seen_utc": 1785333915
     },
     {
       "source": "stocktwits",
