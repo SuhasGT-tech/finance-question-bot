@@ -1,7 +1,348 @@
 {
-  "generated_at": "2026-07-29T16:22:04.156591+00:00",
-  "count": 2389,
+  "generated_at": "2026-07-29T19:13:06.204731+00:00",
+  "count": 2427,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660364785",
+      "title": "$NVDA warned that it might drop $1? \ud83d\ude44",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:08:26Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660364738",
+      "title": "Will SK wake up and sell a crap load of today&#39;s Tech pop to lead the way?\n$SPY $SKHY $MU $NVDA $QQQ",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:08:07Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660364620",
+      "title": "$AAPL unmm are you gonna at least close green??",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:07:22Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660364141",
+      "title": "$NVDA wow what a turd ?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:04:31Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660364113",
+      "title": "$SPY $QQQ $SMCI $NVDA \n\nHow many more days of blood in tech?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:04:21Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660363962",
+      "title": "$SPY $XRP.X $BTC.X \nhttps://youtu.be/PvLhilBG304?is=Lu06nbbzucBDNB7W",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:03:32Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660363895",
+      "title": "$AAPL this is 41P/E, who&#39;s buying?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:03:12Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va5lnr",
+      "title": "Better Money Habits - Where Do I Go Next?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va5lnr/better_money_habits_where_do_i_go_next/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785351727,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660363446",
+      "title": "$NVDA $200 Into close?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T19:00:49Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660363251",
+      "title": "$NVDA when green?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:59:49Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1va5i16",
+      "title": "Anyone else noticing the ETH/BTC ratio behavior lately, or am I just staring at charts too long?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1va5i16/anyone_else_noticing_the_ethbtc_ratio_behavior/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785351522,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1va5hjm",
+      "title": "Anyone know how I can make $3,751.31 in 12 days?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1va5hjm/anyone_know_how_i_can_make_375131_in_12_days/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785351493,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va5g2w",
+      "title": "How can I find personal assets without using a private financial investigator?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va5g2w/how_can_i_find_personal_assets_without_using_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785351407,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660362629",
+      "title": "$BTC.X ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:56:42Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660361947",
+      "title": "$BFLY + Science Corp + Sanchez? The overlap is hard to ignore. Ultrasound-on-Chip meets the future of brain interfaces. \ud83d\udc40. $MDT $ARKG $AAPL",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:53:22Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660361443",
+      "title": "$DJT Demoncratic party holding Trump agenda like clarity act, their reasoning is Trump might made few billions. Trump just playing by the current rule of law right? its very open. \n \nBut how come the DEMONCRATIC party close their eyes on Nancy Pelosi insider trading, the deals made by the obamas, clintons, bidens and so many demoncratic politicians, THE DEMONCRATS made Enron Musk the richest man on earth NO COMPLAIN. \n \nRight now the DEMONCRATIC PARTY sabotaging Trump economic agenda simply because they don&#39;t like Trump to gain few billion dollars (by playing rule). The Demoncratic party holding our economy hostage simply because they don&#39;t like Trump to gain and be successful. \n \nI DON&#39;T GET IT. USA is not only about 1 person BUT the DEMONCRATIC PARTY sacrificing the whole country because they hate to see A smart SUCCESSFUL HANDSOME LOOKING white president succeed but love to see a brain dead White president Biden &gt;REVERSE RACISM in disguise some don&#39;t get it. $AAPL $GOOGL $MSFT $NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:50:45Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660360017",
+      "title": "$BTC.X Gotta scoop up every last coin before we move up? At some the accumulation has to end and we actually move otherwise there isn\u2019t a point for all the obvious accumulation down here to happen.\n\nEvery sweep is just another confirmation.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:43:28Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660359710",
+      "title": "$AAPL \n\nThey broke the $SPY page?\n\nInteresting vote \n\nSeems like rates should go up but too many afraid of donold",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:41:46Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660359048",
+      "title": "$GCTS  who is $AMZN biggest satillite customer??? Oh yeah $AAPL!!! \n\nSo if our biggest customer is Amazon and their biggest customer is Apple\u2026  \n\nhmmmm YOU DO THE MATH HERE\u2026..",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:37:42Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660358494",
+      "title": "$AAPL is framing UK App Store rules as government-mandated price controls. The hard part is not the legal wording, it&#39;s whether a local precedent turns into a global read-through for the software ecosystem.  \n \nApple is defending its take-rate and control model while regulators push harder on platform fees and distribution terms. That is a direct mismatch between policy risk and valuation multiple, with the street still treating services as a clean-margin engine.  \n \nThe gap is simple: does the UK stay isolated, or does this become the template for broader intervention?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:33:56Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660358415",
+      "title": "$BTC.X $MSTR Sure about that? \ud83d\ude44",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-29T18:33:25Z",
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va4kc3",
+      "title": "Should I take out my IRA contributions?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va4kc3/should_i_take_out_my_ira_contributions/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785349554,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va468q",
+      "title": "Is it possible I am paying too much in escrow on my mortgage?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va468q/is_it_possible_i_am_paying_too_much_in_escrow_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785348729,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1va3m61",
+      "title": "Let's keep it simple: I lost all my gains from this year (holding, not selling). Am I F'd?",
+      "url": "https://www.reddit.com/r/stocks/comments/1va3m61/lets_keep_it_simple_i_lost_all_my_gains_from_this/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785347551,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va3j65",
+      "title": "Why so much premium difference within same company ?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va3j65/why_so_much_premium_difference_within_same_company/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785347375,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1va33md",
+      "title": "What are some genuinely useful ways to earn Bitcoin in 2026 without buying more?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1va33md/what_are_some_genuinely_useful_ways_to_earn/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785346472,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1va31xc",
+      "title": "Wife wants to see doctor but we don\u2019t have insurance; any ideas?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1va31xc/wife_wants_to_see_doctor_but_we_dont_have/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785346369,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va2pqd",
+      "title": "Retirement Income - How do I know how much is enough?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va2pqd/retirement_income_how_do_i_know_how_much_is_enough/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785345662,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1va23jx",
+      "title": "Vehicle broke down, no transportation and little to no money left. What can I do for a rental?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1va23jx/vehicle_broke_down_no_transportation_and_little/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785344391,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va1jl1",
+      "title": "Car buying advise - new or used?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va1jl1/car_buying_advise_new_or_used/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785343217,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1va1ffv",
+      "title": "(USA) How can I access treasury bonds made for me as a child?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1va1ffv/usa_how_can_i_access_treasury_bonds_made_for_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785342975,
+      "first_seen_utc": 1785352386
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -234,6 +575,28 @@
       "first_seen_utc": 1785342124
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9ypre",
+      "title": "Why?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9ypre/why/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785337296,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1v9xflp",
+      "title": "What is really behind the recent AI semiconductor selloff? Is the AI trade over?",
+      "url": "https://www.reddit.com/r/stocks/comments/1v9xflp/what_is_really_behind_the_recent_ai_semiconductor/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785334472,
+      "first_seen_utc": 1785352386
+    },
+    {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "660311819",
@@ -254,6 +617,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T14:00:07Z",
       "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1v9x1eo",
+      "title": "Is there a formula for measuring opportunity cost?",
+      "url": "https://www.reddit.com/r/stocks/comments/1v9x1eo/is_there_a_formula_for_measuring_opportunity_cost/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785333595,
+      "first_seen_utc": 1785352386
     },
     {
       "source": "stocktwits",
@@ -298,6 +672,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T13:57:46Z",
       "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1v9wx5o",
+      "title": "what\u2019s actually on your buy list right now?",
+      "url": "https://www.reddit.com/r/stocks/comments/1v9wx5o/whats_actually_on_your_buy_list_right_now/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785333330,
+      "first_seen_utc": 1785352386
     },
     {
       "source": "stocktwits",
@@ -408,6 +793,28 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T12:54:53Z",
       "first_seen_utc": 1785333915
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9u9m1",
+      "title": "Fellow European Ledger Leak victims, did you know that what happened to you after the leak was just glimpse on what is comming at you since DAC8 laws are in place?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9u9m1/fellow_european_ledger_leak_victims_did_you_know/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785326723,
+      "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9tspk",
+      "title": "Jup better off with or without clarity ?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9tspk/jup_better_off_with_or_without_clarity/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785325454,
+      "first_seen_utc": 1785352386
     },
     {
       "source": "reddit",
@@ -562,6 +969,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T10:04:57Z",
       "first_seen_utc": 1785324375
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1v9rm30",
+      "title": "How do you see agentic commerce evolving on blockchain in the years ahead?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1v9rm30/how_do_you_see_agentic_commerce_evolving_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785318903,
+      "first_seen_utc": 1785352386
     },
     {
       "source": "stocktwits",
