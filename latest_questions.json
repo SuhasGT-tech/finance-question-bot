@@ -1,7 +1,326 @@
 {
-  "generated_at": "2026-07-30T02:05:43.263485+00:00",
-  "count": 2491,
+  "generated_at": "2026-07-30T05:40:12.190998+00:00",
+  "count": 2527,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660425668",
+      "title": "$BTC.X sell to end the week?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:35:08Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660425651",
+      "title": "$TSLA Trading below $300 major support /  resistance overseas. Tomorrow?\nFriday $275\nOct $40\nGood evening.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:34:33Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660425578",
+      "title": "$SPY $QQQ  $IWM I\u2019m curious Do you swipe the buy and sell buttons more now that the PDT is gone?  It would be crazy if Retail inadvertently tanked the market themselves because they\u2019re scalping more. More people able to sell which is leading to larger red candles, which is leading to panic selling, now that the PDT rule is gone. There\u2019s a guy on discord that claims his bot discovered this is happening while studying order patterns. I\u2019m curious if there\u2019s any weight to this.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:31:12Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660425561",
+      "title": "$SPY &gt;&gt; Daily Chart &gt;&gt; \n \nlook how the recent low of day types closes were followed by bounces \n \n3 in a row / will tomorrow be number 4? \n \n$SPX $ES_F futures are up tonight  \n \nthe low of day close well below the lower Bollinger Band is usually a good bounce play setup for a quick trade, but it takes balls to load when everyone is dumping",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:30:29Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660425176",
+      "title": "$SPY London save this before US markets open?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:13:31Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660425129",
+      "title": "$SPY All I ask for is a test to $736. Then you can drop the floor. It&#39;s that to much to ask for?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T05:11:17Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vajyxc",
+      "title": "MSFT vs GOOG given their recent earnings?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vajyxc/msft_vs_goog_given_their_recent_earnings/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785387772,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660424742",
+      "title": "$BTC.X  Serious? Does Bitcoin really have to gain at least 5% to Be Considered Ripping?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T04:53:45Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vajpqq",
+      "title": "If a city-run grocery store could cut your grocery bill, would you shop there?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vajpqq/if_a_cityrun_grocery_store_could_cut_your_grocery/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785387001,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660423959",
+      "title": "$SPCX $TSLA \n\nHow can Enron Musk fraud I mean run businesses when he cant even get out od his K hole? Some call his a KKK AHole, some being me.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 7,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T04:23:55Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vaj7eq",
+      "title": "Whats the best HYSA thats actually a real bank with FDIC insurance?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vaj7eq/whats_the_best_hysa_thats_actually_a_real_bank/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785385407,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vaj4fp",
+      "title": "Best dividend etfs for my needs?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vaj4fp/best_dividend_etfs_for_my_needs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785385159,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660423657",
+      "title": "$BTC.X W DB \ud83d\ude4c ---&gt; \u2615\ufe0f?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T04:12:48Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vaiy3l",
+      "title": "Lazy Post - Anyone care to explain how this AI capex is being kept off balance sheet by the hyper scalers?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vaiy3l/lazy_post_anyone_care_to_explain_how_this_ai/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785384629,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660423386",
+      "title": "$SPY $MU $SNDK $TSLA $DJT \nWait what what happened WHAT THE \u2026 what now what ????",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 10,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T04:03:02Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660423366",
+      "title": "$DIA $QQQ $SPY $BTC.X $DJIA what is wrong with you clowns?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T04:02:31Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660423274",
+      "title": "$TSLA why is this stuck at 299.xx?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:58:31Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660423000",
+      "title": "$AAPL given the stength, $360 a slam dunk?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:48:38Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660422899",
+      "title": "$SMCI $NVDA $MU $AMD $INTC So if data centre developers are poaching investment bankers, what does that mean for data centre infra, are we going to see likely even greater increased investments? \n \nhttps://www.afr.com/companies/financial-services/investment-bankers-jump-ship-as-data-centre-talent-war-heats-up-20260728-p60j7f",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:45:17Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vaifb9",
+      "title": "Any ideas ?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vaifb9/any_ideas/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785383113,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660422757",
+      "title": "$TSLA 276 open?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:41:23Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660421959",
+      "title": "$TSLA for everyone who thinks this is going to the resistance at 289 with no DCB, why would the major players go to a specific number that the dumb money is counting on? If I were the smart money I\u2019d go to the low 90\u2019s and break a lot of stop losses, then never let it get to 289, so that the dumb money misses the ride up. I\u2019m pretty comfy with 20 shares sitting under 300 right now. Will add more if it actually does go to 289, but I\u2019m betting it doesn\u2019t.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:17:45Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vahtco",
+      "title": "Using money market accounts or equivalent as checking?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vahtco/using_money_market_accounts_or_equivalent_as/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785381340,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660421592",
+      "title": "$SPY noone cares that he was begging to go to Epstein island??? $TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T03:09:30Z",
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vah9r6",
+      "title": "20k underwater on a car with a $1,122 payment, making $1,200 bi-weekly. Is Chapter 7 my best exit?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vah9r6/20k_underwater_on_a_car_with_a_1122_payment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785379812,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vah8t6",
+      "title": "Will MSFT and Samsung finally be a catalyst for SNDK and MU recovery? I think they just might.. what's your take?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vah8t6/will_msft_and_samsung_finally_be_a_catalyst_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785379734,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vagv8z",
+      "title": "Rollover Pre-Tax Annuity to my Roth IRA?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vagv8z/rollover_pretax_annuity_to_my_roth_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785378690,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vagg26",
+      "title": "Do banks secretly penalize you if you pay during grace period?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vagg26/do_banks_secretly_penalize_you_if_you_pay_during/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785377550,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vagcpx",
+      "title": "Best HYSA options out there right now?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vagcpx/best_hysa_options_out_there_right_now/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785377299,
+      "first_seen_utc": 1785390012
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -111,6 +430,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T01:49:53Z",
       "first_seen_utc": 1785377143
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vafwjb",
+      "title": "Has anyone successfully gone to Los algodones for dental work without a passport?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vafwjb/has_anyone_successfully_gone_to_los_algodones_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785376082,
+      "first_seen_utc": 1785390012
     },
     {
       "source": "stocktwits",
@@ -246,6 +576,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vaditc",
+      "title": "I need advice. I recently lost both my jobs and came home to a 30 day notice to vacate. Rent is due tomorrow. Do I pay it?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vaditc/i_need_advice_i_recently_lost_both_my_jobs_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785369737,
+      "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vacpzu",
       "title": "How do I start a retirement account?",
@@ -309,6 +650,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T23:05:38Z",
       "first_seen_utc": 1785377143
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vabngl",
+      "title": "Buy the dips now or after midterms ?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vabngl/buy_the_dips_now_or_after_midterms/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785365113,
+      "first_seen_utc": 1785390012
     },
     {
       "source": "reddit",
@@ -540,6 +892,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-29T21:07:59Z",
       "first_seen_utc": 1785362471
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1va8t5n",
+      "title": "Would a fidelity advisor tell me something just to get me to sign up for their management services?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1va8t5n/would_a_fidelity_advisor_tell_me_something_just/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785358567,
+      "first_seen_utc": 1785390012
     },
     {
       "source": "reddit",
@@ -850,6 +1213,17 @@
       "first_seen_utc": 1785352386
     },
     {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1va53xe",
+      "title": "Annuities are bad \u2026 right?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1va53xe/annuities_are_bad_right/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785350708,
+      "first_seen_utc": 1785390012
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660360017",
@@ -914,6 +1288,17 @@
       "num_comments": 0,
       "created_utc": 1785349554,
       "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1va4j4u",
+      "title": "Saved 100k How should I invest it?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1va4j4u/saved_100k_how_should_i_invest_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785349484,
+      "first_seen_utc": 1785390012
     },
     {
       "source": "reddit",
@@ -991,6 +1376,17 @@
       "num_comments": 0,
       "created_utc": 1785344391,
       "first_seen_utc": 1785352386
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1va1slj",
+      "title": "Mutual Fund or Mortgage Payoff?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1va1slj/mutual_fund_or_mortgage_payoff/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785343744,
+      "first_seen_utc": 1785390012
     },
     {
       "source": "reddit",
