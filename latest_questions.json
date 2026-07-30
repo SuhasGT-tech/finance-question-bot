@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-07-30T11:07:46.264248+00:00",
-  "count": 2568,
+  "generated_at": "2026-07-30T13:54:48.758169+00:00",
+  "count": 2579,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660449854",
+      "title": "$NVDA what are we doung today?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T13:45:49Z",
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660449312",
+      "title": "$NVDA WTF ??",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T13:39:20Z",
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660448489",
+      "title": "$NVDA wasn\u2019t this just 194.5?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T13:33:17Z",
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vatrmp",
+      "title": "Should I refinance a loan from 12.55% to 10.42%?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vatrmp/should_i_refinance_a_loan_from_1255_to_1042/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785418326,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vatpoy",
+      "title": "What are the best High yield savings accounts with no barriers for entry?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vatpoy/what_are_the_best_high_yield_savings_accounts/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785418196,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vasdl4",
+      "title": "Tips for new college grad?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vasdl4/tips_for_new_college_grad/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785414825,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1varxse",
+      "title": "Life Insurance Recommendations?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1varxse/life_insurance_recommendations/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785413686,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1varn47",
+      "title": "What quality compounders fit this portfolio?",
+      "url": "https://www.reddit.com/r/stocks/comments/1varn47/what_quality_compounders_fit_this_portfolio/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785412884,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1varf8i",
+      "title": "Roth IRA - what\u2019s the best one?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1varf8i/roth_ira_whats_the_best_one/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785412288,
+      "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1var269",
+      "title": "BHG Personal Loan - 2026?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1var269/bhg_personal_loan_2026/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785411226,
+      "first_seen_utc": 1785419688
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -122,6 +232,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T10:34:17Z",
       "first_seen_utc": 1785409666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vapsbe",
+      "title": "Stay with Wealthfront or move to Fidelity?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vapsbe/stay_with_wealthfront_or_move_to_fidelity/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785407291,
+      "first_seen_utc": 1785419688
     },
     {
       "source": "stocktwits",
