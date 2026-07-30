@@ -1,7 +1,315 @@
 {
-  "generated_at": "2026-07-30T19:23:45.806776+00:00",
-  "count": 2642,
+  "generated_at": "2026-07-30T22:11:37.723910+00:00",
+  "count": 2676,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660529190",
+      "title": "$AMZN $NVDA $META $MSFT  \n \nSo do we see $270+ tomorrow?  I think that is quite likely!  What a fun ride today. for those shorting name incl this, $NVDA $META and $MSFT?  A friendly suggestion: study this book by reading it a few times... take lots of notes fixated on revenue and earnings growth and geberation of cash flow... \n \nAnd for all the quanturds and so-called analysts wetting themselves over FCF and capex?  All of you need to wake up and smell the coffee -- some of the smarter folks running some of the best strategically-positioned companies and having the most durable and stronest balance sheets believe they should be aggressively investing in capital equipment, data centers and other assets supporting long-term growth vs say paying dividends and buying in stock aggressively just now?  File that thinking under this header: \n \n&quot;This is what retards are thinking about right now. \n \nIn the meantime, as the momo meme names shit themselves, where is the residual capital landing?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:07:42Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660529023",
+      "title": "$AAPL \ud83d\ude06 \ud83e\udd23 \ud83d\ude02  40PE on that? \ud83d\ude06 \ud83e\udd23 \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:06:08Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528922",
+      "title": "Yesterday, we predicted today\u2019s market potential \u2013 and that\u2019s exactly what unfolded! $SPX not only rebounded sharply from the crucial 7294 support, but it also surged beyond the 7344 level during the day. This set the stage for today\u2019s impressive rally, with SPX finishing up 1.66% and marking highs at 7448.75. $SPY $ES_F \n \nWith such robust volume backing today\u2019s move, what exactly will tomorrow bring? We have key data releases on PMI, inflation, and consumer sentiment to look out for. Plus, any developments from the White House or the Middle East might significantly influence how the markets react. Trust the levels as we navigate these uncertain waters together. \n \nJoin our community to learn and engage \u2013 let&#39;s trade with confidence and precision!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:05:17Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660528907",
+      "title": "$AAPL mobile gaming revenue?  ; lol Apple doesn\u2019t give a shit about that",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:05:09Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528814",
+      "title": "$QQQ now up 4% from yesterdays close and 5% from the low last night are you not entertained!? MASSIVE \n \n$SPY",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:04:21Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660528805",
+      "title": "$AAPL What the hell are you talking about? You think the stock market operates on emotional send-offs? Apple is overvalued! It\u2019s a company. Probably the best of all. But the valuation is stretched.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:04:18Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528789",
+      "title": "$SPY Why today SPY +1,6% with all the AI shit up at least 10%? What happened? This is a scam market, crazy",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:04:10Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528595",
+      "title": "$SPY whens the next round of war news coming. Seems awfully quiet. Keeping stuff tucked away from the public??",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:02:07Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660528592",
+      "title": "People? Is there not a DISPARITY between T 3 Defense&#39;s: $DFNS  common stock and it&#39;s  Warrabt/s? .... DFNSW? ..... ???? ..... $NVDA .... $MSFT ..",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:02:05Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528465",
+      "title": "$SPY $SPX $ES_F\n\n$SPX recovers key levels triggering massive squeeze higher. Where must $SPY hold now?\n\nhttps://letter.spyoptionsactionablelevels.com/p/friday-july-31-2026-spy-spx-es-actionable-levels",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T22:00:59Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb7oiq",
+      "title": "Is it worth maxing out my Roth 401(k), or should I only contribute enough to get the full match?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb7oiq/is_it_worth_maxing_out_my_roth_401k_or_should_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785448799,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vb7oek",
+      "title": "Taxes and insurance taught?",
+      "url": "https://www.reddit.com/r/tax/comments/1vb7oek/taxes_and_insurance_taught/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785448792,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528255",
+      "title": "$SPY $QQQ $DRAM.X $BE this is absolutely what happened and Citadel should be prosecuted. WHO TF IS WORKING AT THE SEC???",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:59:10Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vb7nnb",
+      "title": "Investing advice?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vb7nnb/investing_advice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785448742,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660528096",
+      "title": "$SPY $QQQ $AAPL $BRCM here we go with that bullshit !!! lol \ud83d\ude02 AGREED ON WHAT EXACLY - let me guess - is it AI ??? \ud83e\udd16 THEY JUST KEEP PASSING THE HAT AROUND TO EACH OTHER !!! always the same trash companies",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:57:51Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660527505",
+      "title": "$BTC.X Anyone use coldcard? Looks like coldcard hardware wallets got hacked, 600 bitcoin stolen so far!!\n\ni use coldcard \ud83d\ude4f",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:52:42Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660526616",
+      "title": "$NVDA mfker go to school to learn basic math, are you smoking 20% you pos???? gtfo piece of shit",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:45:25Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660526040",
+      "title": "$GRAM.X $BTC.X Telegram has over 1B monthly users and they\u2019re about to release a non-custodial wallet to all users? \ud83d\udc4c\ud83c\udffb",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:41:13Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vb777l",
+      "title": "Should I go all in on QQQI",
+      "url": "https://www.reddit.com/r/dividends/comments/1vb777l/should_i_go_all_in_on_qqqi/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785447672,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660525307",
+      "title": "$MU 1000$ before friday ? \n \n$SNDK  \n$MRVL  \n$NVDA poor guy always at 200$",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:35:59Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb6les",
+      "title": "How to optimize 401k-to-roth conversion vs cap gains realization",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb6les/how_to_optimize_401ktoroth_conversion_vs_cap/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785446276,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660522524",
+      "title": "$BTC.X $ETH.X $MSTR \n\nhttps://x.com/eleanorterrett/status/2082929391928307822?s=46",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T21:16:02Z",
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb64sj",
+      "title": "Am I doing the right thing or am I missing something glaringly obvious?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb64sj/am_i_doing_the_right_thing_or_am_i_missing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785445232,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vb60eo",
+      "title": "Refund deposited, but still no CP565 or original passport after W-7 application. Has anyone experienced this?",
+      "url": "https://www.reddit.com/r/tax/comments/1vb60eo/refund_deposited_but_still_no_cp565_or_original/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785444960,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb5yie",
+      "title": "How Much Should I Be Paying For Rent?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb5yie/how_much_should_i_be_paying_for_rent/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785444844,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb5nyq",
+      "title": "Moving to France, should I keep using my American CC/bank for points or transfer everything to a bank there?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb5nyq/moving_to_france_should_i_keep_using_my_american/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785444201,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vb4yv1",
+      "title": "How much to withold?",
+      "url": "https://www.reddit.com/r/tax/comments/1vb4yv1/how_much_to_withold/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785442697,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb3umc",
+      "title": "Need short term cash. Sell stocks or borrow against it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb3umc/need_short_term_cash_sell_stocks_or_borrow/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785440262,
+      "first_seen_utc": 1785449497
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -367,6 +675,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vazclc",
+      "title": "What can I expect to file next year for a life insurance death benefit payout?",
+      "url": "https://www.reddit.com/r/tax/comments/1vazclc/what_can_i_expect_to_file_next_year_for_a_life/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785430677,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
       "subreddit": "dividends",
       "id": "1vazcbv",
       "title": "Thoughts on MO after today?",
@@ -518,6 +837,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T16:14:03Z",
       "first_seen_utc": 1785428861
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vaxz9i",
+      "title": "is there a way to file USA taxes electronically for 2016 years onwards?",
+      "url": "https://www.reddit.com/r/tax/comments/1vaxz9i/is_there_a_way_to_file_usa_taxes_electronically/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785427737,
+      "first_seen_utc": 1785449497
     },
     {
       "source": "stocktwits",
@@ -738,6 +1068,17 @@
       "num_comments": 0,
       "created_utc": 1785418196,
       "first_seen_utc": 1785419688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vatc1f",
+      "title": "Is the hate toward tax relief companies actually warranted or does Reddit just love a villain?",
+      "url": "https://www.reddit.com/r/tax/comments/1vatc1f/is_the_hate_toward_tax_relief_companies_actually/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785417261,
+      "first_seen_utc": 1785449497
     },
     {
       "source": "reddit",
@@ -1555,6 +1896,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vah3xa",
+      "title": "How to respond to CP2000 Notice where employer is withdrawing incorrect W2",
+      "url": "https://www.reddit.com/r/tax/comments/1vah3xa/how_to_respond_to_cp2000_notice_where_employer_is/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785379361,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vagvkj",
+      "title": "Should I just file by myself next year?",
+      "url": "https://www.reddit.com/r/tax/comments/1vagvkj/should_i_just_file_by_myself_next_year/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785378715,
+      "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
       "subreddit": "FinancialPlanning",
       "id": "1vagv8z",
       "title": "Rollover Pre-Tax Annuity to my Roth IRA?",
@@ -1574,6 +1937,17 @@
       "num_comments": 0,
       "created_utc": 1785377550,
       "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vagdtx",
+      "title": "US citizen considering a NATO civilian job \u2014 does it matter if the posting is domestic vs. overseas for tax purps?",
+      "url": "https://www.reddit.com/r/tax/comments/1vagdtx/us_citizen_considering_a_nato_civilian_job_does/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785377380,
+      "first_seen_utc": 1785449497
     },
     {
       "source": "reddit",
