@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-07-30T08:23:15.016305+00:00",
-  "count": 2544,
+  "generated_at": "2026-07-30T11:07:46.264248+00:00",
+  "count": 2568,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vaqfz8",
+      "title": "Just realized I spent $120 this year on free trials I forgot to cancel. What's your system to catch these?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vaqfz8/just_realized_i_spent_120_this_year_on_free/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785409368,
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660433209",
+      "title": "$SPY ok what happens when PCE comes in on target, or high or low?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T11:02:20Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660433188",
+      "title": "$SPY +3% day?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T11:01:55Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660433141",
+      "title": "$SPY What time does sell off start today? \ud83d\ude0e",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T11:01:17Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660433098",
+      "title": "$SPY Is there another peace deal coming ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T11:00:24Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660432988",
+      "title": "$SPY https://youtu.be/DhPtRA7zieE?is=9im1FsAYeHfPQze6",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:58:47Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660432871",
+      "title": "Pre Market Stocks N Stuff Show at 7am\ud83c\udf99\ufe0f\n\n$SPY $QQQ $IWM \n\nLink \ud83d\udc47\n\nhttps://www.youtube.com/live/EDXMRvprgog?is=cX56oIUgpxCxhe0C",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:56:02Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660432803",
+      "title": "$SPY $QQQ $DJT $AMZN  \n \nMore Popcorn: \n \nI was wasting around $150-175 a month on energy drinks.  \nAre you doing this? Then you too are a dumbass. \ud83d\ude02 \n \nI start the day with green/black tea. I add 200mg of caffeine powder into the tea. I also put a couple of B12 tablets in the tea and let it dissolve. Great way to start the day! \ud83d\udc94 \n \nMuch cheaper and a hell of lot healthier than those energy drinks.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:54:14Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660432731",
+      "title": "$SPY $WMG  Complement each other like burgers and french fries \ud83c\udf54\ud83c\udf5f \nhttps://www.youtube.com/watch?v=tri-XBIc3So&amp;list=RDtri-XBIc3So&amp;start_radio=1",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:52:30Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660432672",
+      "title": "$SPY https://youtu.be/zJJEtBempG0?is=7NKhCMCnC0tD_ohK",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:51:13Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660431952",
+      "title": "$TSLA rotation starts?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:34:17Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660431440",
+      "title": "$TSLA lmao 311? Ok let\u2019s touch base eod",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T10:20:27Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vapi53",
+      "title": "Girlfriend can no longer work, what\u2019s the best way to lower my car loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vapi53/girlfriend_can_no_longer_work_whats_the_best_way/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785406367,
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660430575",
+      "title": "$RIVN Who are the most likely buyers for $RIVN?  Would they be $GOOGL holders? $TSLA holders? $AAPL investors? Who do you think would be interested?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T09:50:44Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660430528",
+      "title": "$MSFT $META $AMZN $AAPL $HOOD if you\u2019re playing earnings, this is a good watch:\n\nhttps://youtu.be/dG1VlZ6NCGQ?si=f5X_AFZhac1DIIHJ",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T09:48:29Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vaoi27",
+      "title": "Take a good, hard look in the mirror: Did you sell TGT in 2025?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vaoi27/take_a_good_hard_look_in_the_mirror_did_you_sell/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785403007,
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660429814",
+      "title": "$NVDA you missed this boom? That&#39;s almost impossible, but don&#39;t worry, you can still invest now!  \nOh wait you&#39;re already a bag holder? Ouch",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T09:16:02Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660429467",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nWhat happened? did London actually brew a decent cup of coffee for breakfast?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T08:59:15Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660429393",
+      "title": "$AAPL  ER will be a beat and successful imo. \n \nHowever, will the hedgies run for the hills after?  This is going up just to inverse semi/AI.   Semi/ai is extremely low right now.   They could bail even if earnings is extremely good.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T08:56:01Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660429219",
+      "title": "$SOUN Honest take. \n\nI do not hope for it  - BUT\u2026.\n\nI think $AAPL will buy $SOUN.\n\nApple bought Siri in 2010 and the are a Hardware company. \n\nRight now they are dependent on Gemini / is that a future strategy? \n\nThey have 150 Billion sitting in cash\u2026.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T08:49:20Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660429013",
+      "title": "$DJT Another IDiot republican former AG Barr  wrote in Washington Post on Wednesday that was coauthored by Kevin Sabet, CEO of the prohibitionist organization Smart Approaches to Marijuana\n\nSaying Weed has no medical benefits \ud83d\ude06 Well how about alcohol tobacco who are legal Do they have medical Benefits ? none they are bad for our health \ud83d\ude06\n\nI atest base on my personal experience Weed has lots of medical benefits... helping you sleep like a baby with indica strain of weed GOOD enough to make weed legal... Anything that you use excessively is bad for your health Anything \ud83e\udd73\n\nDo you know that if you take weed brownies at the right dose even help your sexual desire with hard erection ... It makes you relax and help you in your relaxation routine. how about CBD have much benefit joint back pain and makes you feel relax. \n\nweed if legal will eat the lunch of pharma alcohol opium These corrupt politicians like to  protect. $AAPL $GOOGL $CRON $TSLA",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-30T08:38:51Z",
+      "first_seen_utc": 1785409666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vankip",
+      "title": "How to budget 250 a week i receive for a training course, if im 18 and life with my parents",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vankip/how_to_budget_250_a_week_i_receive_for_a_training/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785399744,
+      "first_seen_utc": 1785409666
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -52,7 +294,7 @@
       "id": "660427681",
       "title": "Oh snap here we go again, who actually believed a peace deal would be done? \n$SPY $USO $QQQ $BTC.X $MU",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-07-30T07:33:28Z",
       "first_seen_utc": 1785399795
@@ -129,7 +371,7 @@
       "id": "660427102",
       "title": "Will $AAPL&#39;s new patents defy $5 trillion doubts? \n \nTim Cook\u2019s final earnings call hits this week. Valuation tests every AI and hardware claim. \n \nApple Upgrade locks recurring revenue. Broadcom deal runs to 2031. Ring and Glasses patents push into health and wearables. \n \nInnovation must now carry the multiple. \n \n$AAPL $AVGO $META \n \n#Apple #AAPL #AI #Patents #Earnings",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-07-30T06:55:53Z",
       "first_seen_utc": 1785399795
@@ -377,6 +619,17 @@
       "first_seen_utc": 1785390012
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vaik09",
+      "title": "How to buy Bitcoin in Australia",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vaik09/how_to_buy_bitcoin_in_australia/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785383485,
+      "first_seen_utc": 1785409666
+    },
+    {
       "source": "stocktwits",
       "symbol": "AAPL",
       "id": "660423000",
@@ -452,6 +705,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T03:09:30Z",
       "first_seen_utc": 1785390012
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vahkyb",
+      "title": "Brazil Tokenized 10 Cows on B3: Is It Really a Crypto Token?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vahkyb/brazil_tokenized_10_cows_on_b3_is_it_really_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785380677,
+      "first_seen_utc": 1785409666
     },
     {
       "source": "reddit",
