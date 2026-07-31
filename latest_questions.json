@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-07-30T22:11:37.723910+00:00",
-  "count": 2676,
+  "generated_at": "2026-07-31T02:32:06.078563+00:00",
+  "count": 2706,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660548454",
+      "title": "$AAPL If I miss I miss, but no way I touch this above 290. I actually won&#39;t add until under 200. What&#39;s the point in chasing such a small upside with a much larger downside around the corner?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:27:27Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660548394",
+      "title": "$SKHY $BE $MU $NVDA $AMD  \n \nThis MoFo blew up $45B fund????  \n.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:25:55Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660548308",
+      "title": "$SPY futures are schizophrenic.  idk.  this is moving differently than i remember a couple years ago.  or am i different? i can&#39;t really tell",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:23:25Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660548256",
+      "title": "$SPY $QQQ  it would be nice to have got some Capitulation and vix above 30 to make sure a true bottom is in like back in March. \nIs the bottom in for the year?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:22:23Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660548034",
+      "title": "$SPY $QQQ Aren\u2019t you bears exhausted?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:18:21Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660547968",
+      "title": "$SPY $QQQ will the market ever suffer from distrust due to algos. Is there a point where people just stop buying due to such destruction? Thoughts?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T02:17:10Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vbdkxc",
+      "title": "Traders who short BTC for last 3 quarters, how well do you make so far?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vbdkxc/traders_who_short_btc_for_last_3_quarters_how/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785463952,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vbdkiv",
+      "title": "Is EarnCrypto.com actually legit in 2026?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vbdkiv/is_earncryptocom_actually_legit_in_2026/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785463921,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660546689",
+      "title": "@adam1907 $AAPL  how low does she go at open?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T01:53:07Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660546043",
+      "title": "$DIA $QQQ $SPY $BTC.X $DJIA https://youtu.be/nIC4J7_Y9Ig?is=u8PLJATNWb0rhCuL",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T01:41:30Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbctwn",
+      "title": "How do i start with roughly 1.5 grand a month?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbctwn/how_do_i_start_with_roughly_15_grand_a_month/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785461935,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660545814",
+      "title": "$SPY $QQQ $BTC.X  Daily Recap &amp; Watchlist video is live! \n \n- AI Bottlenecks Rip as Leopold Liquidates \n- Mixed Mega Cap Earnings: AAPL Down AMZN Up \n- Oversold Bounce or New Uptrend? \n- Long Setups: DELL, HPE, DDOG etc. \n- Short Setups: ARKK, GEV, COST etc. \n \nhttps://youtu.be/xPzgZZGAFok",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T01:38:17Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660544571",
+      "title": "$NVDA Double beat on last earnings\ud83d\udc40\ud83d\ude80 Can we get our correction tomorrow?!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 6,
+      "num_comments": 0,
+      "created_utc": "2026-07-31T01:20:42Z",
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbbw3e",
+      "title": "How to deal with taxes and a bit of capital gains",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbbw3e/how_to_deal_with_taxes_and_a_bit_of_capital_gains/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785459398,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vbbv19",
+      "title": "Moving out of state with $100, any tips?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vbbv19/moving_out_of_state_with_100_any_tips/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785459319,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbbq07",
+      "title": "Should we pay our house off?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbbq07/should_we_pay_our_house_off/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785458935,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbbcj4",
+      "title": "Roth 401k or Traditional 401k?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbbcj4/roth_401k_or_traditional_401k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785457959,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vbazn6",
+      "title": "If BTC is worth so much, why don't the rich buy all the available BTC?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vbazn6/if_btc_is_worth_so_much_why_dont_the_rich_buy_all/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785456994,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbav02",
+      "title": "Trade-in car for EV or VELOC refi on current car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbav02/tradein_car_for_ev_or_veloc_refi_on_current_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785456659,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vbapy6",
+      "title": "Self-employed, hoping to buy my first home in 10-12 months. Will moving my down payment money into a HYSA cause problems with a bank statement loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vbapy6/selfemployed_hoping_to_buy_my_first_home_in_1012/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785456295,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb9oap",
+      "title": "Is there a rough, general percentage number for the savings from tax-loss harvesting? Assume my money is in a Schwab Intelligent Portfolio that automatically rebalances. 1%? More?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb9oap/is_there_a_rough_general_percentage_number_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785453665,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vb9n7p",
+      "title": "29 - considering selling a chunk from my brokerage to international travel more since I have saved aggressively when I was younger but now have the PTO but not the money?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb9n7p/29_considering_selling_a_chunk_from_my_brokerage/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785453592,
+      "first_seen_utc": 1785465126
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -225,6 +467,17 @@
     {
       "source": "reddit",
       "subreddit": "personalfinance",
+      "id": "1vb6mpp",
+      "title": "Am I doing okay financially, or am I worrying too much?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vb6mpp/am_i_doing_okay_financially_or_am_i_worrying_too/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785446354,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
       "id": "1vb6les",
       "title": "How to optimize 401k-to-roth conversion vs cap gains realization",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vb6les/how_to_optimize_401ktoroth_conversion_vs_cap/",
@@ -290,6 +543,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vb580g",
+      "title": "I dont wanna be on govt programs anymore even though I get a lot of money off them. help ?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vb580g/i_dont_wanna_be_on_govt_programs_anymore_even/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785443235,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vb57b9",
+      "title": "Anthropic IPO dead in the water after what happened this month?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vb57b9/anthropic_ipo_dead_in_the_water_after_what/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785443197,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
       "subreddit": "tax",
       "id": "1vb4yv1",
       "title": "How much to withold?",
@@ -301,6 +576,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vb42jc",
+      "title": "Did Lucid\u2019s recent selloff feel like market manipulation to anyone else?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vb42jc/did_lucids_recent_selloff_feel_like_market/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785440739,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vb3umc",
       "title": "Need short term cash. Sell stocks or borrow against it?",
@@ -309,6 +595,17 @@
       "num_comments": 0,
       "created_utc": 1785440262,
       "first_seen_utc": 1785449497
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vb3kme",
+      "title": "Anybody have experience negotiating medical bills?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vb3kme/anybody_have_experience_negotiating_medical_bills/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785439654,
+      "first_seen_utc": 1785465126
     },
     {
       "source": "stocktwits",
@@ -950,6 +1247,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vawtbs",
+      "title": "How can I improve?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vawtbs/how_can_i_improve/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785425249,
+      "first_seen_utc": 1785465126
+    },
+    {
+      "source": "reddit",
       "subreddit": "stocks",
       "id": "1vawkzu",
       "title": "What is the problem with holding leveraged daily stock overnight?",
@@ -969,6 +1277,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T15:14:02Z",
       "first_seen_utc": 1785428861
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vavobz",
+      "title": "has anyone here actually built their savings?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vavobz/has_anyone_here_actually_built_their_savings/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785422716,
+      "first_seen_utc": 1785465126
     },
     {
       "source": "reddit",
@@ -1343,6 +1662,17 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T09:16:02Z",
       "first_seen_utc": 1785409666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vaoac4",
+      "title": "I\u2019m 27 and want to earn a decent wage without working for a boss. But my crippling anxiety makes me feel trapped and hopeless. Anyone else?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vaoac4/im_27_and_want_to_earn_a_decent_wage_without/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785402273,
+      "first_seen_utc": 1785465126
     },
     {
       "source": "stocktwits",
