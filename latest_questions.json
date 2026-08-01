@@ -1,14 +1,102 @@
 {
-  "generated_at": "2026-08-01T05:55:45.487069+00:00",
-  "count": 2949,
+  "generated_at": "2026-08-01T08:18:05.798811+00:00",
+  "count": 2961,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660658874",
+      "title": "$SPY what do you want? it&#39;s not that simple $DIS $RDDT",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T08:04:24Z",
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vcg5xe",
+      "title": "Good call for the upcoming cycle?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vcg5xe/good_call_for_the_upcoming_cycle/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785567620,
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660658429",
+      "title": "$ORCL $NVDA $MU $SKHY \n\nAs this data infrastructure gets implemented, we have been watching years of hundreds of thousands of layoffs across the tech industry, as earnings and revenues improve along the way. \n\nYou would think the late stage capitalism potheads of Reddit to be correct, that this improved productivity would cause some mythical economic collapse, but at the same time employment data has been IMPROVING. The paradox? \n\nIf employees aren\u2019t needed anymore then it\u2019s perfectly reasonable to get rid of them. However, artificial intelligence means that employees can get more work done, meaning they are more productive. Increased productivity means employees are more profitable - employers want to hire MORE. The composition of employment changes but the overall unemployment data continues to improve.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T06:45:13Z",
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660658264",
+      "title": "$BTC.X No one cares about the little guy? My bad!",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T06:23:04Z",
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vcfcfw",
+      "title": "Prioritizatize paying off car or maxing out IRA?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vcfcfw/prioritizatize_paying_off_car_or_maxing_out_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785564905,
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vcf6k0",
+      "title": "Is it worth going for car lease?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vcf6k0/is_it_worth_going_for_car_lease/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785564371,
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660658072",
+      "title": "$BTC.X Hopefully not IBIT! That&#39;s their BTC ETF? What&#39;s going on? No way they&#39;d betray their fiduciaries!",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:58:33Z",
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660658034",
+      "title": "$SPY $QQQ\nStock Market &amp; Crypto Analysis for Week Ending 7/31/26 https://youtu.be/I0GVAlp7REo?is=Pzh6X1ahbHrryQm5",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:54:11Z",
+      "first_seen_utc": 1785572285
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "660657931",
       "title": "$SPY $DJT Why bother? I&#39;m sure CNN will tell us the truth in real time!",
       "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-01T05:45:54Z",
       "first_seen_utc": 1785563745
@@ -19,10 +107,21 @@
       "id": "660657930",
       "title": "$SPY Who\u2019s getting the honor this round? Pakistan or Axios? Maybe, wild card, Oman?",
       "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-08-01T05:45:51Z",
       "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vcenzg",
+      "title": "Save money or my mental health?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vcenzg/save_money_or_my_mental_health/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785562729,
+      "first_seen_utc": 1785572285
     },
     {
       "source": "stocktwits",
@@ -30,7 +129,7 @@
       "id": "660657846",
       "title": "$SPY $QQQ\nHow I Trade Earnings Gaps https://youtu.be/6tF0OFPoaQk?is=JTYuIZ08NcR3Dy84",
       "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-01T05:36:51Z",
       "first_seen_utc": 1785563745
@@ -85,7 +184,7 @@
       "id": "660657223",
       "title": "$BTC.X What does it mean when they hold the price at almost exactly 63k for 9 hours?",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
+      "score": 6,
       "num_comments": 0,
       "created_utc": "2026-08-01T04:43:45Z",
       "first_seen_utc": 1785563745
@@ -107,7 +206,7 @@
       "id": "660657106",
       "title": "$BTC.X $DJT $QQQ $SPY Proper response is: &quot;What is &#39;I invoke my fifth?&#39;&quot;",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-01T04:31:49Z",
       "first_seen_utc": 1785563745
@@ -243,6 +342,17 @@
       "num_comments": 0,
       "created_utc": 1785554207,
       "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vcbbfu",
+      "title": "Should I file insurance claim for car scratch?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vcbbfu/should_i_file_insurance_claim_for_car_scratch/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785552699,
+      "first_seen_utc": 1785572285
     },
     {
       "source": "stocktwits",
@@ -532,6 +642,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vc4mp0",
+      "title": "need to make $100\u2013$200 in the next week to cover upcoming college fees. What can actually works fast ?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vc4mp0/need_to_make_100200_in_the_next_week_to_cover/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785535040,
+      "first_seen_utc": 1785572285
+    },
+    {
+      "source": "reddit",
       "subreddit": "investing",
       "id": "1vc4moj",
       "title": "4% Bank APY vs SGOV/BIL/TBIL?",
@@ -683,6 +804,17 @@
       "num_comments": 0,
       "created_utc": 1785531664,
       "first_seen_utc": 1785551530
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vc36aj",
+      "title": "My fianc\u00e9\u2019s entire family is financially dependent on him, and he feels trapped. How can he set boundaries and move out?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vc36aj/my_fianc\u00e9s_entire_family_is_financially_dependent/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785531622,
+      "first_seen_utc": 1785572285
     },
     {
       "source": "stocktwits",
