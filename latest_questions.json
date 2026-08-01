@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-01T08:18:05.798811+00:00",
-  "count": 2961,
+  "generated_at": "2026-08-01T10:41:46.669432+00:00",
+  "count": 2968,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vcjoan",
+      "title": "Just Left toxic household need help/advice on how do i manage things now and find work ?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vcjoan/just_left_toxic_household_need_helpadvice_on_how/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785579734,
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660659627",
+      "title": "$TSLA Do any of Musk&#39;s two dozen kids like him at all? I&#39;ve heard all the trans ones don&#39;t, not sure of the others. Whabout the 16 mommies?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T10:14:16Z",
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vcimpg",
+      "title": "How to I emotionally set aside market cap when looking at companies to invest in?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vcimpg/how_to_i_emotionally_set_aside_market_cap_when/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785576123,
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660659282",
+      "title": "$BTC.X \n\nIt\u2019s early and I do more by 9 a.m. than most people do all day!  That\u2019s the slogan of our brave men and women serving our country in the military including our awesome military veterans.  Thank you for your service and honor your oath to protect the flag including the Constitution of the United States from all enemies foreign and domestic!  We are sorry the irresponsible people of the USA, gave you the worst leadership ever but change is coming.\n\nI believe, from observing posts here on ST that the vast majority of you are young, still working and haven\u2019t saved a large retirement nest egg or IRA/401k.  Why can I reach that conclusion?  Because it seems most of you that are citizens of the USA, voted for Trump.  Since Trump took office the dividends paid monthly in our retirement accounts are steadily declining.  We earn $2,700 a month less each month because of the federal reserve cutting interest rates!  That\u2019s $31,000 a year.  Stop begging for cuts in interest rates.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T09:19:41Z",
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vcil8m",
+      "title": "How to afford SAHM? First child and freaking out",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vcil8m/how_to_afford_sahm_first_child_and_freaking_out/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785575975,
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660659152",
+      "title": "$SPY $DJT \n\nDid any of you dumb fuck Republicans actually believe that the pool was fucked up because of vandals rather than because of historic Trump dumbfuckery?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T08:59:32Z",
+      "first_seen_utc": 1785580906
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vchttc",
+      "title": "What's ur type ?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vchttc/whats_ur_type/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785573349,
+      "first_seen_utc": 1785580906
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -30,7 +107,7 @@
       "id": "660658429",
       "title": "$ORCL $NVDA $MU $SKHY \n\nAs this data infrastructure gets implemented, we have been watching years of hundreds of thousands of layoffs across the tech industry, as earnings and revenues improve along the way. \n\nYou would think the late stage capitalism potheads of Reddit to be correct, that this improved productivity would cause some mythical economic collapse, but at the same time employment data has been IMPROVING. The paradox? \n\nIf employees aren\u2019t needed anymore then it\u2019s perfectly reasonable to get rid of them. However, artificial intelligence means that employees can get more work done, meaning they are more productive. Increased productivity means employees are more profitable - employers want to hire MORE. The composition of employment changes but the overall unemployment data continues to improve.",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 3,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-08-01T06:45:13Z",
       "first_seen_utc": 1785572285
