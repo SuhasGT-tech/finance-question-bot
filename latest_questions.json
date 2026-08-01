@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-01T02:32:10.712480+00:00",
-  "count": 2926,
+  "generated_at": "2026-08-01T05:55:45.487069+00:00",
+  "count": 2949,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657931",
+      "title": "$SPY $DJT Why bother? I&#39;m sure CNN will tell us the truth in real time!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:45:54Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657930",
+      "title": "$SPY Who\u2019s getting the honor this round? Pakistan or Axios? Maybe, wild card, Oman?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:45:51Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657846",
+      "title": "$SPY $QQQ\nHow I Trade Earnings Gaps https://youtu.be/6tF0OFPoaQk?is=JTYuIZ08NcR3Dy84",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:36:51Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660657639",
+      "title": "$BTC.X Saylor \n- never sell your bitcoin !  MSTR we sold bitcoin \n- Everything else is credit except bitcoin.  MSTR We are building USD cash reserves, selling btc  \n \nWhat else ? BTC at 350k by 2026 (Saylor)",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:20:24Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657547",
+      "title": "$DJT $TRUMP.X $SPY Who saw this coming? Just constant weaponization of DOJ.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:11:14Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657407",
+      "title": "$SPY $TLT $SHY $IEF Recession time?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T05:00:38Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660657256",
+      "title": "$BTC.X so what does the 3 year chart look like?  Who is going all in soon?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:47:52Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660657223",
+      "title": "$BTC.X What does it mean when they hold the price at almost exactly 63k for 9 hours?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:43:45Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vcdibl",
+      "title": "Help-Will my strategy work?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vcdibl/helpwill_my_strategy_work/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785559129,
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660657106",
+      "title": "$BTC.X $DJT $QQQ $SPY Proper response is: &quot;What is &#39;I invoke my fifth?&#39;&quot;",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:31:49Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660657017",
+      "title": "$DJT $QQQ $SPY Why would it truple? A million illegal immigrants entered the system?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:23:52Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vcd7cl",
+      "title": "Long box spread or cash sweep?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vcd7cl/long_box_spread_or_cash_sweep/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785558191,
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660656993",
+      "title": "$DJT $QQQ $SPY \ud83d\ude31They gutted clean air?\ud83e\udd37\u200d\u2642\ufe0f Like they stole that dirty air right from China and said\u2026. You can\u2019t have this because you keep making it the most polluted on earth! \ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\udc4c",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:22:15Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vcd6ja",
+      "title": "Incoming College Student - Best Money-Managing Practices + Financial Literacy Concepts?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vcd6ja/incoming_college_student_best_moneymanaging/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785558124,
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660656977",
+      "title": "$QQQ $SPY  \n \nNew yachts. \n \nWhat the hell kind of question is that? Duh.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:21:00Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660656732",
+      "title": "$GSAT $AMZN $AAPL $SPCX SpaceX&#39;s stock is likely to be under pressure for a while, making a  &quot;shares -for-shares&quot; SpaceX for Globalstar transaction less appealing from Monroe/ Thermo perspective? https://youtube.com/shorts/1XJ1AA2EnGE?si=7hyvAhUJzIxiyKwa",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T04:02:11Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660656595",
+      "title": "$MU $SPY $DJT $TSLA $NBIS where&#39;s Kramer and kwan?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T03:52:23Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vccg1a",
+      "title": "Should I pay the guy I hit in an accident now in full or pay in installments?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vccg1a/should_i_pay_the_guy_i_hit_in_an_accident_now_in/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785556009,
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660656442",
+      "title": "$BTC.X What I really, really want to see next week is the inverse of July 9th last year where we got a pop up to our first cycle top, so our first real cycle bottom next week. A move to about the heart line of the channel, some where between 50-55K would be a very strong signal to my way of seeing things, and while we may still get lower lows as we got higher highs during the top, that is where I would close out all my shorts and start to DCA in. No guarantees but... https://www.youtube.com/watch?v=OSVbtXrIXvA",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T03:41:48Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660656317",
+      "title": "$BTC.X this pays a dividend right ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T03:33:12Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660656195",
+      "title": "$AAPL $QQQ Did you get it?\nhttps://www.instagram.com/stories/optionsplayers/3953417685434273981?utm_source=ig_story_item_share&amp;igsh=ODZpbXFoZGt3ZWRp",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-01T03:25:49Z",
+      "first_seen_utc": 1785563745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vcbugx",
+      "title": "Grid trading: just lucky or I have something here?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vcbugx/grid_trading_just_lucky_or_i_have_something_here/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785554207,
+      "first_seen_utc": 1785563745
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -151,7 +393,7 @@
       "id": "660653226",
       "title": "$TSLA I just finished watching the Economist interview w/ Musk.  How the fk is this guy the wealthiest person on the planet?? His cognitive capabilities are whacked.",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-01T01:08:35Z",
       "first_seen_utc": 1785551530
@@ -243,6 +485,17 @@
       "num_comments": 0,
       "created_utc": 1785539655,
       "first_seen_utc": 1785551530
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vc6hz7",
+      "title": "What is Distributed Key Generation (DKG)?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vc6hz7/what_is_distributed_key_generation_dkg/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785539597,
+      "first_seen_utc": 1785563745
     },
     {
       "source": "stocktwits",
