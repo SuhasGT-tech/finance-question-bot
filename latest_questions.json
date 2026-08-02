@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-02T05:56:49.382466+00:00",
-  "count": 3126,
+  "generated_at": "2026-08-02T08:20:42.038323+00:00",
+  "count": 3138,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684396",
+      "title": "$SPY $QQQ  We all know why Trump is saying there\u2019s a deal, right? If the 30-year Treasury explodes on Monday, the stock market can do some really weird things. He doesn\u2019t want that, so he\u2019ll claim there\u2019s a possible agreement even when there isn\u2019t one. $TLT",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T08:00:59Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660684365",
+      "title": "$FFAI $NIO $RIVN $LCID $TSLA  \nAn endorsement from Helen Zass could be huge for the EV industry! Let&#39;s go! \n\ud83d\ude80\ud83d\ude80\ud83d\ude33\ud83d\ude80\ud83d\ude80  \nhttps://youtu.be/03tg_LEFMy8?is=ZJ5TVsfe27n3-YDh",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:57:09Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684342",
+      "title": "$SPY \ud83d\ude05 I just realized that this completely insane idea has actually been put into practice. I had thought it was just another bad joke. Will this total collapse of our civilization\u2019s achievements ever come to an end? This has nothing to do with conservative thinking anymore... Corruption that even an African warlord would never have dared to dream of. No more and no less!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:53:53Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684299",
+      "title": "$SPY  hmm very interesting \n \nhttps://www.youtube.com/watch?v=U-OBpNvXNS8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:47:24Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660684270",
+      "title": "$TSLA \ud83d\udc49\ud83d\udc49 https://www.youtube.com/watch?v=bEBv2Yo1AeA\ud83d\udc40",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:43:11Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684242",
+      "title": "Weekend vibe check: $SPY $QQQ after $AMZN AI relief rally. Next week ISM + NFP loading. Bulls still in control or fade into data? Vote \ud83d\udc47 Bull or Fade?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:38:16Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660684182",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA https://youtu.be/Mzyz2egx_0c?is=tscbqhOivbsRDwN8",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T07:25:45Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdbch3",
+      "title": "Am I crazy for keeping my car payment instead of paying it off?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdbch3/am_i_crazy_for_keeping_my_car_payment_instead_of/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785655063,
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660684022",
+      "title": "$BE $BTC.X $IREN $QQQ $SMH Think about it simply: it\u2019s just like classifying your current credit card limit as your own asset. You got it ??",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T06:55:09Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660683967",
+      "title": "$DIA $QQQ $BTC.X $SPY $DJIA Some of us need before lazy before we have to be crazy. https://youtu.be/EZ7inhwScSQ?is=t8tz8P0bDA47aTFd",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T06:47:40Z",
+      "first_seen_utc": 1785658842
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vda08j",
+      "title": "Should I use my HYSA or checkings acc to pay rent",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vda08j/should_i_use_my_hysa_or_checkings_acc_to_pay_rent/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785650536,
+      "first_seen_utc": 1785658842
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -162,7 +283,7 @@
       "id": "660681793",
       "title": "$TSLA monthly gap up coming Monday,  then a runaway to fill the earnings gap. High $300S in August?",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-02T03:34:11Z",
       "first_seen_utc": 1785650209
@@ -2806,6 +2927,17 @@
       "num_comments": 0,
       "created_utc": 1785527350,
       "first_seen_utc": 1785551530
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1vc13pj",
+      "title": "Amazon Just Crossed $200B in Quarterly Revenue for the First Time. What's AI..inggg???",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1vc13pj/amazon_just_crossed_200b_in_quarterly_revenue_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785526945,
+      "first_seen_utc": 1785658842
     },
     {
       "source": "reddit",
