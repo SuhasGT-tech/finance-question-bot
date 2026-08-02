@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-02T08:20:42.038323+00:00",
-  "count": 3138,
+  "generated_at": "2026-08-02T10:41:05.106933+00:00",
+  "count": 3152,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vdelsr",
+      "title": "10% OTM long put options as hedge for a VWCE and chill portfolio?",
+      "url": "https://www.reddit.com/r/investing/comments/1vdelsr/10_otm_long_put_options_as_hedge_for_a_vwce_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785666597,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdeam7",
+      "title": "Can't pay towards principal with Driveway Finance Corporation car loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdeam7/cant_pay_towards_principal_with_driveway_finance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785665502,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660685085",
+      "title": "$SPY under 740? Over 750? How we feelin this week \ud83d\ude01",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T10:07:05Z",
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660684990",
+      "title": "$AAPL $320+ open ? Could happen",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T09:50:42Z",
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684987",
+      "title": "$SPY maybe it was all planned, yen intervention will cause the market to drop, but then the taco bring it up so we end up with a flat monday? lol crazy market",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T09:48:58Z",
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660684906",
+      "title": "$SPY it has been crashing for years lmao. Spy has hit multiple ath since. Enlighten us what\u2019s new this time?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T09:36:44Z",
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660684887",
+      "title": "Bitcoin&#39;s August Curse Returns? Analysts See Conflicting Signals Despite Bullish Setups\n\n$BTC.X $IBIT $MSTR $ARKB $HODL\n\nhttps://stocktwits.com/news/cryptocurrency/markets/bitcoin-price-august-outlook-analyst/cZ86G9dRJ5L",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T09:31:35Z",
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vddhdf",
+      "title": "How stupid is it to withdraw from inherited IRA and actually spend it instead of reinvesting?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vddhdf/how_stupid_is_it_to_withdraw_from_inherited_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785662625,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vdcsrw",
+      "title": "is it a good idea to invest in post-quantum cryptography or is it too risky/early?",
+      "url": "https://www.reddit.com/r/investing/comments/1vdcsrw/is_it_a_good_idea_to_invest_in_postquantum/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785660179,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660684589",
+      "title": "$AAPL DD. https://x.com/TechieUltimatum/status/2083762370787287321?s=20 Sept 9 reveal!! $SPY $QQQ $SMH",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T08:33:27Z",
+      "first_seen_utc": 1785667265
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -202,6 +312,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vd8pm6",
+      "title": "Two car accidents wiped out my savings. How do you deal with the constant money anxiety?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vd8pm6/two_car_accidents_wiped_out_my_savings_how_do_you/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785646389,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vd8o7e",
       "title": "Sky high 25% APR. What do I do?",
@@ -256,6 +377,17 @@
       "first_seen_utc": 1785650209
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vd8bna",
+      "title": "Now that we see the game, do we still want to play?",
+      "url": "https://www.reddit.com/r/investing/comments/1vd8bna/now_that_we_see_the_game_do_we_still_want_to_play/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785645172,
+      "first_seen_utc": 1785667265
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660682719",
@@ -265,6 +397,28 @@
       "num_comments": 0,
       "created_utc": "2026-08-02T04:32:05Z",
       "first_seen_utc": 1785650209
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vd8b1t",
+      "title": "Just Left toxic household need help/advice on how do i manage things now and find work ?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vd8b1t/just_left_toxic_household_need_helpadvice_on_how/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785645120,
+      "first_seen_utc": 1785667265
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vd7zqn",
+      "title": "How should I split my extra income between savings and investing?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vd7zqn/how_should_i_split_my_extra_income_between/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785644129,
+      "first_seen_utc": 1785667265
     },
     {
       "source": "reddit",
