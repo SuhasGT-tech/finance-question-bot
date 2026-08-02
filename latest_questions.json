@@ -1,7 +1,403 @@
 {
-  "generated_at": "2026-08-02T19:07:03.866556+00:00",
-  "count": 3249,
+  "generated_at": "2026-08-02T21:55:34.102557+00:00",
+  "count": 3291,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660701737",
+      "title": "$AAPL Bull or bear? Do we reclaim $340+ by Friday?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:47:51Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660701694",
+      "title": "$DJT Was this published on ts to the people paying 100,00 grand a month for insider trading tips?\n$BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:46:49Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vduk5p",
+      "title": "Does FDIC insurance limit bank specific or intra bank account specific?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vduk5p/does_fdic_insurance_limit_bank_specific_or_intra/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785707154,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660701631",
+      "title": "$TSLA \n\n Bears scared? I would be",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:45:16Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660701479",
+      "title": "$VIX $SPY how much back and forth with Iran before the media don\u2019t believe it and world goes to shit ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:39:49Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660701342",
+      "title": "$BTC.X $MSTR Y\u2019all know I am bearish but there is a solution to all this if they can find someone to underwrite it. Crypto hack insurance like FDIC $250K account insurance. But who would fund it? Maybe a premium on every coin purchase/ sale?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:34:38Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660701175",
+      "title": "$BTC.X we were 65.4 just a week ago. Need to see lot more movement tonight. When do the algos Clarity pump?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:28:31Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660701168",
+      "title": "Gold | Oil | Dollar | Silver | Natural Gas Price Forecast.                                                         \n                                                                                                                                                                                  \nSupport &amp; Resistance Strategy Guide Video:               \nhttps://youtu.be/cHMeD0KN7UY?si=HLKIf6bSBKTGLSNN \n                \n - UNG Natural Gas support and resistance levels- \n   \n$TELL  $CHK $EQT $SI_F $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:28:23Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660701122",
+      "title": "Putting your whole portfolio into $NVDA at age 30? AI dominance is undeniable, but concentrated single-stock risk is real over a 30-year horizon! \n \nShares coiling intraday through the $194.95-$202.00 demand zone, settling strong at $200.75. Smart money is quietly absorbing liquidity off macro support for the next big leg up! \n \nMarkets don\u2019t reward emotions, they reward preparation. Follow for daily insights built on data, structure, and discipline.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:27:06Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660701058",
+      "title": "$RDDT DO you know what I&#39;m saying?? $META $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:24:55Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660701014",
+      "title": "$TSLA How come no medication for the other TDS, Trump Daddy Syndrome?  It&#39;s easily argued those MAGA sissies can never be cured.   Trump gutting research and healthcare hasn&#39;t helped.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:23:26Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660700789",
+      "title": "$TSLA caught my attention this week with some interesting momentum behavior on the 45-minute chart. \n \nThe Bx-Ttrender indicator stayed green almost the entire week, with only one red bar showing up  and that single bar ended up marking the weekly low.  \nObviously, one indicator doesn\u2019t guarantee anything, but when price action and momentum start lining up, it\u2019s something I like to watch. \n \nThe real question now is whether bulls can carry that strength into Monday or if the market needs a reset after the recent move. \n \nI\u2019m not chasing every candle, but I do want to see if buyers continue defending key levels and keep momentum intact. \n \nWatching $TSLA closely as the next session begins. \n \nTime to review the session. Did the market surprise you? Trade smart.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:15:19Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660700782",
+      "title": "$FFAI $NIO $RIVN $LCID $TSLA  \nhttps://youtu.be/dc8PAdKDLls?is=SalesNVdTSPmP8f0",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:15:03Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660700714",
+      "title": "$BTC.X pelosi is buying?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:12:59Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660700588",
+      "title": "$NVDA  \nwhy do yoi even bother posting this?  hyper trash is never an indicator",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:07:49Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660700575",
+      "title": "$SMCI even $NVDA went from $208 to $195 on Trump and Irans BS. Iran is not going to start a war with multiple countries, they dont have the military force for that. The US isnt going to obliterate them, theyll send some strikes here and there if deals arent made or their hesitant.  \n \nThis whole war over dramaticisation is just getting annoying and old, the market just keeps reacting to it, and its annoying to be honest, it always happens as soon as the market is seeing some kind of momentum. \n \nMomentum died on that news, consolidated on no further news then now its suddenly all G again? The market barely reacted to the earnings and capex that many companies released, because of this BS.  \n \nTheres a reason all the bears over dramaticise it, its because they know its temporary and a quick way to make some money on a swing.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:06:50Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdtk77",
+      "title": "What to do with multiple IRAs?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdtk77/what_to_do_with_multiple_iras/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785704713,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660700486",
+      "title": "$NVDA down 2 bucks instantly on hyper liquid why is this platform even a thing?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:04:24Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660700426",
+      "title": "$NVDA https://www.youtube.com/watch?v=yRW7t99bHp0",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:02:44Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660700391",
+      "title": "$SPY $DJT $BTC.X   when?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 13,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:01:24Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660700381",
+      "title": "$GLD $BTC.X $SPY What should we do? Who&#39;s coming to collect?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T21:01:04Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660700000",
+      "title": "$AAPL groundbreaking innovation from this trash company, lease instead of buy lmao\u2026\u2026lease something that loses 90% value in 3 years? \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T20:47:47Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660699781",
+      "title": "$AMD delivered one of the most impressive rallies earlier this year. \n \nFrom the low $100S to nearly $600 in just a few months. \n \nA reminder: \n \nThe market can reprice high-growth companies very quickly when fundamentals, sentiment, and a major secular trend align. \n \nCould something similar happen with $NVDA? \n \nThe setup is different, but the ingredients are familiar: \n \n\u2022 Massive AI infrastructure demand \n\u2022 Expanding data center opportunities \n\u2022 Strong ecosystem advantage \n\u2022 Continued investment from hyperscalers \n \nNobody knows the exact path or timing. \n \nBut history shows that the biggest winners often look &quot;too expensive&quot; before the market realizes the size of the opportunity. \n \nThe AI cycle is still evolving. \n \nThe question isn&#39;t only who leads today. \n \nIt&#39;s who continues compounding over the next several years. \n \nFollow me and visit my profile for AI semiconductor analysis, growth stock research, and long-term investment ideas before the market catches up.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T20:40:47Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660698994",
+      "title": "https://youtube.com/watch?v=1EkgSuaqxpI&amp;is=TbpGmQoqWC-6g_1T\n$nvda $amd $mu $smh\n\u2022 Semiconductor Bearishness: The chip sector is showing technical weakness with head-and-shoulders patterns. Stocks like Micron and AMD have faced hard rejections at key levels, and the sector is experiencing significant distribution-like dark pool activity (3:43-5:36, 7:12-7:44).\n\u2022 Individual Stock Performances: \n\u2022 Amazon (AMZN): Displayed the most bullish flow after a 13% gain following positive earnings, now holding above a key demand zone at 240 (8:55-9:44).\n\u2022 Nvidia (NVDA): While it saw significant bullish flow, its chart remains concerning due to a broken inverse head-and-shoulders pattern; it is considered bearish unless it reclaims the 204-205 level (9:45-10:41).\nStrategy: The narrator advises caution and suggests scalping within the current established ranges until there is a clear, decisive breakout or breakdown in the broader indices (3:30-3:42, 10:41-11:13).",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T20:14:54Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vds783",
+      "title": "Best vehicle for short-to-medium length savings?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vds783/best_vehicle_for_shorttomedium_length_savings/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785701459,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vds52i",
+      "title": "Emergency fund necessary?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vds52i/emergency_fund_necessary/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785701321,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660698702",
+      "title": "$AAPL Will we run tomorrow over $320?Yes, sir\ud83e\udd73\ud83d\udc4f\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4c\ud83c\udffc\ud83c\udf89",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 7,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T20:05:10Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660698375",
+      "title": "$NVDA why green on hyper derp?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T19:54:19Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660698335",
+      "title": "Short sellers? What the hell are they even adding? Bears contribute to nature. Shorts just show up hoping companies fail so they can make a buck. The world got along just fine before them, and it\u2019d get along just fine without them.\n\nAt least real bears earn their reputation.\n\nStock market shorts? They\u2019re fucking useless. We don\u2019t need that shit, tabarnak.\n\n$ONDS $RIVN $LCID $NIO $TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T19:52:53Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660698236",
+      "title": "$SPX$TSLA  \n \nWhich ticker holds the better risk to reward right here? \n \nOn one hand, $SPCX is trading near key support around 108, presenting a deep valuation discount for pure-play orbital compute and infrastructure. On the other hand, $TSLA at 311 continues to leverage its massive manufacturing scale and autonomous drive network. \n \nBoth represent major structural mega-trends, but capital allocation comes down to execution timeline versus valuation multiple. I just posted my detailed comparative risk model and target zones on my profile feed. Drop your pick in the comments.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T19:49:14Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdrhx2",
+      "title": "Are there any special account types or something I can take advantage of in this situation?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdrhx2/are_there_any_special_account_types_or_something/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785699811,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdrfx6",
+      "title": "Buy house for cash or invest?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdrfx6/buy_house_for_cash_or_invest/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785699682,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vdr978",
+      "title": "Temporary move to New Hampshire for timing company exit?",
+      "url": "https://www.reddit.com/r/tax/comments/1vdr978/temporary_move_to_new_hampshire_for_timing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785699245,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vdquow",
+      "title": "Why did federal withholding increase while on parental leave?",
+      "url": "https://www.reddit.com/r/tax/comments/1vdquow/why_did_federal_withholding_increase_while_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785698295,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660697244",
+      "title": "#Apple Delivers Strong Free Cash Flow, But What Is The Best AAPL Play? $AAPL https://talkmarkets.com/article/apple-delivers-strong-free-cash-flow-but-what-is-the-best-aapl-play-1785698024",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T19:14:26Z",
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660696973",
+      "title": "$AAPL what\u2019s the big deal?  Any person with a lot of money would love to live in a white neighborhood.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T19:05:05Z",
+      "first_seen_utc": 1785707734
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -19,7 +415,7 @@
       "id": "660696751",
       "title": "$TSLA is back on my radar.  \nI\u2019m not trying to predict every candle, but the chart is starting to lean bullish again. \n \nThe level I&#39;m focused on is $310. As long as buyers continue defending that area, I think there&#39;s room for a move toward $320, and if momentum keeps building, $330 isn&#39;t out of the question. The key is seeing follow-through instead of just a quick spike. \n \nFor anyone trading options, I generally prefer calls only while price is holding above $310. If that level fails, the risk/reward changes quickly, and I&#39;d rather wait than force a trade. \n \nSometimes the best trade is simply letting the market prove your thesis before getting involved. \n \nHope your session is going well.  \nScalping or swinging today? Hope you catch a great move.",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-02T18:57:57Z",
       "first_seen_utc": 1785697623
@@ -246,6 +642,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vdoumn",
+      "title": "I have a CD thats maturing next week for 12k. Is there a better way to invest it?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vdoumn/i_have_a_cd_thats_maturing_next_week_for_12k_is/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785693692,
+      "first_seen_utc": 1785707734
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vdoby5",
       "title": "My 403(b) doesn't allow Mega Backdoor Roth conversions - should I do Roth 403(b) now?",
@@ -287,6 +694,17 @@
       "num_comments": 0,
       "created_utc": 1785691796,
       "first_seen_utc": 1785697623
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1vdntdm",
+      "title": "Has WEN found the bottom?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1vdntdm/has_wen_found_the_bottom/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785691248,
+      "first_seen_utc": 1785707734
     },
     {
       "source": "stocktwits",
@@ -386,6 +804,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-02T16:37:26Z",
       "first_seen_utc": 1785697623
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vdmk4q",
+      "title": "How do you track dividend income against a real spending target?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vdmk4q/how_do_you_track_dividend_income_against_a_real/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785688244,
+      "first_seen_utc": 1785707734
     },
     {
       "source": "reddit",
@@ -804,6 +1233,17 @@
       "num_comments": 0,
       "created_utc": 1785677449,
       "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vdhsy2",
+      "title": "Does tax on accrued market discount argue against buying used Treasurys?",
+      "url": "https://www.reddit.com/r/tax/comments/1vdhsy2/does_tax_on_accrued_market_discount_argue_against/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785676446,
+      "first_seen_utc": 1785707734
     },
     {
       "source": "stocktwits",
@@ -1928,6 +2368,17 @@
       "first_seen_utc": 1785621307
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vczlba",
+      "title": "2024 tax return still processing ?",
+      "url": "https://www.reddit.com/r/tax/comments/1vczlba/2024_tax_return_still_processing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785620427,
+      "first_seen_utc": 1785707734
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "660674708",
@@ -2663,6 +3114,17 @@
       "num_comments": 0,
       "created_utc": 1785594108,
       "first_seen_utc": 1785600106
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vcom7k",
+      "title": "How do you find & evaluate a CPA for complex tax situations?",
+      "url": "https://www.reddit.com/r/tax/comments/1vcom7k/how_do_you_find_evaluate_a_cpa_for_complex_tax/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785593866,
+      "first_seen_utc": 1785707734
     },
     {
       "source": "reddit",
