@@ -1,7 +1,370 @@
 {
-  "generated_at": "2026-08-02T13:16:05.646596+00:00",
-  "count": 3173,
+  "generated_at": "2026-08-02T16:01:03.701414+00:00",
+  "count": 3209,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660691690",
+      "title": "$AAPL All valuation bubbles eventually pop. Look what happened to SPCX ?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:57:38Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660691639",
+      "title": "$SPY  That video made me super bearish also getting close to mid terms volitility.... Most likely going to be side line till a true peace is implemented. \n \nhttps://www.youtube.com/watch?v=U-OBpNvXNS8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:56:01Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660691418",
+      "title": "$SPY why does it seem like everyone is bullish? I thought we were bearish Friday AH",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:48:17Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660691391",
+      "title": "$AAPL how\u2019s this trash doing today? Oh that\u2019s right I gotta wait until Monday for it to go down more \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:47:20Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660691343",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nIs this where I signup for tax\nloss benefits?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:45:36Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660691318",
+      "title": "The real cost of market timing isn&#39;t just the losses you avoid. \n \nIt&#39;s the recovery days you miss. \n \nHistorical example: \n \n$10,000 fully invested from 2002\u20132021 grew to $61,685. \n \nMiss the 10 best days? \n \nThat drops to just $28,260. \n \nThe surprising part: \n \nMany of the market&#39;s strongest recovery days happened shortly after the worst selloffs. \n \nIn fact, 7 of the best days in recent decades occurred within two weeks of the market&#39;s worst days. \n \nThe problem with waiting for the &quot;all clear&quot; signal: \n \nMarkets rarely give one. \n \nBy the time the headlines turn positive, much of the recovery may already be behind you. \n \nFor long-term investors, time in the market often matters more than trying to perfectly time the market. \n \n$SPY $QQQ",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:44:39Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660691160",
+      "title": "$SPY $SPY $QQQ \n\nAnyone catch those $450 C $MSFT  Into earnings ?? \n\nThey went from $4 to $18.00\n#pivotgroup\ud83c\udfac",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:39:12Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660691144",
+      "title": "$BTC.X $ETH.X anyone buying to hold or should this go under $50K?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:38:48Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vdl8ai",
+      "title": "I recently lost my job of 15 years and I am looking for a way to make money while taking care of my 9 month old. Ideas?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vdl8ai/i_recently_lost_my_job_of_15_years_and_i_am/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785685087,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdl76s",
+      "title": "Options for costly home repairs?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdl76s/options_for_costly_home_repairs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785685014,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660691035",
+      "title": "$ASST $BTC.X \n\nLooks like another buy, probably small but still stacking.\n\nhttps://x.com/colemacro/status/2083939005805256711?s=46",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:35:16Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdl2vg",
+      "title": "How to invest these inherited accounts",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdl2vg/how_to_invest_these_inherited_accounts/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785684727,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdkygv",
+      "title": "Best way to save money for college?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdkygv/best_way_to_save_money_for_college/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785684439,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660690767",
+      "title": "$BTC.X https://youtu.be/ohtsx2hGGzI?is=qVDxA3CLZgqBXCMi",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:26:01Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660690503",
+      "title": "The most consistent winner in the stock market since 2010? \n \nDrumroll please...  \n \n$LLY \n \nOnly 1 losing year in the last 16 years, outperforming even legendary compounders like: \n \n$AAPL \n$BRK.B \n \nWinning 15 out of 16 years is an incredible level of consistency. \n \nBut the bigger lesson isn&#39;t just the stock performance. \n \nIt&#39;s the business quality behind it: \n \n\u2022 Strong innovation pipeline \n\u2022 Durable healthcare demand \n\u2022 Pricing power \n\u2022 Expanding market opportunities \n \nGreat companies rarely look \u201ccheap\u201d for long because the market recognizes quality. \n \nThe hardest part of investing in a compounder isn&#39;t finding the winner. \n \nIt&#39;s having the patience to hold through volatility while the business continues to execute. \n \nConsistency is one of the most underrated traits in investing.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:15:50Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660690500",
+      "title": "$SPY  $BTC.X  \nThe same Citadel that dropped a FUD bomb about a rate hike out of nowhere to get the discount on Situational\u2019s assets? Crazy \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 6,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:15:46Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdkfa8",
+      "title": "Is this a good financial choice??",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdkfa8/is_this_a_good_financial_choice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785683149,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660690188",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nWho\u2019s steering this trainwreck?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:05:20Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660690155",
+      "title": "$BTC.X back to red? War resumes? Lol \ud83d\ude06 \ud83e\udd23 \ud83d\ude02 \ud83d\ude39",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:04:00Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660690132",
+      "title": "Wall Street\u2019s most aggressive 2026 price targets are circulating. \n \nNot predictions. Not guarantees. \n \nBut these are some of the biggest upside names across future-growth themes: \n \nNuclear \n$SMR $25 (+213%) \n$LEU $390 (+138%) \n \nPhysical AI &amp; Defense \n$TSLA $600 (+93%) \n$AVAV $326 (+117%) \n$KTOS $150 (+219%) \n \nThe common themes: \n \nAI infrastructure, energy, automation, space, and next-generation computing. \n \nSome targets may prove too aggressive. Others may underestimate long-term growth. \n \nExecution is everything. \n \nWhich target looks realistic? Which one is completely crazy?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T15:03:20Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660689914",
+      "title": "$AAPL WE HAVE A POTENTIAL PATENT PROBLEM!\n\nSrart watching at 1:55:40.\n\nhttps://youtu.be/dPDIQHt9iFY?is=VCU2yIzsBV1VBj0T",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T14:55:52Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660689832",
+      "title": "Wall Street\u2019s most aggressive 2026 price targets are circulating. \n \nNot predictions. Not guarantees. \n \nBut these are some of the biggest upside names across future-growth themes: \n \nAI Hardware &amp; Apps \n$NVDA $500 (+149%) \n$MU $2,200 (+167%) \n$CRWD $725 (+296%) \n$PLTR $230 (+87%) \n \nThe common themes: \n \nAI infrastructure, energy, automation, space, and next-generation computing. \n \nSome targets may prove too aggressive. Others may underestimate long-term growth. \n \nExecution is everything. \n \nWhich target looks realistic? Which one is completely crazy?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T14:51:38Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdjz1d",
+      "title": "Does a reverse mortgage become due if the owner of the house is moved into a nursing home?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdjz1d/does_a_reverse_mortgage_become_due_if_the_owner/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785682058,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660689635",
+      "title": "The biggest overlooked risk in the AI infrastructure trade: \n \nCounterparty risk. \n \n$AMZN and other hyperscalers will likely continue spending as long as AI demand remains strong. \n \nBut investors should pay attention to one key question: \n \nCan major AI customers like OpenAI and Anthropic generate enough cash flow to meet their long-term commitments? \n \nThe risk isn&#39;t only chips. \n \nIt flows through the entire ecosystem: \n \n$NVDA \nPower \nData centers \nNeoclouds \n \nIf frontier AI labs struggle with economics, hyperscalers may slow capex growth, extend spending timelines, or shift capacity toward a broader customer base. \n \nThe good news: \n \nThe hyperscalers themselves are diversified. \n \nServices like Amazon Bedrock and SageMaker point toward a future where smaller, customized AI models and enterprise workloads become larger drivers of demand. \n \nThe AI thesis is not broken, but investors should not ignore execution risk. \n \nWatch the economics of the AI customers\u2014not just the infrastructure builders.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T14:44:49Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdjt0b",
+      "title": "Is Malta's pricing really that bad as they say?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdjt0b/is_maltas_pricing_really_that_bad_as_they_say/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785681646,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdjrht",
+      "title": "college upped my monthly payment plan, how can i make 2k+ by sept 5?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdjrht/college_upped_my_monthly_payment_plan_how_can_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785681544,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdjqll",
+      "title": "Just graduated with an MSW, owe ~$65k, still making $15/hr at Target, and feel like my life is completely ruined. How screwed am I?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdjqll/just_graduated_with_an_msw_owe_65k_still_making/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785681481,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vdjmwz",
+      "title": "Credit Card Debt!! SIMPLE IRA to pay off?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vdjmwz/credit_card_debt_simple_ira_to_pay_off/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785681215,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660689244",
+      "title": "Stocks projected to grow revenue by more than 3x over the next 5 years: \n \n$ORCL \u2014 Oracle +282% \n \n$NVDA \u2014 NVIDIA +332% \n \n$OUST \u2014 Ouster +348% \n \n$AVGO \u2014 Broadcom +441% \n \n$AMD \u2014 AMD +470% \n \nThe common theme: \n \nAI infrastructure, semiconductors, cloud computing, automation, and next-generation technology. \n \nThe biggest upside opportunities often come from companies with the highest growth expectations\u2014but expectations also create the biggest execution risks. \n \nRevenue growth is only one piece of the puzzle. \n \nMargins, cash flow, competitive advantages, and management execution will determine which companies actually deliver. \n \nWhich one has the strongest long-term potential?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T14:30:07Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660689134",
+      "title": "$NVDA will we open green? Should be an interesting week.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-02T14:25:30Z",
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdiwa9",
+      "title": "How do I start investing at 19",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdiwa9/how_do_i_start_investing_at_19/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785679347,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vdiv6y",
+      "title": "I\u2019m trying to leave survival mode and trying to build a future\u2014what helped you get there?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vdiv6y/im_trying_to_leave_survival_mode_and_trying_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785679273,
+      "first_seen_utc": 1785686463
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdi66b",
+      "title": "Finally getting serious about my finances. Where do I start?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdi66b/finally_getting_serious_about_my_finances_where/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785677449,
+      "first_seen_utc": 1785686463
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -113,6 +476,17 @@
       "first_seen_utc": 1785676565
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vdha6y",
+      "title": "How can a 2nd year clg student start earning enough to be financially independent?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vdha6y/how_can_a_2nd_year_clg_student_start_earning/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785675016,
+      "first_seen_utc": 1785686463
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660686696",
@@ -157,6 +531,17 @@
       "first_seen_utc": 1785676565
     },
     {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vdgp4k",
+      "title": "Why aren't we all getting rich from compound interest?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vdgp4k/why_arent_we_all_getting_rich_from_compound/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785673309,
+      "first_seen_utc": 1785686463
+    },
+    {
       "source": "stocktwits",
       "symbol": "AAPL",
       "id": "660686349",
@@ -166,6 +551,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-02T12:11:41Z",
       "first_seen_utc": 1785676565
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vdgd1w",
+      "title": "How much do you spend on door dash or other food delivery services?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vdgd1w/how_much_do_you_spend_on_door_dash_or_other_food/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785672311,
+      "first_seen_utc": 1785686463
     },
     {
       "source": "stocktwits",
