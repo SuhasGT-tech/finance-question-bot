@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-08-04T11:24:42.487722+00:00",
-  "count": 3593,
+  "generated_at": "2026-08-04T14:05:02.426130+00:00",
+  "count": 3614,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660853145",
+      "title": "$SPY can anybody point to the day we decided to bail out the yen with &quot;euros&quot; so to no hurt the dollar?\n\nNo they gotta pump it as fast and high as then can for when the yen falls again.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T14:01:28Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660852949",
+      "title": "$SPY who do we blame when we are paying $8 a gallon for gas in september?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T14:00:34Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660852821",
+      "title": "$TSLA so now we are praising this meme trash like a two year old that didn&#39;t shit itself for four hours?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:59:53Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vfb51m",
+      "title": "ANY ADVICE?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vfb51m/any_advice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785851917,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660850957",
+      "title": "$NVDA could you imagine shorting this into earnings?  You would half to be wearing a helmet to work.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:51:05Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660850463",
+      "title": "$PATH $NVDA $PLTR  \nhttps://x.com/UiPath/status/2084634560239657406?s=09",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:48:44Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660849679",
+      "title": "$PHIO so you&#39;re confident we won&#39;t have data centers on pluto? $SPCX $TSLA $AMZN",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:45:16Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660849606",
+      "title": "$AAPL  fkkkkk why my sell didn\u2019t trigger ? Now I\u2019m down on my puts\u2026 fk mm and noobs",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:44:58Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfas14",
+      "title": "Best way to finance large home repairs?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfas14/best_way_to_finance_large_home_repairs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785851065,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660848638",
+      "title": "$AAPL  should I sell my puts now? I\u2019m up little bit.  Getting nervous ,,, look like it could run up .",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:40:28Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vfalih",
+      "title": "Are clients still asking for printed financial plans?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vfalih/are_clients_still_asking_for_printed_financial/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785850631,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660846094",
+      "title": "$AAPL  Is this group comprised of teenagers? Stop posting predictions that are in your dreams. Yesterday people posted AAPL would go up 30 points by the morning,  Unless you have real information and insight as to what&#39;s going on, stop posting nonsense.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:27:14Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660845607",
+      "title": "$AAPL \n\nIs it a short today ..?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:23:32Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660844041",
+      "title": "$SPY \nAm I delusional? \n\nI would say I am suppressed, ridiculed, and mocked. And mainly jealousy of human beings chasing a figurative number of nominal digits in their account that doesn\u2019t mean anything. $SOL.X $BTC.X \n\nTime for clarity.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T13:11:11Z",
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vf9bt5",
+      "title": "Would Anyone Be Interested in Acquiring a Freight Brokerage?",
+      "url": "https://www.reddit.com/r/investing/comments/1vf9bt5/would_anyone_be_interested_in_acquiring_a_freight/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785847519,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vf8yoc",
+      "title": "Financial Help with bills ?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vf8yoc/financial_help_with_bills/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785846564,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vf8my4",
+      "title": "How do I get out of a $2500 debt",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vf8my4/how_do_i_get_out_of_a_2500_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785845682,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vf8fay",
+      "title": "Anyone able to share their experiences with an exchange fund?",
+      "url": "https://www.reddit.com/r/investing/comments/1vf8fay/anyone_able_to_share_their_experiences_with_an/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785845089,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vf7xhu",
+      "title": "Is tax loss harvesting important to learn?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vf7xhu/is_tax_loss_harvesting_important_to_learn/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785843715,
+      "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vf7ndy",
+      "title": "Possible to get a loan for bad cibil and settled account profile?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vf7ndy/possible_to_get_a_loan_for_bad_cibil_and_settled/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785842858,
+      "first_seen_utc": 1785852302
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -177,6 +397,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-04T10:25:34Z",
       "first_seen_utc": 1785842682
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vf6dgi",
+      "title": "Will my mom lose her section 8 voucher?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vf6dgi/will_my_mom_lose_her_section_8_voucher/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785838915,
+      "first_seen_utc": 1785852302
     },
     {
       "source": "stocktwits",
