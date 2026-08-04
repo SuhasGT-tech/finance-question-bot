@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-08-04T14:05:02.426130+00:00",
-  "count": 3614,
+  "generated_at": "2026-08-04T16:52:50.099364+00:00",
+  "count": 3634,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660882046",
+      "title": "$SPY \n\nBears didn&#39;t know we won the war 69 times?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:49:19Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660881954",
+      "title": "$SPY BAM! $770! Now what?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:48:42Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660881933",
+      "title": "$SPY When this collapses...are idiots actually going to say they didn&#39;t see it coming?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:48:34Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660881889",
+      "title": "$770 was hit all day long $SPY did you catch it? If not join us https://profitbuilders.io/",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:48:20Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660880656",
+      "title": "$TSLA space-x up 6%\n\nThis? Not even up 1\n\nPOS",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:40:44Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660880176",
+      "title": "$NVDA 55 mil ? Is this a joke?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:37:40Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660879277",
+      "title": "$SMCI IS ELON BUYING UP SHARES? HOSTILE 10% TAKE OVER TO PUT DATA CENTERS ON THE MOON?? $SPCX $TSLA $SPY $NVDA HE NEEDS RACKS.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:31:58Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660879222",
+      "title": "$TSLA He dgaf about his own kids, why do you think he cares about you?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:31:36Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660878260",
+      "title": "$AAPL when 312?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:25:57Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660876868",
+      "title": "$AAPL 100 Billion Buyback? I think they are using it.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:16:59Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660874725",
+      "title": "$AAPL this thing flagging or looking for a downward move?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T16:03:54Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660873673",
+      "title": "$MSTR Why\u2019s  this  getting  held behind  while the  $BTC.X s  poppin?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-04T15:57:28Z",
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfe8ex",
+      "title": "where do I stand financially?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfe8ex/where_do_i_stand_financially/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785858681,
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfcx2t",
+      "title": "My steak is too juicy. What to do with extra juice?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfcx2t/my_steak_is_too_juicy_what_to_do_with_extra_juice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785855839,
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfcrey",
+      "title": "do property tax appeal services like Owlue work?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfcrey/do_property_tax_appeal_services_like_owlue_work/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785855502,
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfblws",
+      "title": "I recently met with a Fidelity Investment Consultant and the thought it would be a good idea for me to put some money in a Managed FidFolio. What are your thoughts on these accounts?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfblws/i_recently_met_with_a_fidelity_investment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785852957,
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vfbhml",
+      "title": "How much to keep in Emergency Fund?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vfbhml/how_much_to_keep_in_emergency_fund/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785852697,
+      "first_seen_utc": 1785862370
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -158,6 +345,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vf9jma",
+      "title": "What if AI CapEx Slows\u2026 and Memory Profits Stay High Anyway?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vf9jma/what_if_ai_capex_slows_and_memory_profits_stay/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785848053,
+      "first_seen_utc": 1785862370
+    },
+    {
+      "source": "reddit",
       "subreddit": "investing",
       "id": "1vf9bt5",
       "title": "Would Anyone Be Interested in Acquiring a Freight Brokerage?",
@@ -199,6 +397,17 @@
       "num_comments": 0,
       "created_utc": 1785845089,
       "first_seen_utc": 1785852302
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vf7xtp",
+      "title": "What would you do with 10% cash? Keep it in a money market fund or invest it now?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vf7xtp/what_would_you_do_with_10_cash_keep_it_in_a_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785843743,
+      "first_seen_utc": 1785862370
     },
     {
       "source": "reddit",
@@ -496,6 +705,17 @@
       "num_comments": 0,
       "created_utc": 1785831648,
       "first_seen_utc": 1785832445
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vf41rb",
+      "title": "Apple and Amazon both got tariff refunds. Are investors backing these out of earnings?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vf41rb/apple_and_amazon_both_got_tariff_refunds_are/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785830841,
+      "first_seen_utc": 1785862370
     },
     {
       "source": "stocktwits",
