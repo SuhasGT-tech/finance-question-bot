@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-05T08:33:10.288444+00:00",
-  "count": 3787,
+  "generated_at": "2026-08-05T11:20:47.315639+00:00",
+  "count": 3815,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660968120",
+      "title": "$SPY $QQQ lmao 775 and you morons see bearish? And talking about gap fill?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:12:57Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660968073",
+      "title": "$SPY WILL  MMs pay the calls  today?????",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:12:21Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660968040",
+      "title": "$SPY Just a guess, but the Iran news is slowing.  First a fix was supposed to be done by Monday, then pushed to Tuesday/Wednesday.  The news was pushing algos every few hours.   The news seemed to have dried up.   Was this false push up in the markets,  just to bring us back down, in a new higher low?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:11:58Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660967932",
+      "title": "$SPY my app keep showing that for the last 15 min anyone else ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:10:30Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660967734",
+      "title": "$SPY \n\nST keeps screwing g up\nMy community board. \nAnyone else having that issue?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:08:23Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660967279",
+      "title": "$SPY IS   777.77 THE TOP?????? OR THE BOTTOM",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:03:06Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660967257",
+      "title": "$AAPL is this a dying company?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:02:56Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660967254",
+      "title": "$BTC.X  \n \nyipeee   more crime syndicates showing their colors ,,,,    \n \nhey Trump ,  did you have your people (baglicken magat lowlife) \ndo this ?     who wants to bet your president was part of this fiasco.. \nhahahaha    \n\u201c\u201donce a conman always a conman \u201c\u201d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:02:55Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660967025",
+      "title": "$AAPL $MSFT Do you have the tools?\nhttps://www.instagram.com/stories/optionsplayers/3956467035022093725?utm_source=ig_story_item_share&amp;igsh=MTA0dmp3MThyM2p0Ng==",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T11:00:14Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660966970",
+      "title": "$NVDA $SPCX \n\nNVIDIA chips on the moon is a tiny rock away from destruction.  How delusional can y\u2019all be.  When was the last time you looked at the surface of the moon?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:59:30Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vg4337",
+      "title": "Should I accept a \u20ac250 settlement or escalate to the FSPO",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vg4337/should_i_accept_a_250_settlement_or_escalate_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785927448,
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vg4323",
+      "title": "When to sell that great stock?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vg4323/when_to_sell_that_great_stock/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785927445,
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660966104",
+      "title": "$ZPTA It&#39;s pretty nice, I think, that $SPCX chose $NVDA as their AI chip supplier.  Even nicer that $NVDA partnered with $ZPTA for Agentic AI and provided a letter of recommendation for $ZPTA &#39;s proposal to the US Genesis Mission.  10x or 100x? Up 8000% since last year already...",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:46:57Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660966057",
+      "title": "$NVDA I\u2019m thinking of hiring Michael Bury as my driver.  I\u2019ll need to spend my $NVDA profits on something and he will be looking for some sort of honest work in the near future.  Anyone else willing to give him a shot?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:45:54Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660965870",
+      "title": "$NVDA Member of the Iranian Parliament&#39;s National Security Committee:\n\n&quot;Trump has declared 106 times that he defeated Iran; 95 times he said, &#39;We destroyed Iran&#39;; 88 times he said the agreement with Iran was about to end; and 75 times he said the Strait of Hormuz is open. If it is open, why are they raising the issue of a 17-day war in Hormuz again??",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:42:13Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660965588",
+      "title": "$NVDA Let\u2019s play a game called.. WILL CYCLOPS COVER TODAY?!!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:36:12Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660965514",
+      "title": "$NVDA gap up premarket on the SpaceX deal headlines, running hot at 216. scanner caught it at 209.43 and it&#39;s held the move so far. these verticals can slip fast once real volume kicks in though. who&#39;s in this one\n\nwhat my scanner just flagged: https://tapeboard.com/go/st/research/NVDA?utm_source=stocktwits&amp;utm_medium=post&amp;utm_campaign=olivia&amp;utm_content=nvda-pm-up-scanner&amp;utm_term=research",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:34:21Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660965496",
+      "title": "$NVDA up to 230 then break out ??? Michael Bury \u201cthe big Short\u201d is getting buried staying short with several of his tech plays \u2026 couldn\u2019t happen to a nicer guy \ud83d\ude09\ufffc\ufffc",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:34:02Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660964823",
+      "title": "A hardware wallet can stay completely offline and still generate a vulnerable wallet. \n \nCoinkite says some Coldcard firmware versions used the wrong source of randomness when creating seed phrases. Updating the device stops the problem going forward \u2013 but it does not repair an old seed. \n \nAffected users need a new seed and an actual transfer of funds. \n \nDoes this change how much you trust device-generated recovery phrases? \n \n$BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T10:19:14Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660963947",
+      "title": "$AAPL why cant this get above 313?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T09:58:26Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660963900",
+      "title": "$BTC.X Clarity Act signed this week and Bitcoin run to 70k+? Or will it be postponed to September and we will continue sideways until then?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T09:57:15Z",
+      "first_seen_utc": 1785928847
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vg1rk7",
+      "title": "What's the cheapest way you've found to buy crypto without getting destroyed by fees?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vg1rk7/whats_the_cheapest_way_youve_found_to_buy_crypto/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785919758,
+      "first_seen_utc": 1785928847
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -23,6 +265,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-05T08:23:42Z",
       "first_seen_utc": 1785918790
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vg1b14",
+      "title": "What subredits do founders mostly read?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vg1b14/what_subredits_do_founders_mostly_read/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785918116,
+      "first_seen_utc": 1785928847
     },
     {
       "source": "stocktwits",
@@ -102,6 +355,17 @@
       "first_seen_utc": 1785918790
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vg0v6i",
+      "title": "Why tf coins get pumped after announce of delisting?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vg0v6i/why_tf_coins_get_pumped_after_announce_of/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785916564,
+      "first_seen_utc": 1785928847
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "660960398",
@@ -157,6 +421,17 @@
       "first_seen_utc": 1785918790
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vg00a3",
+      "title": "Why Doesn't Paying With Crypto Feel Easy Yet?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vg00a3/why_doesnt_paying_with_crypto_feel_easy_yet/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785913553,
+      "first_seen_utc": 1785928847
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "660959585",
@@ -180,10 +455,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "660959487",
       "title": "$INTC the $TSM CEO hinted in his earning call that the bottlneck is packaging, and it will last beyond 2027. So let&#39;s stop pretending that $AMD can grow further. They will get the smallest capacity allocation from TSMC because $NVDA and $AAPL are more profitable and strategic\n\nAnd guess who has THE BEST packaging technology now in the market? It&#39;s Intel and a 98% yield EMIB",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-05T06:59:27Z",
@@ -408,6 +683,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-05T04:04:08Z",
       "first_seen_utc": 1785908797
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vfwlyt",
+      "title": "Why is it that retail sold semiconductors stocks are at 20x the average pace? All while memory prices hit records. Explain?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vfwlyt/why_is_it_that_retail_sold_semiconductors_stocks/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785902629,
+      "first_seen_utc": 1785928847
     },
     {
       "source": "stocktwits",
@@ -696,6 +982,17 @@
       "first_seen_utc": 1785895864
     },
     {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vfs9bx",
+      "title": "What\u2019s the argument against GOOG?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vfs9bx/whats_the_argument_against_goog/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785890500,
+      "first_seen_utc": 1785928847
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "660945613",
@@ -716,6 +1013,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-05T00:27:55Z",
       "first_seen_utc": 1785895864
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vfrc5t",
+      "title": "How do I ask my (30F) boyfriend (28M) to show me his crypto trading numbers? Trades 12+ hours a day",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vfrc5t/how_do_i_ask_my_30f_boyfriend_28m_to_show_me_his/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785888075,
+      "first_seen_utc": 1785928847
     },
     {
       "source": "reddit",
