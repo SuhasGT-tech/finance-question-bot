@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-08-05T11:20:47.315639+00:00",
-  "count": 3815,
+  "generated_at": "2026-08-05T14:03:04.117286+00:00",
+  "count": 3841,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "660990910",
+      "title": "$SPY $QQQ new ath every minute is bearish? Lmao",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:59:28Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660990906",
+      "title": "$BTC.X did bears get their ass clarified?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:59:27Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660990756",
+      "title": "Senator Shelley Moore Capito just dropped a massive stock sell-off worth up to $110,000! \n \nTrimming top tier heavyweights including $MSFT, $AAPL,$INTC, CSCO, and$KO! \n \nCurrent live market prices: $MSFT at $492.81,$AAPL at $309.38, and$INTC at $100.86! \n \nRanked in the top 50 most active traders in Congress  what do they know that we don&#39;t?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:58:53Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660990530",
+      "title": "$NVDA what we thinking? Distribution and a rug pull?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:57:50Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660990519",
+      "title": "$AAPL  odte calls juicy cheap\u2026 should I sell\nMy PuTS now?  Fling nervous as hell with these puts , a lot noobs pressure me .",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:57:48Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "660990254",
+      "title": "$NVDA Recently I shared the technical and valuation reasons why I am loading this name.  \n \nhttps://open.substack.com/pub/lextrading/p/new-portfolio-entries-locking-in?r=2bgp9u&amp;utm_campaign=post-expanded-share&amp;utm_medium=web",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:56:39Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660989852",
+      "title": "$AAPL   Why my odte puts goes from $3,000 gains to now only 600$ ?! wtf \u2026  I won\u2019t sell unless appl see 310s . It won\u2019t , fking retards trying make me loss. ?! I make bank  eod",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:54:55Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660989548",
+      "title": "$BTC.X yeah, weak dump so far. that&#39;s it? No quantum scare?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:53:35Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660989212",
+      "title": "$TSLA save and bounce all day or is it actually gonna get close back to 320? This whole market is silly goose time",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:52:07Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "660988057",
+      "title": "$TSLA roadster?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:47:14Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660987413",
+      "title": "$BTC.X ladies, shall we crash or run up?  \nNo luck w/ peace in case it matters for $SPY and $QQQ (Iran and even Russia/China is on the radar once again, nuclear 1st strike and China tech-sanctions)",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:44:45Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660987120",
+      "title": "$SPCX Starlink on iPhone 18 Pro announcement coming next month? $AAPL",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:43:31Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "660986682",
+      "title": "$AAPL  should I sell my puts for gains now or wait ? Easy $$ ahahajahahahaj  we won\u2019t see 310s . Try harder noobs",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:41:37Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vg7a30",
+      "title": "I am mid 40s with $83k in IRA accounts\u2026 will I be ok?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vg7a30/i_am_mid_40s_with_83k_in_ira_accounts_will_i_be_ok/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785936224,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vg7975",
+      "title": "Buckets within HYSA?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vg7975/buckets_within_hysa/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785936159,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660981250",
+      "title": "$BTC.X Re short again at 64,450 ? hmm wait till then",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:11:49Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "660980087",
+      "title": "$BTC.X now has my attention. The last two major Wave 2 corrections both took about a year to fully play out, and this one is following a pretty similar timeline so far. Coincidence? Maybe. But I\u2019m not ignoring the pattern.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-05T13:03:16Z",
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vg6f7b",
+      "title": "What am I missing?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vg6f7b/what_am_i_missing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785934076,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vg5dnj",
+      "title": "Best way to roll over a 401k?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vg5dnj/best_way_to_roll_over_a_401k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785931262,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vg56ra",
+      "title": "Has the Fed \"put\" eliminated the need for bonds in a portfolio? 60/40 NG?",
+      "url": "https://www.reddit.com/r/investing/comments/1vg56ra/has_the_fed_put_eliminated_the_need_for_bonds_in/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785930739,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vg56ez",
+      "title": "Worth it to pay off Truck?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vg56ez/worth_it_to_pay_off_truck/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785930709,
+      "first_seen_utc": 1785938584
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -235,6 +466,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vg2cc9",
+      "title": "What are the money mistakes that only become obvious years later?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vg2cc9/what_are_the_money_mistakes_that_only_become/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785921800,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
       "subreddit": "CryptoCurrency",
       "id": "1vg1rk7",
       "title": "What's the cheapest way you've found to buy crypto without getting destroyed by fees?",
@@ -243,6 +485,17 @@
       "num_comments": 0,
       "created_utc": 1785919758,
       "first_seen_utc": 1785928847
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vg1ekp",
+      "title": "Five years of medical bills, lost income, and debt while caring for my parents \u2014 how do I get out?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vg1ekp/five_years_of_medical_bills_lost_income_and_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785918466,
+      "first_seen_utc": 1785938584
     },
     {
       "source": "reddit",
@@ -542,6 +795,17 @@
       "first_seen_utc": 1785908797
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vfyc2z",
+      "title": "Best places to find loose change?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vfyc2z/best_places_to_find_loose_change/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785908060,
+      "first_seen_utc": 1785938584
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "660957621",
@@ -727,6 +991,28 @@
       "num_comments": 0,
       "created_utc": 1785901847,
       "first_seen_utc": 1785908797
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vfw7l0",
+      "title": "When did you realize you weren't in survival mode anymore?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vfw7l0/when_did_you_realize_you_werent_in_survival_mode/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785901465,
+      "first_seen_utc": 1785938584
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vfw1cq",
+      "title": "Duplicate rent payment refunded for NSF... yeah?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vfw1cq/duplicate_rent_payment_refunded_for_nsf_yeah/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785900954,
+      "first_seen_utc": 1785938584
     },
     {
       "source": "stocktwits",
