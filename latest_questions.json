@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-06T08:32:46.285286+00:00",
-  "count": 4015,
+  "generated_at": "2026-08-06T11:22:49.667617+00:00",
+  "count": 4029,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661099993",
+      "title": "$SPX $SPY lmao but why bearish on an uptrend ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T11:09:51Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661099933",
+      "title": "$TSLA is there any realistic chance for $325 today?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T11:09:17Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vh16de",
+      "title": "is it normal for windows to flag eigen as a trojan?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vh16de/is_it_normal_for_windows_to_flag_eigen_as_a_trojan/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786014507,
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661098982",
+      "title": "$NVDA $180?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:57:12Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661097876",
+      "title": "$AAPL AAPL Apple : Long trade up 24% , short trade up 11% all in 5 weeks! Cloud Chart and Artificial Intelligence trading review.  \nKey support and resistance zones discussed as well as a deep dive into the StarMine institutional data to reveal the bull and bear case!  \nNew AI Vol Breakout signal from critical Cloud Chart support zone in play! So far so good! \nAAPL Apple : Long trade up 24% , short trade up 11% all in 5 weeks! Clou... https://youtu.be/MjovsEEMa5k?si=UzxDoaommHooAww- via @YouTube",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:32:40Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661097729",
+      "title": "$NVDA https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/60981051/cathie-wood-buys-17-6-million-of-nvidia-stock-as-spacexs-gpu-bet-fuels-optimism-dumps-palantir-stock-as-michael-burrys-short-bet-lingers?utm_source=TechInvestorNews&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:28:29Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661097568",
+      "title": "$MBLY buy out price ???\n\n$UBER $TSLA $INTC $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:25:01Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661097547",
+      "title": "$NFLX $QQQ Do you know what I&#39;m saying? $SNDK $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:24:35Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661097137",
+      "title": "$SPY $RDDT $META do you know what I&#39;m saying?? $BTC.X $NVDA",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:13:46Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661096774",
+      "title": "$NLST $AMD $NVDA $META $GOOG  \nNetlist (NLST): With a Strategic Alliance Announced with Samsung\u2014and Possibly More Alliances to Follow\u2014What Could the Share Price Look Like Over the Next 12 Months? \n \nhttps://garywallach.substack.com/p/netlist-nlst-with-a-strategic-alliance?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 12,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T10:03:58Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661095803",
+      "title": "$BTC.X $XRP.X  https://youtu.be/mrfRxi5I628?is=fibv19zldnWnqi3J",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T09:23:40Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661095551",
+      "title": "$NUGT Do you get our plays? It\u2019s not hard to get them- just use the link in my bio here and get in FREE\u2026. Unless you don\u2019t like plays like the ones you see in our documented feed here since 2015 $MSFT $AAPL $QQQ",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T09:13:11Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661095420",
+      "title": "$BTC.X Keep selling? \ud83d\udc3b\ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T09:06:32Z",
+      "first_seen_utc": 1786015369
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vgyt4q",
+      "title": "So how to start using the power of compound interest?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vgyt4q/so_how_to_start_using_the_power_of_compound/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786006564,
+      "first_seen_utc": 1786015369
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -107,7 +261,7 @@
       "id": "661093336",
       "title": "$SPCX $TSLA why is Musk the richest  man in the world? Bevause he sells shares of his companies to gullible retailers at outrageously expensive prices supported by outlandish price targets fixed by investment banks which are paid by Musk conpanies for other services. Simple. And since stupidity has no time expiration and SeC is helpless, this ponzi scheme can last very long.",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 3,
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-08-06T07:15:28Z",
       "first_seen_utc": 1786005166
