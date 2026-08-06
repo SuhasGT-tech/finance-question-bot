@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-06T05:48:48.311142+00:00",
-  "count": 4002,
+  "generated_at": "2026-08-06T08:32:46.285286+00:00",
+  "count": 4015,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661094549",
+      "title": "$SPY IS THIS RIGHT TIME  TO LOAD UP ON THE VIX???",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T08:26:26Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661094448",
+      "title": "$SPY all this red and spy Isnt even red??? Wtf $QQQ",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T08:21:20Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661094133",
+      "title": "$NVDA +3.4% yesterday as Musk confirms SpaceX exclusive Nvidia chips. $AMD -7% on soft outlook. AI spend drama heating up. Hormuz deal hopes still in play. Who\u2019s loading the dip? $SPY $QQQ",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T08:07:02Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661094026",
+      "title": "$SOXL $SOXS $TQQQ $SQQQ $SPY  \nSailors fighting Trump\u2019s war with Iran are washing in moldy showers and rationing meals in the ninth month of a mission that shows zero signs of ending. \n \nhttps://www.thedailybeast.com/families-rage-at-trump-over-american-forces-aboard-uss-lincoln/?utm_source=twitter_owned_snd&amp;utm_medium=twitter&amp;utm_campaign=owned_social",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T08:01:48Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661093996",
+      "title": "$SPY what just happened why the massive drop for ants?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T08:00:21Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661093758",
+      "title": "$SPY ARE U READY  FOR 1 DAY    10K  DROP IN THE NIKKEI???",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T07:46:42Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vgxdtl",
+      "title": "Pay for car with CC then balance transfer to 0% APR 21 months?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vgxdtl/pay_for_car_with_cc_then_balance_transfer_to_0/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786001457,
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661093487",
+      "title": "$BTC.X \n\nThis guy cooked or nah?\n\nhttps://hyperbot.network/trader/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T07:28:19Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661093357",
+      "title": "$SPY aug 23 2015  repeat  maybe \nhttps://www.youtube.com/watch?v=Kq2-k9jtlBw",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T07:17:02Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661093336",
+      "title": "$SPCX $TSLA why is Musk the richest  man in the world? Bevause he sells shares of his companies to gullible retailers at outrageously expensive prices supported by outlandish price targets fixed by investment banks which are paid by Musk conpanies for other services. Simple. And since stupidity has no time expiration and SeC is helpless, this ponzi scheme can last very long.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T07:15:28Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661093334",
+      "title": "$SINT maybe also $NVDA and AI? Lol",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T07:15:26Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661092457",
+      "title": "$AMD is no longer just the \u201calternative\u201d to $NVDA.\n\nIt\u2019s becoming a real second source for AI compute,\nespecially as customers look for more supply and better pricing.\n\nThe question is no longer \u201cCan AMD compete?\u201d\nIt\u2019s \u201cHow much market share can it realistically take in the next 2\u20133 years?\u201d\n\nWhat do you think is the biggest remaining gap for AMD?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T06:26:37Z",
+      "first_seen_utc": 1786005166
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661092191",
+      "title": "Has anyone else noticed the frequency with which South Korea&#39;s markets have experienced significant fluctuations, leading to ripple effects across the entire technology sector? \n\nIt seems understandable why hedge funds might be seeking to reduce their exposure to tech stocks, especially after observing such volatile movements in even the largest companies.\n$SNDK $SKHY $MU $NVDA $SPY",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-06T06:10:21Z",
+      "first_seen_utc": 1786005166
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -19,7 +162,7 @@
       "id": "661091477",
       "title": "$SMCI $NVDA $SMCI $DELL $SOXS  Cant believe bears are bearish on a company that makes more profit than JPM. Im sure if they are being watched constantly, if theres something dodgy going on their going to get caught and quickly.  \n \nThey make a product that china is so desperate to steal that they make shell companies in the US and smuggle in products from DELL, Nvidia and SMCI. \n \nThese companies are luckily getting weeded out now, but still its the massive technological innovation that Nvidia created that has caused them to shoot to the top and get the revenues and profits they have today. \n \nPeople talking about &quot;circular financing&quot; should be looking at banks, dont they do the same thing, loan people money who also purchase their assets &quot;bank accounts&quot; which then are used to loan money to those same clients. \n \nWhy arent the bears complaining about banks? People default on loans all the time.",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-06T05:29:02Z",
       "first_seen_utc": 1785995328
@@ -41,7 +184,7 @@
       "id": "661091433",
       "title": "$BTC.X $MSTR $ETH.X $XRP.X \nHow many church scams have been exposed behind crypto?\u2026not many because we conceive religion as an institution just as we conceive hedge funds as an institution. I loathe you people and when the time comes I\u2019m going to decimate your accounts like something out of a fictional novel books may even be written about it good luck and good riddance",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-06T05:26:36Z",
       "first_seen_utc": 1785995328
@@ -63,7 +206,7 @@
       "id": "661091198",
       "title": "Good morning, traders. \ud83d\udcca Today&#39;s Daily Technical Videos are now available in the membership area. Stay informed with our latest market insights: https://elliottwave-forecast.com/?fpr=vlada14 \n#ElliottWave #Trading $SPX $NQ_F $DAX $BTC.X $ETH.X",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-06T05:12:26Z",
       "first_seen_utc": 1785995328
@@ -74,7 +217,7 @@
       "id": "661091113",
       "title": "$NVDA $225?\ud83e\udd14",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-08-06T05:07:50Z",
       "first_seen_utc": 1785995328
@@ -224,11 +367,11 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661088819",
       "title": "Honestly, trade policy is starting to feel like one of the biggest quiet drivers in the market right now. \n \nIt\u2019s not just political headlines anymore. \n \nCompanies are actually changing where they build, where they source, and where they invest because of tariffs and supply chain pressure. \n \nThe interesting part? \n \nSome companies may turn this into an advantage, while others could struggle to adapt. \n \nI\u2019m watching the ones that can move faster. \n \nCurrently watching: \n \n$AAPL $TSM $CAT $NVDA",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-06T03:39:05Z",
       "first_seen_utc": 1785995328
@@ -261,7 +404,7 @@
       "id": "661086907",
       "title": "$AAPL is taking a different path in AI.\n\nWhile others race to build the biggest models and data centers,\nApple is focused on on-device intelligence and tight hardware-software integration.\n\nPrivacy, efficiency, and user experience over pure scale.\n\nIn the long run, will the winner be the company with the most compute,\nor the one that makes AI feel invisible and useful to normal people?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 2,
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-08-06T02:48:53Z",
       "first_seen_utc": 1785995328
