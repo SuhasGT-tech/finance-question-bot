@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-08-07T04:55:39.548443+00:00",
-  "count": 4171,
+  "generated_at": "2026-08-07T07:13:07.602103+00:00",
+  "count": 4192,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661224918",
+      "title": "$NLST $AVGO $NVDA $AMD $INTC \nNetlist (OTCQB: NLST): Is the Samsung Strategic Alliance Worth a $15\u2013$20 Stock? The Numbers Suggest the Company Has Entered a New Era \nhttps://garywallach.substack.com/p/netlist-otcqb-nlst-is-the-samsung?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T07:06:08Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vht732",
+      "title": "Is SAP still worth buying after its recent rebound, or has the easy money already been made?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vht732/is_sap_still_worth_buying_after_its_recent/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786085470,
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661224742",
+      "title": "$BTC.X  what else is new with this pos today?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:50:10Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661224733",
+      "title": "$NVDA won\u2019t smci er affect this?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:49:30Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224629",
+      "title": "$SPY  \nHelp is on the way? \ud83d\ude02 \n5.22 30Y \ud83d\udc40\ud83d\udc40\ud83d\udc40 \nCrash is on the way? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:43:39Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vht1sd",
+      "title": "Lenovo - is Trump's ban going to impact it?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vht1sd/lenovo_is_trumps_ban_going_to_impact_it/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786084947,
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224468",
+      "title": "$SPY Will tomorrow be a &#39;hormuz deal&#39;? after looking at the FTD chart last few months They have 1000% burning the bears here. manufacturing drops, then just allowing it to trade normally,",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:34:07Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224441",
+      "title": "$SPY Look at this crime scene, again compare it. ZERO Green candles then alot show up Sharp decline, then continuous green candles as price stays flat?  $NFLX soon as those green candles dissappear (If they ever) i&#39;ve seen them go for as long as 1-2 years before doing this. We all know who it is. Mr. &quot;quant trader talula&quot; and friends.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:32:12Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224388",
+      "title": "$SPY If you trade $SPY tell me what you see here geniuses, I wont even allow you to answer. What you are seeing is naked shorting that is creating the dips here, then covering notice how you see ZERO candles when the price moves up, but massive candles orchestrated into spots where it goes down?  It&#39;s totally manufactured.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:28:49Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224224",
+      "title": "$SPY Trump lost the war with Iran? When is he gonna admit. Can&#39;t wait :)",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:16:56Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661224169",
+      "title": "\u2728 Exclusive FREE e-book for traders! \n\ud83d\udc49 Comprehensive Guide to Trade Stocks &amp; ETFs \n\ud83d\udce5 Grab your copy now: https://elliottwave-forecast.com/ebook-comprehensive-guide-trading-stocks-etfs/?fpr=vlada14 \n \n \n#elliottwave #trading $SPY $SPX $DAX $QQQ",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T06:14:08Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhsgg5",
+      "title": "Move to TX in 2027 or stay home until 2029 to stack money first?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhsgg5/move_to_tx_in_2027_or_stay_home_until_2029_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786082933,
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661223531",
+      "title": "$NVDA  breather incoming?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T05:36:24Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661223495",
+      "title": "$BTC.X anyone following this trade?  balls of steel \nhttps://hyperbot.network/trader/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T05:34:15Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661223252",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nIs it the double-wide?!!! \ud83d\udc8d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T05:20:24Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661223217",
+      "title": "$BTC.X $ETH.X $MSTR $XRP.X Cool so it\u2019s going up 10,000% then right?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T05:18:16Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661223066",
+      "title": "$NVDA opening tomorrow 220+?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T05:11:35Z",
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhr9ae",
+      "title": "How to make an bank account without using aadhar linked mobile number..?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhr9ae/how_to_make_an_bank_account_without_using_aadhar/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786078968,
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhr48u",
+      "title": "457 Roth roll over or not?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhr48u/457_roth_roll_over_or_not/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786078533,
+      "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhr2r9",
+      "title": "$9k credit card debt at 24% APR vs $14k emergency fund. Do I drain savings to kill it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhr2r9/9k_credit_card_debt_at_24_apr_vs_14k_emergency/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786078402,
+      "first_seen_utc": 1786086787
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -190,6 +410,17 @@
       "first_seen_utc": 1786078539
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vhpxhp",
+      "title": "Invest in an IRA or Keep putting money in a HYS?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vhpxhp/invest_in_an_ira_or_keep_putting_money_in_a_hys/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786074876,
+      "first_seen_utc": 1786086787
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661221036",
@@ -206,7 +437,7 @@
       "id": "661220821",
       "title": "@KarlDieGlatze @BroadwayJoe12 Well what if $NVDA  announced they had taken a 10% stake in $LUMN? Or if the gov took a 10% stake?  And a golden dome announcement?",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-07T03:42:53Z",
       "first_seen_utc": 1786078539
@@ -525,7 +756,7 @@
       "id": "661216223",
       "title": "$AAPL $320 tomorrow?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 7,
+      "score": 9,
       "num_comments": 0,
       "created_utc": "2026-08-07T01:44:46Z",
       "first_seen_utc": 1786069926
