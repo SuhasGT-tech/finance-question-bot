@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-08-07T10:01:49.760097+00:00",
-  "count": 4209,
+  "generated_at": "2026-08-07T12:58:10.278002+00:00",
+  "count": 4236,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241532",
+      "title": "$SPY \n\nlol what is so exciting at SPY 771 about adding a paltry 30,000 jobs and unemployment rate falling because people are leaving workforce?  Flat ok, but we really rallying on this data?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:54:43Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241511",
+      "title": "$QQQ $SPY Pain cancelled or flush at open?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:54:32Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241401",
+      "title": "$SPY The way they track unemployment is genuinely asinine. U-3 excludes people who have become so discouraged they&#39;ve given up looking for work. But did their bills disappear? No.\nTechnically, if every person out of a job stopped looking, U-3 would be 0%. Let that sink in!\nU-6 is currently almost 8%!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:53:50Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661241373",
+      "title": "$PLTR $AAPL $SPY $DELL $MSFT  \nwhy  are we  going  higher and HIGHER??? \n \nhttps://miro.medium.com/v2/resize:fit:1400/format:webp/1*QvGMQmMAaP1sU3OId8uWDg.png",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:53:35Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241369",
+      "title": "$SPY $780 by close?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:53:33Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661241360",
+      "title": "$BTC.X 66k ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:53:29Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661241355",
+      "title": "$NVDA negative NFP probably no rate hiking rest of 2026!! \nto 225??",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:53:28Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241242",
+      "title": "$SPY another no dip day??",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:52:46Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241202",
+      "title": "$SPY What happening? War over?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:52:30Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661241020",
+      "title": "$SPY is this thing ever gonna pullback\u2026?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:51:05Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661240949",
+      "title": "$BTC.X $ASST  every reason over the last month for BTC to break the lows like all the bears expected, and it didn\u2019t happen, I have never felt more bullish, imagine what this will do with ANY good news?,  holding strong with the delay of the clarity act.. this starts the institutional flood gates into sept/oct.. load short squeeze!!!!!",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:50:31Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661240736",
+      "title": "$AAPL $290?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:48:59Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661240032",
+      "title": "$BTC.X Tf is going on here? Exchange moved the price up to liquidate a massive short at 4 AM? \ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:44:03Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661240015",
+      "title": "$TSLA predictions after market opening?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:43:55Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661239085",
+      "title": "$SPY $RDDT do you know what I&#39;m saying??? $META $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:36:51Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661238738",
+      "title": "$TSLA what\u2019s the hold up from getting to that $700 \ud83c\udfaf ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T12:34:11Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhzcxl",
+      "title": "Withdraw from Roth IRA for house?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhzcxl/withdraw_from_roth_ira_for_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786105935,
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661235125",
+      "title": "$TSLA no word \nhttps://x.com/tesla/status/2085365278276284803?s=61",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T11:56:03Z",
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661230600",
+      "title": "$TSLA started a new position at 324 this week. How long hold?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T10:52:30Z",
+      "first_seen_utc": 1786107490
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -48,11 +257,11 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661227696",
       "title": "$TTD unbelievable almost half of the market value vanished in a single day on single er. What kind of Scam is it? Going to $0 today? $AAPL $AMZN $NVDA",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-07T09:23:56Z",
       "first_seen_utc": 1786096909
@@ -177,6 +386,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-07T07:12:04Z",
       "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vhtjd0",
+      "title": "$10k at 20 years old, what should I do?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vhtjd0/10k_at_20_years_old_what_should_i_do/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786086647,
+      "first_seen_utc": 1786107490
     },
     {
       "source": "stocktwits",
@@ -322,6 +542,17 @@
       "first_seen_utc": 1786086787
     },
     {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vhrvcu",
+      "title": "When choosing a financial planner do I meet with more than one?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vhrvcu/when_choosing_a_financial_planner_do_i_meet_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786080983,
+      "first_seen_utc": 1786107490
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661223495",
@@ -430,6 +661,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-07T04:47:40Z",
       "first_seen_utc": 1786078539
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vhqsuj",
+      "title": "Workers are getting a smaller share of GDP while productivity keeps rising. Good for stocks?",
+      "url": "https://www.reddit.com/r/investing/comments/1vhqsuj/workers_are_getting_a_smaller_share_of_gdp_while/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786077522,
+      "first_seen_utc": 1786107490
     },
     {
       "source": "stocktwits",
@@ -1137,6 +1379,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vhkchv",
+      "title": "how do i file \u201cunder the table\u201d?",
+      "url": "https://www.reddit.com/r/tax/comments/1vhkchv/how_do_i_file_under_the_table/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786059245,
+      "first_seen_utc": 1786107490
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1vhk3rp",
       "title": "Is there a cellphone bill that\u2019s only 5$ a month?",
@@ -1312,6 +1565,17 @@
       "first_seen_utc": 1786069926
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vhizl3",
+      "title": "Received CA FTB refund check while filing a superseding S-corp return \u2014 how to properly void/return it?",
+      "url": "https://www.reddit.com/r/tax/comments/1vhizl3/received_ca_ftb_refund_check_while_filing_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786055805,
+      "first_seen_utc": 1786107490
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "661203482",
@@ -1455,6 +1719,17 @@
       "first_seen_utc": 1786069926
     },
     {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vhg3mb",
+      "title": "How to determine s corp basis when previously a partnership with negative retained earnings?",
+      "url": "https://www.reddit.com/r/tax/comments/1vhg3mb/how_to_determine_s_corp_basis_when_previously_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786048880,
+      "first_seen_utc": 1786107490
+    },
+    {
       "source": "stocktwits",
       "symbol": "AAPL",
       "id": "661191266",
@@ -1596,6 +1871,17 @@
       "num_comments": 0,
       "created_utc": 1786033619,
       "first_seen_utc": 1786060746
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vh92xd",
+      "title": "NY State Historic Barn Rehabilitation Tax Credit - what does non-refundable mean?",
+      "url": "https://www.reddit.com/r/tax/comments/1vh92xd/ny_state_historic_barn_rehabilitation_tax_credit/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786033576,
+      "first_seen_utc": 1786107490
     },
     {
       "source": "reddit",
@@ -2190,6 +2476,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-06T07:15:26Z",
       "first_seen_utc": 1786005166
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vgwkbe",
+      "title": "Been living in Japan for 4 and a half years. Have not been paying my US tax. How screwed am I?",
+      "url": "https://www.reddit.com/r/tax/comments/1vgwkbe/been_living_in_japan_for_4_and_a_half_years_have/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1785998696,
+      "first_seen_utc": 1786107490
     },
     {
       "source": "stocktwits",
