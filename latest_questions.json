@@ -1,14 +1,190 @@
 {
-  "generated_at": "2026-08-07T07:13:07.602103+00:00",
-  "count": 4192,
+  "generated_at": "2026-08-07T10:01:49.760097+00:00",
+  "count": 4209,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661228311",
+      "title": "\ud83d\udea8\ud83d\udea8 $SLS \u2014 THIS IS ABSOLUTELY INSANE!!! \ud83d\udea8\ud83d\udea8 \n \n$11.65 BID \u27a1\ufe0f $12.00 ASK = A MASSIVE $0.35 SPREAD!!! \ud83e\udd2f\ud83d\udd25 \n \nWHERE ARE THE SELLERS?!?! \n \nThe ask has literally moved all the way up to $12.00 while the bid sits at $11.65. The displayed book is SCREAMING THIN LIQUIDITY. \ud83d\udcc8\ud83d\udca5 \n \nYesterday they couldn\u2019t generate meaningful volume while price stayed buried below VWAP. Now we wake up to THIS?! \n \n\ud83d\udd25 $11.65 BID \n\ud83d\udd25 $12.00 ASK \n\ud83d\udd25 $0.35 SPREAD \n\ud83d\udd25 NO MEANINGFUL SELL-SIDE LIQUIDITY NEARBY \n \nAt some point you have to MOVE THE BID UP and let price discovery happen! \n \n\ud83d\ude80 IF SELLERS WON\u2019T COME TO THE PRICE, THE PRICE HAS TO GO FIND THE SELLERS!!! \ud83d\ude80\ud83d\ude80\ud83d\ude80 \n \n$XBI $SPY $QQQ",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:46:55Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661227975",
+      "title": "$SPY Nevermind. You guys see this ofcourse and there is a deal: https://www.bloomberg.com/news/articles/2026-08-07/trump-says-hormuz-talks-moving-along-even-as-iran-mulls-us-ban?srnd=homepage-europe",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:32:41Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661227914",
+      "title": "$SPY anyone plan on shorting this today ? \ud83e\udd14",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:30:12Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhvrzl",
+      "title": "What goals should I set?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhvrzl/what_goals_should_i_set/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786094782,
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661227696",
+      "title": "$TTD unbelievable almost half of the market value vanished in a single day on single er. What kind of Scam is it? Going to $0 today? $AAPL $AMZN $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:23:56Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661227239",
+      "title": "$CRWV  vs $IREN: Which Stock Does Jim Cramer Think Is The Better Neocloud Bet?  \n \n$SPY $QQQ  \nhttps://stocktwits.com/news-articles/markets/equity/crwv-vs-iren-which-stock-does-jim-cramer-think-is-the-better-neocloud-bet/cZoODvcRJBE",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:07:30Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661227121",
+      "title": "$TSLA\n\nTesla\u2019s biggest opportunity may not be selling more cars.\n\nIt could be turning AI, autonomy, and robotics into entirely new businesses.\n\nIs Tesla still primarily a car company in 2026 \u2014 or already becoming something much bigger?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T09:02:38Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661226843",
+      "title": "Why Is HTZ Stock Surging Nearly 20% In Premarket Trading? \n\n$HTZ $UBER $LCID $TSLA\n\nhttps://stocktwits.com/news/equity/markets/why-htz-stock-surging-premarket-trading/cZoOyDKRJBO",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T08:50:23Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661226234",
+      "title": "$AAPL is it a bear flag?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T08:27:38Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhurup",
+      "title": "Would you trust a well-known relative over SCSS for almost double the returns?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhurup/would_you_trust_a_wellknown_relative_over_scss/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786091139,
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661225526",
+      "title": "$COIN $BTC.X surprise senate session for clarity act friday? rumors swirling.. Trump made a request",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T07:51:45Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhu537",
+      "title": "Should I pause 401k contributions above the match to knock out a 7% car loan?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhu537/should_i_pause_401k_contributions_above_the_match/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786088872,
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661225271",
+      "title": "CRWV vs IREN: Which Stock Does Jim Cramer Think Is The Better Neocloud Bet?\n\n$CRWV $IREN $NVDA\n\nhttps://stocktwits.com/news/equity/markets/crwv-vs-iren-which-stock-does-jim-cramer-think-is-the-better-neocloud-bet/cZoODvcRJBE",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T07:33:43Z",
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vhtnjg",
+      "title": "Thoughts on a fee only CFP?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vhtnjg/thoughts_on_a_fee_only_cfp/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786087058,
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vhtl4f",
+      "title": "Anyone else find themselves naturally buying less Bitcoin over time?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vhtl4f/anyone_else_find_themselves_naturally_buying_less/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786086821,
+      "first_seen_utc": 1786096909
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661224994",
+      "title": "$NVDA Each week, SPR features one ticker for in-depth coverage. The Weekly Report is updated both this week and next week, while the Daily Report is updated throughout next week&#39;s trading sessions. All reports are published at pretiming.report. https://www.pretiming.report/2026/08/nvda-at-219-wall-streets-303-target.html?spref=tw",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T07:12:04Z",
+      "first_seen_utc": 1786096909
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "661224918",
       "title": "$NLST $AVGO $NVDA $AMD $INTC \nNetlist (OTCQB: NLST): Is the Samsung Strategic Alliance Worth a $15\u2013$20 Stock? The Numbers Suggest the Company Has Entered a New Era \nhttps://garywallach.substack.com/p/netlist-otcqb-nlst-is-the-samsung?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 10,
       "num_comments": 0,
       "created_utc": "2026-08-07T07:06:08Z",
       "first_seen_utc": 1786086787
@@ -30,7 +206,7 @@
       "id": "661224742",
       "title": "$BTC.X  what else is new with this pos today?",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-07T06:50:10Z",
       "first_seen_utc": 1786086787
@@ -162,7 +338,7 @@
       "id": "661223252",
       "title": "$BTC.X $MSTR $ETH.X $XRP.X \nIs it the double-wide?!!! \ud83d\udc8d",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 5,
+      "score": 8,
       "num_comments": 0,
       "created_utc": "2026-08-07T05:20:24Z",
       "first_seen_utc": 1786086787
@@ -173,7 +349,7 @@
       "id": "661223217",
       "title": "$BTC.X $ETH.X $MSTR $XRP.X Cool so it\u2019s going up 10,000% then right?",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-07T05:18:16Z",
       "first_seen_utc": 1786086787
@@ -199,6 +375,17 @@
       "num_comments": 0,
       "created_utc": 1786078968,
       "first_seen_utc": 1786086787
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vhr4vj",
+      "title": "ADX vs SPYI- which is safer ?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vhr4vj/adx_vs_spyi_which_is_safer/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786078589,
+      "first_seen_utc": 1786096909
     },
     {
       "source": "reddit",
@@ -514,7 +701,7 @@
       "id": "661219784",
       "title": "$AAPL Launch of iPhone 18 in only one month. Right?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 5,
+      "score": 6,
       "num_comments": 0,
       "created_utc": "2026-08-07T03:10:24Z",
       "first_seen_utc": 1786078539
@@ -756,7 +943,7 @@
       "id": "661216223",
       "title": "$AAPL $320 tomorrow?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 9,
+      "score": 10,
       "num_comments": 0,
       "created_utc": "2026-08-07T01:44:46Z",
       "first_seen_utc": 1786069926
