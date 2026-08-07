@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-08-07T15:56:15.549862+00:00",
-  "count": 4274,
+  "generated_at": "2026-08-07T18:54:06.944794+00:00",
+  "count": 4294,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661300366",
+      "title": "$SPY Hows the $VIX doing? FU",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:48:12Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661300196",
+      "title": "$NVDA Don&#39;t be misled by this; is the tide about to come in? Let&#39;s discuss it together.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:46:48Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661300140",
+      "title": "$AAPL   Who wants to get paid via $310 puts???",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:46:23Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661299942",
+      "title": "$AAPL   Can this piggy slip to the $310 level by 4 pm???  \n \n Let us pray, NOT!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:45:05Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661299114",
+      "title": "$TSLA Will they let it run after killing options?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:38:54Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661298535",
+      "title": "anyone else here on Probs? managed to catch $NVDA before the spike ahhaha. I can feel a dump coming soon tho \ud83d\ude2d",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:34:33Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661298512",
+      "title": "@knifeman $NVDA ever moved big on NVDA day?  not sure...",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:34:23Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661297911",
+      "title": "$AAPL   Collateral damage near?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:29:35Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661297524",
+      "title": "$NVDA where&#39;s the eod love? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:26:34Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661296344",
+      "title": "$SPY $QQQ $TSLA  \n \n4 Door Mustang? \ud83e\udd21 \n \n$F \nFord&#39;s plans for a new four-door Mustang version may face supply chain challenges due to ongoing geopolitical tensions. \n.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:17:43Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661295871",
+      "title": "$NVDA  \ndoes this ever not dump end of day?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:14:02Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661295655",
+      "title": "$AAPL retarded people here !! can&#39;t shit this ?!?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T18:12:21Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vi7xzd",
+      "title": "Tips on how to save money as a college student?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vi7xzd/tips_on_how_to_save_money_as_a_college_student/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786125748,
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vi7xva",
+      "title": "why does no one talk about this con of trad 401k to ira rollover? am i missing something",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vi7xva/why_does_no_one_talk_about_this_con_of_trad_401k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786125742,
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661293340",
+      "title": "$AAPL last Friday, in the last two hours, it went up $6, can it do it again?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T17:54:45Z",
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vi6of8",
+      "title": "What are the best dental insurances for crowns and dental implants?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vi6of8/what_are_the_best_dental_insurances_for_crowns/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786122957,
+      "first_seen_utc": 1786128846
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vi591o",
+      "title": "Is debt consolidation worth revisiting once your credit improves?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vi591o/is_debt_consolidation_worth_revisiting_once_your/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786119812,
+      "first_seen_utc": 1786128846
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -168,6 +355,17 @@
       "first_seen_utc": 1786118175
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vi3osf",
+      "title": "Do you think what Trump did with his meme coins (rug pull) tainted cryptocurrency globally ?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vi3osf/do_you_think_what_trump_did_with_his_meme_coins/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786116345,
+      "first_seen_utc": 1786128846
+    },
+    {
       "source": "stocktwits",
       "symbol": "AAPL",
       "id": "661269599",
@@ -298,6 +496,17 @@
       "num_comments": 0,
       "created_utc": 1786113553,
       "first_seen_utc": 1786118175
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vi1qdc",
+      "title": "Friday Crypto Check-In: What\u2019s on your radar?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vi1qdc/friday_crypto_checkin_whats_on_your_radar/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786111884,
+      "first_seen_utc": 1786128846
     },
     {
       "source": "reddit",
@@ -584,6 +793,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-07T11:56:03Z",
       "first_seen_utc": 1786107490
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vhxtvh",
+      "title": "invested 5 years back. i dont see it getting back. any idea of TIA bouncing back ??",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vhxtvh/invested_5_years_back_i_dont_see_it_getting_back/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786101578,
+      "first_seen_utc": 1786128846
     },
     {
       "source": "stocktwits",
