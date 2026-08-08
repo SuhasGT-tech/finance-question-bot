@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-08-08T01:20:39.193661+00:00",
-  "count": 4343,
+  "generated_at": "2026-08-08T04:11:48.599995+00:00",
+  "count": 4361,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vilrpa",
+      "title": "Should I keep contributing to my 401k if I might need the cash in 2-3 years",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vilrpa/should_i_keep_contributing_to_my_401k_if_i_might/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786161548,
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vilrnz",
+      "title": "Should i buy out my lease?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vilrnz/should_i_buy_out_my_lease/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786161545,
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661335313",
+      "title": "Time To Buy Nvidia Or SpaceX Stock After Their AI Partnership? $NVDA $SPCX https://talkmarkets.com/article/time-to-buy-nvidia-or-spacex-stock-after-their-ai-partnership-1786160865",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:48:22Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661335288",
+      "title": "$btc.x $mstr $eth.x $xrp.x\nhttps://youtube.com/watch?v=_H-V_I7c7ak&amp;si=9GVZ3ioGVqec6ySd",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:46:39Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661335246",
+      "title": "$SPY \n\nNewsNVIDIA may cut Rubin Ultra HBM capacity amid memory shortage.\nhttps://www-sammyfans-com.cdn.ampproject.org/v/s/www.sammyfans.com/2026/08/07/nvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage/amp/?amp_gsa=1&amp;amp_js_v=a9&amp;usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&amp;aoh=17861604264220&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.sammyfans.com%2F2026%2F08%2F07%2Fnvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage%2F",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:44:14Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661335233",
+      "title": "$NVDA \n\nNewsNVIDIA may cut Rubin Ultra HBM capacity amid memory shortage\nhttps://www-sammyfans-com.cdn.ampproject.org/v/s/www.sammyfans.com/2026/08/07/nvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage/amp/?amp_gsa=1&amp;amp_js_v=a9&amp;usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&amp;aoh=17861604264220&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.sammyfans.com%2F2026%2F08%2F07%2Fnvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage%2F",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:43:46Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661335136",
+      "title": "$SPY \n\nMounting warnings of a tech and AI stock bubble: Does credibility imply certainty?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:38:21Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661334948",
+      "title": "$BTC.X is there any way to short bitcoin?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:29:22Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661334939",
+      "title": "$SPY did the 61.8 Fibonacci ichimoku cloud divergence cross over yet?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:29:07Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661334795",
+      "title": "$btc.x $mstr $eth.x $xrp.x\nhttps://youtube.com/watch?v=xjDT3rMSQLQ&amp;si=P0NaIl7iBiF9AFDX",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:22:44Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vikoef",
+      "title": "How old are my Fellow SCHD investors?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vikoef/how_old_are_my_fellow_schd_investors/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786158240,
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661334316",
+      "title": "$TSLA would you look at that another one just came out today.  So that makes it. 2 today?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T03:01:08Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661334253",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nNo pumper factory?\u2026hot date with a ukrainian chat bot tonight?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T02:57:58Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vikjm4",
+      "title": "Put money in HYSA or IRA?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vikjm4/put_money_in_hysa_or_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786157850,
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vik68h",
+      "title": "Sell house and get apartment to increase investments?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vik68h/sell_house_and_get_apartment_to_increase/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786156754,
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661333164",
+      "title": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 \u2014 SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX clip below, then catch the full episode on your favorite podcast platform including YouTube at https://youtu.be/MR5FOrPdvz0 \n \nAnd subscribe to the full Options Insider Radio Network on your favorite podcast platform:    \n\ud83c\udf4e Apple: http://dms0xc.s.gy/mC77lX  \n\ud83c\udfa7Spotify: http://dms0xc.s.gy/eBVJH2    \n \nFor even more unusual activity, options flow, and powerful scans, visit http://TheHotOptionsReport.com",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T02:12:46Z",
+      "first_seen_utc": 1786162308
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661332991",
+      "title": "$AAPL $AVGO $AXTI all the gains from\nThe subs in the discord https://x.com/jc_justcharts/status/2085909861049536591?s=46",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T02:04:38Z",
+      "first_seen_utc": 1786162308
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -206,7 +393,7 @@
       "id": "661324040",
       "title": "$AAPL $290 after CPI?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-07T22:23:31Z",
       "first_seen_utc": 1786152039
@@ -507,6 +694,17 @@
       "num_comments": 0,
       "created_utc": 1786130019,
       "first_seen_utc": 1786138719
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vi9dw5",
+      "title": "Applovin tanked on earnings. Justified or not?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vi9dw5/applovin_tanked_on_earnings_justified_or_not/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786128938,
+      "first_seen_utc": 1786162308
     },
     {
       "source": "stocktwits",
