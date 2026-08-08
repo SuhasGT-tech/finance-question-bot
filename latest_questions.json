@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-08-07T21:38:39.566852+00:00",
-  "count": 4320,
+  "generated_at": "2026-08-08T01:20:39.193661+00:00",
+  "count": 4343,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661331506",
+      "title": "AI picked the names. The market did the rest. \n \nLast week, we asked Opus 5 in Sidekick to identify stocks with the strongest bullish CEO sentiment. \n \n$COHR ranked near the top  then ripped almost 50% this week. \n \nThat got my attention. \n \nSo we ran another screen across the top 20 $SPY performers YTD and asked for a fundamental ranking. \n \nThe names that kept coming up? \n$MU \n$SNDK \n$WDC \n \nMemory, storage, drives  that whole group is clearly getting interesting again. \n \nI\u2019m not saying an AI ranking magically predicts the next winner. But when the data, fundamentals, and price action start pointing in the same direction, I pay attention. \n \nEvening market check. Watching after-hours movers?  \nLet&#39;s compare notes.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T01:10:11Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661331502",
+      "title": "$SPY yesssssssss\nhttps://youtu.be/q5Yj5dfIEQk?is=cJ69bOyccl_N1kfg",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T01:10:03Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vii9af",
+      "title": "Advice on Getting A Car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vii9af/advice_on_getting_a_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786151097,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661331238",
+      "title": "$BTC.X $BILL who&#39;s in ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T01:02:19Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661330915",
+      "title": "$SPY we all knew this a week ago the whole world knew it lol\nThe fuck is going on here?!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T00:52:19Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661330010",
+      "title": "Why does it feel like we are due for a big green crypto weekend? $BTC.X $ETH.X $COIN $CRCL",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T00:26:28Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661329784",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA Typically when someone doesn\u2019t want me, then I don\u2019t have any desire to be around or even communicate with that person. When my one and only son is involved, the equation doesn\u2019t even look somewhat identical on paper. https://youtu.be/NIqH6rrmqh0?is=c9-RlyRE9NCMz-3C",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T00:19:22Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vih1lj",
+      "title": "Opening Roth IRA with Vanguard just to be able to also get VUSXX?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vih1lj/opening_roth_ira_with_vanguard_just_to_be_able_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786147637,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661328718",
+      "title": "$BTC.X wen OTC on this overpriced junk?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T23:55:27Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1viggky",
+      "title": "Living single in Chicago, how do my finances compare? Also, why do I feel behind?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1viggky/living_single_in_chicago_how_do_my_finances/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786146080,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vig8yf",
+      "title": "Should I get a personal loan to help my debt consolidation",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vig8yf/should_i_get_a_personal_loan_to_help_my_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786145503,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661326867",
+      "title": "$TSLA $SPCX look at WYHG exploding, you coming or what?  \n \nSqueeze WYHG after hour!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T23:17:17Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661326329",
+      "title": "$NVDA .https://x.com/cryptotice_/status/2085697465177829856?s=46&amp;t=Xq7UFW3u8B-l5R2nfYmJ2w",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T23:07:54Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vifmly",
+      "title": "Anyone in their 40s living off dividends or using them to supplement income?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vifmly/anyone_in_their_40s_living_off_dividends_or_using/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786143829,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661325657",
+      "title": "$F https://www.zacks.com/stock/news/2971307/can-ford-s-sub-30k-fathom-succeed-where-the-f-150-lightning-failed?cid=CS-STOCKTWITS-HL-analyst_blog%7Cquick_take-2971307&amp;adid=SYND_STOCKTWITS_HEADLINE_ANALYSTBLOG_252_2971307 \n\n$GM $TSLA $RIVN $CVNA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T22:55:16Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vievvv",
+      "title": "Is there any reason NOT to accept a credit card you don't want?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vievvv/is_there_any_reason_not_to_accept_a_credit_card/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786141894,
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661324428",
+      "title": "$TSLA 2.75% ? seriously ? is that all it can do ? on a day like this ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T22:30:50Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661324103",
+      "title": "$SPCX  \n \nall the Options Put Sellers suddenly turned Bullish on SpaceX this week. \n \nHmmm, I wonder why? \n \n$QQQ  \n$TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T22:24:37Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661324040",
+      "title": "$AAPL $290 after CPI?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-07T22:23:31Z",
+      "first_seen_utc": 1786152039
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vie5c2",
+      "title": "Bad Idea to Replace Savings Account with Dividends in Regular Brokerage Account?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vie5c2/bad_idea_to_replace_savings_account_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786140050,
+      "first_seen_utc": 1786152039
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -223,6 +443,17 @@
       "first_seen_utc": 1786138719
     },
     {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vibrwy",
+      "title": "Why do budgeting apps tell me where my money went instead of telling me what I can afford?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vibrwy/why_do_budgeting_apps_tell_me_where_my_money_went/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786134354,
+      "first_seen_utc": 1786152039
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "661312153",
@@ -408,6 +639,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-07T18:12:21Z",
       "first_seen_utc": 1786128846
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vi84hv",
+      "title": "CoveredCA vs Medi-Cal \u2013 will a drop in income lead to repayment of PTC come tax time?",
+      "url": "https://www.reddit.com/r/tax/comments/1vi84hv/coveredca_vs_medical_will_a_drop_in_income_lead/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786126150,
+      "first_seen_utc": 1786152039
     },
     {
       "source": "reddit",
@@ -782,6 +1024,17 @@
       "num_comments": 0,
       "created_utc": 1786113553,
       "first_seen_utc": 1786118175
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vi1wew",
+      "title": "Who should negotiate on my behalf about delayed installment agreement?",
+      "url": "https://www.reddit.com/r/tax/comments/1vi1wew/who_should_negotiate_on_my_behalf_about_delayed/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786112275,
+      "first_seen_utc": 1786152039
     },
     {
       "source": "reddit",
