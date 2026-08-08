@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-08T12:43:14.127395+00:00",
-  "count": 4412,
+  "generated_at": "2026-08-08T15:29:10.591281+00:00",
+  "count": 4435,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661344584",
+      "title": "$BTC.X When 40k?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T15:24:47Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661344191",
+      "title": "$BTC.X $MSTR The Clarity Act goes against everything that drove Bitty to $125K. Decentralized and out of governments control. You all wanted the institutions in, which crashed it, now you want the CA which just adds another layer of price discovery and will expose more rampant fraud. Do you really think the \u201ccycles\u201d are still a thing when there are now ETF\u2019s and regulation coming that was never there during the previous cycles? \u201cBitcoin is Freedom\u201d. Not for long\u2026. LMFAO.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T15:10:55Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661344147",
+      "title": "$NVDA \n\nDespite a weak labor market, Bank of America expects interest rates to rise by 75 basis points this year, starting in September. The reason? Inflation remains the Federal Reserve&#39;s primary concern..",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T15:09:40Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661344140",
+      "title": "$SPY \n\nDespite a weak labor market, Bank of America expects interest rates to rise by 75 basis points this year, starting in September. The reason? Inflation remains the Federal Reserve&#39;s primary concern.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T15:09:26Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1viybnx",
+      "title": "Analysis on Buying a House?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1viybnx/analysis_on_buying_a_house/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786201538,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661344047",
+      "title": "$SPY the issue is\u2026 what about denuclearization?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T15:05:18Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661343635",
+      "title": "$BTC.X buy the rumor, sell the news\u2026 \n\nWell traders? Here\u2019s your rumor!!! \n\nNow get to work!!! Buy buy buy!!!! \n\n$MSTR $BMNR $ETH.X $DOGE.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:51:30Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661343406",
+      "title": "$SPY https://youtu.be/3KL3QrTV0dE?is=oZu0OMlbT0r0iHPH",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:43:06Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661343248",
+      "title": "Are you Nervous Nancies done with the chop?!\n\nLet\u2019s gooooooooooooooooooooooooooo!!!!\n\n\ud83d\udc8e\ud83e\udd32\ud83d\udcc8\ud83d\ude80\ud83c\udf19\n\n$BMNR $BTC.X $ETH.X $MSTR $STRC",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:37:24Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vixjs9",
+      "title": "Am I on track to retire by age 45-50?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vixjs9/am_i_on_track_to_retire_by_age_4550/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786199595,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vixj8r",
+      "title": "Did I do my backdoor Roth IRA incorrectly?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vixj8r/did_i_do_my_backdoor_roth_ira_incorrectly/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786199557,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vixdjo",
+      "title": "Coast FIRE? How am I doing?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vixdjo/coast_fire_how_am_i_doing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786199148,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661342865",
+      "title": "$NVDA A 10% bounce from current levels will make $NVDA the first member of the $6T club and something many semiconductor analysts thought would have already happened by now. Given the big momentum we saw near the close on Friday, when will Nvidia join the $6T club? Their next earnings date is after the market closes on August 26th.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:22:52Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661342727",
+      "title": "$SPY $TSLA $SPCX $VOO $VTI   assuming yall have been trading/investing for last 5-10 years. What will be one good investment advice you will like to give it someone who\u2019s just starting their journey? \n\nAnyone? \n\nGL all",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:17:34Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661342449",
+      "title": "$NTDOY Oh no where has your money gone? oh here and there. $META $RDDT $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T14:07:41Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1viwozm",
+      "title": "What's Michael Saylor's biggest contribution to Bitcoin?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1viwozm/whats_michael_saylors_biggest_contribution_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786197410,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1viwbeu",
+      "title": "Generating electricity using bitcoin?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1viwbeu/generating_electricity_using_bitcoin/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786196401,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661341393",
+      "title": "$AAPL Is Buffet going to dump?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T13:26:04Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vivy49",
+      "title": "For my voluntary contribution, should I do traditional or Roth?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vivy49/for_my_voluntary_contribution_should_i_do/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786195401,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vivxfr",
+      "title": "Cash instead of credit cards with fees increasing?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vivxfr/cash_instead_of_credit_cards_with_fees_increasing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786195349,
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661340893",
+      "title": "VIDEO: V-shape to all time highs for SPY.   \nMetals laggard bull breaks.   \nCan memory join the weekly bounces? \nhttps://www.chartguys.com/watch?v=DcEGmKOjz2o \n$SMH $DRAM.X $MU $TSLA $SPCX",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T13:02:11Z",
+      "first_seen_utc": 1786202950
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661340556",
+      "title": "$AAPL Positive (82%): shares should receive modest upward support because functional Qwen access can improve the appeal of eligible Macs in mainland China and reduce concern that Apple products there will lack competitive AI capabilities... Full AI impact map, source, and watch-next details: https://nimpact.tech/newsimpact/news/2f36dadbc43d59c2?utm_source=stocktwits&amp;utm_medium=story_url",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T12:42:19Z",
+      "first_seen_utc": 1786202950
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -63,7 +305,7 @@
       "id": "661340316",
       "title": "$TSLA connect the dots !\nhttps://x.com/muskonomy/status/2085898147696644422?s=46",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-08T12:25:48Z",
       "first_seen_utc": 1786192994
@@ -151,7 +393,7 @@
       "id": "661339430",
       "title": "$NVDA are you kidding me. B?",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-08T11:30:42Z",
       "first_seen_utc": 1786192994
@@ -162,7 +404,7 @@
       "id": "661339089",
       "title": "$NVDA so Musk says exclusive to NVDA but also says building Terafab? isn&#39;t Tesla/SpaceX making their own chips very bearish for Nvidia?",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-08T11:08:41Z",
       "first_seen_utc": 1786192994
@@ -232,6 +474,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-08T08:53:36Z",
       "first_seen_utc": 1786181834
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1viqnib",
+      "title": "Bitcoin's Block 961,632 Showdown: Civil War or Phantom Menace?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1viqnib/bitcoins_block_961632_showdown_civil_war_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786178089,
+      "first_seen_utc": 1786202950
     },
     {
       "source": "stocktwits",
