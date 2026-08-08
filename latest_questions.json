@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-08T04:11:48.599995+00:00",
-  "count": 4361,
+  "generated_at": "2026-08-08T06:47:46.689329+00:00",
+  "count": 4375,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661337129",
+      "title": "$BTC.X we back?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T06:43:53Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vioacm",
+      "title": "Should i buy XST as a beginner with low risk tolerance?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vioacm/should_i_buy_xst_as_a_beginner_with_low_risk/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786169692,
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661336726",
+      "title": "$BTC.X I think the tell is good \u2018ol\u2019 Donny hodls 60m of btc that we know about not including all the other crypto ventures he\u2019s in. So you\u2019re going to tell me the most corrupt president in history is going to hodl a scam coin if he for one split second thought  it was going to zero? Fuck no he\u2019s going to turn that 60m into 600m\u2026",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:58:04Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661336715",
+      "title": "$SPY bull trap Monday yet ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:56:37Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661336657",
+      "title": "$QQQ $SPY  \n \nSo, have the Bears started their same old weekend nonsense yet? lol \n \n\ud83e\udd21",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:50:52Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661336647",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nJesus who shit the bed? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:49:12Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661336594",
+      "title": "$TROLL.X u Mad bro? $DOGE.X $SHIB.X -$PEPE.X $BTC.X the runner of the cycle is here",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:43:32Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661336438",
+      "title": "$BTC.X does anyone have bitcoin&#39;s customer service number? thanks for\nyour attention to this matter!",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T05:24:02Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vin3ah",
+      "title": "Should I Sell my Car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vin3ah/should_i_sell_my_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786165684,
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vimuq4",
+      "title": "How to budget 1000 a week allowance",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vimuq4/how_to_budget_1000_a_week_allowance/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786164917,
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vimopj",
+      "title": "Dumb question, why is my tab being refunded after going to the bar?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vimopj/dumb_question_why_is_my_tab_being_refunded_after/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786164382,
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661336046",
+      "title": "$SPY $QQQ\nThe #1 Best Trade for the Rest of the Year | ShadowTrader Weekend Edition https://youtu.be/PYGkqJtQ-UM?is=yVgt23o4mgjuKJMX",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T04:42:06Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661335804",
+      "title": "$AAPL Jim Cramer has repeatedly backed Apple Inc. (NASDAQ: AAPL) as an \u201cown it, don\u2019t trade it\u201d investment. But with Apple taking a slower approach to artificial intelligence, is AAPL still worth owning for the long haul? https://globalmarketbulletin.com/could-apple-aapl-deliver-another-decade-of-strong-growth/",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T04:23:01Z",
+      "first_seen_utc": 1786171666
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661335795",
+      "title": "$NVDA Jim Cramer remains bullish on Nvidia Corporation (NASDAQ: NVDA), but investors want more than AI hype. With Blackwell demand, Rubin, earnings growth and data-center spending in focus, could NVDA stock be setting up for its next major move? https://globalmarketbulletin.com/is-nvidia-nvda-still-a-smart-stock-to-buy-for-the-long-term/",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-08T04:22:21Z",
+      "first_seen_utc": 1786171666
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -30,7 +184,7 @@
       "id": "661335313",
       "title": "Time To Buy Nvidia Or SpaceX Stock After Their AI Partnership? $NVDA $SPCX https://talkmarkets.com/article/time-to-buy-nvidia-or-spacex-stock-after-their-ai-partnership-1786160865",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-08T03:48:22Z",
       "first_seen_utc": 1786162308
@@ -173,7 +327,7 @@
       "id": "661333164",
       "title": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 \u2014 SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX clip below, then catch the full episode on your favorite podcast platform including YouTube at https://youtu.be/MR5FOrPdvz0 \n \nAnd subscribe to the full Options Insider Radio Network on your favorite podcast platform:    \n\ud83c\udf4e Apple: http://dms0xc.s.gy/mC77lX  \n\ud83c\udfa7Spotify: http://dms0xc.s.gy/eBVJH2    \n \nFor even more unusual activity, options flow, and powerful scans, visit http://TheHotOptionsReport.com",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-08T02:12:46Z",
       "first_seen_utc": 1786162308
