@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-09T04:18:46.133888+00:00",
-  "count": 4556,
+  "generated_at": "2026-08-09T06:53:43.477788+00:00",
+  "count": 4569,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363515",
+      "title": "$SPY $MU $SNDK $INTC Wow!! how many accounts you have to cover your bad calls?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T06:37:26Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363471",
+      "title": "$USO $UCO  $SPY \nhttps://x.com/HormuzReport/status/2086280228079595823?s=20",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T06:29:02Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363459",
+      "title": "$SPY will they let futures open without the deal that was promised 3000 years ago?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T06:27:35Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363326",
+      "title": "\ud83d\ude80 Your Trading Questions\u2014Answered in Real Time! \ud83d\ude80 \nOur 24 Hour chat rooms inside the membership area are here for you every trading day, providing expert guidance on market movements and Elliott Wave setups. \nJump in and ask anytime! Our team is ready to support you. \n#elliottwave #trading #cryptocurrencies #Bitcoin #Ethereum $BTC.X $ETH.X \nFind more details in the membership area of https://member.elliottwave-forecast.com/create-account/trial?fpr=vlada14",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T06:06:27Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363165",
+      "title": "$SPY market moves based on your charts, huh?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T05:43:16Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363043",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nSad watching this\u2026you kids really don\u2019t know what\u2019s happening do you?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T05:25:39Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjh6pl",
+      "title": "Buying a new home, sell the current home or liquidate appreciated stocks?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjh6pl/buying_a_new_home_sell_the_current_home_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786252810,
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661362994",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \n\u201cYes ma\u2019am this is Quantavius\u2026I\u2019m wondering why my account balance says $0 available for withdrawal when yesterday I had $120?\u201d\u2026\ud83e\udd14",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T05:18:10Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661362993",
+      "title": "$NVDA wen 10 trillion Market cap???",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T05:18:07Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661362925",
+      "title": "$SPY \nhttps://youtu.be/xC68t6CeJCk?is=oHsOExgjyaAVIwAm",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T05:09:14Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661362654",
+      "title": "$SPY $QQQ $USO Sad and embarrassing to have a leader that just went silent on a war he started. Is that called &quot;cowardice&quot;?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T04:42:31Z",
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjgchj",
+      "title": "What are the odds that I qualify for an extremely predatory loan even though I'm in debt?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjgchj/what_are_the_odds_that_i_qualify_for_an_extremely/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786250053,
+      "first_seen_utc": 1786258423
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjg0el",
+      "title": "Where to put my money?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjg0el/where_to_put_my_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786248972,
+      "first_seen_utc": 1786258423
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -41,7 +184,7 @@
       "id": "661362025",
       "title": "$ASML $NVDA $MSFT $SPCX \n\nMaybe I\u2019m missing something, but where exactly is this deal? We don\u2019t seem any closer to a lasting peace agreement. The June framework clearly hasn\u2019t resolved the core issues, and the ceasefire remains fragile.\nIran is using the Strait of Hormuz as major leverage, demanding an end to U.S. military pressure, withdrawal of U.S. forces, compensation for war damage, sanctions relief and the release of frozen assets.\nMeanwhile, months of fighting have put serious pressure on U.S. stocks of precision munitions and air-defense interceptors. That doesn\u2019t mean the U.S. is \u201crunning out of ammunition,\u201d but it is a real strategic constraint.\nSo far, talk of progress seems to be running ahead of what has actually been implemented.\nHonestly, I fear we could see major attacks again soon. The longer there is no genuine breakthrough, the greater the risk of another serious escalation.",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-09T03:56:28Z",
       "first_seen_utc": 1786249126
@@ -107,7 +250,7 @@
       "id": "661361717",
       "title": "$AMD $MU $NVDA $AMD $MU $NVDA you are missing the big picture many companies not just hyperscalers need memory.\n\nDid you forget about this?\n\nJuly 6, 2026 at 8:30 AM EDT\n\nMicron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience\n\nSupply continuity supports Ford with high-performance memory and storage solutions for consumers around the world",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-09T03:34:56Z",
       "first_seen_utc": 1786249126
