@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-09T06:53:43.477788+00:00",
-  "count": 4569,
+  "generated_at": "2026-08-09T09:38:46.220017+00:00",
+  "count": 4583,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661364278",
+      "title": "$SPY so where is the deal? probably very close, just like the last few months",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T08:57:22Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661364069",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nIs this the nosebleed section?\u2026\u201cHotdogs here fresh roller dogs here!\u201d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T08:19:07Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661364011",
+      "title": "$SPY stocktwits is 90% delusional morons. Why do I use this app?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T08:08:38Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661364003",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X\nWell that was a nice stop run wonder who orchestrated that?  \ud83e\udd14",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T08:07:22Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363958",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nIs this where I sign up for the money losing contest?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T08:00:18Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363942",
+      "title": "$SPY Is this a top signal?.. \ud83d\ude2c",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T07:57:08Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vjjvox",
+      "title": "Dose anyone know how to earn free crypto??",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vjjvox/dose_anyone_know_how_to_earn_free_crypto/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786262120,
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363861",
+      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nGood thing you people have food stamp cards to sell\u2026double down what do you have to lose?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T07:41:33Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363820",
+      "title": "$BTC.X How low can your sells go? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T07:34:48Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661363791",
+      "title": "$SPY I got caught off guard last week. To make sure that doesn&#39;t happen again... That&#39;s bullish, right? We just have to make sure the algorithms don&#39;t find out.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T07:27:54Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661363775",
+      "title": "$btc.x $mstr $eth.x $xrp.x\nhttps://youtube.com/watch?v=ZJMi3m8spJA&amp;si=0Z-c3z6GNPBfTDBl",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T07:25:39Z",
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjiw1f",
+      "title": "How much can I withdraw from taxable retirement accounts without getting taxed?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjiw1f/how_much_can_i_withdraw_from_taxable_retirement/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786258663,
+      "first_seen_utc": 1786268326
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjit3r",
+      "title": "Empower login issues?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjit3r/empower_login_issues/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786258381,
+      "first_seen_utc": 1786268326
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -184,7 +327,7 @@
       "id": "661362025",
       "title": "$ASML $NVDA $MSFT $SPCX \n\nMaybe I\u2019m missing something, but where exactly is this deal? We don\u2019t seem any closer to a lasting peace agreement. The June framework clearly hasn\u2019t resolved the core issues, and the ceasefire remains fragile.\nIran is using the Strait of Hormuz as major leverage, demanding an end to U.S. military pressure, withdrawal of U.S. forces, compensation for war damage, sanctions relief and the release of frozen assets.\nMeanwhile, months of fighting have put serious pressure on U.S. stocks of precision munitions and air-defense interceptors. That doesn\u2019t mean the U.S. is \u201crunning out of ammunition,\u201d but it is a real strategic constraint.\nSo far, talk of progress seems to be running ahead of what has actually been implemented.\nHonestly, I fear we could see major attacks again soon. The longer there is no genuine breakthrough, the greater the risk of another serious escalation.",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-09T03:56:28Z",
       "first_seen_utc": 1786249126
@@ -256,6 +399,17 @@
       "first_seen_utc": 1786249126
     },
     {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjewxp",
+      "title": "What resources/books/courses can I use to learn more about building wealth, business, and investments?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjewxp/what_resourcesbookscourses_can_i_use_to_learn/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786245522,
+      "first_seen_utc": 1786268326
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661361166",
@@ -301,10 +455,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661359715",
       "title": "The five biggest public companies by market cap right now: \n \n$NVDA $AAPL $GOOGL $MSFT $AMZN \n \nSee the complete, daily-updated ranking: \nhttps://stockanalysis.com/list/biggest-companies/?ref=saveontrading",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-09T01:33:22Z",
@@ -312,10 +466,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661359712",
       "title": "Which public companies pay the most corporate income tax in America? \n \nAlphabet alone paid about $55 billion over the last 12 months. \n \n$GOOGL $AMZN $MSFT $NVDA $AAPL \n \nSee the full ranking: \nhttps://stockanalysis.com/list/most-taxes-us/?ref=saveontrading",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-09T01:33:17Z",
@@ -822,7 +976,7 @@
       "id": "661352994",
       "title": "The massive buildout in AI data centers is part a land/commodity grab by the mega cap tech companies, &amp; a way for the Government to juice GDP! How much copper, silver, water, uranium, &amp; oil is needed to run 1,000\u2019s of data centers?!?! ALOT. \n\nIt doesn\u2019t take 3,782 data centers for chatGPT to tell me what $AAPL reported for their last earnings. \n\nGood luck with your AI scam. This isn\u2019t much different than the bitCON scam that the tech bros funneled hundreds of BILLIONS of dollars to. $SMH $NVDA $MU $QQQ",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-08T20:19:00Z",
       "first_seen_utc": 1786224585
