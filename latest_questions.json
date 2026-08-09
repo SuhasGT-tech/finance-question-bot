@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-08-09T09:38:46.220017+00:00",
-  "count": 4583,
+  "generated_at": "2026-08-09T12:45:02.227711+00:00",
+  "count": 4617,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661366646",
+      "title": "@lextrading are you bearish on $SPY then?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:41:07Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661366638",
+      "title": "$TSLA yamaha is already developing autonomous motorcycle that is electric \n\nThese are true robotaxis that are humanless and can deliver any kind of package\n\nA land drone\n\nWill Tesla make one? They should buy $HOG and $LVWR to make it happen quicker",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:40:39Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661366634",
+      "title": "https://youtu.be/0VbyhUmtuBw?si=QErZB5UDDk3S_dvZ \n \n$SPY $DIA $QQQ no remorse for people illegally entering countires with ill intent. get the lawn mower out. CHIVALRY WONT EVER DIE",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:40:28Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjohwd",
+      "title": "Refinanced or thought about it \u2014 what actually made the break-even math worth it for you?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjohwd/refinanced_or_thought_about_it_what_actually_made/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786278084,
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661366135",
+      "title": "$SPCX $TSLA \n\nMAGA GONE VERY QUIET!????",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:09:17Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661365966",
+      "title": "$USO $SPY $QQQ $DJT $NIFTY50.NSE I don&#39;t get why this isn&#39;t considered a world war yet? Maybe we need more white European countries to get involved like the last 2.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T11:58:53Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661365939",
+      "title": "https://youtube.com/watch?v=y7hiz7X4wIQ&amp;is=PMZGAtsZiIJ2XUA1 $SOXX $DRAM $NVDA $QQQ $USD",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T11:56:06Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vjnlyb",
+      "title": "After DRAM ETF \u2026. Round Hill Investment released two new ETFS this month (NCLD & LYTE). How likely are you to buy them ?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vjnlyb/after_dram_etf_round_hill_investment_released_two/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786275319,
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661365309",
+      "title": "$SNK $SPCF $SPCX $TSLA $TSLQ  @Hiphoplover  wait..he\u2019s an illegal??  Quick! Get that man a free luxury hotel room and an iPhone!  Diversity is our strength! No one is illegal on stolen land!!! Immigrants built our country!!!!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T11:15:07Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661365116",
+      "title": "$TSLA  $SPCX  \nDid you know that Elon Musk is connected to Epstein?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:59:43Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661365110",
+      "title": "$BTC.X Month says pushing. Is it pushing from 62K so far? Oh I think it is... \ud83d\ude0f\ud83e\udd2d\ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:59:10Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661365069",
+      "title": "$NLST $AVGO $NVDA $GOOG $SKHY  \n \nNetlist (NLST): The Samsung Deal Changes the Game \u2014 And the Next Catalysts Could Be Even Bigger - and The Share Price Closed This Past Friday 8/7/2026 at Just $3.92! \n \n \nhttps://garywallach.substack.com/p/netlist-nlst-the-samsung-deal-changes?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:54:55Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661365049",
+      "title": "$BTC.X $NASDAQ Are you sure you want to be bearish on tech? \ud83d\ude0f",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:52:46Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661364978",
+      "title": "$INKW $NVDA  I invest to make money. Why do I invest in water? It is because I know water is the next massive commodity. I don&#39;t invest in purified water because it is refurbished shit water. I only in invest in natural spring water. Look around the world at all of the water disappearing. Look at natural disasters. Truckloads and plane loads of water are delivered first. We can&#39;t live without it. Use Lake Mead as just one example. You can own all the gold and silver but if you are dying from thirst, which one will you take.  \nbewaterbeyou.com",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:45:05Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661364829",
+      "title": "$MSTR $BTC.X  \n \nIf One is Control ($) and the other is freedom (BTC)..... and the freedom one loses 1/2 of its value in less than 1 year, i prefer the control.  On the other side, If crypto is so secure, why is it that USDT holds 146 Tons of Gold instead of BTC.?     \n   \nIt just bought last quarter 14 Tons of gold and on the first quarter 4 Tons of gold totaling 20 Tons of Gold    \n   \nTether total  Gold Reserves: ~$18.8 Billion USD   \n   \nTether total bTC Reserves:   ~$6.3 Billion USD   \n   \nMeanwhile...   \n   \nCzech Republic: 11 tonnes   \nSingapore: 10 tonnes   \nChile: 8 tonnes   \nJordan: 6 tonnes   \nGhana: 6 tonnes   \n   \nWeird dont you think.?   \n   \nMay it be that USDT  ( Tether Limited )sees Gold as a Stable assets and BTC a risky one.?   \n   \nTether Limited is Owned by iFinex Inc. which is based on the British Virgin Island, A Fiscal Paradise...   \n   \nI\u00b4m afraid Tether Limited Prefers Gold\u00b4s Backup Value over BTC risk, judging by the numbers.   \n   \nThread carefully",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:27:02Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjmbpg",
+      "title": "International student moving to the UK for the first time, how can I start building credit and collecting Avios?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjmbpg/international_student_moving_to_the_uk_for_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786270972,
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661364790",
+      "title": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;Trump and his clan made money saying on August 7, &quot;the sides were close to a deal&quot;; now YouTube just published this Pentagon&#39;s &quot;Ground Action&quot;.... \n \nUS-Iran War LIVE | JUST IN: Pentagon Admits Ground Action After Iran Sites Hit | World News\u201d was published today, August 9, 2026. \nhttps://www.youtube.com/live/-0fHGnIA0AY?si=CUyQiQoTl5r6oXWh",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:21:41Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661364713",
+      "title": "Free Articles on Cryptos can be found at this page : https://elliottwave-forecast.com/crypto-currencies/?fpr=vlada14 \n \n#elliottwave #trading #ilovetrading #bitcoin #BTCUSD #ETHUSD $BTC.X $ETH.X $DOGE.X $ADA.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:11:01Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661364656",
+      "title": "$TSLA $TSLQ #TS3S #3STS \n \nWhy shouldn&#39;t you buy Tesla stock? \n \nThe major risks to consider before buying Tesla stock include slowing electric vehicle sales growth and intensifying price competition, political and behavioral risks related to Elon Musk, and uncertainty regarding the timing of the realization of future technologies such as self-driving (FSD) and robotaxis.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T10:03:39Z",
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661364586",
+      "title": "$PLTR $NVDA $AMZN $INTC $AMD  \n \n4am. Can&#39;t get back to sleep. What do you do? \n \nDuh! You link your Claude account to the new Stocktwits MCP and a \nmarket data MCP to give yourself a 60-day report card on all of your alerts. \n \n27 of 35 green. 77.1% hit rate. \n+19.4% average if you&#39;re still holding. \n+31.6% if you caught the best exit. \n \nBest call: AXTI long at $40.86 on July 30th. Up +116.8% in 8 days. \n \nWorst call: my July 6 optical short, which still shows as open \nbecause I never posted an exit. It&#39;s definitely not open, so maybe \nI need to start posting when I close a position. I have been ultra \nbullish on optical names all month and I think the run continues. \n \nIt did miss a couple recent calls I was dead wrong on (bullish on SNDK and ALAB earnings), but I think it got confused because I was bearish on those 2 names on July 1st, so overall those positions are still up. \n \nCashtagging some of my biggest winners over the last 60 days. \n \nIf you have a ChatGPT or Claude account, do yourself a favor and connect the Stocktwits MCP to it. Lots of cool things possible.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T09:50:51Z",
+      "first_seen_utc": 1786279502
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -125,6 +345,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vjj70g",
+      "title": "College degree but gigging for years, big CC debt, what now?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vjj70g/college_degree_but_gigging_for_years_big_cc_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786259690,
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vjiw1f",
       "title": "How much can I withdraw from taxable retirement accounts without getting taxed?",
@@ -239,7 +470,7 @@
       "id": "661362993",
       "title": "$NVDA wen 10 trillion Market cap???",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-09T05:18:07Z",
       "first_seen_utc": 1786258423
@@ -287,6 +518,17 @@
       "num_comments": 0,
       "created_utc": 1786248972,
       "first_seen_utc": 1786258423
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vjftmd",
+      "title": "Best way to invest $60,000?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vjftmd/best_way_to_invest_60000/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786248371,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -444,6 +686,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vjde6d",
+      "title": "To move or to stick it out?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vjde6d/to_move_or_to_stick_it_out/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786240811,
+      "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vjd3zw",
       "title": "Any options for a stagnant pension fund?",
@@ -452,6 +705,17 @@
       "num_comments": 0,
       "created_utc": 1786239938,
       "first_seen_utc": 1786249126
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vjcxfk",
+      "title": "Should I donate plasma? It says the 1st month I can make 800 dollars (though I think you need to be at least 175lbs for the full 800 im not sure though)",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vjcxfk/should_i_donate_plasma_it_says_the_1st_month_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786239396,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -520,6 +784,17 @@
       "first_seen_utc": 1786238718
     },
     {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vjcbg5",
+      "title": "Any financial advice for an 18 y/o soon going to college?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vjcbg5/any_financial_advice_for_an_18_yo_soon_going_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786237591,
+      "first_seen_utc": 1786279502
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "661358973",
@@ -540,6 +815,17 @@
       "num_comments": 0,
       "created_utc": 1786236918,
       "first_seen_utc": 1786238718
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vjc1p9",
+      "title": "do people who are actually irresponsible with their money exist?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vjc1p9/do_people_who_are_actually_irresponsible_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786236814,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -608,6 +894,17 @@
       "first_seen_utc": 1786238718
     },
     {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vjb6rw",
+      "title": "Should I skip my 401k if there\u2019s no employer match? What order should I invest in?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vjb6rw/should_i_skip_my_401k_if_theres_no_employer_match/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786234296,
+      "first_seen_utc": 1786279502
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "661357751",
@@ -639,6 +936,17 @@
       "num_comments": 0,
       "created_utc": 1786232719,
       "first_seen_utc": 1786238718
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vjagrf",
+      "title": "What are your favorite free trial/subscription apps to take advantage of?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vjagrf/what_are_your_favorite_free_trialsubscription/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786232271,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -806,6 +1114,17 @@
       "first_seen_utc": 1786238718
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vj85b0",
+      "title": "Debt management plans?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vj85b0/debt_management_plans/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786225975,
+      "first_seen_utc": 1786279502
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "661355016",
@@ -859,6 +1178,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-08T21:14:52Z",
       "first_seen_utc": 1786224585
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vj79pm",
+      "title": "Just Opened My First Roth IRA\u2014Where Should I Start?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vj79pm/just_opened_my_first_roth_irawhere_should_i_start/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786223661,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -916,6 +1246,17 @@
       "first_seen_utc": 1786224585
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vj6o15",
+      "title": "Sleeping temporarily in office?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vj6o15/sleeping_temporarily_in_office/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786222096,
+      "first_seen_utc": 1786279502
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "661353635",
@@ -958,6 +1299,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-08T20:32:43Z",
       "first_seen_utc": 1786224585
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vj67rv",
+      "title": "I'm drowning in debt. Does my credit really even matter at this point?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vj67rv/im_drowning_in_debt_does_my_credit_really_even/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786220926,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -1068,6 +1420,17 @@
       "num_comments": 0,
       "created_utc": 1786217560,
       "first_seen_utc": 1786238718
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vj4qck",
+      "title": "12 month e fund or max IRA?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vj4qck/12_month_e_fund_or_max_ira/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786217156,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
@@ -1508,6 +1871,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-08T15:24:47Z",
       "first_seen_utc": 1786202950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1viyif4",
+      "title": "What happens to contributions that go over the limit? and Should I invest into a ROTH 401K?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1viyif4/what_happens_to_contributions_that_go_over_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786202001,
+      "first_seen_utc": 1786279502
     },
     {
       "source": "stocktwits",
