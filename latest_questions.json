@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-08-09T12:45:02.227711+00:00",
-  "count": 4617,
+  "generated_at": "2026-08-09T15:30:10.995755+00:00",
+  "count": 4640,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661371070",
+      "title": "$SPY $QQQ A trailing stop is the only piece of a trade plan that gets built out of a feeling and then stops feeling anything. It starts as loss aversion \u2014 the raw, animal refusal to give back a gain you already counted as yours \u2014 and it ends as a rule that ratchets a number in one direction and refuses to move it the other way. That conversion is the whole point. The emotion is the raw material. The machinery is what survives contact with a market that does not care how you feel about your open P&amp;L.\n\nStart with what breaks without it. A stop set on pain \u2014 fifty dollars, a hundred, five hundred, whatever your threshold allows \u2014 is a number you will argue with. A hundred is more or less the same as a hundred and twenty-five, and then a hundred and twenty-five is more or less two hundred, and on and on. Same with pips. Twenty gets pushed to twenty-five, then thirty, then forty-five, because none of those numbers ever said anything about whether the trade was still right. A stop must be placed where the trade is wrong, not where the loss is comfortable. The moment your stop encodes your tolerance instead of your thesis, you have handed the market a lever it will pull.\n\nThe trailing stop kills that argument by construction, because it only ever moves one way. Trail in the direction of the trade. Never move it against you. That&#39;s not a preference, it&#39;s the entire mechanism \u2014 the second you allow a downward revision, you&#39;ve rebuilt the pain stop with extra steps. Ratchets that turn both ways are just handles.\n\nNow the arithmetic, because this is where the ratchet earns its keep. A fixed stop below your entry has one property that never changes: if it fires, you lock in a loss on your initial capital, every single time. A trailing stop set at, say, thirty percent off the best price achieved has a different property \u2014 as the position works, that floor climbs above your entry and stays there. Same instrument, same path, the two behave identically until price makes a new high, and after that they permanently diverge. The fixed stop guarantees a loss when it triggers. The trail guarantees you keep something. There&#39;s a second cost the fixed stop hides: without a trail, you can end up owning a position forever while better opportunities go by. The trail eventually closes you out and gives you your capital back to redeploy. That is a real return, and it never shows up on the trade ticket.\n\nThe breakeven stop is the seductive middle version and it&#39;s mostly a comfort object. You set a stop below entry, price rises a bit, you move the stop to exactly your entry price and call yourself disciplined. But there is nothing structurally special about your entry level. The market has no memory of where you got filled. A breakeven stop is a stop placed at a price whose only significance is autobiographical, which means it&#39;s a psychological instrument wearing risk-management clothes. Use it if the anxiety it relieves keeps you in the trade \u2014 that&#39;s a legitimate reason \u2014 but don&#39;t confuse it with a level the market respects.\n\nThe trail&#39;s real job is to encompass volatility. Almost no trade goes straight in one direction without pullback. A trail set too tight exits on the noise that every real trend produces; a trail set too loose gives back more of the move than the move was worth. That is the entire tradeoff and there&#39;s no free version of it. Tighter trails mean more exits and smaller wins. Looser trails mean fewer exits and bigger wins. The trail&#39;s width has to match the timeframe of the strategy, not the sensitivity of the operator.\n\nThe concrete versions are few and they&#39;re all the same idea wearing different clothes. Volatility trail: stop sits at current price minus roughly one and a half ATR, sometimes two, moved up as price moves up, never down. Chandelier: stop hangs off the highest high since entry, minus some multiple of ATR \u2014 it dangles from the peak, which is why it holds trends so well and why it gives back exactly that multiple at the top. Bar trail: stop under the lowest low of the last N bars, three bars being the classic, adjusting with price and tightening automatically as the tape accelerates. Structure trail: stop below the prior swing low, or a moving average, or VWAP, or the value area boundary \u2014 the levels that would actually invalidate the thesis. My own preference on entry has always been two or three ATRs below the fill, and then the trail is simply that same stop, allowed to climb. Initial stop and trailing stop are not two tools. They&#39;re one tool at two points in its life.\n\nWhat separates a real trail from a fake one is whether the level means something when it&#39;s hit. The good trail is doing two jobs at once \u2014 adaptive money management and profit-taking exit, in one order. It should exit when the main thrust of the move is finished, not when the move breathes. So the question to ask of any trail level is: if price prints through here, has the structure that got me in actually broken? If the answer is no, that stop is a pain threshold with an ATR multiple painted on it. Round numbers are the tell \u2014 obvious levels attract the stop hunt, which is why a buffer beyond the obvious support matters more than the tidy number does.\n\nScaling changes the trail&#39;s math in a way people underrate. Taking half off at the first target is insurance, and like most insurance, most of the time it&#39;s wasted money \u2014 you clipped a winner that would have run. But it pays in the case that matters: the trade that reverses halfway and takes out your stop. Scale out and you shrink the size of your wins while raising the count of them, and you keep a runner alive for the tail. Once that first piece is off, the trail on the remainder can be looser, not tighter, because your realized gain has already funded the risk. And every add to a winner needs its own stop \u2014 total exposure stays inside the limit or the position size was wrong from the start.\n\nThree habits worth building. First, write the exit before the entry and define the trail method by name \u2014 one and a half ATR, three-bar low, prior swing \u2014 so the rule exists before the money does. Second, keep a log of what each trail gave back at the exit versus the peak, in ATR units, over twenty or thirty trades. That number tells you whether your trail is too tight or too loose better than any single trade ever will. Third, when you feel the urge to widen a stop, write the reason down first. If the reason is anything other than a change in the structure \u2014 a new swing low, a level reclaimed \u2014 you&#39;ve just found the pain talking, and the ratchet exists precisely to outvote it.\n\nThe exit matters more than the entry. The trail is where that gets settled.\n\nSimulated / educational demonstration. Not financial advice.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:20:26Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661370899",
+      "title": "$AAPL is reportedly testing $CXMT memory for future iPhones and MacBooks - but there\u2019s a major catch.  \n \nU.S. restrictions reportedly prevent Apple from placing customized chip orders with CXMT, while CXMT\u2019s 2026 capacity is already fully booked. \n \nEven more interesting: CXMT pricing is reportedly approaching or even exceeding levels from major players like $MU, $SKHY and Samsung. \n \nThat raises a bigger question: if supply is already tight and pricing remains elevated, how much room is there for Apple to diversify its memory sourcing? \n \nIt also gives the bears another angle to attack the memory thesis. \n \nBut if Apple is actively exploring alternative suppliers, that may simply highlight how strategically important memory has become. \n \nTight supply + surging AI demand + Apple looking for more capacity = a memory market worth watching closely. \n \nVisit my profile for the latest trading ideas, strategies, and market insights.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:14:09Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661370841",
+      "title": "$NVDA just delivered a +11.56% week - its strongest weekly gain since May 2025.  \n \nI\u2019ve been skeptical about $NVDA making another ATH this year, but the historical pattern is getting interesting. \n \nSince 2023, every time $NVDA has posted a weekly gain of 11%+, the stock eventually went on to print a new all-time high. \n \nThat doesn\u2019t guarantee history repeats, but it definitely changes the setup. \n \nIf the pattern holds, a fresh ATH in Q3 may be back on the table. \n \nThe key now is simple: can $NVDA turn this explosive momentum into sustained follow-through? \n \nThe chart may be telling us something before the crowd catches on. \n \nIf you would like to learn more about marketing strategies, please visit my personal webpage.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:12:22Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661370836",
+      "title": "$AXTI called it last year Buy and Hold? look at the price today!! \n$GAUZ settlement deal easy over $15 per share \netc\u2026. plus many other stocks, called $AMD $NVDA $PLTR all last year Buy and Hold!!!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:12:00Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661370714",
+      "title": "My strategy for August 10: \n \nEveryone wanted these stocks higher. \n \n$CRWV $150 \u2192 now $88 \n$NVDA $265 \u2192 now $223 \n$ASTS $130 \u2192 now $70 \n$INTC $186 \u2192 now $100 \n \nAnd now? \n \nEveryone is hesitating. \n \nWarren Buffett said it best: a lower price only feels dangerous when your conviction came from the crowd. \n \nTwelve months from now, some of these moves may look obvious. \n \nToday, they require patience, discipline, and conviction. \n \nPsychology never changes. \n \nThe biggest opportunities often appear when sentiment is weakest. \n \nMy next alert is coming soon. \n \nFollow my profile, turn on notifications, and check my homepage so you don\u2019t miss the next setup before it becomes crowded. \n \nNFA. DYOR.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:08:28Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661370686",
+      "title": "$SPY \nShouldn&#39;t  this president be fired by now? He is a clear and present danger to what&#39;s left of america",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:07:38Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661370619",
+      "title": "$SPY $DIA $QQQ I REALLY HOPE NO ONE IS TRADING LIVE LISTENING OR &#39;LEARNING&#39; FROM THIS DUDE. LANCE B IS OFFERING $500K IF THIS DWEEB CAN PROVE 3RD PARTY AUDITED BROKER STATEMENTS !!!! FIVE HUNDRED THOUSAND DOLLARS, A HALF A MILLION ON THE TABLE AND YOU KNOW DAMN WELL SCI CAN&#39;T HACK IT! \nBULLISH FOR LIFE ON SPY  \n \nhttps://youtu.be/87iSNJsb05U?si=rh_FmZPQCB7P-OSi",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:05:36Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661370572",
+      "title": "My strategy for August 10: \n \nEveryone wanted these stocks higher. \n \n$MU $1,300 \u2192 now $877 \n$TSLA $380 \u2192 now $328 \n$MRVL $350 \u2192 now $218 \n$AAPL $355 \u2192 now $312  \n \nAnd now? \n \nEveryone is hesitating. \n \nWarren Buffett said it best: a lower price only feels dangerous when your conviction came from the crowd. \n \nTwelve months from now, some of these moves may look obvious. \n \nToday, they require patience, discipline, and conviction. \n \nPsychology never changes. \n \nThe biggest opportunities often appear when sentiment is weakest. \n \nMy next alert is coming soon. \n \nFollow my profile, turn on notifications, and check my homepage so you don\u2019t miss the next setup before it becomes crowded. \n \nNFA. DYOR.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T15:04:15Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661370063",
+      "title": "$XST.X $SOL.X $BTC.X check out their X page!!!https://x.com/xsolutai?s=11%F0%9F%94%A5",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:49:19Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vjrozh",
+      "title": "Priorization of governmental 457(b) vs Roth IRA and HSA?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vjrozh/priorization_of_governmental_457b_vs_roth_ira_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786286715,
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661369836",
+      "title": "$SIMO boot drives are going to be massive in 2H as SIMO starts shipping for $NVDA Vera Rubin launch...  \n \nAnalyst Sebastien Naji \nGot it. Okay. That&#39;s helpful. Then, maybe for my follow-up, just on the boot drive business, can you comment on whether you&#39;re starting to see the benefit of BlueField 4 sales in either Q2 or your Q3 guidance as Nvidia starts to ramp their Vera Rubin platform? Or has much of the growth so far been tied to the first generation BlueField 3 program? \n \nCEO Wallace Kou \nWe cannot comment specific regarding the time, but I think the BlueField 4 definitely would go with customer&#39;s announcement, right? We do have a pretty large share for BlueField supply for the boot drive, so we&#39;re very happy when they ramp up in the second half this year.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:42:15Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661369642",
+      "title": "My long-term targets for stocks I like over the next 3\u20135 years: \n \n$ASTS \u2192 $450 \n$TEAM \u2192 $820 \n$NBIS \u2192 $800 \n$JD \u2192 $120 \n$NVDA \u2192 $650  \n \nThese are long-term targets, not short-term predictions. \n \nMy focus is on companies with strong growth potential, expanding markets, and major structural tailwinds. \n \nAI infrastructure, software, space, fintech, healthcare, and next-generation energy are still some of the biggest themes I\u2019m watching. \n \nObviously, execution and valuation will determine whether these targets are reached. \n \nThe market will create plenty of volatility along the way. \n \nI\u2019d rather focus on where these businesses could be in 3\u20135 years than where they trade tomorrow. \n \nWhich other stocks are you most interested in for the next 3\u20135 years? \n \nFollow my profile and check my homepage for more long-term targets, high-conviction ideas, and market opportunities before they become crowded. \n \nNFA. DYOR.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:35:13Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661369322",
+      "title": "This one might get some hate, but I\u2019m still calling it how I see it. \n \n$TSLA can grind higher if the market stays strong, but I\u2019m watching the range, not the hype. \n \nMy base case is a slow walk toward resistance, followed by a sharp rejection if the broader market rolls over. \n \nUntil the chart structure changes, TSLA is still a sell-the-rips setup for me. \n \nI\u2019m still bullish long term, but bullish doesn\u2019t mean blind. \n \nMore of my setups are on my profile. \n \nWould you buy the breakout here, or sell the rip?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:26:38Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661369310",
+      "title": "DOW 2026 MOMENTUM CHECK  \n \nHere are the names standing out with strong gains so far this year: \n \n$NVDA  +20.1% \n$AMZN  +18.9% \n$GS  +18.3% \n$AAPL  +15.3% \n$SHW  +14.1% \n \nBig names are continuing to push higher in 2026.  \nWhich one do you think has the most upside left? \n \nIf you would like to learn more about marketing strategies, please visit my personal webpage.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:26:17Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661369189",
+      "title": "Tell me, are you bullish? \ud83d\udc8e\ud83e\udd32\ud83d\udcc9\ud83d\udcc8\ud83d\ude80\ud83c\udf19\n\n$BMNR $BTC.X $ETH.X $MSTR $STRC",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:22:14Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661368664",
+      "title": "$AAPL \n \nApple is reportedly testing $CXMT memory for iPhones and MacBooks, but U.S. restrictions could make customized chip orders difficult. \n \nCXMT\u2019s 2026 capacity is reportedly already maxed out, while pricing is said to be getting close to, or even above, $MU, $SKHY, SK Hynix and Samsung. \n \nThat\u2019s the interesting part to me. \n \nIf CXMT can\u2019t win on price, I\u2019m not sure how much this changes the bull case for $MU and $SKHY. Could this actually give the bears less ammo?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T14:04:51Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661368130",
+      "title": "$AAPL is trading strong around $313.33 right now! \n \nWatching the Wall Street Journal drop the bombshell that Apple is actively testing memory chips from Chinese semiconductor maker CXMT across iPhones and MacBooks changes the entire game. \n \nWhen tech giants quietly reshape their supplier foundations, smart money positions ahead of the macro shift! \n \n With the broader trend holding strong, avoid chasing green highs and scale into key support dips with disciplined risk control! \n \nAre you betting this supplier expansion will redefine the global semiconductor landscape? \n \nFollowing the market together. Sharing charts, trading notes, and ideas I&#39;m watching.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T13:46:35Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661367384",
+      "title": "$TSLA  /  $SPCX   \n \nMy neighbor&#39;s and people at work say, \u201cDamn it was hot last night tryin to sleep!\u201d My reply, \u201cIt was fine at my house, I had the Air Conditioning running all night.\u201d They ask, \u201cHow the H3LL can you afford to run that all night long?!\u201d My reply, \u201cThat\u2019s cause I gotta Tesla PowerWall and Solar Panels!\u201d   \n  \nAnd the HOT part of Summer just started.  \n  \n\u2714\ufe0f",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T13:14:32Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vjpicr",
+      "title": "HYSA vs. Traditional vs. Roth IRA...help?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vjpicr/hysa_vs_traditional_vs_roth_irahelp/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786281014,
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661367025",
+      "title": "$AAPL $QQQ What a week we had! Ready for MOAR?!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:58:49Z",
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661366806",
+      "title": "$SPCX / $SPAX / $TSLA \n \nThe Tesla and SpaceX Merger Math Just Changed \n \nhttps://www.youtube.com/watch?v=UdLwrprmSu4",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-09T12:47:55Z",
+      "first_seen_utc": 1786289411
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -52,7 +283,7 @@
       "id": "661366135",
       "title": "$SPCX $TSLA \n\nMAGA GONE VERY QUIET!????",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-09T12:09:17Z",
       "first_seen_utc": 1786279502
@@ -2358,6 +2589,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "investing",
+      "id": "1viri7v",
+      "title": "Why aren't solar and wind the biggest winners of a narative-based stock market in 2026?",
+      "url": "https://www.reddit.com/r/investing/comments/1viri7v/why_arent_solar_and_wind_the_biggest_winners_of_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786181272,
+      "first_seen_utc": 1786289411
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1viri02",
       "title": "Should I move or stay with my parents?",
@@ -2938,6 +3180,17 @@
       "num_comments": 0,
       "created_utc": 1786152304,
       "first_seen_utc": 1786181834
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1viij76",
+      "title": "Something has seriously gone wonky with my T Rowe Price 401k account. Anyone else?",
+      "url": "https://www.reddit.com/r/investing/comments/1viij76/something_has_seriously_gone_wonky_with_my_t_rowe/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786151905,
+      "first_seen_utc": 1786289411
     },
     {
       "source": "stocktwits",
