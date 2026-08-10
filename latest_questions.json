@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-10T04:30:02.503587+00:00",
-  "count": 4755,
+  "generated_at": "2026-08-10T07:27:47.193518+00:00",
+  "count": 4776,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661398496",
+      "title": "$TSLA Optimus is still in the \u201cwait and see\u201d phase for much of the market.\n\nBuilding a prototype may no longer be the biggest challenge.The real test is lowering costs, scaling production, and creating real-world value.\n\nThe gap between \u201ccan demo\u201d and \u201ccan commercially deploy\u201d is bigger than many people expect.\n\nWhat\u2019s the biggest bottleneck right now \u2014 cost, production, or capability?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T07:11:57Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661398295",
+      "title": "$SPY Why this even up? Trump is losing the war? Inflation will rise. LOL!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T06:50:02Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661398294",
+      "title": "$SPY $QQQ https://www.facebook.com/share/r/189WDmt8qi/?mibextid=wwXIfr",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T06:49:59Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661398248",
+      "title": "$DJT $SPY \n\nWhat kind of product would you expect from this?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T06:44:44Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661397547",
+      "title": "Gold and silver breaking out whilst equities test key resistance areas and geopolitical tensions keep oil testing key technical areas of the charts...  What do rising precious metals mean for these markets? \n \nNew weekly video:  Gold &amp; Silver Are Breaking Out - What This Means For The Markets, Oil, Crypto and Risk Management \n \n#goldbreakout #gold #silver #sp500 #russell #dowjones #brentcrude $GLD $SLV $USO.X $SPY $BTC.X  \n \nhttps://www.youtube.com/watch?v=hgEU1nudIj8",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T05:49:03Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661397185",
+      "title": "$NVDA china chip maker...? moore thread ??????\n\nhttps://www.asiae.co.kr/en/article/2026081009371585614\n\n$TSM $AVGO $AMD",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T05:23:43Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vkbnoz",
+      "title": "Use savings to partially fund business purchase, or use heloc?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vkbnoz/use_savings_to_partially_fund_business_purchase/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786338619,
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661396731",
+      "title": "@Bommel1 @Bommel1why I think he has to feed his Substack subscribers being that they\u2019re paying him $479 a year and he probably just nibbles because if you do the math, what is he up to 400 subscribers? But yeah, he\u2019s so annoying been shiting on $NVDA for two years which I never understood.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T04:53:08Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vkb81i",
+      "title": "Paying Rent In Another Currency Question?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vkb81i/paying_rent_in_another_currency_question/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786337206,
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661396580",
+      "title": "$AAPL new Samsung phone makes this bearish right?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T04:44:06Z",
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661396558",
+      "title": "$SPY $QQQ $NVDA $DJT   it makes sense , Trump is in on the the DATA center BS ! And the Jews own all of it! \n\nhttps://www.instagram.com/reel/Db14FY3z8_9/?igsh=NTc4MTIwNjQ2YQ==",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T04:42:43Z",
+      "first_seen_utc": 1786346867
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -162,7 +283,7 @@
       "id": "661394719",
       "title": "$SPY $AAPL $AMZN money tomorrow? Or depression crap?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 3,
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-08-10T03:19:07Z",
       "first_seen_utc": 1786336202
@@ -191,11 +312,11 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661393676",
       "title": "$MNKD $AVGO $NVDA $HEI $AAPL which one of these stocks will have the best increase in share price Monday ?  You make the call.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-10T02:42:01Z",
       "first_seen_utc": 1786336202
@@ -532,6 +653,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vk4abx",
+      "title": "Cycle peak again?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vk4abx/cycle_peak_again/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786317153,
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "reddit",
       "subreddit": "investing",
       "id": "1vk49x6",
       "title": "Thoughts on India as a long-term investment?",
@@ -650,6 +782,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-09T22:13:55Z",
       "first_seen_utc": 1786325225
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vk2gdx",
+      "title": "what made you move to self-custody?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vk2gdx/what_made_you_move_to_selfcustody/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786312449,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "reddit",
@@ -903,6 +1046,28 @@
       "num_comments": 0,
       "created_utc": "2026-08-09T18:55:09Z",
       "first_seen_utc": 1786311068
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vjxrms",
+      "title": "Is it time to focus more on income?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vjxrms/is_it_time_to_focus_more_on_income/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786301111,
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vjxp1t",
+      "title": "KO (Coca-Cola) vs COKE (Coca-Cola Cosolidated) which is the \u201cbetter\u201d stock to invest in?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vjxp1t/ko_cocacola_vs_coke_cocacola_cosolidated_which_is/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786300945,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "stocktwits",
@@ -1167,6 +1332,17 @@
       "num_comments": 0,
       "created_utc": 1786293029,
       "first_seen_utc": 1786300682
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vjua3k",
+      "title": "What Play to Earn games survived from the 2021/22 era, other than Sorare?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vjua3k/what_play_to_earn_games_survived_from_the_202122/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786292936,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "reddit",
@@ -1444,6 +1620,28 @@
       "first_seen_utc": 1786289411
     },
     {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vjqlpc",
+      "title": "Should I look at these?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vjqlpc/should_i_look_at_these/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786283953,
+      "first_seen_utc": 1786346867
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vjqkxz",
+      "title": "What's the difference between Chainflip vs Thorchain?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vjqkxz/whats_the_difference_between_chainflip_vs/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786283902,
+      "first_seen_utc": 1786346867
+    },
+    {
       "source": "stocktwits",
       "symbol": "AAPL",
       "id": "661368130",
@@ -1453,6 +1651,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-09T13:46:35Z",
       "first_seen_utc": 1786289411
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vjq9qk",
+      "title": "Which to sell and where to move it to?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vjq9qk/which_to_sell_and_where_to_move_it_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786283084,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "stocktwits",
@@ -1530,6 +1739,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-09T12:40:28Z",
       "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vjokwg",
+      "title": "What is currently something you recommend buying, and you can pay with crypto?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vjokwg/what_is_currently_something_you_recommend_buying/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786278335,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "reddit",
@@ -1651,6 +1871,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-09T10:45:05Z",
       "first_seen_utc": 1786279502
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vjmj93",
+      "title": "Is this a sign ??",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vjmj93/is_this_a_sign/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786271696,
+      "first_seen_utc": 1786346867
     },
     {
       "source": "stocktwits",
