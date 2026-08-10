@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-10T18:56:08.771172+00:00",
-  "count": 4877,
+  "generated_at": "2026-08-10T21:41:03.009846+00:00",
+  "count": 4905,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661483422",
+      "title": "$NVDA $SPY $QQQ  \nMore details around the $ 500 bln deal. Looks like it&#39;s just an MOU. Why publicize an MOU? Likely bc debt markets dried up. A confidence scam perhaps.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:37:13Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661483386",
+      "title": "$SPY Which ticker should be featured when CPI data is released? Pre market plan will be posted before the open.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:36:51Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vky5ss",
+      "title": "Anyone dealt with excessive overdraft or NSF fees?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vky5ss/anyone_dealt_with_excessive_overdraft_or_nsf_fees/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786397781,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661483256",
+      "title": "$NVDA https://x.com/amitisinvesting/status/2086911564301447292/video/1?s=46%F0%9F%A4%94%F0%9F%A4%94",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:35:23Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661482955",
+      "title": "$SPY what is the bull case? Seems frothy but I\u2019m probably wrong \ud83d\ude11",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:32:07Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661482577",
+      "title": "$SPY Big tech leaders have been talking like we&#39;re on the verge of living in a real life sci fi movie. They&#39;ve been over promising for a decade plus. Where&#39;s my cheap flying car and sexy robot to do my laundry and wipe my ass?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:28:40Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vkxwti",
+      "title": "Am I too behind in savings at 20?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vkxwti/am_i_too_behind_in_savings_at_20/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786397201,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661481565",
+      "title": "https://youtube.com/watch?v=iy5RysMCSUw&amp;is=p3MC7zlrsR-l-mZw\n\n$intc $aapl $uber",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:19:34Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661480289",
+      "title": "$BTC.X The state department is offering $500mil to American companies to enter the African boom. Will $AMZN partner with.$JMIA and Uber with $GRAB ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:07:35Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661480188",
+      "title": "$MSTR  $BTC.X   Why does it appear that Saylor is dumping bitcoin slowly and carefully to avoid a larger market selloff before while he  unloads? Other than the fact that this is what we&#39;re witnessing?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:06:40Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661480139",
+      "title": "$NVDA every body partnering with us and we drop? \ud83e\udd23 250 still in the near future.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 6,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:06:06Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661479643",
+      "title": "$NVDA How is this not up $10 AH??   The capital in that roundtable is enormous, and NVDA just matching lenders with customers, that&#39;s it, so they buy more NVDA.  As if these CEOs are going to make loans and provide capital for bad loans????   Today&#39;s selloff was a joke.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T21:01:45Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vkwwdi",
+      "title": "Is there something that can be done in this specific case?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vkwwdi/is_there_something_that_can_be_done_in_this/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786394892,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661478027",
+      "title": "$SPCX $TSLA oh ! okay ! so that makes it okay ? Then I wonder my we committed millions of troops and treasure defeating them. Theyre not gonna call themselves &quot;nasty people&quot; are they ? yer dumb inbreed !",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:47:54Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661476721",
+      "title": "$SPCX $TSLA $DJT  \nNorth Korea calls itself a democracy, do you also believe that?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:38:15Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661476368",
+      "title": "@Stocktwits @stocktwits \n\nandroid,   are $AAPL users not having this same.issue? \ud83d\ude14",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:35:40Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661474370",
+      "title": "$BTC.X $JPM $SPY $XRP.X \nJamie, that you?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:23:03Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661473435",
+      "title": "$TSLA @Thelonius_Stonk @MonkeyBananaGenius \nSo wen 2k?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:17:20Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661473294",
+      "title": "$MSTR $BTC.X $DB \n\nhttps://x.com/btctreasuries/status/2086889437456179438?s=46",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:16:29Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661472593",
+      "title": "$TSLA bullish??? bearish????",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T20:12:25Z",
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vkvw8o",
+      "title": "How do I save efficiently",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vkvw8o/how_do_i_save_efficiently/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786392675,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661468220",
+      "title": "$AAPL price predictions for tmw?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-10T19:46:45Z",
+      "first_seen_utc": 1786398063
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -191,6 +433,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vkt6ag",
+      "title": "ETFs and Mutual Funds Investments - How to Identify Which Ones to Invest in?",
+      "url": "https://www.reddit.com/r/investing/comments/1vkt6ag/etfs_and_mutual_funds_investments_how_to_identify/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786386723,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vkt1ya",
       "title": "If you have $600\u2013 have no debt, no bills and no financial requirements\u2014 how would u turn it into way more??",
@@ -313,6 +566,17 @@
     {
       "source": "reddit",
       "subreddit": "personalfinance",
+      "id": "1vks17w",
+      "title": "Girlfriend has 35k in cc debt. What can she do?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vks17w/girlfriend_has_35k_in_cc_debt_what_can_she_do/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786384276,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
       "id": "1vkrxv5",
       "title": "Should we keep our 2.25% mortgage, become landlords, or sell and buy in a better school district?",
       "url": "https://www.reddit.com/r/personalfinance/comments/1vkrxv5/should_we_keep_our_225_mortgage_become_landlords/",
@@ -320,6 +584,17 @@
       "num_comments": 0,
       "created_utc": 1786384071,
       "first_seen_utc": 1786388168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vkrw0n",
+      "title": "How to get the most out of 80k inheritance at 18?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vkrw0n/how_to_get_the_most_out_of_80k_inheritance_at_18/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786383967,
+      "first_seen_utc": 1786398063
     },
     {
       "source": "reddit",
@@ -378,6 +653,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vkpocd",
+      "title": "Do I need to roll my TSP into my private 401k for the rule of 55?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vkpocd/do_i_need_to_roll_my_tsp_into_my_private_401k_for/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786379262,
+      "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vkp8o4",
       "title": "Max 401k and Roth 401k yearly contribution?",
@@ -408,6 +694,17 @@
       "num_comments": 0,
       "created_utc": 1786377577,
       "first_seen_utc": 1786388168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vkoujm",
+      "title": "Growth while Insulating 401k from AI/Datacenter Bubble risk?",
+      "url": "https://www.reddit.com/r/investing/comments/1vkoujm/growth_while_insulating_401k_from_aidatacenter/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786377503,
+      "first_seen_utc": 1786398063
     },
     {
       "source": "stocktwits",
@@ -551,6 +848,17 @@
       "num_comments": 0,
       "created_utc": 1786371132,
       "first_seen_utc": 1786377643
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vkln4d",
+      "title": "Food and Beverage Opportunity?",
+      "url": "https://www.reddit.com/r/investing/comments/1vkln4d/food_and_beverage_opportunity/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786370331,
+      "first_seen_utc": 1786398063
     },
     {
       "source": "reddit",
