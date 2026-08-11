@@ -1,7 +1,304 @@
 {
-  "generated_at": "2026-08-11T16:01:15.604816+00:00",
+  "generated_at": "2026-08-11T19:00:04.683524+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661573891",
+      "title": "$SPY Got RaptorTrend? Clarity under pressure. Conviction over noise. Tick-by-tick. Nobody outside of institutions has done this.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:56:16Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661573884",
+      "title": "$AAPL if the market tanks on cpi do they pump Apple like they use to? Just saw a ton of 400 call blocks go through for Sept and Nov.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:56:15Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlqg6o",
+      "title": "How should I split my Roth IRA between VTI and QQQ?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlqg6o/how_should_i_split_my_roth_ira_between_vti_and_qqq/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786474501,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661573659",
+      "title": "$NVDA what happened to the $216.50 stop loss? \ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:54:52Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661573648",
+      "title": "$BTC.X a few more weeks (4-8) .. W candles, all in shape to meet the winter bottom. The faster it dives the faster it can transition to summer? A bull is a bear for now until all is bullish. Only the bears are bullish :)",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:54:45Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661573425",
+      "title": "$SPCX  \n$TSLA  \n$INTC  \n \n&quot;Terafab City is So Awesome!!&quot; \n \n&quot;So who is paying to build this thing anyway?&quot; \n \n(The Shareholders are paying for it.)",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:53:14Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661573391",
+      "title": "$SPY https://youtu.be/YJUqKbVbr0w?is=Pm8lIaNC3N4O5cMO",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:52:58Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vlqd4b",
+      "title": "I'm completely lost in life and don't know what my next move should be. What would you do?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vlqd4b/im_completely_lost_in_life_and_dont_know_what_my/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786474307,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661573062",
+      "title": "$AAPL this will make a hard move in power hour...which way? Who knows",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:50:01Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlqaji",
+      "title": "Finance a car or buy an old used one?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlqaji/finance_a_car_or_buy_an_old_used_one/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786474159,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlqaey",
+      "title": "At what point does owning SPY + QQQ + a growth ETF stop being diversification and start being the same bet in different wrappers?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlqaey/at_what_point_does_owning_spy_qqq_a_growth_etf/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786474152,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661572940",
+      "title": "$XRP.X $XLM.X $WLFI.X $DJT $BTC.X \nWhen alt season \n???? \nIf you turn it upside down you might win",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:49:03Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661572523",
+      "title": "Jim Cramer&#39;s top 10 things to watch in the stock market Tuesday\n$aapl\n\nUpdate on Jefferies\u2019 sell call of Apple yesterday, when analysts said the rumored all-glass iPhone was canceled based on supply chain checks, hurting Apple\u2019s ability to raise its average selling prices to offset memory costs. Bloomberg later reported the glass-centric device remains on track for 2027. Good news, but we were skeptical of the downgrade out the gate. Supply chain checks are a black box, and Jefferies already missed Apple\u2019s 2026 run. Own, don\u2019t trade this stock. https://www.cnbc.com/2026/08/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html?__source=iosappshare%7Ccom.stocktwits.StockTwits.STShareExtension",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:45:57Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661571931",
+      "title": "$SPY $TSLA ever hear of USAID, dumbasss?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:41:18Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661571581",
+      "title": "$TSLA can you imagine being the WORLD\u2019S RICHEST PERSON and intentionally choosing to STARVE CHILDREN GLOBALLY?!?!?!\n\n\ud83d\udd95\ud83c\udffcFU\u20acK MUSK!!! \nWhat a TOTAL ASSSSSHOLE!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:38:26Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vlpz1w",
+      "title": "Genuinely how are people surviving on one income in this economy?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vlpz1w/genuinely_how_are_people_surviving_on_one_income/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786473473,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661571279",
+      "title": "$NVDA Green fucking evrywhere; what the fuck is wrong with this?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:35:58Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661570916",
+      "title": "$SPY what&#39;s your finance situation? Not good not bad.. $META $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T18:33:13Z",
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlpmbb",
+      "title": "First time $40 annual charge on random subscription went to bank collections on old/unused credit card (transborder bank, no real branches). What can I do?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlpmbb/first_time_40_annual_charge_on_random/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786472715,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1vlp6sf",
+      "title": "Am i cooked?",
+      "url": "https://www.reddit.com/r/options/comments/1vlp6sf/am_i_cooked/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786471810,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlp54k",
+      "title": "401k- adjust or leave it alone?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlp54k/401k_adjust_or_leave_it_alone/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786471709,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlotsu",
+      "title": "Is it normal to get a credit card offer like this??",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlotsu/is_it_normal_to_get_a_credit_card_offer_like_this/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786471064,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vlopr4",
+      "title": "Inheritance and Home Equity. What\u2019s the best play here? Invest or Recast?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vlopr4/inheritance_and_home_equity_whats_the_best_play/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786470820,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlnuma",
+      "title": "What made you interested in (serious) investing - besides the obvious?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlnuma/what_made_you_interested_in_serious_investing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786468944,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlmu3a",
+      "title": "Ethical investing angle - cyber stocks vs AI stocks?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlmu3a/ethical_investing_angle_cyber_stocks_vs_ai_stocks/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786466805,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlmjr6",
+      "title": "How much to put down on car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlmjr6/how_much_to_put_down_on_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786466180,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlm573",
+      "title": "Which 401k allocation would you pick?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlm573/which_401k_allocation_would_you_pick/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786465300,
+      "first_seen_utc": 1786474804
+    },
     {
       "source": "reddit",
       "subreddit": "povertyfinance",
@@ -212,6 +509,17 @@
       "first_seen_utc": 1786464075
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlk9e1",
+      "title": "Do you read financial statements or rely on Youtube/Summaries/AI?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlk9e1/do_you_read_financial_statements_or_rely_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786461251,
+      "first_seen_utc": 1786474804
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661543129",
@@ -243,6 +551,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-11T15:03:09Z",
       "first_seen_utc": 1786464075
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vljgzr",
+      "title": "Does anyone have on $INFL in their Portfolio?",
+      "url": "https://www.reddit.com/r/investing/comments/1vljgzr/does_anyone_have_on_infl_in_their_portfolio/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786459514,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "reddit",
@@ -287,6 +606,28 @@
       "num_comments": 0,
       "created_utc": 1786454764,
       "first_seen_utc": 1786464075
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1vlh27v",
+      "title": "Will AMD go to 500+ range anytime soon ?",
+      "url": "https://www.reddit.com/r/options/comments/1vlh27v/will_amd_go_to_500_range_anytime_soon/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786453856,
+      "first_seen_utc": 1786474804
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vlgpde",
+      "title": "Robinhood Ventures II - has anyone taken a look at the fund?",
+      "url": "https://www.reddit.com/r/investing/comments/1vlgpde/robinhood_ventures_ii_has_anyone_taken_a_look_at/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786452975,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "stocktwits",
@@ -1081,6 +1422,17 @@
       "first_seen_utc": 1786422038
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vl5r22",
+      "title": "Are bonds/fixed income really required for someone approaching retirement?",
+      "url": "https://www.reddit.com/r/investing/comments/1vl5r22/are_bondsfixed_income_really_required_for_someone/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786417651,
+      "first_seen_utc": 1786474804
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661501479",
@@ -1101,6 +1453,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-11T02:57:45Z",
       "first_seen_utc": 1786422038
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vl5cqs",
+      "title": "Gold and silver running lately - time to get on board?",
+      "url": "https://www.reddit.com/r/investing/comments/1vl5cqs/gold_and_silver_running_lately_time_to_get_on/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786416515,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "stocktwits",
@@ -1189,6 +1552,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-11T01:59:34Z",
       "first_seen_utc": 1786422038
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1vl3p2e",
+      "title": "Has anyone also ever switch to calls/puts last minute on earnings and had the stock do the opposite?",
+      "url": "https://www.reddit.com/r/options/comments/1vl3p2e/has_anyone_also_ever_switch_to_callsputs_last/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786411899,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "reddit",
@@ -1563,6 +1937,17 @@
       "num_comments": 0,
       "created_utc": 1786401312,
       "first_seen_utc": 1786411514
+    },
+    {
+      "source": "reddit",
+      "subreddit": "options",
+      "id": "1vkzj3p",
+      "title": "Ranking Macro Indicators/ Which Matter Most?",
+      "url": "https://www.reddit.com/r/options/comments/1vkzj3p/ranking_macro_indicators_which_matter_most/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786401082,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "stocktwits",
@@ -2278,6 +2663,17 @@
       "num_comments": 0,
       "created_utc": 1786383967,
       "first_seen_utc": 1786398063
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vkrpm9",
+      "title": "How do you balance investing for growth with protecting the progress you already made?",
+      "url": "https://www.reddit.com/r/investing/comments/1vkrpm9/how_do_you_balance_investing_for_growth_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786383591,
+      "first_seen_utc": 1786474804
     },
     {
       "source": "reddit",
@@ -54604,402 +55000,6 @@
       "score": 8,
       "num_comments": 1,
       "created_utc": 1780346434,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169576",
-      "title": "How to figure the basis for this redemption?",
-      "url": "https://money.stackexchange.com/questions/169576/how-to-figure-the-basis-for-this-redemption",
-      "score": 4,
-      "num_comments": 1,
-      "created_utc": 1778555952,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169554",
-      "title": "Rule of 55 with a 401(k) plan with mixed Roth and 401k contributions",
-      "url": "https://money.stackexchange.com/questions/169554/rule-of-55-with-a-401k-plan-with-mixed-roth-and-401k-contributions",
-      "score": 5,
-      "num_comments": 2,
-      "created_utc": 1777474419,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169505",
-      "title": "Is there a Federal tax credit for providing financial assistance to a family member?",
-      "url": "https://money.stackexchange.com/questions/169505/is-there-a-federal-tax-credit-for-providing-financial-assistance-to-a-family-mem",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1775785979,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169504",
-      "title": "Where can I find a daily exchange rate from EUR to USD that the IRS accepts?",
-      "url": "https://money.stackexchange.com/questions/169504/where-can-i-find-a-daily-exchange-rate-from-eur-to-usd-that-the-irs-accepts",
-      "score": 6,
-      "num_comments": 3,
-      "created_utc": 1775778009,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169439",
-      "title": "Does the water heater tax rebate include the cost of removing the old system?",
-      "url": "https://money.stackexchange.com/questions/169439/does-the-water-heater-tax-rebate-include-the-cost-of-removing-the-old-system",
-      "score": 7,
-      "num_comments": 1,
-      "created_utc": 1774629692,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169417",
-      "title": "In 2025 tax return, should I use numbers from the original or amended 2024 return if 2024 amendmend is not accepted yet?",
-      "url": "https://money.stackexchange.com/questions/169417/in-2025-tax-return-should-i-use-numbers-from-the-original-or-amended-2024-retur",
-      "score": 12,
-      "num_comments": 1,
-      "created_utc": 1774375902,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169388",
-      "title": "Can company choose not to pay for my &quot;retirement&quot; account even though I worked all of 2025?",
-      "url": "https://money.stackexchange.com/questions/169388/can-company-choose-not-to-pay-for-my-retirement-account-even-though-i-worked-a",
-      "score": 6,
-      "num_comments": 2,
-      "created_utc": 1773697269,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169378",
-      "title": "Income tax: How are pre-tax funds deducted from earnings?",
-      "url": "https://money.stackexchange.com/questions/169378/income-tax-how-are-pre-tax-funds-deducted-from-earnings",
-      "score": 5,
-      "num_comments": 2,
-      "created_utc": 1773239395,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169320",
-      "title": "Should my mother in law get a reverse mortgage for income and fund a Roth IRA?",
-      "url": "https://money.stackexchange.com/questions/169320/should-my-mother-in-law-get-a-reverse-mortgage-for-income-and-fund-a-roth-ira",
-      "score": 3,
-      "num_comments": 2,
-      "created_utc": 1772029628,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169269",
-      "title": "What role does the impact of inflation have on retirement planning?",
-      "url": "https://money.stackexchange.com/questions/169269/what-role-does-the-impact-of-inflation-have-on-retirement-planning",
-      "score": 2,
-      "num_comments": 2,
-      "created_utc": 1770906237,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169223",
-      "title": "Can you withdraw Roth contributions tax- and penalty-free from a 403(b), like from a Roth IRA?",
-      "url": "https://money.stackexchange.com/questions/169223/can-you-withdraw-roth-contributions-tax-and-penalty-free-from-a-403b-like-fr",
-      "score": 5,
-      "num_comments": 2,
-      "created_utc": 1769665496,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169144",
-      "title": "Nonresident alien with U.S.-source &#167;988 gain: ECI, FDAP, or not taxable?",
-      "url": "https://money.stackexchange.com/questions/169144/nonresident-alien-with-u-s-source-988-gain-eci-fdap-or-not-taxable",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1767811529,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169122",
-      "title": "Pay off mortgage and invest or stay the course?",
-      "url": "https://money.stackexchange.com/questions/169122/pay-off-mortgage-and-invest-or-stay-the-course",
-      "score": 5,
-      "num_comments": 6,
-      "created_utc": 1767187163,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169114",
-      "title": "What tax forms need to be filed when an irrevocable trust gives non-investment real estate to beneficiaries?",
-      "url": "https://money.stackexchange.com/questions/169114/what-tax-forms-need-to-be-filed-when-an-irrevocable-trust-gives-non-investment-r",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1767128489,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169098",
-      "title": "Fraud/Credit that does NOT require a credit check",
-      "url": "https://money.stackexchange.com/questions/169098/fraud-credit-that-does-not-require-a-credit-check",
-      "score": 4,
-      "num_comments": 2,
-      "created_utc": 1766864533,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "169063",
-      "title": "What is the &quot;breakeven&quot; annual rent such that you would buy it if the rent exceeds this amount?",
-      "url": "https://money.stackexchange.com/questions/169063/what-is-the-breakeven-annual-rent-such-that-you-would-buy-it-if-the-rent-excee",
-      "score": 6,
-      "num_comments": 4,
-      "created_utc": 1765758932,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166880",
-      "title": "U.S. Stocks: Sell Highest-Cost Long-Term Lots First to Pay Less Tax?",
-      "url": "https://money.stackexchange.com/questions/166880/u-s-stocks-sell-highest-cost-long-term-lots-first-to-pay-less-tax",
-      "score": 3,
-      "num_comments": 1,
-      "created_utc": 1761136834,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166862",
-      "title": "Discrepancy between Trade Republic&#39;s and company&#39;s reported dividend",
-      "url": "https://money.stackexchange.com/questions/166862/discrepancy-between-trade-republics-and-companys-reported-dividend",
-      "score": 5,
-      "num_comments": 2,
-      "created_utc": 1760981309,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166824",
-      "title": "Do coast FIRE calculations apply only to the individual?",
-      "url": "https://money.stackexchange.com/questions/166824/do-coast-fire-calculations-apply-only-to-the-individual",
-      "score": 3,
-      "num_comments": 2,
-      "created_utc": 1760492135,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166705",
-      "title": "Mortgage or Contribute vs Retirement Savings, where should my money go?",
-      "url": "https://money.stackexchange.com/questions/166705/mortgage-or-contribute-vs-retirement-savings-where-should-my-money-go",
-      "score": 2,
-      "num_comments": 2,
-      "created_utc": 1758075187,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166696",
-      "title": "Siblings buying grandparents&#39; home as first time buyers. Please help me identify our blind spots",
-      "url": "https://money.stackexchange.com/questions/166696/siblings-buying-grandparents-home-as-first-time-buyers-please-help-me-identify",
-      "score": 15,
-      "num_comments": 7,
-      "created_utc": 1757948405,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166561",
-      "title": "Can you be put in the negative on a closed credit card?",
-      "url": "https://money.stackexchange.com/questions/166561/can-you-be-put-in-the-negative-on-a-closed-credit-card",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1755893343,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166523",
-      "title": "Do you have to place a sell order when bonds are being called out by the issuer?",
-      "url": "https://money.stackexchange.com/questions/166523/do-you-have-to-place-a-sell-order-when-bonds-are-being-called-out-by-the-issuer",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1755312965,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166461",
-      "title": "Hold foreign investments in taxable or non-taxable account?",
-      "url": "https://money.stackexchange.com/questions/166461/hold-foreign-investments-in-taxable-or-non-taxable-account",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1754327326,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166431",
-      "title": "Calculating geometric return of a leveraged portfolio including volatility drag",
-      "url": "https://money.stackexchange.com/questions/166431/calculating-geometric-return-of-a-leveraged-portfolio-including-volatility-drag",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": 1753706810,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166381",
-      "title": "In what order should I pay down my debt?",
-      "url": "https://money.stackexchange.com/questions/166381/in-what-order-should-i-pay-down-my-debt",
-      "score": 11,
-      "num_comments": 2,
-      "created_utc": 1752774690,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166375",
-      "title": "Longterm investing in 1 or more funds",
-      "url": "https://money.stackexchange.com/questions/166375/longterm-investing-in-1-or-more-funds",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1752698280,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166344",
-      "title": "What are the implications of investing in a 401k as a non-US citizen who may eventually leave the country?",
-      "url": "https://money.stackexchange.com/questions/166344/what-are-the-implications-of-investing-in-a-401k-as-a-non-us-citizen-who-may-eve",
-      "score": 4,
-      "num_comments": 2,
-      "created_utc": 1752174076,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166184",
-      "title": "Which Retirement Accounts Should I Prioritize: Roth IRA, 401(k), or Traditional IRA?",
-      "url": "https://money.stackexchange.com/questions/166184/which-retirement-accounts-should-i-prioritize-roth-ira-401k-or-traditional",
-      "score": 1,
-      "num_comments": 2,
-      "created_utc": 1749808679,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166148",
-      "title": "Purchased a call option that is OTM do i need to sell it for a loss or let it expire for tax benefit?",
-      "url": "https://money.stackexchange.com/questions/166148/purchased-a-call-option-that-is-otm-do-i-need-to-sell-it-for-a-loss-or-let-it-ex",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1749390493,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "166084",
-      "title": "What&#39;s the best way to invest savings long term for a graduate student leaving the U.S.?",
-      "url": "https://money.stackexchange.com/questions/166084/whats-the-best-way-to-invest-savings-long-term-for-a-graduate-student-leaving-t",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1748303118,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "165930",
-      "title": "Can you rent your house to someone and live there with them to generate an income stream on paper? What would the pros and cons be?",
-      "url": "https://money.stackexchange.com/questions/165930/can-you-rent-your-house-to-someone-and-live-there-with-them-to-generate-an-incom",
-      "score": 1,
-      "num_comments": 4,
-      "created_utc": 1746113987,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "165906",
-      "title": "Should I Move Retirement Accounts If I Leave a Company?",
-      "url": "https://money.stackexchange.com/questions/165906/should-i-move-retirement-accounts-if-i-leave-a-company",
-      "score": 3,
-      "num_comments": 1,
-      "created_utc": 1745681614,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "165856",
-      "title": "Is my math wrong here? Why does age matter when dealing with the distribution of bonds in investments?",
-      "url": "https://money.stackexchange.com/questions/165856/is-my-math-wrong-here-why-does-age-matter-when-dealing-with-the-distribution-of",
-      "score": 2,
-      "num_comments": 2,
-      "created_utc": 1745034298,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "165824",
-      "title": "Buying a put to hedge a stock position",
-      "url": "https://money.stackexchange.com/questions/165824/buying-a-put-to-hedge-a-stock-position",
-      "score": 4,
-      "num_comments": 1,
-      "created_utc": 1744679438,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "165790",
-      "title": "Calculate interest paid at n years, interest compounded monthly vs. semi-annually",
-      "url": "https://money.stackexchange.com/questions/165790/calculate-interest-paid-at-n-years-interest-compounded-monthly-vs-semi-annuall",
-      "score": 2,
-      "num_comments": 1,
-      "created_utc": 1744433658,
       "first_seen_utc": 1783851399
     }
   ]
