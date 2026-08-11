@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-11T07:03:48.144991+00:00",
-  "count": 4995,
+  "generated_at": "2026-08-11T10:01:10.200092+00:00",
+  "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661509220",
+      "title": "$SPY Why is it crashing??? Just 0,02% up \n\nIt is worse than 2008 &amp; 1929 together\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83d\ude2d \n\nThey told me every day up 2% for the next 50 years",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:54:59Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661508943",
+      "title": "$SPY -0,02% premarket \n\nWhy is it crashing?? \ud83d\ude2d \n\nShould be up 2% every day for the next 500 years",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:42:27Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661508942",
+      "title": "$SPY $QQQ $DJT why can\u2019t we declare war on data centers ?? That\u2019s more of a threat than Iran \ud83c\uddee\ud83c\uddf7.  Take us to War and ramp up their construction isn\u2019t by chance or happen stance.  THE REPUBLICAN PARTY LOST THE PLOT! \n\nConservative ??? What exactly are we conserving !!!!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:42:19Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661508838",
+      "title": "$GLD $SPX $SPY $TAN $TLT  the same guy that said , we don\u2019t need to tell the ppl anything, no need for explanation. What does that tell you?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:37:07Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661508707",
+      "title": "$AMD $INTC $MU $NVDA Do you realize you come off like an enormous asshole?  It\u2019s true.   I was reading your Palantir posts.  It went up 54% since you went on that rant btw.   \n\nYou\u2019re being a dick.  It completely overshadows anything worthwhile you may have to say.  \n\nI also find it fascinating that you have TDS when your behavior is identical to that of the worst version imaginable of the worst MAGA guy imaginable.    Take a look in the mirror.  You\u2019re being a dick dude.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:30:57Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661508361",
+      "title": "$NVDA last thing an answer for the question where will stock price be year end 2026 from my own personal ai &quot;thingy&quot; but worked overnight getting some sleep and hope to be back here at the open but the takeaway for me below is the one rare &quot;strong buy&quot; I might as well get that steak medium rare on that strong buy...?...I need some sleep C&#39;ya",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:15:00Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661508293",
+      "title": "$BTC.X  $MSTR What&#39;s the &quot;Strategy&quot; for today? Dilute more common shares and sell more bitcoin at the bottom again? Brilliant\ud83e\udd37\u200d\u2642\ufe0f",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T09:12:01Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vlc51y",
+      "title": "In what to invest?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vlc51y/in_what_to_invest/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786438799,
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661507933",
+      "title": "Honestly, trade policy is starting to feel more important than a lot of the short-term market noise. \n \nTariffs and supply chain shifts are forcing real decisions on where companies build and source. Some will adapt and win, others will just eat higher costs. \n \nI\u2019m paying more attention to the ones that can actually move production or suppliers right now.Anyone else seeing this show up in specific stocks, or still treating it as background noise? \n$AAPL $TSM $CAT $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T08:53:04Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661507862",
+      "title": "$TSLA \ud83d\ude09 \nhttps://www.wsj.com/business/see-how-a-tesla-spacex-merger-gives-musk-a-shortcut-to-his-1-trillion-payday-327bc491?mod=e2tw",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T08:49:31Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661506965",
+      "title": "$HIMX $TSM $NVDA \nhttps://x.com/milkroadai/status/2086943189597085858?s=46&amp;t=U9eP6DIiOkcPAub8MgmBuQ",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T08:00:20Z",
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vlao03",
+      "title": "Should we prioritize taxable accounts to FIRE earlier?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vlao03/should_we_prioritize_taxable_accounts_to_fire/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786433604,
+      "first_seen_utc": 1786442470
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661506457",
+      "title": "$BTC.X $ETH.X $MSTR $XRP.X How much did you lose? Don\u2019t waste your life gambling on fake-ass coins. Go do some pushups instead.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-11T07:26:08Z",
+      "first_seen_utc": 1786442470
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -30,7 +173,7 @@
       "id": "661505928",
       "title": "$NVDA\n\nNVIDIA\u2019s GPUs are becoming more than just chips.\n\nWith demand pushing H100 and Blackwell rental prices higher, AI compute is becoming a new type of infrastructure.\n\nThe question:Will compute become the next oil of the AI economy?",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-11T06:46:21Z",
       "first_seen_utc": 1786431828
@@ -107,7 +250,7 @@
       "id": "661505751",
       "title": "$AAPL \n\nSo looks like the glass Iphone is still planned.\nWhere did Jeff get that information about canceling??",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-11T06:35:13Z",
       "first_seen_utc": 1786431828
@@ -147,10 +290,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "661505345",
       "title": "Buy Lenovo Group Stock For Higher Highs Ahead Of Earnings? $LNVGY \nAlso Mentions: $NVDA $AAPL $DELL https://talkmarkets.com/article/buy-lenovo-group-stock-for-higher-highs-ahead-of-earnings-1786428436",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/AAPL",
       "score": 0,
       "num_comments": 0,
       "created_utc": "2026-08-11T06:07:43Z",
@@ -184,7 +327,7 @@
       "id": "661504396",
       "title": "$SPY $QQQ $DJT $TSLA \n\nIs this ass clown Felon 47 on crack?  Or he&#39;s just lying like usual with his base believing his every word?",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 8,
+      "score": 10,
       "num_comments": 0,
       "created_utc": "2026-08-11T05:07:23Z",
       "first_seen_utc": 1786431828
@@ -305,7 +448,7 @@
       "id": "661502945",
       "title": "$TSLA nothing left in this company. Y?",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-11T03:54:50Z",
       "first_seen_utc": 1786422038
@@ -333,6 +476,17 @@
       "first_seen_utc": 1786422038
     },
     {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vl6ke9",
+      "title": "How the do so many other poor people have newer cars?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vl6ke9/how_the_do_so_many_other_poor_people_have_newer/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786420065,
+      "first_seen_utc": 1786442470
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "661502496",
@@ -342,6 +496,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-11T03:39:50Z",
       "first_seen_utc": 1786422038
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vl6c0y",
+      "title": "How do you avoid monthly banking fees in Canada?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vl6c0y/how_do_you_avoid_monthly_banking_fees_in_canada/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786419364,
+      "first_seen_utc": 1786442470
     },
     {
       "source": "stocktwits",
@@ -650,6 +815,17 @@
       "num_comments": 0,
       "created_utc": 1786409348,
       "first_seen_utc": 1786411514
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vl2q72",
+      "title": "(US-IL) - Wife and I Started hosting small classes - How to handle finances?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vl2q72/usil_wife_and_i_started_hosting_small_classes_how/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786409284,
+      "first_seen_utc": 1786442470
     },
     {
       "source": "reddit",
@@ -54824,127 +55000,6 @@
       "score": 1,
       "num_comments": 1,
       "created_utc": 1675356187,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "154769",
-      "title": "Musk bought Twitter with $13b loans - why is *Twitter* liable for this debt rather than Musk?",
-      "url": "https://money.stackexchange.com/questions/154769/musk-bought-twitter-with-13b-loans-why-is-twitter-liable-for-this-debt-rath",
-      "score": 5,
-      "num_comments": 3,
-      "created_utc": 1674066887,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "154608",
-      "title": "What is the worst that can happen if one does not file for bankruptcy but cannot pay their debt either (in Canada)?",
-      "url": "https://money.stackexchange.com/questions/154608/what-is-the-worst-that-can-happen-if-one-does-not-file-for-bankruptcy-but-cannot",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": 1673208614,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "153880",
-      "title": "In the envelope system, how often do I &quot;clear&quot; my envelopes?",
-      "url": "https://money.stackexchange.com/questions/153880/in-the-envelope-system-how-often-do-i-clear-my-envelopes",
-      "score": 10,
-      "num_comments": 5,
-      "created_utc": 1669640750,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "151453",
-      "title": "What are some possible reasons that a heating oil rep would be anticipating oil prices falling?",
-      "url": "https://money.stackexchange.com/questions/151453/what-are-some-possible-reasons-that-a-heating-oil-rep-would-be-anticipating-oil",
-      "score": 18,
-      "num_comments": 8,
-      "created_utc": 1655757955,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "151320",
-      "title": "In a Budget is Saving Considered an Expense?",
-      "url": "https://money.stackexchange.com/questions/151320/in-a-budget-is-saving-considered-an-expense",
-      "score": 5,
-      "num_comments": 5,
-      "created_utc": 1655205469,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "149901",
-      "title": "On Mint.com, can I export the &quot;broader&quot; category with my transactions?",
-      "url": "https://money.stackexchange.com/questions/149901/on-mint-com-can-i-export-the-broader-category-with-my-transactions",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1647607068,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "148980",
-      "title": "What expenses should I plan for when considering move to the USA from Europe?",
-      "url": "https://money.stackexchange.com/questions/148980/what-expenses-should-i-plan-for-when-considering-move-to-the-usa-from-europe",
-      "score": 3,
-      "num_comments": 1,
-      "created_utc": 1643618907,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "148380",
-      "title": "Adding an Expense subaccount in a budget in Gnucash",
-      "url": "https://money.stackexchange.com/questions/148380/adding-an-expense-subaccount-in-a-budget-in-gnucash",
-      "score": 1,
-      "num_comments": 1,
-      "created_utc": 1641438956,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "148096",
-      "title": "Promotion will leave me with a spare $25k. What should I put this towards?",
-      "url": "https://money.stackexchange.com/questions/148096/promotion-will-leave-me-with-a-spare-25k-what-should-i-put-this-towards",
-      "score": 6,
-      "num_comments": 3,
-      "created_utc": 1640275704,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "148091",
-      "title": "It&#39;s official - I&#39;ve paid off my student loans. Now what?",
-      "url": "https://money.stackexchange.com/questions/148091/its-official-ive-paid-off-my-student-loans-now-what",
-      "score": 6,
-      "num_comments": 1,
-      "created_utc": 1640267084,
-      "first_seen_utc": 1783851399
-    },
-    {
-      "source": "stackexchange",
-      "site": "money",
-      "id": "145378",
-      "title": "Is there a standard for the &quot;transaction type&quot;?",
-      "url": "https://money.stackexchange.com/questions/145378/is-there-a-standard-for-the-transaction-type",
-      "score": 2,
-      "num_comments": 2,
-      "created_utc": 1633311127,
       "first_seen_utc": 1783851399
     }
   ]
