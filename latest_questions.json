@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-08-12T07:22:05.741316+00:00",
+  "generated_at": "2026-08-12T10:02:11.276520+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661623894",
+      "title": "$DJT $USO $SPY $QQQ $NIFTY50.NSE WYM, there were negotiations going? Bring back for what? They were in good talks?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:37:48Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661623851",
+      "title": "$SPY so another half trillion out of thin air?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:36:10Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661623780",
+      "title": "$SPY There is no inflation as Trump says so what makes you think they&#39;ll print hot?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:32:13Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661623759",
+      "title": "$SPY Time for ATH?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:31:18Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vm97uq",
+      "title": "I want to start building credit, advice?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vm97uq/i_want_to_start_building_credit_advice/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786526831,
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661623552",
+      "title": "$SPY AI trading today $GOOGL $NVDA  \nhttps://www.youtube.com/watch?v=35pszmj3jdE",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:21:02Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661623324",
+      "title": "$SMCI \ud83d\udea8 \u2014 THIS REPORT IS ABSOLUTELY MASSIVE. \ud83d\udea8\n\nForget the noise and LOOK AT THE NUMBERS:\n\n\ud83d\udd25 FY2027 revenue guidance: $65B\u2013$72B vs. Wall Street at just $52.99B \u2014 midpoint is nearly $16B ABOVE consensus!\n\n\ud83d\udd25 $60B+ in NEW ORDERS + RECORD BACKLOG entering FY27.\n\n\ud83d\udd25 Q4 sales nearly DOUBLED YoY: $11.12B vs. $5.76B.\n\n\ud83d\udd25 Net income exploded to $1.17 BILLION vs. just $195.2M last year \u2014 roughly 6X!\n\n\ud83d\udd25 Adjusted EPS $1.70 vs. $0.92 expected \u2014 an ~85% beat.\n\n\ud83d\udd25 Gross margin hit 17.5%, ABOVE the already-raised 15\u201317% forecast.\n\n\ud83d\udd25 Next quarter revenue: $14.5B\u2013$15.5B vs. $11.82B expected.\n\nAnd the Q4 revenue miss? Management says power, cooling and networking delays pushed revenue into FUTURE QUARTERS, not lost demand.\n\nThat distinction is HUGE.\n\n$65B\u2013$72B FY27 revenue. $60B+ orders. Record backlog. Expanding customer base. Improving profitability.\n\nThis isn\u2019t just growth anymore \u2014 SMCI is showing SCALE + PROFITABILITY at the same time.\n\nThe market spent months pricing SMCI like the AI story was broken.\n\nThe he numbers just told Wall Street otherwise. \ud83d\ude80\ud83d\udd25\n\n$DELL $NVDA $AMD $SPCX  #AI #DataCenter",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 7,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T09:10:33Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vm8vl4",
+      "title": "Wait to pay off or pay off?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vm8vl4/wait_to_pay_off_or_pay_off/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786525654,
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661623053",
+      "title": "$SMCI \ud83d\udea8 \u2014 WALL STREET WILL HAVE TO COMPLETELY REPRICE THIS. \ud83d\udea8\n\nForget the headline revenue miss. Look at what\u2019s happening underneath:\n\n\ud83d\udd25 Sales nearly DOUBLED: $11.12B vs $5.76B YoY\n\ud83d\udd25 Net income: $1.17B vs $195M \u2014 nearly 6X\n\ud83d\udd25 Adjusted EPS: $1.70 vs $0.92 expected \u2014 85% BEAT\n\ud83d\udd25 Gross margin: 17.5%, ABOVE the 15\u201317% forecast\n\ud83d\udd25 $60B+ NEW ORDERS + RECORD BACKLOG\n\ud83d\udd25 FY27 revenue guide: $65B\u2013$72B vs $52.99B Street estimate\n\ud83d\udd25 Next quarter: $14.5B\u2013$15.5B revenue vs $11.82B expected\n\nAnd the revenue pushed out because of power, cooling &amp; networking delays? Management expects to recognize it in future quarters.\n\nThat means demand wasn\u2019t disappearing, it was delayed.\n\nSuperMicro is entering FY27 with record backlog, exploding profits and guidance miles ahead of Wall Street.\n\nThe question isn\u2019t whether the AI demand is there anymore. The question is how quickly SMCI can execute on it. \ud83d\ude80\ud83d\udd25\n\n$NBIS $CRWV $NVDA $AMD #AI #DataCenters",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 8,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T08:56:18Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661623047",
+      "title": "$NVDA https://www.youtube.com/watch?v=sAkBgu61yAo $GOOGL",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T08:56:01Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vm8lhv",
+      "title": "How much rent can I afford?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vm8lhv/how_much_rent_can_i_afford/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786524652,
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vm8ios",
+      "title": "How Do I Short The Anthropic IPO?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vm8ios/how_do_i_short_the_anthropic_ipo/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786524370,
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661622249",
+      "title": "$DJIA $SPY $QQQ $BTC.X $DIA How could we possibly know that capitalism is the problem if we don\u2019t first give it a chance?\ud83e\udd37\u200d\u2642\ufe0f Free the enterprise https://youtu.be/m4L20t8Dvlg?is=7-LRo3tjBCrygf0d",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T08:18:45Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661621715",
+      "title": "$NVDA  why NVDA  CEO so desperate to bring Wall Street firms for 500 Billion push like it was done with White House during Soft-Bank, OpenAI &amp; $ORCL partnership for Stargate project ?\n\nThen ORCL hype and crashed\n\nNow NVDA begging all to keep AI theme going, before all crash AI stocks to ground",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T07:46:30Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661621615",
+      "title": "$SPCX $TSLA the future is Elon musk\u2026\ud83d\udd25\ud83d\udd25\ud83d\ude80\ud83d\ude80\n\nhttps://x.com/xfreeze/status/2087437119245471814?s=46",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-12T07:39:35Z",
+      "first_seen_utc": 1786528931
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vm7695",
+      "title": "Will there be a lein on my title?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vm7695/will_there_be_a_lein_on_my_title/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786519480,
+      "first_seen_utc": 1786528931
+    },
     {
       "source": "reddit",
       "subreddit": "povertyfinance",
@@ -34,6 +210,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-12T06:18:11Z",
       "first_seen_utc": 1786519325
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vm5zd6",
+      "title": "Would you use a capital-loss carryforward to temporarily liquidate a long-term portfolio ahead of the 2026 midterms?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vm5zd6/would_you_use_a_capitalloss_carryforward_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786515363,
+      "first_seen_utc": 1786528931
     },
     {
       "source": "stocktwits",
@@ -1211,6 +1398,17 @@
       "num_comments": 0,
       "created_utc": 1786477558,
       "first_seen_utc": 1786484736
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vlrrze",
+      "title": "Concentrating positions, not diversifying. Insights from those that have done this?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vlrrze/concentrating_positions_not_diversifying_insights/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786477356,
+      "first_seen_utc": 1786528931
     },
     {
       "source": "reddit",
@@ -54803,204 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1783915764,
       "first_seen_utc": 1783954119
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uv0uma",
-      "title": "Clearing out investment account for daycare if we have a kid?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uv0uma/clearing_out_investment_account_for_daycare_if_we/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783915415,
-      "first_seen_utc": 1783954119
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1uv0qet",
-      "title": "Thoughts on Invitation Homes (INVH) as a REIT investment?",
-      "url": "https://www.reddit.com/r/dividends/comments/1uv0qet/thoughts_on_invitation_homes_invh_as_a_reit/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783915093,
-      "first_seen_utc": 1783923406
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uv07zu",
-      "title": "Behind or caught up?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uv07zu/behind_or_caught_up/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783913552,
-      "first_seen_utc": 1783923406
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuzzeh",
-      "title": "Financial Course: Worth It?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuzzeh/financial_course_worth_it/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783912842,
-      "first_seen_utc": 1783923406
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuzkuo",
-      "title": "What to do about housing for my retirement plan?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuzkuo/what_to_do_about_housing_for_my_retirement_plan/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783911653,
-      "first_seen_utc": 1783923406
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuz77q",
-      "title": "Which local credit union is reputable and reliable?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuz77q/which_local_credit_union_is_reputable_and_reliable/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783910560,
-      "first_seen_utc": 1783923406
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuyvck",
-      "title": "Am I saving enough??",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuyvck/am_i_saving_enough/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783909603,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuyu8g",
-      "title": "How can I create a budget and stop overspending?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuyu8g/how_can_i_create_a_budget_and_stop_overspending/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783909509,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uuyp1c",
-      "title": "Will quantum computing\u2019s advancement make bitcoin obsolete?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uuyp1c/will_quantum_computings_advancement_make_bitcoin/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783909091,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuygyi",
-      "title": "Am I being too conservative not considering buying a new house?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuygyi/am_i_being_too_conservative_not_considering/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783908458,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uuyde3",
-      "title": "The US just funded its first Fannie Mae-backed mortgage where the collateral is Bitcoin. You can now buy a house without selling your BTC - have we learned nothing from 2008?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uuyde3/the_us_just_funded_its_first_fannie_maebacked/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783908176,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuybz0",
-      "title": "How to lower electric bill",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuybz0/how_to_lower_electric_bill/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783908065,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuybqk",
-      "title": "If you own your home outright (no mortgage on it), is there really much risk in getting a HELOC for 50% of the home's value in order to use it as a down payment for a second home?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuybqk/if_you_own_your_home_outright_no_mortgage_on_it/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783908048,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuy384",
-      "title": "I think I am bad with money.. am i?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuy384/i_think_i_am_bad_with_money_am_i/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783907383,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuy0vr",
-      "title": "Where should I be investing my money?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuy0vr/where_should_i_be_investing_my_money/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783907199,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuxq7k",
-      "title": "No retirement at 30. What to do?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuxq7k/no_retirement_at_30_what_to_do/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783906334,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uuxnqn",
-      "title": "Parent's Retirement Situation and Myself - WWYD?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uuxnqn/parents_retirement_situation_and_myself_wwyd/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783906133,
-      "first_seen_utc": 1783909866
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uux4he",
-      "title": "Would it make sense to fund a 529 from long term stock?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uux4he/would_it_make_sense_to_fund_a_529_from_long_term/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1783904634,
-      "first_seen_utc": 1783909866
     }
   ]
 }
