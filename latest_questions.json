@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-08-14T07:22:10.690362+00:00",
+  "generated_at": "2026-08-14T10:00:09.892404+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661876259",
+      "title": "$SPY $QQQ $SOXX $SOXL $SOXS https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html?__source=iosappshare%7Ccom.google.Gmail.ShareExtension",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:54:03Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vo2wht",
+      "title": "How to use the Bybit EU Unified Trading Account for effective risk management",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vo2wht/how_to_use_the_bybit_eu_unified_trading_account/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786701213,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661876115",
+      "title": "$SPY Normal safe harbor statement here, but seriously: who the Hell looks at this year to date (8.5 months of price action) and says this is a bear market?\n\nLol. People really would rather be right than make money- and some others don&#39;t want to do either. \n\n\ud83d\ude2c Yikes.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:49:35Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661875940",
+      "title": "$BTC.X how those  Loans to buy BTC holding up , and second and third mortgages ?????",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:43:40Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661875760",
+      "title": "$AMD $MU $NVDA $SKHY $SMCI Why should Burry have any less of a right to express his opinions on a stock than you?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:35:00Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661875678",
+      "title": "$BTC.X the crypto fad over?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:31:39Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661875655",
+      "title": "$BTC.X looking weak, lets see where the line gets defended.. \nseems that wall was tried and true, where&#39;s the base, or we cascading?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:30:49Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661875424",
+      "title": "$QQQ $SPY meanwhile in the real world \n \nhttps://m.youtube.com/watch?v=iW3VtonN7W4&amp;feature=youtu.be",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:20:56Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661875161",
+      "title": "$BTC.X wonder why?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:10:22Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661875074",
+      "title": "$BTC.X still proud?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T09:07:04Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vo23xl",
+      "title": "Is AI going to change how crypto communities create content?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vo23xl/is_ai_going_to_change_how_crypto_communities/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786698392,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vo1q6p",
+      "title": "How would you advise a young couple, starting their professional careers to invest and save?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vo1q6p/how_would_you_advise_a_young_couple_starting/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786697020,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661874291",
+      "title": "$SPY Chat are bears cooked? New ATH&#39;s again today? $QQQ",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T08:33:34Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661874216",
+      "title": "$BTC.X\nSamtosan appear again?\nWallat move around dumpling again\n60k soon",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T08:30:18Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vo12x6",
+      "title": "How do you handle volatility?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vo12x6/how_do_you_handle_volatility/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786694675,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vo11ov",
+      "title": "Finance with private seller?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vo11ov/finance_with_private_seller/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786694552,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661873506",
+      "title": "$TSLA Are we finally done looking at real  developments and trade hopium only?\nFSD status:???? \ud83d\ude05 \nFSD v14 Lite started creating thermal issues in the vehicle&#39;s FSD computer \u2014 the HW3 circuit board is overheating under the computational load of running the distilled V14 model. Tesla had to rush out v14.1 Lite to address the ECU overheating problem.\nSo the &quot;consolation prize&quot; software update for HW3 owners is pushing the hardware so hard it&#39;s physically overheating. They&#39;ve squeezed a stripped-down version of V14 and the chips are cooking themselves. The actual fix \u2014 hardware retrofit \u2014 has gone from &quot;microfactories&quot; in Q1, to &quot;maybe skip to next-gen chip&quot; in Q2, to no mention at all since. Zero retrofits performed. Zero microfactories built. Zero timeline given.\nMeanwhile 4 million owners have a software update that&#39;s literally cooking their computers! \nV14 Lite isn&#39;t a solution...and the CEO says maybe wait for a chip that doesn&#39;t exist yet and will go to robots first. WTF? \ud83e\udd14\ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:52:09Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661873280",
+      "title": "Chart of The Day from 14 August: #Apple $AAPL #Elliottwave Forecast signals extended downside path. Full article is available here https://elliottwave-forecast.com/news/apple-aapl-forecast-elliott-wave-signals-extended-downside-path/?fpr=ewfhendra63",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:36:17Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661873140",
+      "title": "$YNVYF very strong news:  \n \nYnvisible Announces Collaboration with Leading Automotive Manufacturer to Develop New E-Paper Product \n \nI would really love to know who is the leading automotive manufacturer is it $TSLA $TM or $LCID or $XPEV ?  \n \nWhy did the shareprice crashed from $1.3 to now only $0.06 for such a strong technology from Ynvisible? \n \nCan we see the same increase like in 2021 where the shareprice went up from $0.06 all the way to $1.3? \n \nhttps://www.ynvisible.com/news-and-inspiration/ynvisible-announces-collaboration-with-leading-automotive-manufacturer-to-develop-new-e-paper-product/",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:25:39Z",
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vo0cwx",
+      "title": "Does this rent-to-own deal with my family member make sense?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vo0cwx/does_this_renttoown_deal_with_my_family_member/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786692069,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661873080",
+      "title": "$SPY $NVDA because I dare to dream a army of automous robots? $AMZN $GOOGL $TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:20:24Z",
+      "first_seen_utc": 1786701609
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -129,10 +360,21 @@
       "id": "661871607",
       "title": "$AAPL news? Apple Trains Its Own AI Model For China Market With Alibaba\u2019s Support, Sousays Say\u2019 - Reuters Exclusive",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-14T05:33:01Z",
       "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vnyb46",
+      "title": "Hello! Advice on how to celebrate my upcoming birthday with less than 20 dollars?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vnyb46/hello_advice_on_how_to_celebrate_my_upcoming/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786685124,
+      "first_seen_utc": 1786701609
     },
     {
       "source": "reddit",
@@ -278,6 +520,17 @@
       "first_seen_utc": 1786682950
     },
     {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vnwhhi",
+      "title": "Tencent (china) to offload more stakes in SE ADR?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vnwhhi/tencent_china_to_offload_more_stakes_in_se_adr/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786679442,
+      "first_seen_utc": 1786701609
+    },
+    {
       "source": "stocktwits",
       "symbol": "BTC.X",
       "id": "661869706",
@@ -334,6 +587,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnw00l",
+      "title": "Aggressively pay off debts or pay minimum and invest?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnw00l/aggressively_pay_off_debts_or_pay_minimum_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786678001,
+      "first_seen_utc": 1786701609
+    },
+    {
+      "source": "reddit",
       "subreddit": "FinancialPlanning",
       "id": "1vnvkpy",
       "title": "Should I just max out my Roth IRA contribution?",
@@ -353,6 +617,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-14T03:03:31Z",
       "first_seen_utc": 1786682950
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnvgkb",
+      "title": "A family member wants to give me 20k cash can I just deposit it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnvgkb/a_family_member_wants_to_give_me_20k_cash_can_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786676412,
+      "first_seen_utc": 1786701609
     },
     {
       "source": "stocktwits",
@@ -54726,281 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1784358535,
       "first_seen_utc": 1784360886
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1uzmszy",
-      "title": "Who are the 99% ?",
-      "url": "https://www.reddit.com/r/options/comments/1uzmszy/who_are_the_99/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784351567,
-      "first_seen_utc": 1784380266
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzls16",
-      "title": "How to optimize my retirement planning as a late starter?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzls16/how_to_optimize_my_retirement_planning_as_a_late/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784348391,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1uzlpfg",
-      "title": "Why does life hits hard? I need genuine help.",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzlpfg/why_does_life_hits_hard_i_need_genuine_help/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784348166,
-      "first_seen_utc": 1784360886
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1uzlln0",
-      "title": "Louisiana MFS Community Property Question: Should State Tax Withholding Be Split 50/50?",
-      "url": "https://www.reddit.com/r/tax/comments/1uzlln0/louisiana_mfs_community_property_question_should/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784347851,
-      "first_seen_utc": 1784401390
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzl4xv",
-      "title": "Is there anyone here who uses monero for privacy?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzl4xv/is_there_anyone_here_who_uses_monero_for_privacy/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784346461,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uzkx9i",
-      "title": "Does anyone here use Kraken?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzkx9i/does_anyone_here_use_kraken/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784345795,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1uzki26",
-      "title": "Paypal sent my 1099-K late and I already filed my taxes and put it under Other Income. Do I need to do anything?",
-      "url": "https://www.reddit.com/r/tax/comments/1uzki26/paypal_sent_my_1099k_late_and_i_already_filed_my/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784344508,
-      "first_seen_utc": 1784401390
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzkho5",
-      "title": "Should I DCA my inheritance?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzkho5/should_i_dca_my_inheritance/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784344478,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1uzkequ",
-      "title": "Should I DCA my inheritance?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uzkequ/should_i_dca_my_inheritance/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784344238,
-      "first_seen_utc": 1784370073
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzk7n3",
-      "title": "2400 rent on large suburban house vs 1100 rent on short term apartment to save for house?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzk7n3/2400_rent_on_large_suburban_house_vs_1100_rent_on/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784343652,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzk0i8",
-      "title": "Got my first job and no debt how do I start investing if I will probably leave before I'm vested?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzk0i8/got_my_first_job_and_no_debt_how_do_i_start/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784343061,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1uzjym4",
-      "title": "What\u2019s something to buy once that saves you a good amount of money in the long run?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzjym4/whats_something_to_buy_once_that_saves_you_a_good/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784342908,
-      "first_seen_utc": 1784360886
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1uzjxyb",
-      "title": "What disruptive stocks are you holding?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1uzjxyb/what_disruptive_stocks_are_you_holding/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784342854,
-      "first_seen_utc": 1784476719
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzjub1",
-      "title": "How To Send Money From The US To Someone in Mexico/Canada?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzjub1/how_to_send_money_from_the_us_to_someone_in/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784342563,
-      "first_seen_utc": 1784370073
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uzjp5t",
-      "title": "How can this happen?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzjp5t/how_can_this_happen/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784342149,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzj682",
-      "title": "19 and want to move out, build credit, and have a Roth IRA, any advice?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzj682/19_and_want_to_move_out_build_credit_and_have_a/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784340622,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1uzj4n7",
-      "title": "if you had to start rebuilding your credit today, what app would you actually use?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzj4n7/if_you_had_to_start_rebuilding_your_credit_today/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784340490,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1uzivfw",
-      "title": "Can someone talk to me about SEPPs? Why wouldn't everyone use this??",
-      "url": "https://www.reddit.com/r/tax/comments/1uzivfw/can_someone_talk_to_me_about_sepps_why_wouldnt/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784339767,
-      "first_seen_utc": 1784401390
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1uzidym",
-      "title": "Tips for investing for someone with no experience or other ways to save/build wealth?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uzidym/tips_for_investing_for_someone_with_no_experience/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784338364,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1uzick4",
-      "title": "21M w/ 100k in the bank what to do?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1uzick4/21m_w_100k_in_the_bank_what_to_do/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784338248,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1uzhw7v",
-      "title": "What does it mean to beat the market?",
-      "url": "https://www.reddit.com/r/investing/comments/1uzhw7v/what_does_it_mean_to_beat_the_market/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784336956,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzhizo",
-      "title": "Turning 18 in 2 days, what is the best way to start building credit?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzhizo/turning_18_in_2_days_what_is_the_best_way_to/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784335918,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1uzgvet",
-      "title": "Anybody else holding SNAP? If so, why?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1uzgvet/anybody_else_holding_snap_if_so_why/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784334092,
-      "first_seen_utc": 1784476719
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzgkpc",
-      "title": "27years old, just got out of prison in March. I'm starting from scratch, how do I budget properly?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzgkpc/27years_old_just_got_out_of_prison_in_march_im/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784333302,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzftu9",
-      "title": "How can I use my money responsibly?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzftu9/how_can_i_use_my_money_responsibly/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784331339,
-      "first_seen_utc": 1784340666
     }
   ]
 }
