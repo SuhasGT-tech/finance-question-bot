@@ -1,14 +1,179 @@
 {
-  "generated_at": "2026-08-14T04:49:10.022121+00:00",
+  "generated_at": "2026-08-14T07:22:10.690362+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661872982",
+      "title": "Good morning, traders. \ud83d\udcca Today&#39;s Daily Technical Videos are now available in the membership area. Stay informed with our latest market insights: https://elliottwave-forecast.com/?fpr=vlada14 \n \n#ElliottWave #Trading $SPX $NQ_F $DAX $BTC.X $ETH.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:14:04Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661872828",
+      "title": "$TSLA so 175?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T07:02:47Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnzssr",
+      "title": "Security deposit refund via ACH \u201cprocessed\u201d Aug 10, still nothing in X Money/Cross River by Aug 13. How long does it typically take?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnzssr/security_deposit_refund_via_ach_processed_aug_10/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786690121,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vnzlsn",
+      "title": "Can I do multiple Schwab deposits through the year without any issues?",
+      "url": "https://www.reddit.com/r/investing/comments/1vnzlsn/can_i_do_multiple_schwab_deposits_through_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786689451,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnzkdx",
+      "title": "Can I do multiple Schwab deposits through the year with no issues?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnzkdx/can_i_do_multiple_schwab_deposits_through_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786689312,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661872429",
+      "title": "Japan raising rates in September? That could get interesting. \n \nThe bigger question for me is what happens if the yen keeps weakening and Japan has to step back into the FX market. \n \nA lot of global money moves through the yen trade. Any sudden shift could spill over into risk assets.Are you watching this for $SPY / $QQQ impact, or treating it as background noise?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T06:33:14Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661872416",
+      "title": "$BTC.X power law at $62K now held during ftx covid mt gox and wtf is this?? Nothing bad even has happened I guess the cold card hack idk? Yeahhh",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T06:32:41Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661872245",
+      "title": "$DJT $SPY $DIA $QQQ $VTI \n\n&quot;Trump White House says it&#39;s losing $19B-$26B billion a year in revenue as countries dodge tariffs&quot;\n\nWho would have thought, most countries would use the loopholes provided to avoid paying tariffs?  This fiasco is even worse than DOGE.  Americans are paying more... for what?  Growing fiscal defecits?\n\nAnd... for a guy who does nothing but rail against taxes, you&#39;d think Trump understood how easy it is to avoid them.  \n\nTariffs are not getting their desired result: funding the endless fiscal black holes that are Trump&#39;s Defense Department Budget, farcical moonshot timeline, and ICE.   \n\nSo far, the only surplus this administration has provided is of the fecal kind.  Remember, it was Trump who  annihilated the agencies overseeing corporat malfeasance and maintained (low) health standards in our food chain.\n\nhttps://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T06:18:46Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661872150",
+      "title": "$BTC.X $ETH.X ANOTHER RES DAY CLOSE GONNA HAPPEN TODAY LMFAOOOOOO WHERE THEM WORTHLESS ASS USELESS STUPID FUCKING BULLS AT?! \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T06:12:40Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661871857",
+      "title": "$BTC.X is down 49% from its peak, but miners aren\u2019t capitulating\u2014hashrate remains near 900 EH/s. Is the worst yet to come? \n \nhttps://coinpedia.org/news/bitcoin-falls-49-from-peak-but-miners-show-no-sign-of-capitulation/",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T05:51:22Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnyok9",
+      "title": "Part-time job offering retirement plan, how much should i contribute?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnyok9/parttime_job_offering_retirement_plan_how_much/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786686372,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "661871607",
+      "title": "$AAPL news? Apple Trains Its Own AI Model For China Market With Alibaba\u2019s Support, Sousays Say\u2019 - Reuters Exclusive",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-14T05:33:01Z",
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "tax",
+      "id": "1vny3o5",
+      "title": "My employer withhealds cali taxes but what I want to live out of state in PA?",
+      "url": "https://www.reddit.com/r/tax/comments/1vny3o5/my_employer_withhealds_cali_taxes_but_what_i_want/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786684463,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnxvt6",
+      "title": "Is there a budget app that tells you what's safe to spend based on your account balance, and expected income and bills?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnxvt6/is_there_a_budget_app_that_tells_you_whats_safe/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786683753,
+      "first_seen_utc": 1786692130
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vnxle1",
+      "title": "Should I move forward with buying a home?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vnxle1/should_i_move_forward_with_buying_a_home/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786682849,
+      "first_seen_utc": 1786692130
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "661870837",
       "title": "$NVDA Another great announcement from Nvidia,   \nin this idiotic market, AMD stock will probably go up again now.  \nLG to unveil Nvidia-powered humanoid robot in Q1 next year \nhttps://www.koreatimes.co.kr/business/companies/20260814/lg-to-unveil-nvidia-powered-humanoid-robot-in-q1-next-year?utm_source=rss",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-14T04:45:18Z",
       "first_seen_utc": 1786682950
@@ -41,7 +206,7 @@
       "id": "661870555",
       "title": "$AAPL Positive (82%): shares could rise as investors price in a more credible route for Apple to offer competitive AI features in China, reducing concern that its current AI limitations will weaken device demand and its position in that market. Full AI impact map, source, and watch-next details: https://nimpact.tech/newsimpact/news/88008f1df081eb72?utm_source=stocktwits&amp;utm_medium=story_url",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-14T04:30:09Z",
       "first_seen_utc": 1786682950
@@ -54836,171 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1784331339,
       "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1uzfttz",
-      "title": "Will semis and memory recover?",
-      "url": "https://www.reddit.com/r/stocks/comments/1uzfttz/will_semis_and_memory_recover/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784331338,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzfjs2",
-      "title": "What do I need to do to move out?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzfjs2/what_do_i_need_to_do_to_move_out/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784330606,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzepf6",
-      "title": "Does an American freelancer need GST for work done under a Canadian company?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzepf6/does_an_american_freelancer_need_gst_for_work/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784328489,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzeind",
-      "title": "Is short sale my only option?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzeind/is_short_sale_my_only_option/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784328015,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uzehc6",
-      "title": "What happens to your crypto when you die? I built something to solve this",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzehc6/what_happens_to_your_crypto_when_you_die_i_built/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784327917,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzefkz",
-      "title": "What to do woth 10k I won't need for at least 3 years?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzefkz/what_to_do_woth_10k_i_wont_need_for_at_least_3/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784327793,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uze5f8",
-      "title": "US Treasury Money Market option available through Citibank PWM?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uze5f8/us_treasury_money_market_option_available_through/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784327089,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uze0np",
-      "title": "Best way to reduce car interest payment?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uze0np/best_way_to_reduce_car_interest_payment/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784326755,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1uzdgyh",
-      "title": "Experience with Frugal Living for Student Loans?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1uzdgyh/experience_with_frugal_living_for_student_loans/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784325399,
-      "first_seen_utc": 1784340666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1uzdfns",
-      "title": "Any Small Cap Dividend ETFs ?",
-      "url": "https://www.reddit.com/r/dividends/comments/1uzdfns/any_small_cap_dividend_etfs/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784325310,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1uzdea1",
-      "title": "Anyone seen BONK tanking?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1uzdea1/anyone_seen_bonk_tanking/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784325216,
-      "first_seen_utc": 1784352407
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzd9jw",
-      "title": "I hit 17 a month ago barely and from june 22th i been working and i am about to get my paycheck in few days what should i do with it?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd9jw/i_hit_17_a_month_ago_barely_and_from_june_22th_i/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784324892,
-      "first_seen_utc": 1784325228
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzd61w",
-      "title": "Saving and investing for a goal with a highly ambiguous timeline?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd61w/saving_and_investing_for_a_goal_with_a_highly/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784324650,
-      "first_seen_utc": 1784325228
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzd61r",
-      "title": "I save each year to fund my Roth IRA on the first day of the new year - Is it best to put it into the market?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd61r/i_save_each_year_to_fund_my_roth_ira_on_the_first/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784324649,
-      "first_seen_utc": 1784325228
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1uzd2qb",
-      "title": "Good habits but bad planning?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1uzd2qb/good_habits_but_bad_planning/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784324417,
-      "first_seen_utc": 1784325228
     }
   ]
 }
