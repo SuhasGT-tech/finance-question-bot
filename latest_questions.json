@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-08-15T03:38:39.231874+00:00",
+  "generated_at": "2026-08-15T06:34:48.866978+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vov9dp",
+      "title": "Best brokerage for casuals?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vov9dp/best_brokerage_for_casuals/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786775035,
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661981015",
+      "title": "$TSLA Still unable to get to my short spot at 360, what a fucking weak stock, can you bulls pull your shit together and at least hit 360?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T06:04:16Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661981012",
+      "title": "$SPY https://x.com/TimHannan/status/2088250173763842363?s=20",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T06:04:01Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "661980984",
+      "title": "@Alpha_Instinct09 Tesla makes garbage cans on wheels, you don\u2019t think they copy things? $XPEV makes flying vehicles, they\u2019re ahead of $TSLA in that regard",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T06:01:31Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vourlz",
+      "title": "How do you guys get your bias before day trading BTC and ETH?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vourlz/how_do_you_guys_get_your_bias_before_day_trading/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786773399,
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661980591",
+      "title": "$BTC.X $MARA $MSTR $STRC  &quot;he says, gets built on stablecoins - not BTC. &quot;  \nhttps://x.com/Astra1Byte/status/2082528735287517249?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T05:15:40Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661980557",
+      "title": "$BTC.X $MARA $MSTR $STRC  July 29, 2026  \n&quot;..... small price moves distort what each side actually receives. the commercial layer for AI and everyday payments, he says, gets built on stablecoins - not BTC. \n \nMARA isn&#39;t buying the dip either. most miners are running at a loss right now, and thiel won&#39;t dilute shareholders to stack more coins onto the balance sheet. \n \nso where does the power go instead. AI. the same megawatt-hour that mines bitcoin can produce dramatically higher revenue running AI compute, according to thiel. \n \nhe is not calling bitcoin dead. he still frames it as a store of value, portable, outside the reach of central control, unless a government cuts the on-ramp to cash. \n \nmy read: the largest bitcoin miner on earth just told you where the money actually goes when the CEO stops needing to sound like a believer. \n \nthe man mining the coin doesn&#39;t have to be the man who trusts it as cash.&quot; - Astral  \nhttps://x.com/Astra1Byte/status/2082528735287517249?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T05:12:39Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1votxpo",
+      "title": "Is crypto slowly becoming TradFi?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1votxpo/is_crypto_slowly_becoming_tradfi/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786770582,
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661980422",
+      "title": "$SPY is data center water usage forcing large plant growers to use recycled water, contaminated with bacteria/parasites on the crops? \n\nIs this why all of America is shizzing themselves",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T05:00:22Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "661980419",
+      "title": "$BTC.X $MSTR $MARA $STRC  12 hours ago \nhttps://x.com/WatcherGuru/status/2088294681524277466?s=20",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:59:58Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661980348",
+      "title": "$QQQ $SPY But, at what cost? \ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:53:01Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661980181",
+      "title": "$SPY  $DJT    You cant win,  \n                      you Nazi Communist TRUMP assassination Haters. \n            7 failed assassination attempts,  you guys kinda S-U-C-K  at this. \nDid the CEO of Stocktwits, a known Trump hater, back your failed efforts?  \n                                            We want to know, NOW !!   \n \n                   Keep trying tho, as we Ring your NECKS of failure  \ud83d\ude03",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:36:45Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661979952",
+      "title": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;Trump said this too\u2026 lol. \n \n\u201cThe Strait of Hormuz is \u2018very clearly\u2019 under US control, former energy secretary says.\u201d \n \nIf Hormuz is under U.S. control, then why has the U.S. been trying for the past six months to get Iran to reopen it \u2014 and still hasn&#39;t succeeded?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:20:46Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661979948",
+      "title": "$NLST $MU $GOOG $SKHY $NVDA  \nFrom Litigation to Strategic Powerhouse: Netlist\u2019s 2025\u20132026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:20:23Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "661979725",
+      "title": "$SMCI $CSCO $NVDA $QQQ $NDAQ Will you buy the dip in SMCI (yes its a dip, look at the chart) or&quot;wait for confirmation&quot;. \n \nCisco at the time had MASSIVE regulatory, legal and media risks it had to unwind from. Bears and media were attacking it non stop.  \n \nThe only difference is their valued at $400B now on $1.2 EPS, and SMCI is valued at $25B on $1 EPS for FY27 and FY28 looks even better at around $1.5 EPS. \n \nWill you wait for shorts to cover or buy the dip? Realistically $170 share price is $110 b market cap, around 25% of what a company like Cisco is valued at with similar EPS. \n \nI comprised a list of the FUD Cisco went through when forming the pattern that SMCI just finished forming. \n \nBUY THE DIP! The setup is compelling here.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T04:04:38Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661979640",
+      "title": "$SPY $QQQ  \nhttps://www.youtube.com/watch?v=rPdJ0ATa8T4&amp;list=RDrW7pEXmkEcc&amp;index=3 \n@PivotPoint_101  \n \nBullish on the Team!",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T03:58:55Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "661979541",
+      "title": "$DJIA $QQQ $BTC.X $SPY $DIA so YOU\u2019ve witnessed this and still love God? YOU must be obsessed with the Y chromosome if ya know what I mean.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-15T03:52:33Z",
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vosgab",
+      "title": "Is 1m and dividends from it enough?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vosgab/is_1m_and_dividends_from_it_enough/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786765912,
+      "first_seen_utc": 1786775688
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -239,7 +437,7 @@
       "id": "661976667",
       "title": "$BTC.X $NASDAQ $TSLA Are you sure you don&#39;t want to joing the bulls eh bears? \ud83d\ude0f",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-15T01:34:50Z",
       "first_seen_utc": 1786765119
@@ -1013,6 +1211,28 @@
       "num_comments": 0,
       "created_utc": 1786728689,
       "first_seen_utc": 1786742684
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vod26n",
+      "title": "Explanation for Roivant Sciences (Symb ROIV) bull or bear case?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vod26n/explanation_for_roivant_sciences_symb_roiv_bull/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786727159,
+      "first_seen_utc": 1786775688
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vocvt7",
+      "title": "What\u2019s a stock you changed your mind about recently, and why?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vocvt7/whats_a_stock_you_changed_your_mind_about/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786726786,
+      "first_seen_utc": 1786775688
     },
     {
       "source": "reddit",
@@ -54781,226 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1784685374,
       "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v2z4pf",
-      "title": "Why are agency MBS Spreads Tightening for Fannie, Freddie and Ginnie?",
-      "url": "https://www.reddit.com/r/investing/comments/1v2z4pf/why_are_agency_mbs_spreads_tightening_for_fannie/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784677042,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1v2w0ev",
-      "title": "Did the World Cup temporarily suck liquidity out of semiconductor stocks?",
-      "url": "https://www.reddit.com/r/stocks/comments/1v2w0ev/did_the_world_cup_temporarily_suck_liquidity_out/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784669598,
-      "first_seen_utc": 1784786173
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v2uy22",
-      "title": "IRA maxed yearly to offset income for tax purposes, deposited to Fidelity account. What do I do with it once the money is in my account?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v2uy22/ira_maxed_yearly_to_offset_income_for_tax/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784667211,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1v2uxp2",
-      "title": "Standard Nuclear potential?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1v2uxp2/standard_nuclear_potential/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784667188,
-      "first_seen_utc": 1784824116
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1v2smsx",
-      "title": "Realistic sizing in dollars on a per contract basis for a scalping strategy?",
-      "url": "https://www.reddit.com/r/options/comments/1v2smsx/realistic_sizing_in_dollars_on_a_per_contract/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784662175,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v2n9bj",
-      "title": "Has anyone mapped out the scale and extent of circular investement in AI tech?",
-      "url": "https://www.reddit.com/r/investing/comments/1v2n9bj/has_anyone_mapped_out_the_scale_and_extent_of/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784650975,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1v2mmd3",
-      "title": "Do you actually track weekend time decay in your options positions?",
-      "url": "https://www.reddit.com/r/options/comments/1v2mmd3/do_you_actually_track_weekend_time_decay_in_your/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784649615,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v2m6il",
-      "title": "Should I transfer 529 to student now that they are in grad school",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v2m6il/should_i_transfer_529_to_student_now_that_they/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784648670,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v2kqss",
-      "title": "Do you know what you are getting into? Really?",
-      "url": "https://www.reddit.com/r/investing/comments/1v2kqss/do_you_know_what_you_are_getting_into_really/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784645620,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v2ifsf",
-      "title": "Has anyone else been paying attention to the rise of 24/7 equity trading?",
-      "url": "https://www.reddit.com/r/investing/comments/1v2ifsf/has_anyone_else_been_paying_attention_to_the_rise/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784640412,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v2i0ub",
-      "title": "Should I pursue my degree concentration or landscaping/irrigation?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v2i0ub/should_i_pursue_my_degree_concentration_or/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784639438,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v2fe1h",
-      "title": "What happens when the 'bond vigilantes' return?",
-      "url": "https://www.reddit.com/r/investing/comments/1v2fe1h/what_happens_when_the_bond_vigilantes_return/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784632363,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v2f9j9",
-      "title": "Is my pension lump sum wrong?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v2f9j9/is_my_pension_lump_sum_wrong/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784631981,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1v2ep1x",
-      "title": "Does selling covered calls really limit your upside?",
-      "url": "https://www.reddit.com/r/options/comments/1v2ep1x/does_selling_covered_calls_really_limit_your/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784630255,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v28uiv",
-      "title": "How climate change will impact investment across sectors in markets. Can you give me a perspective how are we modelling for climate change in our financial model and valuation?",
-      "url": "https://www.reddit.com/r/investing/comments/1v28uiv/how_climate_change_will_impact_investment_across/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784610462,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v271dh",
-      "title": "How much should I focus on my individual brokerage vs contributing to my 403b/457?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v271dh/how_much_should_i_focus_on_my_individual/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784605019,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1v23laz",
-      "title": "32M / 34F with ~$3M Net Worth, $900k household income, two young kids \u2014 what are our blind spots?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1v23laz/32m_34f_with_3m_net_worth_900k_household_income/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784595484,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1v21dsn",
-      "title": "Breakeven price?",
-      "url": "https://www.reddit.com/r/options/comments/1v21dsn/breakeven_price/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784589638,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v1v5pm",
-      "title": "32 years old, \u20ac11k/month net + ~\u20ac150k annual bonus. How would you structure long-term investing?",
-      "url": "https://www.reddit.com/r/investing/comments/1v1v5pm/32_years_old_11kmonth_net_150k_annual_bonus_how/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784575136,
-      "first_seen_utc": 1784770624
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1v1lqle",
-      "title": "How to get over the emotional aspect of sinking funds",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v1lqle/how_to_get_over_the_emotional_aspect_of_sinking/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784554487,
-      "first_seen_utc": 1784556122
     }
   ]
 }
