@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-16T03:47:47.809550+00:00",
+  "generated_at": "2026-08-16T06:37:03.952194+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1vpphzj",
+      "title": "Earning Well at 20 but Still Saving Almost Nothing \u2014 Where Is My Money Going?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vpphzj/earning_well_at_20_but_still_saving_almost/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786861569,
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662004195",
+      "title": "$SPY Iran warning USA and we aren\u2019t bombing the shit out of Iran? Did we really run out of ammunitions ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-16T05:51:25Z",
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662003998",
+      "title": "$SPY Anyone else listening to Amish rap right now? \ud83e\udd42",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-16T05:25:46Z",
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vpo2np",
+      "title": "Should I sell my car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vpo2np/should_i_sell_my_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786856786,
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662003769",
+      "title": "$SPY $SPCX A good listen. If you can&#39;t do the whole thing, check out 50:00 onward. \nhttps://youtu.be/0z_W7S1XmL0?si=ncQoivhBeRdX5bGU",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-16T04:54:41Z",
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662003518",
+      "title": "$SPY How do you keep the belt when you just Humped a guy the whole time and your face looks like a wreck and his is perfect?\ud83e\udd37\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-16T04:21:13Z",
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662003237",
+      "title": "$QQQ ~ What happens to Life Insurance and Pensions If (when) AI infrastructure Bubble bursts? $SPY $NVDA $NBIS $CRWV",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-16T03:50:51Z",
+      "first_seen_utc": 1786862223
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -224,6 +301,28 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vpkafe",
+      "title": "How do I find a roommate?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vpkafe/how_do_i_find_a_roommate/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786845057,
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1vpk5gp",
+      "title": "Does the Iran war still have the capacity to impact global stock indices?",
+      "url": "https://www.reddit.com/r/investing/comments/1vpk5gp/does_the_iran_war_still_have_the_capacity_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786844649,
+      "first_seen_utc": 1786862223
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1vpk4g2",
       "title": "Buy house or keep saving?",
@@ -243,6 +342,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-16T01:30:31Z",
       "first_seen_utc": 1786852067
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1vpjvdt",
+      "title": "Are my Financial Boundaries Abusive?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1vpjvdt/are_my_financial_boundaries_abusive/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1786843796,
+      "first_seen_utc": 1786862223
     },
     {
       "source": "reddit",
@@ -811,7 +921,7 @@
       "id": "661996066",
       "title": "$TSLA The Slow-Compounding Engine vs. The $0 Rollercoaster \n \nMost retail traders hunt for that one massive trade to erase months of losses. Instead, they get hit by another massive loss that wipes out all their recent small wins. \n \n\ud83d\udcacIs it possible to turn $1K into $20K or $30K? Yes. \n \nIs it going to happen by flipping $1K \u2794 $3K \u2794 $8K on continuous all-in bets? NO. \n \nHere are the two paths. Choose wisely: \n \n\u2705Option A: The &quot;Vehicle &amp; Vault&quot; System \n \nTreat your trading account like a vehicle to fund a non-trading vault (bank account). \n \n1. Establish your base: Say, $1,000. \n \n2. Hit a milestone: You take steady setups and build the account to $1,300. \n \n3. Pay yourself: Instantly withdraw $200 into your non-trading vault. You\u2019ve locked in real money and still have a $1,100 buffer. \n \n4. Rinse and repeat: At $1,400, pull another $200. Now you have $400 sitting safely in cash, while your trading base is growing.",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-15T20:27:28Z",
       "first_seen_utc": 1786828850
@@ -1053,7 +1163,7 @@
       "id": "661992905",
       "title": "$AAPL heard stock options trading hours is going to change from Monday .. is it true?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-15T18:05:51Z",
       "first_seen_utc": 1786818371
@@ -54891,116 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1784818239,
       "first_seen_utc": 1784824116
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1v4fsew",
-      "title": "Investing while in college/graduating with student loans?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v4fsew/investing_while_in_collegegraduating_with_student/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784817458,
-      "first_seen_utc": 1784824116
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1v4flta",
-      "title": "How to invest newly funded Roth?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v4flta/how_to_invest_newly_funded_roth/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784817061,
-      "first_seen_utc": 1784824116
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1v4ek9g",
-      "title": "Alphabet\u2019s AI spend is turning into a free-cash-flow debate. Healthy investment or margin warning?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1v4ek9g/alphabets_ai_spend_is_turning_into_a_freecashflow/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1784814749,
-      "first_seen_utc": 1784824116
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "659816827",
-      "title": "$TSLA anyone have book maps? We&#39;re are some key buy walls?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:48:47Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "659816810",
-      "title": "$SPY jesus fucking god i went puts at open and this shit pumped. Now switched to calls then this shit dumped? Wtfff why is my life like this fucking christ",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:48:43Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "659816797",
-      "title": "$TSLA where are those software margins now?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:48:41Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "659816573",
-      "title": "$TSLA so no bottom?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:47:45Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "659816111",
-      "title": "$SPCX was yesterday the shake down or one more flush?? $SPY trying to grind will help this #MarketTrade  Next level on SPCX for support 112 110 area if we get there!! $SPY flushed everything moving lower",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:45:51Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "659816002",
-      "title": "$SPY calls have barely budged. No one believes in the pump?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:45:22Z",
-      "first_seen_utc": 1784814787
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "659815979",
-      "title": "$NVDA Why is this down?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-23T13:45:14Z",
-      "first_seen_utc": 1784814787
     }
   ]
 }
