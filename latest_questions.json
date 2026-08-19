@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-19T06:40:45.882539+00:00",
+  "generated_at": "2026-08-19T09:32:46.916813+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662250359",
+      "title": "$GDC Should I cover now or see if it drops?  \n \n$SPY $SPCX $TSLA $AMC",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T09:23:27Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662250072",
+      "title": "$SPY how to succeed in business? resources? $NVDA $GOOGL $SNDK",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T09:11:48Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "662249895",
+      "title": "$AAPL Chance we see 400 this year?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T09:05:04Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662249452",
+      "title": "$SPY $SNDK What are the poors doing? $NVDA $GOOGL",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T08:43:46Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vsgbft",
+      "title": "What would you do to turn a small settlement into something I can live off?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vsgbft/what_would_you_do_to_turn_a_small_settlement_into/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787127632,
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "662248706",
+      "title": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n\ud83e\udd23",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T08:08:07Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vsfs80",
+      "title": "Mortgage Program - what is the catch?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vsfs80/mortgage_program_what_is_the_catch/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787125773,
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662248339",
+      "title": "$SPY I mean what you want me to do about it? $META $NVDA $BTC.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T07:45:05Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "662248135",
+      "title": "$AAPL $SPY $QQQ This will flop - why a foldable iphone? Just get an regular iphone and an ipad. Apple users can definitely afford to!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T07:28:53Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662247774",
+      "title": "$NVDA\n\nFT is reporting that China has started easing import limits on NVIDIA\u2019s H200 chips.\n\nByteDance and Tencent have each received about 10,000 units recently.\nThe U.S. had already approved the sales, but Chinese import approvals were the bottleneck.\n\nLooks like Beijing is trying to balance AI demand with support for domestic chips.\n\nCould this open the door to more NVIDIA shipments into China?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T07:07:19Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662247673",
+      "title": "$TSLA about time. \n\nhttps://x.com/robotaxi/status/2089899077496631518?s=61",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T07:03:02Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662247579",
+      "title": "$BTC.X $DJT $SPY  $MSTR \n\nWhen will the mud and straw be ushered in?\n\n5-10 yrs?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-19T06:58:34Z",
+      "first_seen_utc": 1787131966
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vsem27",
+      "title": "How to allocate funds from sinking fund?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vsem27/how_to_allocate_funds_from_sinking_fund/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787121661,
+      "first_seen_utc": 1787131966
+    },
     {
       "source": "stocktwits",
       "symbol": "TSLA",
@@ -107,7 +250,7 @@
       "id": "662246436",
       "title": "$SICP Yes, Silvergate LIVES!! \nMore than a bit of upside on tap.\n\nShorts thought Shares were gonna be delisted.\nDoh!\n\nHow many are shorted/naked shorted again????\n\nWon\u2019t matter if $SPY $QQQ $DIA $BTC.X runs or falls. Silvergate gets to rise from the ashes like the Phoenix!\n\nDo your own due diligence of course.",
       "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-08-19T05:38:12Z",
       "first_seen_utc": 1787121645
@@ -136,11 +279,11 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "TSLA",
       "id": "662246087",
       "title": "$KLAR \n\nTrending \ud83e\udd48\nWatchers \ud83e\udd47\nMost Bullish \ud83e\udd48\n\nDoesn&#39;t that look great?\n\n$NVDA $SPCX $TSLA $MSFT",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-19T05:16:28Z",
       "first_seen_utc": 1787121645
@@ -452,6 +595,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-19T02:40:49Z",
       "first_seen_utc": 1787111169
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vs9uvu",
+      "title": "Would it be a dumb move to borrow 1.5k from 401k?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vs9uvu/would_it_be_a_dumb_move_to_borrow_15k_from_401k/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787107086,
+      "first_seen_utc": 1787131966
     },
     {
       "source": "stocktwits",
@@ -54847,160 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-07-26T14:07:37Z",
       "first_seen_utc": 1785081726
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660036091",
-      "title": "$TSLA  https://www.youtube.com/watch?v=B6PVM0BUPQI",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T14:05:21Z",
-      "first_seen_utc": 1785081726
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660035727",
-      "title": "$AAPL  can you believe this is Houston Texas?",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T13:46:53Z",
-      "first_seen_utc": 1785081726
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1v73qd4",
-      "title": "do you need an ID for the discounted ebt prices for the Denver zoo?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1v73qd4/do_you_need_an_id_for_the_discounted_ebt_prices/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785072002,
-      "first_seen_utc": 1785081726
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660035013",
-      "title": "$MU so a former Trillionaire stops $TSLA conference call to mention $MU , and people are still bearish on Memory? Bears? \n \n$WDC $STX $SNDK",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T13:09:43Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660034999",
-      "title": "$MSTR $BTC.X  \n \nYou guys sure this is the bottom.?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T13:09:14Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660034933",
-      "title": "$NVDA Why is jensen always going to south korea and taiwan? Infidelity? Is wife is not exactly a looker btw",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T13:06:03Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "660034932",
-      "title": "$SPY \n\nNot one drop of oil flowed through the strait and yet dummies are selling oil?? \n\nNa, situation has got worse over the weekend. \n\nBab al Mandeb now closed and Saudi/Houthis are at it",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T13:06:01Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1v733in",
-      "title": "How do I get out of gambling debt?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1v733in/how_do_i_get_out_of_gambling_debt/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785070378,
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1v72nzz",
-      "title": "For a Roth 401k, are matches also Roth or traditional?",
-      "url": "https://www.reddit.com/r/investing/comments/1v72nzz/for_a_roth_401k_are_matches_also_roth_or/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785069231,
-      "first_seen_utc": 1785081726
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660034214",
-      "title": "$SMCI $SPCX Quite simple to explain that too, the market does this to any stock worth buying. DELL was charged for accounting fraud, SMCI has not but is being treated as though it was??? \n \nDELL was accumulated during their accounting fraud days, there has been no word on SMCI&#39;s investigation for over 2 years. They dont report that nothing was found, only if there is something material to report, otherwise you would have so many SEC reports about not finding anything for hundreds of companies. Given the time this &quot;investigation&quot; has been going on, its likely not even still happening, given SMCI is working with authorities and is not a defendant in the smuggling charge, if the investigation returned that they may have been deemed responsible they would have been a defendant. \n \nThe market just likes to make a big deal out of something that isnt even a thing. This usually happens during accumulation. \n$NVDA went through it, Jensen was hated, $AMZN and even $META.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T12:28:13Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660034199",
-      "title": "@LookAhead @DaveTrades Quite simple to explain that too, the market does this to any stock worth buying. DELL was charged for accounting fraud, SMCI has not but is being treated as though it was??? \n \nDELL was accumulated during their accounting fraud days, there has been no word on SMCI&#39;s investigation for over 2 years. They dont report that nothing was found, only if there is something material to report, otherwise you would have so many SEC reports about not finding anything for hundreds of companies. Given the time this &quot;investigation&quot; has been going on, its likely not even still happening, given SMCI is working with authorities and is not a defendant in the smuggling charge, if the investigation returned that they may have been deemed responsible they would have been a defendant. \n \nThe market just like to make a big deal out of something that isnt even a thing. This usually happens during accumulation. \n \n$NVDA went through it, Jensen was hated, $AMZN and even $META.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T12:27:10Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660034071",
-      "title": "@Humble_Mozzarella Hard to say given most QC firm roadmap is until 2030. If 2030 is truly the utility scale &quot;ding&quot; moment, expect an $NVDA or $SNDK type of rise amongst QC firm that acheived fault tolerant utility scale before moving to a baseline type of price movement. As for what kind of stock price specifically we would say? hard to say. Euphoric level? definitely.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T12:18:30Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660033905",
-      "title": "$TSLA I can&#39;t see Tesla or SpaceX helping or saving one another. Two big fat overvalued entities that only benefit early investors and executives. Does the world really need more Tesla cars? And do we need(or even want...to go to Mars?) And how long will the U.S. government be friendly to both of these monsters? It seems like Tesla is such old news. Buying a Tesla now? May as well get a Hummer II. And SpaceX?. There in no way in God&#39;s creation this company would ever be legitimately profitable.",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T12:05:03Z",
-      "first_seen_utc": 1785071887
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660033889",
-      "title": "$MSTR \n\nIs $70 next?\n\n$BTC.X \n\nI still believe bitcoin will drop to $35K.  And remain at that price or lower until the final nail in its coffin which is a huge price reset permanently.  Here\u2019s one of the reasons why.  Bitcoin relies on a pyramid scheme.  The price depends on the next risk taker to buy at historically higher prices the same coin that early investors bought less than $1 buck.  It worked out for them they are the millionaires and billionaires that need new buyers to support their investments so they hold forever!  They have a problem over the horizon.\n\n\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\n\nThe CEO of MARA has been saying for years that bitcoin\u2019s time as money or currency for transactions is over.  Stable coins are much better and they are extremely cheap compared to the cost of an old past its prime dinosaur \ud83e\udd95 coin.",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-26T12:03:16Z",
-      "first_seen_utc": 1785071887
     }
   ]
 }
