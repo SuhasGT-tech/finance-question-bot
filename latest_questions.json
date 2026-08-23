@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-23T06:37:45.256376+00:00",
+  "generated_at": "2026-08-23T09:26:46.339987+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vw28ac",
+      "title": "Was I hacked?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vw28ac/was_i_hacked/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787475991,
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633958",
+      "title": "$VTIP $SPY $DIA $QQQ $VTI \n&#39;IN MAY 2026 SK Hynix and Micron accounted for 17% of all growth in the entire global stock market. *based on the MSCI All Country World Index.\n\nThis is a complete argument why you should not be banking on Exchange Traded Funds/Index Funds as a way to hedge against losses when the AI bubble pops.\n\nWhile nomally these diversified vehicles offer the best risk/reward for casual investors, the current weight of these tech giants and chip makers puts them in an awkward place.  \n\nOutside of Energy and AI related Tech,  most of the market&#39;s returns largely have been flat to negative.  These indexes are already being floated by over-enthusiastic tech valuations.\n\nWhen the bubble pops, these Index Funds/ETF&#39;s are going to get hammered from both ends.  There is no safe haven as the risk of U.S. default on debt is becoming more plausible, hence the bond market drama.\n\nhttps://m.youtube.com/watch?v=wTiYaWFP59Q&amp;t=1824s&amp;pp=2AGgDpACAQ%3D%3D",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:59:24Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662633785",
+      "title": "$BTC.X What happens in this case?\n\nhttps://youtu.be/mLPzQYq7lko?si=JOzowhQSaN_LNCxd",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:27:48Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633719",
+      "title": "$SPY $QQQ Trump may cause the bond market to want back their 31.5T in loans. Trump can&#39;t print 31.5T. That would create hyper inflation. You would need a wheel barrow of notes to buy bread or milk. Central banks can&#39;t fix that easily. Does Trump want to crash the whole US economy by declaring war with the bond market? He can&#39;t turn back now. He&#39;s done the damage. A threat the bond market won&#39;t likely ignore.  They are known for being unforgiving. It&#39;s why you don&#39;t mess with the bond market. Sorry won&#39;t fix this. I could never have imagined or thought possible Trump would literally declare war with the bond market. I thought he wouldn&#39;t be this risky and stupid.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:17:16Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633679",
+      "title": "$SPY $QQQ What has Trump done by declaring war with the bond market. Does he want to crash the US economy. Tariff liberation 2.0 was stopped because of the bond market. They are that powerful. Now he thinks he can declare war and that the bond market does nothing. What&#39;s wrong with him. Has he never learned to not touch fire or else you gey burned? WTF has he done. He&#39;s messing with the wrong people. Even Russia and China know not to interfere. For goodness sakes.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:08:36Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662633673",
+      "title": "$TSLA Robots Robots Robots \nChinese robots are beating Usain Bolt&#39;s 100M record and doing all kinds of weird and wonderful stuff On the TV for all to see. \nSo is America trying to steal their IP? \nAaah wait, Tesla has this fantastic robot that absolutely no-one has seen, It lives in Elon&#39;s head together with all the other BS promises.......",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:07:38Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633648",
+      "title": "$SPY $QQQ $INOD  \n \nDoesn&#39;t Trump realise, China, Russia, Iran and even North Korea and all governments globally never interfere with the bond market. They borrow, they listen and follow instructions. It&#39;s always worked. To threaten the bond market is financial suicide. It&#39;s never happened. No one in their right mind would do that? It&#39;s dangerous for the economy and the people. It&#39;s one thing having a war with Iran but totally another declaring a war with the bond market. Trump is the only president and only government administration that has declared war with the bond market. Even Hitler never touched the global bond market. What is he thinking?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T08:03:36Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633616",
+      "title": "$SPY $QQQ $INOD  \n \nRetail doesn&#39;t touch the bond market. They know not to touch. Governments know not to interfere. Or threaten. China, Russia and even Iran wouldn&#39;t touch the bond market. North Korea wouldn&#39;t cyber attack the bond market. Even in world war 2, the bond market wadn&#39;t touched or interfered with. Everyone in the finance world doesn&#39;t mess with the bond market. The most powerfull entity and market on the planet. Don&#39;t touch. Don&#39;t interfere. Don&#39;t threaten. Bond market can impact the whole global financial system. No one fucks with the bond market. Here comes Trump and says to the bond market, I am more powerful than you. I have a military. I can intervene. Who does that? Now he may find out what he has woken up \ud83d\ude2c",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T07:58:04Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633572",
+      "title": "$SPY $QQQ $INOD  \n \nTrump telling the bond market he&#39;s more powerful than the bond market because he has a military is the wrong move. The bond market doesn&#39;t need a military to show whose boss. Having military doesn&#39;t make you more powerful. As the saying goes, &quot;money talks.&quot; Trump thinks telling the bond market he&#39;s the boss and not them is a mistake because the bond market now has to show Trump whose the real boss or else other governments may take advantage. He forgot he had to end tariff liberation 2.0 because of the bond market. Now he will find out whose boss. Seriously, the worst people to piss off is the bond market. Is Trump this dumb?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T07:51:28Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633301",
+      "title": "$SPY $QQQ $INOD  \n \nTrump can&#39;t win the war against the bond market. So stupid to have a war with the bond market. No government or institutiin would dare to instigate a war with the most powerful market on the planet. A market that coukd crash any economy. Even China or Russia know not to touch the bond market. Trump on the other hands wants to try. How can he win when the US has 40.1T in debt and a 1.3T in repayments? \ud83e\udd26\u200d\u2642\ufe0f It&#39;s an automatic loss for Trump. This is worse than the Iran war. Even Iran knows this. \n \nhttps://www.telegraph.co.uk/business/2026/08/23/trump-is-in-another-unwinnable-war-this-time-with-the-bond/",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T07:14:06Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633204",
+      "title": "$SPY $QQQ $INOD  \n \nBrent closed on Friday at 94 USD. 6 dollars away from 100 USD. \nDo we see brent fall below 90 or head to 100 this week?  \nBonds isn&#39;t the only game in town this week. Oil is as well. No one or the market wants to see brent at 100 or higher. Equities will react.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T07:01:11Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1vvzybw",
+      "title": "What\u2019s the most unconventional way you\u2019ve ever stacked Bitcoin?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vvzybw/whats_the_most_unconventional_way_youve_ever/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787468050,
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633157",
+      "title": "$SPY $QQQ $INOD  \n \nDo we see this week, maybe even on Monday the US 10 year at 4.8%? It&#39;s only 64 basis points away from 4.8%. \nDo we see this week, maybe even on Monday the US 30 year at 5.33% or higher? It&#39;s only 54 basis points away from 5.33%. \nHow will the market react to the US 10 year at 4.8% or higher and the US 30 year at 5 33% or higher? \nThis Wednesday is the PCE report and Friday is Jackson hole event.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:53:23Z",
+      "first_seen_utc": 1787477206
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662633151",
+      "title": "$DJT $SPY $DIA $QQQ $VTI \n\nPossibly the worst possible endorsement:\n\n\u2018I\u2019m on the ballot\u2019: Trump lends a hand to struggling Darline Graham\n\nHow unpopular is Donald Trump?\n\n&quot;The president&#39;s net approval rating is -26, down 0.4 points since last week. 35% approve, 61% disapprove, 4% not sure&quot;\n\nAn endorsement from Trump is guaranteed to tank this neoptistic bid at attempting to cling to power.  The leadership in this country needs to be removed, wholesale.\n\nhttps://www.economist.com/interactive/trump-approval-tracker\n\nhttps://www.politico.com/news/2026/08/21/ballot-trump-darline-graham-01046646",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:52:39Z",
+      "first_seen_utc": 1787477206
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -129,10 +283,21 @@
       "id": "662632097",
       "title": "$NVDA So couple of  points for shorties have to think about\u2026. 1) How much will Nvda beat the\neps, revenue &amp; what is the free cashflow?\n\n2) How much will be the buyback? \n3) Size of future booked orders? \n4) How does  Vera Reuben ramp up in revenue looks like? \n\nBtw, Jensen has guided very positively on all 4 pts\u2026We could see the biggest share price increase post eps..",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 3,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-08-23T04:36:30Z",
       "first_seen_utc": 1787467065
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vvxer9",
+      "title": "Money illiterate and wondering how I should go about my monies, advice?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vvxer9/money_illiterate_and_wondering_how_i_should_go/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787459520,
+      "first_seen_utc": 1787477206
     },
     {
       "source": "stocktwits",
@@ -342,6 +507,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-23T01:53:22Z",
       "first_seen_utc": 1787457044
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vvu6ve",
+      "title": "Santander car loan question? I thought I was paying extra and literally just paid $13 towards principal out of $169 total payment?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vvu6ve/santander_car_loan_question_i_thought_i_was/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787449647,
+      "first_seen_utc": 1787477206
     },
     {
       "source": "stocktwits",
@@ -54825,182 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-07-30T10:51:13Z",
       "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660431952",
-      "title": "$TSLA rotation starts?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T10:34:17Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vapsbe",
-      "title": "Stay with Wealthfront or move to Fidelity?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vapsbe/stay_with_wealthfront_or_move_to_fidelity/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785407291,
-      "first_seen_utc": 1785419688
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660431440",
-      "title": "$TSLA lmao 311? Ok let\u2019s touch base eod",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T10:20:27Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vapi53",
-      "title": "Girlfriend can no longer work, what\u2019s the best way to lower my car loan?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vapi53/girlfriend_can_no_longer_work_whats_the_best_way/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785406367,
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660430575",
-      "title": "$RIVN Who are the most likely buyers for $RIVN?  Would they be $GOOGL holders? $TSLA holders? $AAPL investors? Who do you think would be interested?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T09:50:44Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660430528",
-      "title": "$MSFT $META $AMZN $AAPL $HOOD if you\u2019re playing earnings, this is a good watch:\n\nhttps://youtu.be/dG1VlZ6NCGQ?si=f5X_AFZhac1DIIHJ",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T09:48:29Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1vaoi27",
-      "title": "Take a good, hard look in the mirror: Did you sell TGT in 2025?",
-      "url": "https://www.reddit.com/r/dividends/comments/1vaoi27/take_a_good_hard_look_in_the_mirror_did_you_sell/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785403007,
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660429814",
-      "title": "$NVDA you missed this boom? That&#39;s almost impossible, but don&#39;t worry, you can still invest now!  \nOh wait you&#39;re already a bag holder? Ouch",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T09:16:02Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1vaoac4",
-      "title": "I\u2019m 27 and want to earn a decent wage without working for a boss. But my crippling anxiety makes me feel trapped and hopeless. Anyone else?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1vaoac4/im_27_and_want_to_earn_a_decent_wage_without/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785402273,
-      "first_seen_utc": 1785465126
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660429467",
-      "title": "$BTC.X $MSTR $ETH.X $XRP.X \nWhat happened? did London actually brew a decent cup of coffee for breakfast?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T08:59:15Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660429393",
-      "title": "$AAPL  ER will be a beat and successful imo. \n \nHowever, will the hedgies run for the hills after?  This is going up just to inverse semi/AI.   Semi/ai is extremely low right now.   They could bail even if earnings is extremely good.",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T08:56:01Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660429219",
-      "title": "$SOUN Honest take. \n\nI do not hope for it  - BUT\u2026.\n\nI think $AAPL will buy $SOUN.\n\nApple bought Siri in 2010 and the are a Hardware company. \n\nRight now they are dependent on Gemini / is that a future strategy? \n\nThey have 150 Billion sitting in cash\u2026.",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T08:49:20Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660429013",
-      "title": "$DJT Another IDiot republican former AG Barr  wrote in Washington Post on Wednesday that was coauthored by Kevin Sabet, CEO of the prohibitionist organization Smart Approaches to Marijuana\n\nSaying Weed has no medical benefits \ud83d\ude06 Well how about alcohol tobacco who are legal Do they have medical Benefits ? none they are bad for our health \ud83d\ude06\n\nI atest base on my personal experience Weed has lots of medical benefits... helping you sleep like a baby with indica strain of weed GOOD enough to make weed legal... Anything that you use excessively is bad for your health Anything \ud83e\udd73\n\nDo you know that if you take weed brownies at the right dose even help your sexual desire with hard erection ... It makes you relax and help you in your relaxation routine. how about CBD have much benefit joint back pain and makes you feel relax. \n\nweed if legal will eat the lunch of pharma alcohol opium These corrupt politicians like to  protect. $AAPL $GOOGL $CRON $TSLA",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T08:38:51Z",
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vankip",
-      "title": "How to budget 250 a week i receive for a training course, if im 18 and life with my parents",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vankip/how_to_budget_250_a_week_i_receive_for_a_training/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785399744,
-      "first_seen_utc": 1785409666
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "660428406",
-      "title": "$SPY when nightmare over?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T08:13:53Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660427985",
-      "title": "$SPCX $RKLB $TSLA \n\nNo big deal  right bears??\n\nhttps://www.investing.com/news/stock-market-news/spacex-secures-16bn-space-force-contract-for-18-launches-93CH-4822199",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:50:47Z",
-      "first_seen_utc": 1785399795
     }
   ]
 }
