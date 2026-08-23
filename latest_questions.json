@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-08-23T03:50:44.734136+00:00",
+  "generated_at": "2026-08-23T06:37:45.256376+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662633029",
+      "title": "$GME $BTC.X you want people to take you seriously? Lmfao.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:33:46Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662633025",
+      "title": "$GME $BTC.X this guy is a gamestop fan boy. Grow up kid. Still holding this trash?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:33:05Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662632956",
+      "title": "$SOXL $SOXS $TQQQ $SQQQ $SPY  \n \nEven mobile phones are Linux phones! \n \nhttps://youtu.be/WNsGL4AQlZ4?si=LV4GYQ2g78K9MrH8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:20:16Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662632922",
+      "title": "$btc.x $mstr $eth.x $xrp.x\nhttps://youtube.com/watch?v=8iKGtHB8Gdw&amp;si=Yd6gG-7MXkbR92Cc",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:14:25Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662632919",
+      "title": "$SOXL $SOXS $TQQQ $SQQQ $SPY  \n \nIf you switch your operating system to Linux, you don&#39;t need high-spec RAM! \n \nhttps://youtu.be/1oIyk13JwQM?si=F-c5VnKJFiPhYbHr",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:14:12Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662632891",
+      "title": "$BTC.X Oh, really? You weren&#39;t saying that last week.\ud83e\udd21 \n \nYou want to buy back at a lower price \ud83e\udd21\ud83e\udd21\ud83e\udd21",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T06:09:28Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662632697",
+      "title": "$SPY fuck these bloated data centers AI stocks.  China actually is building something tangible.  The rest of the ai here is all hype to make filthy rich people richer before they cash out.   \nhttps://youtu.be/bf9u52337Z0?is=CjfOJ_pqgYsvJgrY",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T05:41:55Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662632598",
+      "title": "$SPY $NVDA so they are gonna raise prices of servers by 15% while everybody hates datacentres and the chinese models are becoming more popular everyday? Why is this supposed to be bullish?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T05:28:06Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662632401",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA You can&#39;t be worse than Bookrunner. Why do you keep trying?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T05:06:19Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "662632370",
+      "title": "$DIA $SPY $QQQ $BTC.X $DJIA Are they all waiting for YOU to do a magic trick? https://youtu.be/NIqH6rrmqh0?is=8EA94eyTAxb67zFM",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T05:03:32Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662632129",
+      "title": "Nvidia hikes AI server prices by 15%+ for some major customers bro\nThat&#39;s fkn bullish bro\nIt sounds bearish right? think again bro\nMemory prices jumped from $2 to $20 bro \nLook at MU and Hynix stock price bro\nthey&#39;re up 1000% bro\nHiking 15% means a 15% up bro\nYou think it&#39;s a nonsense bro? You&#39;re fkn wrong bro \ntrust me bro \ni&#39;m not joking bro\n\n$QQQ $SPY $NVDA $MU $SKHY",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T04:39:14Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662632097",
+      "title": "$NVDA So couple of  points for shorties have to think about\u2026. 1) How much will Nvda beat the\neps, revenue &amp; what is the free cashflow?\n\n2) How much will be the buyback? \n3) Size of future booked orders? \n4) How does  Vera Reuben ramp up in revenue looks like? \n\nBtw, Jensen has guided very positively on all 4 pts\u2026We could see the biggest share price increase post eps..",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T04:36:30Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662631836",
+      "title": "$NVDA do u realize u are a little desperate to scare people away from nvda?\nNvida is going to be just fine so don\u2019t worry too much\ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T04:08:03Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662631773",
+      "title": "$SPY $DJT $TSLA Who pays for the tariffs? The other countries or the importers in the US?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T04:02:48Z",
+      "first_seen_utc": 1787467065
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662631745",
+      "title": "$TSLA  \ud83d\uded1\ud83d\uded1\ud83d\uded1\ud83d\uded1\ud83d\uded1\ud83d\uded1\ud83d\uded1\ud83d\uded1I hear both racist calling each other. This both races. Let me tell you something and somebody calls me this word. I\u2019m gonna drop them right where they stand and they\u2019re gonna be taking away in a body baggggggg.  People tell me it\u2019s just a normal every day. Word both races use us as you kidding me. What kind of drugs are you taking??  He laughed and walked away.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-23T04:01:30Z",
+      "first_seen_utc": 1787467065
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -184,7 +349,7 @@
       "id": "662629262",
       "title": "$TSLA 1 or 2 moar MNDY Thursday \ud83d\udc11 s?  Druck wud say oink oink.  \n\n\u2764\ufe0f\ud83d\udc51\ud83c\udf08\ud83e\udd84",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-08-23T01:25:19Z",
       "first_seen_utc": 1787457044
@@ -602,7 +767,7 @@
       "id": "662624641",
       "title": "$AIXI Even though TJ claims the opposite, I am way ahead on $AIXI , since I originally got in at .14 on 4/2/2026. If you&#39;re ahead, I would not sink any money in this company, as fighting $AAPL will not win, IMO. IDK why $AAPL just doesn&#39;t buy $AIXI ? Pennies for $AAPL . To make an example of $AIXI ?",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-08-22T21:57:09Z",
       "first_seen_utc": 1787447328
@@ -54835,171 +55000,6 @@
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-07-30T07:50:47Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "660427937",
-      "title": "$SPY warsh: &quot;our #1 priority is to FIGHT INFLATION. There won&#39;t be any inflation on THIS crew&#39;s watch, no siree Bob. Say goodbye to inflation&quot;  \n \n&quot;So, how are you planning to do that?&quot;  \n \nWarsh: &quot;uhhhhh...&quot;",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:47:52Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660427899",
-      "title": "\ud83d\ude80 $BTC.X continues to be one of the most closely watched assets in the market. Whether you&#39;re trading short-term \ud83d\udcc8 or investing for the long run \ud83d\udc8e, managing risk and staying informed is just as important as finding the next opportunity. \n \n\ud83e\udd14 I&#39;m curious to know how everyone is positioning themselves for the coming months. Are you buying, holding, or waiting for a better entry? \n \n\ud83c\udf0d I&#39;m also the founder of Vaping Laws, a South Korea-based platform focused on authentic vape products and educational content for adult smokers and vapers. While my business is in a different industry, I&#39;m here to learn from the investing community, exchange ideas, and connect with people who enjoy discussing markets, technology, and innovation. \n \n\ud83d\udcac Looking forward to hearing your thoughts on $BTC.X! \ud83d\ude80\ud83d\udcca \n \n#Bitcoin #Crypto #Investing #BTC #Stocks #Trading",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:46:28Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660427681",
-      "title": "Oh snap here we go again, who actually believed a peace deal would be done? \n$SPY $USO $QQQ $BTC.X $MU",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 5,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:33:28Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "660427567",
-      "title": "$SPY i know most of you guys dont trade dem futes but for anyone that does, have you trades the single stock futures yet? Seems like volume and oi is very low and some are not the most liquid sticks in the world like an LMT usually has wide spreads especially overnight",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:26:18Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1vamf49",
-      "title": "Has anyone ever ran into the \"We can't accept this order\" in Vanguard?",
-      "url": "https://www.reddit.com/r/stocks/comments/1vamf49/has_anyone_ever_ran_into_the_we_cant_accept_this/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785395757,
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vame2m",
-      "title": "Which mutual funds I shall invest into?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vame2m/which_mutual_funds_i_shall_invest_into/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785395662,
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660427292",
-      "title": "Good morning, traders. \ud83d\udcca Today&#39;s Daily Technical Videos are now available in the membership area. Stay informed with our latest market insights: https://elliottwave-forecast.com/?fpr=vlada14 \n \n#ElliottWave #Trading $SPX $NQ_F $DAX $BTC.X $ETH.X",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:07:34Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660427225",
-      "title": "T 3 Defense: $DFNS  .... Are &#39;you&#39; aware of their Warrants? .. $DFNSW .... @ALL .... $NVDA .. $MSFT ..",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T07:04:07Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660427145",
-      "title": "$AAPL will breach Sub $300 in the Short duration, 2 weeks?? $spY",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T06:58:43Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "660427102",
-      "title": "Will $AAPL&#39;s new patents defy $5 trillion doubts? \n \nTim Cook\u2019s final earnings call hits this week. Valuation tests every AI and hardware claim. \n \nApple Upgrade locks recurring revenue. Broadcom deal runs to 2031. Ring and Glasses patents push into health and wearables. \n \nInnovation must now carry the multiple. \n \n$AAPL $AVGO $META \n \n#Apple #AAPL #AI #Patents #Earnings",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T06:55:53Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660426402",
-      "title": "$BTC.X $MSTR \n\nIs this crab FAKE or GENUINE?\n\nAny guesses?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T06:11:55Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660426222",
-      "title": "$TSLA how low???? Help",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T06:01:46Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660426198",
-      "title": "$BTC.X $ETH.X \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 wheres tommy?!",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T06:00:23Z",
-      "first_seen_utc": 1785399795
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1vakwym",
-      "title": "Does the Fed decision even matter if the 30-year stays above 5%?",
-      "url": "https://www.reddit.com/r/investing/comments/1vakwym/does_the_fed_decision_even_matter_if_the_30year/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785390800,
-      "first_seen_utc": 1785551530
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "660425983",
-      "title": "$BTC.X $MSTR \n\nAnyone want to eat some crab \ud83e\udd80?\n\nLOL",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-30T05:50:08Z",
       "first_seen_utc": 1785399795
     }
   ]
