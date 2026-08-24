@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-08-24T06:54:08.373275+00:00",
+  "generated_at": "2026-08-24T09:45:45.937572+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662669517",
+      "title": "$BTC.X ripping above $79K within the next 2 to 3 hours? I think so!! \ud83d\ude80",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T09:33:42Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "662669460",
+      "title": "$MU $SNDK $NVDA \nWhat is the FUD now?  Who farted?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T09:31:50Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1vwxwoi",
+      "title": "Sell House /Rent back to pay off debt?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1vwxwoi/sell_house_rent_back_to_pay_off_debt/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787563840,
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662668976",
+      "title": "$BTC.X is showing strength again  \n \nBitcoin continues to hold key levels while traders watch the next move. \n \nAre we seeing the start of another breakout \u2014 or just another fake move? \n \nWhat\u2019s your $BTC.X target?  \n \n#Bitcoin #Crypto",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T09:12:01Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662668795",
+      "title": "$SPY $BTC.X $NVDA $MU Stocked Up on Youtube has some of the best overall market coverage for traders made by traders. From major news, macros calendar coverage, earnings, crypto, big money trades, options. You name it, they pretty much cover it. Gotta give a huge shout out to them for how well they put together each upload, Tom streams live every day after market open through Stocked Up Live for free so the least I could do was throw a post about them here and there. They put a lot of time and effort into keeping these videos produced well so check them out, I promise it will not be a waste of time. @Stocktwits @TradeIdeas1 @finviz  \n \nhttps://youtu.be/4yJp-WUKaU8?si=iJk2dV3Z4zvrQdP1",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T08:59:50Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662668702",
+      "title": "$DJIA $SPY $QQQ $BTC.X $DIA we can all agree that these prices are at least fair right?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T08:54:19Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "662668642",
+      "title": "Why do charts move the way they do? \n- Gold &amp; Bitcoin Insights \n- CTKS Structure \n- Stacking Probabilities \n- Insights \n \nHave a great one ahead CTKS Fam\ud83e\udd85 \n \nhttps://youtu.be/6ZayfiK4SKY #BTC #XAUUSD $BTC.X $XAUUSD #Bitcoin #Gold #CTKSmethod $BTC.X  $DXY  $AUDUSD  $EURUSD",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T08:50:36Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "662667449",
+      "title": "Is Tesla still the undisputed master of global mobility? \n \n$TSLA keeps majority US EV share with better range at lower cost. FSD software, energy services, and direct sales expand the model. \nData scale plus manufacturing depth form the real moat. Noise is temporary. \n \n$TSLA #Tesla #EV #Autonomy #Robotics",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-08-24T07:33:30Z",
+      "first_seen_utc": 1787564745
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1vwvjh1",
+      "title": "Did this actually happen?",
+      "url": "https://www.reddit.com/r/dividends/comments/1vwvjh1/did_this_actually_happen/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787555370,
+      "first_seen_utc": 1787564745
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -144,6 +243,17 @@
       "num_comments": 0,
       "created_utc": "2026-08-24T04:50:35Z",
       "first_seen_utc": 1787554448
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1vwt25a",
+      "title": "Investing Equity Analysis Services - Paid?",
+      "url": "https://www.reddit.com/r/stocks/comments/1vwt25a/investing_equity_analysis_services_paid/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1787546926,
+      "first_seen_utc": 1787564745
     },
     {
       "source": "stocktwits",
@@ -54890,116 +55000,6 @@
       "score": 1,
       "num_comments": 0,
       "created_utc": "2026-07-31T11:04:28Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660561452",
-      "title": "$QQQ $SPY $TSLA $TSLL what do you think sell price will be? And how that will affect your shares?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:57:58Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660561349",
-      "title": "Where we heading today?\n$SPY $NVDA $MU $AAPL  $AMZN",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:55:48Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vbnjui",
-      "title": "Divorce, use home-sale equity for lease-to-own or pay off debt first?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vbnjui/divorce_use_homesale_equity_for_leasetoown_or_pay/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785495123,
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660560988",
-      "title": "$TSLA  / $SPCX  \n \nGot to power those Moonbases. \n \nYes, \n \nBases. \n \nWhat, you thought that we\u2019d stop st just \n \nOne?! \n \nBWAHAHAHAHAHA!!!  \ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80\ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80\ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80\ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80\ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80\ud83d\udc68\ud83c\udffc\u200d\ud83d\ude80 \n \n\u2705",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:47:44Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1vbnda5",
-      "title": "How do people with an eviction and debt find places to live?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1vbnda5/how_do_people_with_an_eviction_and_debt_find/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785494543,
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "660560730",
-      "title": "$HPIL $NVDA $AAPL\nI have a question\u2026\n\nWhen are we supposed to get our cash n\u2019 Napple shares, again? \n\nThanks. \n\n#dividends",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:41:50Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660560492",
-      "title": "$TSLA merger is a bad thing?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:36:47Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660560006",
-      "title": "$TSLA \n\nhttps://x.com/redshiftbishop/status/2082898547402289570?s=46",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:23:47Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "660559789",
-      "title": "$TSLA if he sells the China business, does he have to give away all the software too?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-07-31T10:17:36Z",
-      "first_seen_utc": 1785497470
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1vbmkh8",
-      "title": "Genuine question for people who got into crypto for the privacy/freedom angle specifically \u2014 does anyone still feel that's actually true today, or has it quietly become something else?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vbmkh8/genuine_question_for_people_who_got_into_crypto/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1785491950,
       "first_seen_utc": 1785497470
     }
   ]
