@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-09-12T07:47:04.063164+00:00",
+  "generated_at": "2026-09-12T12:39:46.797254+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "664123750",
+      "title": "$IREN did they finally say how much goes to Iren with the last $NVDA announcement?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:30:34Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664123652",
+      "title": "Wednesday the Fed votes. The market already did \u2014 nearly 90% priced for a 25bp hike into 3.75-4.00%. \nBut &quot;priced in&quot; isn&#39;t a guarantee. It&#39;s a question: what does the tape do when the news actually lands? \n$SPY closed 764.29 Friday, range 763.60-766.38. Break Friday&#39;s high on the decision = the relief has legs. Reject and close lower = the low gets retested. The chart votes first, the Fed reads it out loud. Levels, not advice.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:24:35Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "664123596",
+      "title": "$NVDA Many of you here think the markets are going higher on Monday.  \nHaven&#39;t you read the new news? Another pipeline hit. We are all fvcked. \nOil will rise beyond $110 on Monday. \nEnd this useless war already.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:21:30Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "664123566",
+      "title": "$BTC.X is it dead?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:19:47Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664123507",
+      "title": "$SPY https://youtu.be/BXLGV0Sj0n8?si=pdxAx5dyWsR21tPa",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:15:29Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664123489",
+      "title": "$DJT $SPY $DIA $QQQ $VTI \nTrump&#39;s doing so bad at his current forever war, old forever wars wanted back in..\n\n&quot;Saudi Arabia says East-West pipeline hit by drones launched from Iraq&quot;\n\nNow, I know a lot of MAGA are confused.  They are thinking, &quot;But we won already?&quot;  To them, I suggest visiting reality, the weather is fine this time of year.\n\nIraq condemns the attack, dismisses a military commander who led operations in Maysan province. \n\nBrent is on it&#39;s way above $110.\n\nhttps://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T12:13:57Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664123219",
+      "title": "@BaconGreez I\u2019m watching for confirmation Monday \ud83d\udc40 If $SPY holds, bulls could take control. What level are you watching? \ud83d\udcc8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:56:13Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "664123141",
+      "title": "$NVDA PEG ratio? 5 yr expected? Come on in PEG!  At .55 PEG ratio for 5 yr expected your my gal! All signs point to stock being currently undervalued and that is not in my honest opinion it is a fact if you have been with PEG before you know. I sold those 50 shares I bought last week for one I needed the money back and two made a couple hundred dollars and three they were not dividend paying for me as I had bought them on the 10th but any way your bottom feeding algae eater when it comes to making a little something something on a down week. I really shouldn&#39;t have bought those last 50 shares anyway but it worked out and I have only Nvidia to thank. I am heading over to the latest FinVid now for my most positive Nvidia News today. C&#39;ya real soon winners!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:50:20Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "664123123",
+      "title": "$NVDA PEG ratio? 5 yr expected? Come on in PEG!  At .55 PEG ratio for 5 yr expected your my gal! All signs point to stock being currently undervalued and that is not in my honest opinion it is a fact if you have been with PEG before you know. I sold those 50 shares I bought last week for one I needed the money back and two made a couple hundred dollars and three they were not dividend paying for me as I had bought them on the 10th but any way your bottom feeding algae eater when it comes to making a little something something on a down week. I really shouldn&#39;t have bought those last 50 shares anyway but it worked out and I have only Nvidia to thank. I am heading over to the latest FinVid now for my most positive Nvidia News today. C&#39;ya real soon winners!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:49:02Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664123102",
+      "title": "$SPY heading into Fed week where are you leaning? \ud83d\udc40\nOptions:\n\n* \ud83d\udcc8 Bullish\n* \ud83d\udcc9 Bearish\n* \u23f3 Waiting for confirmation",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:47:48Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "664123066",
+      "title": "$BTC.X $ICP.X $NEAR.X $TAO.X\n\nThe more I think about ICP\u2019s World Computer idea, the more interesting it becomes.\n\nToday, the internet depends on countless servers, cloud providers, databases, security layers and intermediaries. Building and running applications can be expensive and complex.\n\nWhat if you could have one global, decentralized infrastructure where apps, websites, AI agents and digital services can run securely?\n\nThat\u2019s what makes the World Computer concept so interesting to me.\n\nNot simply \u201canother blockchain,\u201d but potentially a new layer of internet infrastructure.\n\nThe internet connects the world.\n\nMaybe the World Computer could become the infrastructure on which much of the digital world actually runs.\n\nWhether ICP can prove this at global scale remains to be seen.\n\nBut the idea itself?\n\nI don\u2019t think it\u2019s crazy at all. I\u2019m starting to believe in it more and more.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:45:21Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1wea2ec",
+      "title": "Hodlnaut Liquidation First Interim Distribution \u2013 Previous users has anyone received their payout yet?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wea2ec/hodlnaut_liquidation_first_interim_distribution/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789212282,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "664122775",
+      "title": "$TSLA $SPCX $AMZN $AAPL \n\nWHERES THE $2000 TRUMP SAID EVERYONE WAS GETTING FROM THE TARIFFS!???\n\nOH AND THE $5000 FOR THE MIDTERMS!???\nDONT HOLD YOUR BREATH!\n\nBILLIONS IN REFUNDS TO MAJOR COMPANIES\nBECAUSE OF \u2018UNFAIR\u2019 TARIFFS \n\nHEY MAGA HOWS IT LOOKING???",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T11:22:26Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1we8ls4",
+      "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What\u2019s Next?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1we8ls4/ethereum_whales_just_woke_up_as_eth_exploded_to/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789207477,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "664122098",
+      "title": "Bitcoin Sentiment Hits 2-Year High As Spot Demand Rises: Is A Market Turn Coming?\n\n$BTC.X $IBIT $GBTC $HODL $BITB\n\nhttps://stocktwits.com/news/cryptocurrency/markets/bitcoin-sentiment-hits-2-year-high/cZtLmbuRBbV",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T09:59:33Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1we7t1h",
+      "title": "Would Close Brothers consider overturning their decision to terminate vehicle finance on MH grounds?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1we7t1h/would_close_brothers_consider_overturning_their/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789204622,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "664121766",
+      "title": "$TSLA momentum feels shaky here. Buyers stepping back or just catching their breath? Volume&#39;s telling a story but I&#39;m not sure which one yet. Anyone else watching this chop closely?\n\nhttps://stockraker.short.gy/stocktwitspicktrading",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T09:13:21Z",
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "664121757",
+      "title": "$AAPL sitting right at a key level here. Volume drying up on this move, that ever a good sign? Bulls need to hold this or does it start looking heavy. Watching how it reacts here before reading too much into it.\n\nhttps://stockraker.short.gy/stocktwitspicktrading",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-12T09:11:39Z",
+      "first_seen_utc": 1789216786
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -12,6 +210,17 @@
       "num_comments": 0,
       "created_utc": "2026-09-12T07:22:22Z",
       "first_seen_utc": 1789199224
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1we5nx1",
+      "title": "Those who managed their elderly parents money, share your portfolio mix?",
+      "url": "https://www.reddit.com/r/dividends/comments/1we5nx1/those_who_managed_their_elderly_parents_money/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789197121,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "stocktwits",
@@ -433,6 +642,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wdxybd",
+      "title": "10 years into career- ready for part-time and compounding to do some heavy lifting?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wdxybd/10_years_into_career_ready_for_parttime_and/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789173818,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
       "subreddit": "FinancialPlanning",
       "id": "1wdxaus",
       "title": "27, Taking Home $6,600\u2013$9,600 a Month\u2014How Should I Balance Debt, Retirement, and Starting a Business?",
@@ -448,7 +668,7 @@
       "id": "664114497",
       "title": "$SPY  \n\n$AAPL so  how was $316 to $335 ? \ud83d\udcb8\ud83d\udcb8\n\n$GOOG $AMZN",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-09-11T23:51:11Z",
       "first_seen_utc": 1789182005
@@ -661,6 +881,17 @@
       "num_comments": 0,
       "created_utc": "2026-09-11T21:01:44Z",
       "first_seen_utc": 1789167603
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdsidr",
+      "title": "Is this good?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdsidr/is_this_good/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789160140,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "reddit",
@@ -927,6 +1158,17 @@
       "first_seen_utc": 1789150332
     },
     {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1wdnbyi",
+      "title": "I have a feeling Tether is a scam... Does it run all the way to the White House?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wdnbyi/i_have_a_feeling_tether_is_a_scam_does_it_run_all/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789148898,
+      "first_seen_utc": 1789216786
+    },
+    {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "664085749",
@@ -980,6 +1222,17 @@
       "num_comments": 0,
       "created_utc": "2026-09-11T17:33:33Z",
       "first_seen_utc": 1789150332
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1wdmm8j",
+      "title": "Who has dealt with a Binance appeal P2P recently?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wdmm8j/who_has_dealt_with_a_binance_appeal_p2p_recently/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789147356,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "reddit",
@@ -1038,6 +1291,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdj8e4",
+      "title": "BCAT, what happened today?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdj8e4/bcat_what_happened_today/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789139991,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1wdio3r",
       "title": "Low-bono bankruptcy lawyers?",
@@ -1046,6 +1310,50 @@
       "num_comments": 0,
       "created_utc": 1789138749,
       "first_seen_utc": 1789150332
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdhty3",
+      "title": "Could this work as a future income portfolio?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdhty3/could_this_work_as_a_future_income_portfolio/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789136813,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdhano",
+      "title": "Anyone holding HPQ?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdhano/anyone_holding_hpq/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789135584,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdh1h6",
+      "title": "At what point would you stop chasing more ETF income and start protecting the income you already have?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdh1h6/at_what_point_would_you_stop_chasing_more_etf/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789135005,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1wdg53h",
+      "title": "Possible hidden gem?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wdg53h/possible_hidden_gem/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789132850,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "reddit",
@@ -1255,6 +1563,17 @@
       "num_comments": 0,
       "created_utc": 1789122672,
       "first_seen_utc": 1789132565
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wdbzh7",
+      "title": "Is putting all of my savings in the S&P 500 a good idea for long-term growth?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wdbzh7/is_putting_all_of_my_savings_in_the_sp_500_a_good/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789121226,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "reddit",
@@ -2215,6 +2534,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wctpm3",
+      "title": "Is there something inbetween like a SCHD and JEPI?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wctpm3/is_there_something_inbetween_like_a_schd_and_jepi/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789069614,
+      "first_seen_utc": 1789216786
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1wcsqjf",
       "title": "Pregnant, young sister was 2ndary lease signer, fled domestic violence, & now shows as collections for 4 months on Experian. Any way to resolve/revert credit hit?",
@@ -2234,6 +2564,17 @@
       "num_comments": 0,
       "created_utc": 1789065522,
       "first_seen_utc": 1789081148
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wcrhws",
+      "title": "How are my numbers looking?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wcrhws/how_are_my_numbers_looking/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789064939,
+      "first_seen_utc": 1789216786
     },
     {
       "source": "stocktwits",
@@ -54660,347 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-08-14T15:45:49Z",
       "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "661920692",
-      "title": "$SPY some dude yesterday was like but burry  lost friends! Oh no!! No way! Hahahhahaa! Who cares?! \ud83e\udd23\ud83d\ude02\n\nYou\u2019re only supposed to have friends you don\u2019t hate or the ones that don\u2019t constantly get jealous or insecure about their own dumb lives. \ud83e\udd23",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:44:30Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1voaty1",
-      "title": "Pay off student loans or invest?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1voaty1/pay_off_student_loans_or_invest/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786722270,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661920587",
-      "title": "$NVDA is Burry going to get his way with this thing today?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:43:51Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1voaovo",
-      "title": "How much should I put down on my first home?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1voaovo/how_much_should_i_put_down_on_my_first_home/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786721961,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "661919761",
-      "title": "$TSLA $447 again?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:38:53Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "661919507",
-      "title": "$RICK $BTC.X From a yr ago BTC down -47% while strip clubs down -23%. I\u2019m feeling that naked women will double and triple before crypto. \n1 yr from now who is higher? Let\u2019s add in $SPCX",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:37:15Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "661918553",
-      "title": "$BTC.X why is the whole market crashing again?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:31:54Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1voa8h0",
-      "title": "Is anyone actually using agentic payment protocols (x402) in production?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1voa8h0/is_anyone_actually_using_agentic_payment/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786720946,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "661916568",
-      "title": "$BTC.X why has it a hard time there at 630??  Might be a launchpad building\ud83d\ude80\ud83d\ude80\ud83d\ude80",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:20:44Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1voa40x",
-      "title": "I\u2019m moving internationally in 2 years, how can I maximize my savings until then?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1voa40x/im_moving_internationally_in_2_years_how_can_i/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786720661,
-      "first_seen_utc": 1786733465
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "661915700",
-      "title": "$SPX $DJI $SPY $QQQ $BTC.X So how USA will pay this massive debt mess ??  \nWith bitcoin ?? lol \ud83d\ude1c\ud83e\udd2a\ud83d\ude1d \nhttps://www.marketwatch.com/story/u-s-national-debt-about-to-reach-bleak-40-trillion-milestone-and-its-likely-hit-50-trillion-soon-0f10df2d",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:15:45Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "661914925",
-      "title": "$AAPL wtf \u2026??  My 300c is ITM but now losing? I won\u2019t sell ! Can\u2019t scare me.. try harder , odte easy $$$ .. push up noobs bulls, stop selling fml .  $QQQ  $SPY",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T15:11:34Z",
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo9n1i",
-      "title": "Recommendations on Financial management apps?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo9n1i/recommendations_on_financial_management_apps/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786719621,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo9aee",
-      "title": "How to best leave bank info etc for spouse/others?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo9aee/how_to_best_leave_bank_info_etc_for_spouseothers/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786718802,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1vo96a2",
-      "title": "Should I close older credit cards",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1vo96a2/should_i_close_older_credit_cards/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786718530,
-      "first_seen_utc": 1786733465
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo8sb5",
-      "title": "i know about investing for retirement, but what about investing for now?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo8sb5/i_know_about_investing_for_retirement_but_what/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786717637,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1vo8kyp",
-      "title": "Treasury yields remain high even after all recent reports indicated softer inflation and econ data. Is this concerning for the market?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1vo8kyp/treasury_yields_remain_high_even_after_all_recent/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786717165,
-      "first_seen_utc": 1786742684
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo8ik8",
-      "title": "What should I do after reaching my current savings goal?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo8ik8/what_should_i_do_after_reaching_my_current/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786717011,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1vo8et0",
-      "title": "Treasury yields remain high even after all recent reports indicated softer inflation and econ data. Is this concerning for the market?",
-      "url": "https://www.reddit.com/r/stocks/comments/1vo8et0/treasury_yields_remain_high_even_after_all_recent/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786716774,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo8agw",
-      "title": "I\u2019m moving internationally in 2 years, how can I maximize my savings until then?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo8agw/im_moving_internationally_in_2_years_how_can_i/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786716485,
-      "first_seen_utc": 1786722650
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661888874",
-      "title": "$NVDA Jim who?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:55:59Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661888737",
-      "title": "$NVDA does anyone have a realistic price target here? Average is $200 so looking good.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:54:47Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "661888505",
-      "title": "$MSTR \n\nWait you mean a stack of bitcoin that generates no cash flow, and actually negative $1.8b in annual dilution isn&#39;t welcome in your index funds?\n\nHonestly how did it take this long? \n\nBut S&amp;P 500 inclusion soon right so its okay\ud83d\ude02\n\n$BTC.X $STRC $STRD $STRK",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:52:55Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1vo6fnu",
-      "title": "Which of these two classic options is better for cash flow?",
-      "url": "https://www.reddit.com/r/dividends/comments/1vo6fnu/which_of_these_two_classic_options_is_better_for/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786711887,
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "661887943",
-      "title": "$SPY so what this scam will keep going up to $100000000 \ud83e\udd23\ud83e\udd23?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:48:09Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "661886982",
-      "title": "$MU RS? $SPY $TSLA",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:39:10Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661886789",
-      "title": "$SMCI \ud83d\udea8 vs $NBIS \u2014 LOOK AT THE SCALE.\n\nNBIS has an exciting AI growth story, but SMCI just delivered numbers operating on an entirely different level:\n\n\ud83d\udd25 $11.1B quarterly revenue\n\ud83d\udd25 Nearly 100% YoY revenue growth\n\ud83d\udd25 $1.70 adjusted EPS\n\ud83d\udd25 ~17% gross margin\n\ud83d\udd25 $60B+ in new orders\n\ud83d\udd25 Record backlog\n\ud83d\udd25 $65B\u2013$72B FY27 revenue guidance\n\nNBIS deserves credit for its growth potential, but investors are paying heavily for what that business could become.\n\nWith SMCI you\u2019re looking at an AI infrastructure company already producing tens of billions in revenue with massive forward demand.\n\nI like the AI infrastructure theme broadly, but relative valuation + scale + earnings + backlog?\n\nGive me SMCI. The market is still underestimating this story. \ud83d\ude80\ud83d\udd25\n\n$NBIS $NVDA $CRWV",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:37:33Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661886324",
-      "title": "$SNDK $MU $NVDA $INTC  \n \nUS Retail Sales:  +0.1% expected, got -0.6% instead. ex-autos, -0.3%, also less than expected. ex-auto/ex-gas -0.2%. Core number +.3% expected, got -0.4% \n \ni guess bad news is good for stocks because it would stave off future rate hikes?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:33:20Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vo603c",
-      "title": "Is it stupid of me to sell my house and move into a condo?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vo603c/is_it_stupid_of_me_to_sell_my_house_and_move_into/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1786710741,
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661886123",
-      "title": "$NVDA https://www.youtube.com/watch?v=2dbzd1T1jMc",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:31:37Z",
-      "first_seen_utc": 1786712445
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "661885831",
-      "title": "$NVDA you smoke ?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-08-14T12:28:42Z",
-      "first_seen_utc": 1786712445
     }
   ]
 }
