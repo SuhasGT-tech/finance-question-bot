@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-18T03:03:47.973277+00:00",
+  "generated_at": "2026-09-18T08:12:50.161139+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664547835",
+      "title": "\u2728 Exclusive FREE e-book for traders! \n\ud83d\udc49 Comprehensive Guide to Trade Stocks &amp; ETFs \n\ud83d\udce5 Grab your copy now: https://elliottwave-forecast.com/ebook-comprehensive-guide-trading-stocks-etfs/?fpr=vlada14 \n \n#elliottwave #trading $SPY $SPX $DAX $QQQ  \n$FTSE",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T07:50:50Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664547725",
+      "title": "$SPY yo where my yen \ud83d\udcb4 experts at?!?!?! Wasnt the yen supposed to rally and stocks crash or something if they raised the overnight rate over there? $USDJPY",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T07:42:15Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "664547536",
+      "title": "$SPY where did Gloatzilla go?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T07:28:34Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "664547348",
+      "title": "BOJ raises rates to 1.25%  but crypto shrugs it off positively. Is this a sign that $BTC.X  is gaining strength despite tighter global liquidity?  \n \nhttps://coinpedia.org/news/bank-of-japan-raises-key-rate-to-1-25-crypto-market-reacts-positively/",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T07:13:33Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjiu4o",
+      "title": "Job searching going nowhere, would supplementing my income with art commissions be a bad idea? How would I go about it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjiu4o/job_searching_going_nowhere_would_supplementing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789714393,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjifnr",
+      "title": "When can I expect good loans and credit cards?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjifnr/when_can_i_expect_good_loans_and_credit_cards/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789712829,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "664546611",
+      "title": "$NVDA Nvidia Forecasts Chip Shipments to Double Next Year \nhttps://www.businesskorea.co.kr/news/articleView.html?idxno=277291",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T06:17:16Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "664546366",
+      "title": "Besides $TSLA and $SPCX, what\u2019s your largest holding in your stock portfolio? \ud83d\udc40",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T05:59:47Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjhsij",
+      "title": "Contributing to an investment account to offset interest and pay off HELOC vs Pay HELOC principal directly? What\u2019s the optimal monthly split?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjhsij/contributing_to_an_investment_account_to_offset/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789710688,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjhk3g",
+      "title": "Which bank or brokerage for best long term benefits?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjhk3g/which_bank_or_brokerage_for_best_long_term/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789709900,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjh96q",
+      "title": "Expecting a cash windfall of a few hundred $K at year end post tax - what to do with it?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjh96q/expecting_a_cash_windfall_of_a_few_hundred_k_at/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789708904,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wjfwyv",
+      "title": "In-network dentist passed the lender's fee onto me and wants to keep my $295.80 overpayment as store credit. Is this allowed?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wjfwyv/innetwork_dentist_passed_the_lenders_fee_onto_me/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1789704698,
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "664543637",
+      "title": "$TSLA if anyone is looking for swing options trades https://www.instagram.com/options_journalist?stkn=azNxdG9qMjZrZTBs&amp;utm_source=qr",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T03:32:59Z",
+      "first_seen_utc": 1789719170
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "664542835",
+      "title": "$TSLA im sorry but what is TRIPLE WITCHING IS TOMORROW ? \n$SPY",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-09-18T03:04:21Z",
+      "first_seen_utc": 1789719170
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -54847,160 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-08-19T00:50:21Z",
       "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "662236445",
-      "title": "$XRP.X $BTC.X $ETH.X $DOGE.X  https://x.com/ripplexrpie/status/2089843798473855190?s=46",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:31:39Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "662236181",
-      "title": "$XRP.X $BTC.X $ETH.X $DOGE.X https://x.com/_crypto_barbie/status/2089786729918009410?s=46",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:26:40Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "662235777",
-      "title": "$BTC.X $NASDAQ $SPY Did it go down? \ud83d\ude0f",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:19:25Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vs6mgz",
-      "title": "Best I guess \u201conline bank\u201d as in for HYSA+credit card?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vs6mgz/best_i_guess_online_bank_as_in_for_hysacredit_card/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787098373,
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "662235202",
-      "title": "$ORCL Sooooo is the Ai trade cancelled for the 182nd fuckin time $NOW ?! $NVDA $CRWV",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:08:49Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "662235100",
-      "title": "$NVDA 217.64 after hours ?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:07:26Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "662234998",
-      "title": "$AAPL #Apple shows 5 swing down from July 30 high and while below $344,  rally can fail in 3 or 7 swing for further downside. Latest post market update at https://elliottwave-forecast.com?fpr=ewfhendra63 #elliottwave",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:05:47Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "662234843",
-      "title": "$NVDA Negative (64%): shares could face modest downward pressure if Cerebras\u2019s launch raises expectations that Nvidia will lose accelerator orders, concede pricing, or spend more to defend its performance lead. Full AI impact map, source, and watch-next details: https://nimpact.tech/newsimpact/news/04c1fcf2982e7237?utm_source=stocktwits&amp;utm_medium=story_url",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-19T00:03:51Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vs64ei",
-      "title": "Move home to avoid rent increase?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vs64ei/move_home_to_avoid_rent_increase/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787097118,
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1vs5pmd",
-      "title": "What will the meetings on Wednesday and Thursday do for price action?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1vs5pmd/what_will_the_meetings_on_wednesday_and_thursday/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787096050,
-      "first_seen_utc": 1787111169
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1vs5lx3",
-      "title": "SSDI overpayment but already paid taxes on it through private insurance company over 4 years?",
-      "url": "https://www.reddit.com/r/tax/comments/1vs5lx3/ssdi_overpayment_but_already_paid_taxes_on_it/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787095790,
-      "first_seen_utc": 1787153409
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "662232654",
-      "title": "uhm why are Waymo\u2019s in Austin charging  with diesel generators?\ud83d\ude11\n$GOOG $GOOGL $UBER $TSLA",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-18T23:29:06Z",
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vs5eb1",
-      "title": "I have about 65K in student loan debt. 20k in savings. I want to use no more than half of my savings right now. what should I pay off first?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vs5eb1/i_have_about_65k_in_student_loan_debt_20k_in/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787095247,
-      "first_seen_utc": 1787101451
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1vs56pq",
-      "title": "Living in NYC since Aug, but payroll address is set to Long Island and no NYC local tax is withheld. Do I have to fix this?",
-      "url": "https://www.reddit.com/r/tax/comments/1vs56pq/living_in_nyc_since_aug_but_payroll_address_is/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787094718,
-      "first_seen_utc": 1787153409
     }
   ]
 }
