@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-27T03:30:37.553606+00:00",
+  "generated_at": "2026-09-27T11:22:48.549286+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "665191221",
+      "title": "$ZEC.X When\u2019s the next pump boys? $BTC.X $ETH.X Can\u2019t keep my eyes off Zcash \ud83e\udd29",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-09-27T11:18:51Z",
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1wrgk6r",
+      "title": "Why is Uber and Vistra Corp being hyped up so much?",
+      "url": "https://www.reddit.com/r/stocks/comments/1wrgk6r/why_is_uber_and_vistra_corp_being_hyped_up_so_much/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790504012,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "665190596",
+      "title": "$SPY so do we open flat or at 774.?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-09-27T09:54:35Z",
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wrfyjp",
+      "title": "\"Activate x% cash back\" - Why is it CC issuers must make me click this ?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wrfyjp/activate_x_cash_back_why_is_it_cc_issuers_must/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790501808,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wreywt",
+      "title": "Turned 18, what's the next step?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wreywt/turned_18_whats_the_next_step/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790498176,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "665189058",
+      "title": "$NVDA should be a good week?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-09-27T05:08:35Z",
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wrakp4",
+      "title": "Should I buy a used prius that is worth $20K with $30K in savings?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wrakp4/should_i_buy_a_used_prius_that_is_worth_20k_with/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790482824,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1wr9xe8",
+      "title": "RBC goease or Wealthsimple?",
+      "url": "https://www.reddit.com/r/dividends/comments/1wr9xe8/rbc_goease_or_wealthsimple/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790480771,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wr9qgr",
+      "title": "Should I pay off my credit card and postpone car payments?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wr9qgr/should_i_pay_off_my_credit_card_and_postpone_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790480157,
+      "first_seen_utc": 1790508168
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "665188192",
+      "title": "$TSLA Do you believe there is a reasonable probability of Tesla&#39;s stock price reaching the 378 level?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-09-27T03:28:44Z",
+      "first_seen_utc": 1790508168
+    },
     {
       "source": "reddit",
       "subreddit": "tax",
@@ -74,7 +184,7 @@
       "id": "665187640",
       "title": "$TSLA   \n \n \nPowerWall ?  \n \nNo way, we don&#39;t need a PowerWall System! Our local Electric Company is  \n \nSuper  Reliable!!! \n \nRIIIIIIIIIIIIIIIIIIGHT ...  \ud83d\ude16  \n \n\u2705",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-09-27T02:45:30Z",
       "first_seen_utc": 1790479837
@@ -140,7 +250,7 @@
       "id": "665187145",
       "title": "$TSLA Are they rolling out the semi trucks in Europe too ?",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "created_utc": "2026-09-27T02:09:02Z",
       "first_seen_utc": 1790479837
@@ -184,7 +294,7 @@
       "id": "665186082",
       "title": "My 4 highest-conviction AI names right now: \n \n$NVDA \u2014 still the backbone of AI compute   \n$AVGO \u2014 custom AI accelerators + networking + hyperscaler exposure   \n$PLTR \u2014 one of the strongest enterprise AI software stories   \n$SMCI \u2014 direct beneficiary of the AI server buildout \n \nDifferent layers of the same AI infrastructure stack. \n \nCompute. Networking. Software. Servers. \n \nI don\u2019t think AI will be a one-winner market. The bigger opportunity may be owning the companies controlling multiple critical layers of the buildout. \n \nIf you could hold only ONE for the next 5 years, which one are you choosing? \n \n$NVDA $AVGO $PLTR $SMCI",
       "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
+      "score": 7,
       "num_comments": 0,
       "created_utc": "2026-09-27T01:05:18Z",
       "first_seen_utc": 1790479837
@@ -232,6 +342,17 @@
       "num_comments": 0,
       "created_utc": "2026-09-27T00:23:49Z",
       "first_seen_utc": 1790479837
+    },
+    {
+      "source": "reddit",
+      "subreddit": "stocks",
+      "id": "1wr5uhf",
+      "title": "Could short selling Palantir make sense at the current valuation?",
+      "url": "https://www.reddit.com/r/stocks/comments/1wr5uhf/could_short_selling_palantir_make_sense_at_the/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790468289,
+      "first_seen_utc": 1790508168
     },
     {
       "source": "reddit",
@@ -54880,127 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-08-25T19:04:53Z",
       "first_seen_utc": 1787693228
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1vy94r5",
-      "title": "What do you do when you have capital ready to invest but don't see an obvious opportunity?",
-      "url": "https://www.reddit.com/r/dividends/comments/1vy94r5/what_do_you_do_when_you_have_capital_ready_to/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787684663,
-      "first_seen_utc": 1787706463
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1vy8tl1",
-      "title": "Lower 401k contribution after buying a home?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1vy8tl1/lower_401k_contribution_after_buying_a_home/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787684014,
-      "first_seen_utc": 1787693228
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1vy8qfb",
-      "title": "Home Office Decor Ideas?",
-      "url": "https://www.reddit.com/r/tax/comments/1vy8qfb/home_office_decor_ideas/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787683831,
-      "first_seen_utc": 1787726677
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1vy8dat",
-      "title": "27M, $85k portfolio \u2014 thoughts?",
-      "url": "https://www.reddit.com/r/dividends/comments/1vy8dat/27m_85k_portfolio_thoughts/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787683048,
-      "first_seen_utc": 1787706463
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "662820394",
-      "title": "$NVDA ChatGPT IPO \ud83e\udd21 god you sound smart, did you mean Open AI? That company just posted today their in-house chips outperform Blackwell ultra. IPO is ages away",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:32:21Z",
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1vy87yd",
-      "title": "Stocks to purchase for extending Moore's Law?",
-      "url": "https://www.reddit.com/r/stocks/comments/1vy87yd/stocks_to_purchase_for_extending_moores_law/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1787682734,
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "662820344",
-      "title": "$SPY \nhttps://youtu.be/gVksaXViB4E?is=NTdSf4IG80rwcue1",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:31:58Z",
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "662820277",
-      "title": "$BTC.X $TSLA $NVDA $SPCX  \nWhat People Running for office will help with more Data Centers to put A.I. and Crypto high?     \nI know Trump has done a good job allowing Data Centers to be build in the South. I hear More are planning for Florida? The black guy running is in with them big time. \nFun in 2000, Byron Donalds was in his fourth year of college. He had two arrests on his record. He had no particular prospects. He seemed the furthest thing from a budding political star. \u2060 \nTwenty-five years later, he\u2019s the Republican front-runner to be Florida\u2019s next governor. \u2060 \nIn 2000, Byron Donalds was in his fourth year of college. He had two arrests on his record. He had no particular prospects. He seemed the furthest thing from a budding political star. \u2060 \nTwenty-five years later, he\u2019s the Republican front-runner to be Florida\u2019s next governor. \u2060 This could be the worst person ever to run for governor.  \nI heard he is a very low I.Q. person. Are things that bad in Florida?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:31:25Z",
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "662820223",
-      "title": "$SPY $QQQ $MSTR will Saylor dilute with another offering soon?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:31:02Z",
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "662820088",
-      "title": "$COIN is a $500 stock. Why? Everyone is using $COIN  \n \nBitwise Asset Management is pushing deeper into tokenization with the launch of Automated Token Portfolios (ATPs), the asset manager announced on Tuesday. \n \nBitwise, which manages $9 billion in client assets, said its new ATPs, will use Coinbase\u2019s tokenized U.S. stocks, with portfolio implementation and automatic rebalancing handled by Glider. $COIN $BTC.X $ETH.X $SPY",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:29:53Z",
-      "first_seen_utc": 1787683089
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "662819962",
-      "title": "$NVDA .https://x.com/bulltheoryio/status/2092211255029162052?s=46&amp;t=Xq7UFW3u8B-l5R2nfYmJ2w",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-08-25T18:28:45Z",
-      "first_seen_utc": 1787683089
     }
   ]
 }
