@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-04T04:10:42.180227+00:00",
+  "generated_at": "2026-10-04T11:47:02.886943+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "665713401",
+      "title": "$BTC.X $SPY $QQQ I can&#39;t lie, I do check your posts from time to time, but only because you&#39;re my inverse strategy and I have a 100% win rate taking your inverse trade...can you blame me? \n \nI like to make money and you like to lose it, we are not the same, but I appreciate your clown calls",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T11:42:06Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "665713355",
+      "title": "$DJT $SPY $DIA $QQQ $VTI \n&quot;High Government Debt Is Adding Fuel to the Global Bond-Market Selloff&quot;\n\n&quot;Oil prices are driving rates higher, but indebtedness is a key risk factor&quot;\n\nThere is no such thing as an infinite piggy bank.\n\nNo one can say how the U.S. will repay it&#39;s debt.\n\nThere is no POA.  There is just lots of talk around that it &quot;could be payed off.&quot;  This sounds like wishful thinking.\n\nAlso, don&#39;t count out Irans ability to strike static fuel/oil pipelines, ships and terminals.  Just because their is a low in kinetic actions, doesn&#39;t equate to an inability for them to resume.\n\nLetting markets rebound only to then strike harder than before is likely a strategy that would work in Iran&#39;s favor.  The market hates volatility.\n\nIf this was solved, why is the U.S. leveraging E.U. oil/Diesel releases?\n\nhttps://www.wsj.com/finance/investing/high-government-debt-is-adding-fuel-to-the-global-bond-market-selloff-a93fa0fe",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T11:37:08Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "665713212",
+      "title": "$NVDA 210 or 250, what comes first?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T11:20:39Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "665713178",
+      "title": "$SPY How is the mood today?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T11:17:06Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1wxd4jm",
+      "title": "Take a loan from 401k to pay off interest bearing accounts?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1wxd4jm/take_a_loan_from_401k_to_pay_off_interest_bearing/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791112253,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "665712885",
+      "title": "$SPY Someone asked if it&#39;s going up or down? \nI draw line along the bottom of the 15 min to spot retracements for entry \nbut I day trade so puts or calls matters not to me unless we are swinging  overnight, and I see 780-784 top and have targets both ways \nHere we see the 30 min shows channel \nThat black line is 757, no time for jokes about your sister \nthat&#39;s pivot for the fail or bounce/repeat",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T10:34:54Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "665712746",
+      "title": "$SPY \n\nUS Secretary of Defense: We control the Strait of Hormuz, not Iran...\nIranian Parliament Speaker Mohammad Bagher Ghalibaf: The Strait of Hormuz will not be reopened unless Iran&#39;s seven conditions are met. \n\nConflicting statements regarding the Strait of Hormuz?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T10:16:51Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "665712643",
+      "title": "$RETIRE.X $CRO.X $BTC.X Crypto will never reach 0, because certain individuals or institutions need it to hide the paper trail of their assets. When will Bitcoin crash? More accurately, not crash, but vanish entirely.  \n \nIt could possibly happen when war completely destroys technology, but the question is, when will that happen?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T09:54:17Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1wxbap7",
+      "title": "How to make 189 dollars for medical equipment insurance won\u2019t cover",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1wxbap7/how_to_make_189_dollars_for_medical_equipment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791105385,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wxb0np",
+      "title": "Which option would give me better returns over the long term?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wxb0np/which_option_would_give_me_better_returns_over/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791104321,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wx9v4g",
+      "title": "[Germany] Mid 30s, finally investing my savings \u2013 lump sum or DCA, and which ETFs?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wx9v4g/germany_mid_30s_finally_investing_my_savings_lump/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791099874,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "665711656",
+      "title": "$MU \n\nAnd $AAPL wants to use Chinese memory? \n\nhttps://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-04T06:51:08Z",
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1wx6zxz",
+      "title": "Best way to simplify my finances?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1wx6zxz/best_way_to_simplify_my_finances/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791089402,
+      "first_seen_utc": 1791114422
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -30,7 +173,7 @@
       "id": "665710144",
       "title": "$TSLA https://x.com/tesla/status/2106580938935378083?s=46 $SPCX",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-10-04T03:39:40Z",
       "first_seen_utc": 1791087042
@@ -169,10 +312,10 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "TSLA",
       "id": "665708380",
       "title": "Clues for Stock market directions-    \n                                                                                                                                                   \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                                                                                            \nhttps://youtu.be/7X_tc3tm0Q8?si=KG0LCjzcXnIWecrF \n                                                        \n- Stock Market new ATH or crashing?                                                                                   \n- Support &amp; Resistance Guide-  \n \n$NVDA $TSLA $TSLL $TSLQ $TSLS",
-      "url": "https://stocktwits.com/symbol/NVDA",
+      "url": "https://stocktwits.com/symbol/TSLA",
       "score": 0,
       "num_comments": 0,
       "created_utc": "2026-10-04T01:28:23Z",
@@ -184,7 +327,7 @@
       "id": "665708272",
       "title": "$DJT $QQQ $SPY $TSLA \nWen market crash Donnie?",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "created_utc": "2026-10-04T01:20:32Z",
       "first_seen_utc": 1791087042
@@ -294,7 +437,7 @@
       "id": "665706936",
       "title": "$TSLA $GOOG $NVDA $META $GME If anyone is looking for option trades https://www.instagram.com/options_journalist?stkn=azNxdG9qMjZrZTBs&amp;utm_source=qr",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-10-03T23:49:45Z",
       "first_seen_utc": 1791087042
@@ -510,6 +653,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "investing",
+      "id": "1wwzdl1",
+      "title": "Investing $100 a day - what would you choose besides VOO?",
+      "url": "https://www.reddit.com/r/investing/comments/1wwzdl1/investing_100_a_day_what_would_you_choose_besides/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791065276,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1wwz07t",
       "title": "Your I'm done number?",
@@ -674,6 +828,17 @@
       "first_seen_utc": 1791059807
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1wwvj5t",
+      "title": "Robinhood 2% IRA transfer match, should one hold off for 3%?",
+      "url": "https://www.reddit.com/r/investing/comments/1wwvj5t/robinhood_2_ira_transfer_match_should_one_hold/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791055219,
+      "first_seen_utc": 1791114422
+    },
+    {
       "source": "stocktwits",
       "symbol": "TSLA",
       "id": "665702421",
@@ -683,6 +848,17 @@
       "num_comments": 0,
       "created_utc": "2026-10-03T19:10:16Z",
       "first_seen_utc": 1791059807
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1wwubdb",
+      "title": "If I\u2019m a cosigner for a car and the cars owner no longer wants the car will freezing my credit protect my credit score?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1wwubdb/if_im_a_cosigner_for_a_car_and_the_cars_owner_no/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791052192,
+      "first_seen_utc": 1791114422
     },
     {
       "source": "stocktwits",
@@ -829,6 +1005,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1wwr206",
+      "title": "How should local human services agencies reach people who need help?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1wwr206/how_should_local_human_services_agencies_reach/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791043948,
+      "first_seen_utc": 1791114422
+    },
+    {
+      "source": "reddit",
       "subreddit": "personalfinance",
       "id": "1wwqpyu",
       "title": "Installing solar panels worth it in this scenario?",
@@ -883,6 +1070,17 @@
       "first_seen_utc": 1791042162
     },
     {
+      "source": "reddit",
+      "subreddit": "FinancialPlanning",
+      "id": "1wwpvvi",
+      "title": "Form or software to help calculations for current year's Roth conversions?",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1wwpvvi/form_or_software_to_help_calculations_for_current/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791040964,
+      "first_seen_utc": 1791114422
+    },
+    {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "665697724",
@@ -925,6 +1123,17 @@
       "num_comments": 0,
       "created_utc": 1791040325,
       "first_seen_utc": 1791042162
+    },
+    {
+      "source": "reddit",
+      "subreddit": "povertyfinance",
+      "id": "1wwpmn1",
+      "title": "How do I maximise my paycheque when my credit spending goes over one month?",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/1wwpmn1/how_do_i_maximise_my_paycheque_when_my_credit/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791040312,
+      "first_seen_utc": 1791114422
     },
     {
       "source": "stocktwits",
@@ -1211,6 +1420,17 @@
       "num_comments": 0,
       "created_utc": 1791009913,
       "first_seen_utc": 1791025575
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1wwg8fo",
+      "title": "For non-US investors what are non-US domiciled equivalent ETFs you buy?",
+      "url": "https://www.reddit.com/r/investing/comments/1wwg8fo/for_nonus_investors_what_are_nonus_domiciled/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791009281,
+      "first_seen_utc": 1791114422
     },
     {
       "source": "reddit",
@@ -1785,6 +2005,17 @@
       "first_seen_utc": 1790977810
     },
     {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1ww5sjf",
+      "title": "What are some investing tools that are normally locked behind a paywall or a login wall?",
+      "url": "https://www.reddit.com/r/investing/comments/1ww5sjf/what_are_some_investing_tools_that_are_normally/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790976619,
+      "first_seen_utc": 1791114422
+    },
+    {
       "source": "stocktwits",
       "symbol": "SPY",
       "id": "665678542",
@@ -1992,6 +2223,17 @@
       "num_comments": 0,
       "created_utc": 1790965803,
       "first_seen_utc": 1790977810
+    },
+    {
+      "source": "reddit",
+      "subreddit": "investing",
+      "id": "1ww13nf",
+      "title": "I can only invest in individual stocks (no ETFs or Mutual Funds) what to do?",
+      "url": "https://www.reddit.com/r/investing/comments/1ww13nf/i_can_only_invest_in_individual_stocks_no_etfs_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1790965245,
+      "first_seen_utc": 1791114422
     },
     {
       "source": "reddit",
@@ -54759,248 +55001,6 @@
       "num_comments": 0,
       "created_utc": "2026-09-01T13:50:30Z",
       "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "663328983",
-      "title": "$BTC.X If you believe that Bitcoin is still in a bear market? Well I have some ocean front property in Arizona too.",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:50:04Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "663328714",
-      "title": "$AAPL how does this crap becomes green when whole world is falling?",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:48:48Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663328544",
-      "title": "$NVDA  \nwho else is really fucking sick of trump?\ud83d\ude4b\u200d\u2642\ufe0f  although i know the alternative was far worse. \ni voted for him 3 times.  just tired of the constant chaos and fucking things up.  i guess you reap what you sow.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:48:06Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663328264",
-      "title": "$NVDA     what are we this week!?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:46:52Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "663328189",
-      "title": "$SPY This is what I mean by ST idiots.. Tihis kid has s been posting about his $MSFT Short for 3 years &amp; wants to show us he made  minus the 20% tax he pay, If he  had put $10K in $MSFT &amp; held for the 3 years hes been day trading you know what he would have made? \n \nI dont mind Bears making beer money but please stop posting it on ST, you sound like you need a math class \ud83d\ude02smdh \n \nPerma Bears are just not that bright  \n \n$QQQ $AAPL",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:46:34Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "663327542",
-      "title": "$AAPL  push it noobs, easy money . Who seen my calls yesterday ? In low is always best.. let the noobs  push and buy higher  then you lol!!! $SPY  $QQQ",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:43:37Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "663327166",
-      "title": "$MSTR my friends volatility IS the price of admission. $BTC.X IS going to $1M+ the only question is can you hang on?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T13:42:05Z",
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w4c66k",
-      "title": "What\u2019s my best option with this car situation?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w4c66k/whats_my_best_option_with_this_car_situation/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788269671,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w4bq9n",
-      "title": "Would getting a new car now be foolish?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w4bq9n/would_getting_a_new_car_now_be_foolish/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788268638,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1w49p3q",
-      "title": "10Y Yield Surged to 4.784% and Brent Breaks $91. What's Your Plan?",
-      "url": "https://www.reddit.com/r/stocks/comments/1w49p3q/10y_yield_surged_to_4784_and_brent_breaks_91/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788263494,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1w49aj7",
-      "title": "If Japan's 10-year yield is now at 3%, what still makes Japanese investors continue to buy US Treasury bonds ?",
-      "url": "https://www.reddit.com/r/investing/comments/1w49aj7/if_japans_10year_yield_is_now_at_3_what_still/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788262368,
-      "first_seen_utc": 1788317048
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1w492l5",
-      "title": "I\u2019ve been working on maximizing my Monthly Investment Income in preparation for retirement next year. Just hit my highest month. Any suggestions for other tools to use to increase my monthly investment income?",
-      "url": "https://www.reddit.com/r/dividends/comments/1w492l5/ive_been_working_on_maximizing_my_monthly/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788261741,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w49204",
-      "title": "Do you have any preference of what day of the month your bills are due?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w49204/do_you_have_any_preference_of_what_day_of_the/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788261695,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w460tz",
-      "title": "Our oldest wants us to put her $1,800 into some form of investment account, whats a good start?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w460tz/our_oldest_wants_us_to_put_her_1800_into_some/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788252050,
-      "first_seen_utc": 1788271069
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663308375",
-      "title": "$NVDA It just seems more likely than straight trickle up..doesn\u2019t it? Maybe I\u2019m crazy \ud83e\udd21",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T08:11:14Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "663308362",
-      "title": "$DJT $SPY $QQQ \nWhat is it about the name, Ben?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T08:10:20Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663308250",
-      "title": "Could SpaceX Become The First $20 Trillion Company? Gavin Baker Lays Out The Starship And Orbital AI Thesis\n\n$SPCX $NVDA\n\nhttps://stocktwits.com/news/equity/markets/spacex-first-20-trillion-company-gavin-baker-starship-orbital-ai-thesis/cZsoQgeRJto",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T08:03:55Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "663308124",
-      "title": "$TSLA Dude! This testosterone-fueled puberty-level frenzy of Bull/Bear hate-speech is pathetic and shameful! Have we really sunk this low?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T07:54:30Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "663308066",
-      "title": "$AAPL\n\nSmall but telling detail \u2014 Apple employees\u2019 5-year plaques now have John Ternus\u2019s signature on them.\n\nOfficially day one as CEO today.\n\nCook era was all about operational excellence. Ternus has to show he can deliver the next product cycle, especially with AI.\n\nWatching the run into Sept 9, or waiting it out?",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T07:49:01Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "663308049",
-      "title": "$SPY Was there news? Why did NQ suddenly tank?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T07:47:42Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "663308018",
-      "title": "$SPY you should have given us the heads of Traitors and Collud8mkng THIEVES.\n\nInstead you chose to protect not America but YOUR DEEPLY INGRAINED CORRUPTION.\n\nYou sold it to yourself &amp; now realize  that &quot;others&quot; are coming.\n\nJosh you talk so much but when they start talking there will be ACTION to follow. \n\nI dont have to explain.\n\nThe media wasnt controlled we would be reading ARTICLES by the mountains. \n\nIt is like a NEW TEAM entering the NFL and thier is media coverage, articles, magazines, talk shows.\n\nYour Israeli buddies control it &amp; its coming to an END. \n\nThese families that Operaed in America you havent told or they understand what is coming for them.\n\nHave some decency not to scream or whine about &quot;WHY? are you doing this to me?&quot; to the mob, to the new Aurhority, to your GOD. \n\nYou know why &amp; it just infuriates VICTIMS of your ills.\n\nIf OBAMA was guilty then you should have had a firing line for him.\n\nBidens Chief of Staff.\n\nHillary.\n\nSchumer.\n\nWhoever the corrupt were.",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T07:44:54Z",
-      "first_seen_utc": 1788250728
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "663307796",
-      "title": "$BTC.X you \ud83d\udc3b ready for pain ?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-01T07:25:23Z",
-      "first_seen_utc": 1788250728
     }
   ]
 }
