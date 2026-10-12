@@ -1,7 +1,282 @@
 {
-  "generated_at": "2026-10-12T00:14:16.515954+00:00",
+  "generated_at": "2026-10-12T10:13:46.743495+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666259248",
+      "title": "$SPY $DJI will 51,314 hold in the next pullback?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:59:12Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666259197",
+      "title": "https://youtube.com/watch?v=hsqjnAbXm1M&amp;is=btmm6JDpqMUsvlRT\n$SPY $QQQ $DIA $IWM",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:56:05Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666259181",
+      "title": "$TSLA $META $NVDA $AAPL \nhttps://youtu.be/hsqjnAbXm1M?is=L-RJ8wxCn-G-xZJk",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:55:26Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666259159",
+      "title": "$SPY where did all my Russian bot buddies go?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:53:56Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666259138",
+      "title": "$SPY https://x.com/unusual_whales/status/2109449219463434295?s=46&amp;t=kGPceLx_7fY2Z80V9b0FIg",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:52:40Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666259133",
+      "title": "$MU $SKHY $NVDA $QQQ We have an entire political movement rallying around stopping all AI development. Think that might affect memory market somewhat if they get the political power to actually do it? \ud83e\udd14",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:52:19Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "666259130",
+      "title": "Crude oil hovering above $100... 10-year yields recently hitting 24 year highs... More S&amp;P 500 &amp; Nasdaq all-time highs... \n \nhttps://www.youtube.com/watch?v=GLHUGv-hMeI \n \nNew weekly video: Weekly Market Update --- Markets Are Ignoring Every Warning Sign: Complacent or Bullish? \n \n#bondyields #brentcrude #preciousmetals #bitcoin #federalreserve #interestrates #gold #silver #copper #ethereum #altcoins $TLT $USO $BTC.X $GLD.X $XLF",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:51:55Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666259076",
+      "title": "$SPY over night tank from highs?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:49:31Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666258870",
+      "title": "$NVDA is in early talks to invest more in or buy Reflection AI, a startup building AI tools to automate coding. Nvidia already invested $800 million. Founded by ex-DeepMind researchers, it just launched its open model Beam. A deal could come soon but might fall apart. https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1&amp;ref=notreload.xyz",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:38:02Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "666258687",
+      "title": "$BTC.X Franck Muller combining luxury watches with Bitcoin cold storage is an interesting fusion of wealth and technology. \u231a\u20bf Could this be more than a luxury statement? As digital assets gain ground, the line between traditional luxury and crypto culture keeps evolving. What do you think?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:27:11Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666258608",
+      "title": "$SPY Fuck this tab hit hard rn \ud83d\ude02 rip. What am I doing?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:22:44Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "666258549",
+      "title": "$GDC $BTC.X  Why GDC Should NOT take a Buyout and hold their 7500 Bitcoins \u2753 \nIt&#39;s a long 45 Minute Video but just might change your view if you have the time NFA  \nhttps://youtu.be/Hj3LFD0UMSw?si=DpstorM7BSp0J-XW",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T09:19:05Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "666258230",
+      "title": "$BTC.X $IBIT Crypto Bull Market underway. Could be largest ever!\nhttps://www.facebook.com/story.php?story_fbid=1689230309276043&amp;id=BitcoinMagazine",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T08:58:48Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666257553",
+      "title": "$AAPL $TSLA $NVDA $SPY $MSFT\n\nhttps://m.youtube.com/watch?v=-rHgp0klREo",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T08:13:37Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666257306",
+      "title": "$SPY $MU $NVDA  \n \n$JPM \n CEO: Higher rates and wider credit spreads can materially change valuations and financing conditions for AI and technology companies. \n \n\u201cRates are going up. A lot of demand for capital, a lot of government financing... If it goes up higher than yours, does it create risk? The credit spreads gap? Yeah, it creates risk for all companies. It changes valuations. And then your markets open and closed.\u201d",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T07:51:56Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666256374",
+      "title": "$NVDA $AMD $MU $SKHY $SMCI What the FUD is going on now?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 6,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T06:10:05Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3sscf",
+      "title": "Credit Card Rewards Points game?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3sscf/credit_card_rewards_points_game/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791780389,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "666255447",
+      "title": "$TSLA down 20% YTD\n\nNo mass adoption of CyberCabs??whatever happened to Demos ??",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T04:38:06Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3s93b",
+      "title": "How to Cash A Check Online",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3s93b/how_to_cash_a_check_online/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791778572,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3rhex",
+      "title": "Alliant Credit Union customers with a teen checking. No welcome email?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3rhex/alliant_credit_union_customers_with_a_teen/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791776069,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3qg94",
+      "title": "What should me and my wife's next move be? More retirement funding? Slow down on investments?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3qg94/what_should_me_and_my_wifes_next_move_be_more/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791772789,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "666251859",
+      "title": "$AAPL can she push to $340 again?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-12T01:32:07Z",
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3p4ns",
+      "title": "Is DAF best option to make long-term charity donations with inheritance from Grandparents?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3p4ns/is_daf_best_option_to_make_longterm_charity/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791768665,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x3oyyx",
+      "title": "No love for SPYD?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x3oyyx/no_love_for_spyd/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791768181,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3oxmy",
+      "title": "39, Broke the Cycle but Never Learned to Build Wealth. Now What?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3oxmy/39_broke_the_cycle_but_never_learned_to_build/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791768064,
+      "first_seen_utc": 1791800026
+    },
     {
       "source": "reddit",
       "subreddit": "personalfinance",
@@ -23,6 +298,17 @@
       "num_comments": 0,
       "created_utc": 1791763416,
       "first_seen_utc": 1791764056
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x3najs",
+      "title": "Does it make sense to sell my car?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x3najs/does_it_make_sense_to_sell_my_car/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791763165,
+      "first_seen_utc": 1791800026
     },
     {
       "source": "reddit",
@@ -696,6 +982,17 @@
       "first_seen_utc": 1791746525
     },
     {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x3bdjl",
+      "title": "Risk and retire early or grind on and retire rich?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x3bdjl/risk_and_retire_early_or_grind_on_and_retire_rich/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791733309,
+      "first_seen_utc": 1791800026
+    },
+    {
       "source": "stocktwits",
       "symbol": "NVDA",
       "id": "666238242",
@@ -705,6 +1002,17 @@
       "num_comments": 0,
       "created_utc": "2026-10-11T15:35:31Z",
       "first_seen_utc": 1791746525
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x3ad0i",
+      "title": "Anyone solely/primarily in covered calls with good results?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x3ad0i/anyone_solelyprimarily_in_covered_calls_with_good/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791730817,
+      "first_seen_utc": 1791800026
     },
     {
       "source": "reddit",
@@ -895,6 +1203,17 @@
     },
     {
       "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x30ed0",
+      "title": "56 years old, $45K to invest: SCHD/QQQI 70/30, or should I prioritize dividend growth?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x30ed0/56_years_old_45k_to_invest_schdqqqi_7030_or/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791698279,
+      "first_seen_utc": 1791800026
+    },
+    {
+      "source": "reddit",
       "subreddit": "povertyfinance",
       "id": "1x309mk",
       "title": "How to earn 6000 rupees by the end of today..it's very urgent..I am a student without any support..right now..",
@@ -936,6 +1255,17 @@
       "num_comments": 0,
       "created_utc": "2026-10-11T05:20:16Z",
       "first_seen_utc": 1791720370
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x2z9vw",
+      "title": "What makes you consider a stock a \u201cgood stock\u201d?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x2z9vw/what_makes_you_consider_a_stock_a_good_stock/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791694293,
+      "first_seen_utc": 1791800026
     },
     {
       "source": "reddit",
@@ -1453,6 +1783,17 @@
       "num_comments": 0,
       "created_utc": "2026-10-10T23:08:49Z",
       "first_seen_utc": 1791690546
+    },
+    {
+      "source": "reddit",
+      "subreddit": "dividends",
+      "id": "1x2scbp",
+      "title": "Where should I put $1k for dividends?",
+      "url": "https://www.reddit.com/r/dividends/comments/1x2scbp/where_should_i_put_1k_for_dividends/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1791672563,
+      "first_seen_utc": 1791800026
     },
     {
       "source": "stocktwits",
@@ -54660,347 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1788717999,
       "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "663726455",
-      "title": "$AAPL  Do we get some Siri AI updates on Wednesday ???",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T18:06:07Z",
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w92rvu",
-      "title": "Envelope Budget in Actual Budget when paycheck-to-paycheck - how do you start with nothing to budget?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w92rvu/envelope_budget_in_actual_budget_when/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788716571,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725617",
-      "title": "$ARBE $NVDA nvidia is a succesfull company that never face postpone meeting. \n \nit was an example from succesful company \n \nthis situation is actually a failure itself. you still try to mirrored that as a fear for shorts. really? \n \ngod\u2019s sake, please look our chart and just 1 minute think as normal brain. at this chart, is that possibble for any short position 1 week wait /or interest can be a squeeze problem?  \n \nthere is no suprise news that can cause squeze. you even say at your own story, \n \nshorts wait appreciation. it means \n \nr/s appreciate = shorts gain advantage. ( as i understand your story accept as that) \n \nso, i understand from your squeze story , i belive your expectation is acception of board recommendation \n \nand as a result what is your thesis \n \nshorts gonna squeze because of one week delay?  \n \nwe are near atl +  no suprise news + your expectation is also appreciation of r/s which is also wished by shorts + one week delay = shorts will squeze",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:31:31Z",
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "reddit",
-      "subreddit": "options",
-      "id": "1w92ehi",
-      "title": "Zebra Strategy?",
-      "url": "https://www.reddit.com/r/options/comments/1w92ehi/zebra_strategy/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788715777,
-      "first_seen_utc": 1788873602
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725557",
-      "title": "$ARBE $NVDA $TSLA \n\nArbe states &quot;their 360 degree solution&quot; is in 100 Robotaxis.\n\nWhat are the implications of this statement?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:28:21Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w92bwx",
-      "title": "Can someone help a dunce like myself understand how paying off my remaining car loan early would be beneficial?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w92bwx/can_someone_help_a_dunce_like_myself_understand/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788715620,
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725504",
-      "title": "$ARBE $NVDA $TSLA Dr. FOMO, screaming \u201cHOW MANY?\u201d doesn\u2019t answer the question that matters.\n\nWithout system specs, there is no universal number. It depends on FOV, placement, overlap, redundancy and architecture.\n\nCould be 4, 6 or 8.\n\nNow your turn:\n\nHOW MANY ARE CONFIRMED ARBE?\n\nSuppose it needs 8.\n\nWhere is your evidence that:\n\n8/8 = Arbe?\n\nWhy not 1 Arbe + 7 others?\n4 Arbe + 4 others?\nArbe as evaluation/reference hardware?\n\nDo you have the BOM?\nSupplier confirmation?\nArbe units/car?\nExclusive sourcing?\n\nNo?\n\nThen asking how many radars the VEHICLE needs is just dodging how many ARBE actually supplied.\n\nThat\u2019s the question.\n\nAfter researching all night, why is that the one number Dr. FOMO can\u2019t answer?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:26:08Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "663725438",
-      "title": "$DJT $SPY \n\nIs Trump at least partially senile?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:22:54Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725286",
-      "title": "$NVDA the king is on the move higher on both W and M charts and you&#39;re bearish??? \n \n&quot;set it and forget it&quot;",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:16:21Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1w9217a",
-      "title": "When is this craziness going to stop?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1w9217a/when_is_this_craziness_going_to_stop/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788714977,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725264",
-      "title": "$ARBE $NVDA $TSLA \n\nSo.. how many is required?\n\nYou never answer a question.\n\nHow many?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:15:25Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "663725258",
-      "title": "$DJT $SPY Al qaeda is an American/israeli invention you filthy \ud83d\udc00 terrorist. Where were you born?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:15:20Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "663725233",
-      "title": "$BTC.X what\u2019s this??? \n$ZEC.X keep going",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:14:24Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725222",
-      "title": "$ARBE $NVDA why are you comparing  &quot;how NVIDIA AGM quorom requirements&quot; work to Arbe?\n\nIf you bet against Arbe for the R/S &quot;shareholder authorization&quot; news to hit on 9/2/26, the news isn&#39;t &quot;official company business&quot; yet, because the AGM could not be held because the lack of quorum (25%) was not present.  You now have to wait until 9/9/26 when the AGM is scheduled to reconvene.\n\nInsiders + Insituitinal investors hold enough for quorum... yet, it wasn&#39;t achieved.\n\nShorts are holding high risk bet a week longer then originally anticipated.  Can&#39;t trade monday, US national holiday.  They can only hope the stock remains surpressed on 9/8/26 leading up to the rescheduled AGM on 9/9/26.\n\nActual dates:\n-9/2/26 original AGM (no quorum)\n-9/9/26 rescheduled AGM\n-10/12/26 Risk of De-listing.\n\nPlenty of days to achieve &gt; $1.X \n\nWith R/S authorization in hand, Arbe can get 180 day extension from NASDAQ, putting risk of an &quot;actual&quot; R/S out to April 2027.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:14:01Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663725076",
-      "title": "$ARBE $NVDA $TSLA Dr. FOMO, you researched everything except the question I asked.\n\nI didn\u2019t ask:\n\n\u201cHow many radars might 360\u00b0 redundancy require?\u201d\n\nI asked:\n\n\u201cWhat evidence says ALL those radar positions use Arbe?\u201d\n\nNeed 3, 6, 8 or 20. Fine.\n\n3 radars required \u2260 3 Arbe radars.\n8 radars required \u2260 8 Arbe radars.\n\nYou somehow researched 300m point clouds before learning that distinction.\n\nAnd:\n\n\u201c3 radars, one drops = 33.33% blindspot.\u201d\n\nThat\u2019s not how you derive vehicle coverage by simply typing 1\u00f73.\n\nCoverage depends on FOV, mounting geometry, overlap and sensor fusion.\n\nSo far:\n\nCustomer: unknown.\nVehicle: unknown.\nConfiguration: unknown.\nArbe units/car: unknown.\nOther radar suppliers: unknown.\n\nYet Dr. FOMO has already designed the BOM, redundancy architecture, blindspot percentage AND a 300\u2013900 Arbe order.\n\n\u201cI\u2019ve researched it\u2026 have you?\u201d\n\nYes.\n\nThat\u2019s why I know the first rule of research:\n\nDon\u2019t multiply unknowns together and call the result FACT.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:07:19Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1w91p96",
-      "title": "$AVEX What do you think of the company?",
-      "url": "https://www.reddit.com/r/stocks/comments/1w91p96/avex_what_do_you_think_of_the_company/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788714235,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663724939",
-      "title": "$ARBE this is another sick way for his manipulate investors. \n \npostpone annual meeting is bad thing. u may say bye to @Kobimr  \n \nhave base of your fake fomos, $NVDA ever pospone it? no  \n \nhe mirrored this distunguish situation as hopeful case for bagholders. \n \nhow can shorts squeze, why? this story is in his own mind and its even empty for his fake fomo stories. he never say why, he just repeats again and again. analyze it like @William_Lineese \u2019s analytic way. \n \nrs appreciation \u2260 price  increase \n \nit is actually a real bad things. it means money burn level is unsustainable and our stocks go to rubbish. \n \neven we accept it as good news, what changed at a week? if it accepted this week, shorts not squeze but next week, will they? why? \n \nrs decline \u2260 price increase \n \ndespite board recommendation, as if it would reject we ll face delist risk. more thsn that board lost confidence.  \n \neven we accept rejection as good news, what changed at a week? if it accepted this week, shorts not squeze but next week, will they? why?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T17:01:35Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1w91mow",
-      "title": "Why isn't there real outrage actual public fury over politicians engaging in insider trading?",
-      "url": "https://www.reddit.com/r/stocks/comments/1w91mow/why_isnt_there_real_outrage_actual_public_fury/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788714079,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663724883",
-      "title": "$ARBE $NVDA $TSLA \n\nHow many radars do you think is required to maintain a 360 degree 4D Imaging Radar point cloud out to 300m+.\n\nI&#39;ve researched it... have you?\n\nIf a left rear corner radar drops, sufficient coverage overlap bewteen a side radar and rear right corner radar is required to prevent a blindspot.\n\nMinimal 3 radar... if one drops 33.33% blindspot.\n\nMinimal 4 radar... 25% or higher blindspot, dependent on location and angle\n\n6 radars is the magic &quot;can lose one&quot; level, but requires optimal placement and angles.\n\nIf optimal placement/angles is not possible\n\n2 front corners\n2 side\n2 &quot;per&quot; rear corner (4 in the back)\n\nThat makes 8\n\nHere is how NVIDIA is displaying their 9 radar placement:\n\nhttps://www.nvidia.com/en-us/solutions/autonomous-vehicles/drive-hyperion/\n\nhttps://blogs.nvidia.com/blog/halos-os-robotaxi-safety/\n\nPurple = front (1)\nYellow = sides (2)\nRed = corners (6)\n\nNotice the 4 radars in the rear.  2 point straight back, and 2 are angled outwards. Front c. also angled",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T16:59:27Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1w91hy8",
-      "title": "Would You purchase a car if you were poor?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1w91hy8/would_you_purchase_a_car_if_you_were_poor/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788713779,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "663724717",
-      "title": "$TSLA is it going to be up or down by Tuesday? Can Someone share thoughts \ud83d\udcad?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T16:51:32Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663724318",
-      "title": "$ARBE $NVDA $TSLA Dr. FOMO, you finally revealed the source behind your 300\u2013900 estimate:\n\n\u201cI PERSONALLY THINK.\u201d\n\nThere it is.\n\n100 cars: known.\nMultiple radars for 360\u00b0 coverage: reasonable.\n\nThen the magic starts:\n\nAll radars are Arbe? Assumption.\n6\u20138 is the sweet spot? \u201cI personally think.\u201d\nHyperion 10? \u201cIF.\u201d\n300\u2013900 Arbe radars? Multiply the assumptions.\n\nYou STILL haven\u2019t answered:\n\nWho says every radar position must use Arbe?\n\n\u201cNeeds 6 radars\u201d \u2260 \u201cneeds 6 Arbe radars.\u201d\n\nThat\u2019s like seeing one Sony TV in a 500-room hotel and announcing:\n\n\u201cSONY JUST WON A 500-TV ORDER!\u201d\n\nThen adding:\n\n\u201cI personally think every room uses Sony.\u201d\n\nCustomer: unknown.\nConfiguration: unknown.\nArbe units/car: unknown.\nHyperion: IF.\n6\u20138: personally think.\n\nConclusion:\n\n300\u2013900 Arbe radars.\n\nThis isn\u2019t BOM analysis.\n\nIt\u2019s fan fiction with multiplication.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T16:33:06Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1w90rkw",
-      "title": "How to play the upcoming stock tokenization boom?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1w90rkw/how_to_play_the_upcoming_stock_tokenization_boom/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788712119,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w90qey",
-      "title": "Personal loan to pay off/consolidate debt?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w90qey/personal_loan_to_pay_offconsolidate_debt/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788712045,
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w90adb",
-      "title": "How to fairly save up for multiple kids if different ages?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w90adb/how_to_fairly_save_up_for_multiple_kids_if/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788711064,
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "663723743",
-      "title": "$TSLA https://www.youtube.com/live/AMjOTHmsg9o?is=60ZdhVmMrDBgC0_J",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T16:04:20Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1w8zv8d",
-      "title": "How long until volume flows back from the Robinhood trenches to the Solana trenches, if ever?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1w8zv8d/how_long_until_volume_flows_back_from_the/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788710105,
-      "first_seen_utc": 1788724806
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1w8zrjk",
-      "title": "What can I improve in current setup for personal finances?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1w8zrjk/what_can_i_improve_in_current_setup_for_personal/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1788709866,
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663723228",
-      "title": "$ARBE $NVDA $TSLA Dr. FOMO slipped another assumption into his calculator:\n\nIf ONE Arbe radar is used \u2192 ALL radar positions must be Arbe.\n\nSays who?\n\n100 cars \u00d7 multiple radars does NOT equal 300\u2013900 Arbe radars.\n\nYou first need evidence that every radar position uses Arbe rather than other radars, suppliers, benchmark or reference sensors.\n\nCustomer? Unknown.\nLucid/Nuro? Speculation.\nHyperion 10? \u201cIF.\u201d\nArbe radars/car? Unknown.\nAll radars = Arbe? Assumption.\nActual order quantity? Undisclosed.\n\nThen Dr. FOMO hits multiply:\n\n\u201c300\u2013900!\u201d\n\nThat isn\u2019t order analysis.\n\nIt\u2019s assumption \u00d7 assumption, then pretending the answer is revenue.\n\nYesterday you identified chips with a ruler.\n\nToday you\u2019re writing an undisclosed customer\u2019s BOM for them.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T15:38:31Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663722687",
-      "title": "Only Fanz economy is booming? \ud83e\udd27 \n$SPY $QQQ $NVDA $BTC.X $USO.X",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T15:11:31Z",
-      "first_seen_utc": 1788715954
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "663722686",
-      "title": "$ARBE $NVDA $TSLA Dr. FOMO, there\u2019s the goalpost move.\n\nRepeat buy?\n\nSure. I accept it completely.\n\nNow explain when \u201crepeat buy\u201d became \u201cproduction selection.\u201d\n\nA customer can buy 10 units for evaluation, then 20 more for continued development.\n\nThat\u2019s still a repeat buy.\n\nIt proves:\n\nThey bought again.\n\nThat\u2019s it.\n\nIt does NOT magically prove:\n\nLucid/Nuro confirmed.\nTesla confirmed.\nExclusive supplier.\nProduction contract.\nMass-production volume.\n\nWe don\u2019t even know WHO the customer is, yet you\u2019ve gone from:\n\n\u201cThey bought again\u201d\n\nto:\n\n\u201cThey chose Arbe and the stock will skyrocket.\u201d\n\nDr. FOMO, you\u2019re not missing one piece of the puzzle.\n\nYou\u2019re missing the box.\n\nTesting \u2260 production.\nRepeat buy \u2260 design win.\nUnknown customer \u2260 Lucid.\nAnd \u201c;)\u201d \u2260 evidence.\n\nPlease keep replying.\n\nEvery post moves your claim one step further from \u201cFACT\u201d and closer to what it always was:\n\nspeculation.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-06T15:11:19Z",
-      "first_seen_utc": 1788715954
     }
   ]
 }
