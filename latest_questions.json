@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-18T20:05:08.607872+00:00",
+  "generated_at": "2026-10-18T22:47:41.730810+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666801751",
+      "title": "$SPY Futes rippin!! Back to $780 this week?!?! $SPCX \ud83d\udcb8\ud83d\udcb8",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T22:42:20Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "666801501",
+      "title": "$TSLA what you all think tomorrow ? Up or down ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T22:34:34Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "666801414",
+      "title": "$SPY $QQQ so based on this article, you can now get options at 7:30am now https://www.cboe.com/notices/content/?id=62044",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T22:32:06Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1x9gdoi",
+      "title": "Are Permissionless, Uncensorable, and Private Payment System Inevitable?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x9gdoi/are_permissionless_uncensorable_and_private/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792362683,
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "reddit",
+      "subreddit": "CryptoCurrency",
+      "id": "1x9g6s3",
+      "title": "What are the best strategies for selling a utility crypto token?",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x9g6s3/what_are_the_best_strategies_for_selling_a/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792362162,
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "666801006",
+      "title": "$LUMN $SPCX $TSLA  Maybe the $80B Starlink Mobile build estimates are asking the wrong question.\n\nWhy would Musk recreate a traditional wireless carrier?\n\nHis model has always been different.\n\nOwn the expensive shared infrastructure. Let wireless/satellite solve the edge.\n\nNow imagine adding Lumen:\n\n\ud83c\udf0e Fiber = core capacity  \n\ud83d\udce1 Wireless = metro last mile  \n\ud83d\udef0\ufe0f Starlink = anywhere terrestrial economics suck  \n\u26a1 Lasers = orbital transport/redundancy\n\nSpaceX wouldn\u2019t need fiber to every endpoint and wouldn\u2019t need to send every packet through space.\n\nJust let the best path win.\n\nBuying an existing core could eliminate years of duplicate construction while Lumen itself might avoid marginal fiber builds that Starlink/wireless can serve cheaper.\n\nMaybe the real synergy is simple:\n\nStop building two networks toward the same demand.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T22:18:44Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666800474",
+      "title": "$NVDA green?! Wow \ud83d\ude2e",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T22:03:57Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "666800156",
+      "title": "https://youtube.com/watch?v=P3NX-7GT6GA&amp;is=yj0KYI5TnVQRFL5j\n$INTC $TSLA \nSignificant volume in *$VIX calls was observed on Friday (0:00 - 1:20), with the volatility index rejecting the 22 level for the eighth time since May 2025. Staying below this level is currently crucial for market stability.\n\u2022 Technical Setups: The host examines technical patterns for Intel (1:20 - 3:08) and Tesla (3:08 - 4:03). While Intel showed highly bullish options flow, it is currently testing a support level. Tesla remains in a chop zone between 340 and 386.\n\u2022 Market Indices: Both QQQ (4:03 - 5:04) and SPY (5:04 - 5:56) are currently testing critical &quot;line in the sand&quot; support levels. A break below 700 for QQQ or 760 for SPY could signify a shift toward a bearish trend.\n\u2022 Dark Pools: The host notes an unusual lack of singular dark pool prints during the recent OPEX (7:18 - 8:28), suggesting that signature prints appearing on Monday will be key to understanding institutional positioning.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T21:52:50Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666799907",
+      "title": "$AMD $NVDA \n\nLook what Morgan Stanley just hit the wire with\u2026 seems they get the NVDA platform deserves a LOT more respect than it currently has vis a vis AMD, with AMD rading at 2X in NVDAs forward 12 month EPS consensus\u2026\n\nDo note that comment is before considering that NVDA revenue and EPSconsensus for this FYr and especially next FY JAN 28 are woefully low, and that Morgan Stanley\u2019s work implies AMD\u2019s revenue earnings projections are way too high for this year and but especially next year.\n\nhttps://x.com/pequityresearch/status/2111835696142995462?s=42",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T21:40:30Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666799333",
+      "title": "$NVDA and $TSM are at the heart of the AI revolution.\n\nNVIDIA designs the computing power driving AI, while TSM manufactures the advanced chips that make it possible. Both are positioned to benefit as AI expands across every industry.\n\nSkeptics focus on a potential bubble. The big picture? AI is in its early stages, demand continues to grow, and the long-term opportunities are enormous.\n\nWall Street analysts see significant upside in both companies, reflecting expectations for continued earnings growth and expanding AI demand.\n\nAI isn\u2019t just a trend. It\u2019s a fundamental shift in how the world operates.\n\nWe\u2019re still in the early innings. The companies building the infrastructure today will be major winners for years to come.\n\n\ud83d\udcc8 Think long term. Look beyond the noise. Don\u2019t underestimate the power of AI.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T21:15:33Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666799267",
+      "title": "$NVDA NVIDIA Nears Major Support  Is a Bear Flag Forming #trading\nhttps://youtube.com/shorts/guGpfQBGp_s?feature=share",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T21:13:02Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x9e74q",
+      "title": "Meeting transaction requirement for 6%. Would you do it and how?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x9e74q/meeting_transaction_requirement_for_6_would_you/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792357045,
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666798835",
+      "title": "When Chip Stocks Fall, What Actually Changed?  \n \nA weaker cycle \u2014 or a crowded trade unwinding? \n \nPickAlpha&#39;s Oct 18 Regime Map: \nFundamentals: 0.45 (Undecided) \nPositioning: 0.71 (Crowded) \n \n$SMH $SOXX $NVDA $AMD $AVGO \n \nhttps://open.substack.com/pub/pickalpha/p/when-chip-stocks-fall-what-actually?r=1m2m41&amp;utm_campaign=post-expanded-share&amp;utm_medium=web",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T20:55:38Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "666798674",
+      "title": "Who actually believes this guy anymore?\n$SPY $QQQ $BTC.X $USO $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 6,
+      "num_comments": 0,
+      "created_utc": "2026-10-18T20:48:11Z",
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "reddit",
+      "subreddit": "personalfinance",
+      "id": "1x9dqzg",
+      "title": "795 credit score, no card debt, own home. How do I make it work harder?",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1x9dqzg/795_credit_score_no_card_debt_own_home_how_do_i/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792355915,
+      "first_seen_utc": 1792363661
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1x9dnhm",
+      "title": "What's your take on the market, currently?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1x9dnhm/whats_your_take_on_the_market_currently/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792355671,
+      "first_seen_utc": 1792363661
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -63,7 +239,7 @@
       "id": "666797289",
       "title": "$TSLA what a fucking joke, flying cars??? You believe this bullshit??? Just like flying pigs... all the dumb fucks believed the bioweapon called a vaccine was real too. The fucking idiots took pics and fought common sense over a fake virus. Now the lead globalist cocksucker is pulling some slight of hand illusion shit with AI and the masses eat the shit up.. \n \nFuck are you all stupid to buy into this shit. Musk is the lead globalist cocksucker...  \n \nFuck that guy. \nSundREZ",
       "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
+      "score": 3,
       "num_comments": 0,
       "created_utc": "2026-10-18T19:51:17Z",
       "first_seen_utc": 1792353908
@@ -356,11 +532,11 @@
     },
     {
       "source": "stocktwits",
-      "symbol": "NVDA",
+      "symbol": "AAPL",
       "id": "666794329",
       "title": "$POET actually just came to mind while  $POET to $NVDA is quite obvious by now in my book with FIT/Foxconn  \n \n$POET would surely supply $AAPL as well with FIT/Foxconn?  \n \nThinking &quot;Apple Intelligence&quot; -&gt; Private Cloud Compute (PCC) \ufe0f\ud83d\udd75\ufe0f \n \ni know this is speculation, enjoy sunday \ud83d\udca1\ud83d\udc51",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 4,
       "num_comments": 0,
       "created_utc": "2026-10-18T17:41:03Z",
       "first_seen_utc": 1792345786
@@ -503,7 +679,7 @@
       "id": "666792589",
       "title": "$AAPL: lost the serial number? You can still file the Apple Intelligence claim with your Apple Account email and the phone number tied to that iPhone. No receipt needed, $25 to $95 per device, claim by Dec 21. Open Class Actions.",
       "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
+      "score": 1,
       "num_comments": 0,
       "created_utc": "2026-10-18T16:33:27Z",
       "first_seen_utc": 1792345786
@@ -518,6 +694,17 @@
       "num_comments": 0,
       "created_utc": 1792339653,
       "first_seen_utc": 1792345786
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StockMarket",
+      "id": "1x96pf6",
+      "title": "AI stock growth driven by deregulatory environment?",
+      "url": "https://www.reddit.com/r/StockMarket/comments/1x96pf6/ai_stock_growth_driven_by_deregulatory_environment/",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": 1792339066,
+      "first_seen_utc": 1792363661
     },
     {
       "source": "stocktwits",
@@ -54814,193 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1789216638,
       "first_seen_utc": 1789235024
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "664123750",
-      "title": "$IREN did they finally say how much goes to Iren with the last $NVDA announcement?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:30:34Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "664123652",
-      "title": "Wednesday the Fed votes. The market already did \u2014 nearly 90% priced for a 25bp hike into 3.75-4.00%. \nBut &quot;priced in&quot; isn&#39;t a guarantee. It&#39;s a question: what does the tape do when the news actually lands? \n$SPY closed 764.29 Friday, range 763.60-766.38. Break Friday&#39;s high on the decision = the relief has legs. Reject and close lower = the low gets retested. The chart votes first, the Fed reads it out loud. Levels, not advice.",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:24:35Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "664123596",
-      "title": "$NVDA Many of you here think the markets are going higher on Monday.  \nHaven&#39;t you read the new news? Another pipeline hit. We are all fvcked. \nOil will rise beyond $110 on Monday. \nEnd this useless war already.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:21:30Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "664123566",
-      "title": "$BTC.X is it dead?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:19:47Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "664123507",
-      "title": "$SPY https://youtu.be/BXLGV0Sj0n8?si=pdxAx5dyWsR21tPa",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:15:29Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "664123489",
-      "title": "$DJT $SPY $DIA $QQQ $VTI \nTrump&#39;s doing so bad at his current forever war, old forever wars wanted back in..\n\n&quot;Saudi Arabia says East-West pipeline hit by drones launched from Iraq&quot;\n\nNow, I know a lot of MAGA are confused.  They are thinking, &quot;But we won already?&quot;  To them, I suggest visiting reality, the weather is fine this time of year.\n\nIraq condemns the attack, dismisses a military commander who led operations in Maysan province. \n\nBrent is on it&#39;s way above $110.\n\nhttps://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T12:13:57Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "664123219",
-      "title": "@BaconGreez I\u2019m watching for confirmation Monday \ud83d\udc40 If $SPY holds, bulls could take control. What level are you watching? \ud83d\udcc8",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:56:13Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "664123141",
-      "title": "$NVDA PEG ratio? 5 yr expected? Come on in PEG!  At .55 PEG ratio for 5 yr expected your my gal! All signs point to stock being currently undervalued and that is not in my honest opinion it is a fact if you have been with PEG before you know. I sold those 50 shares I bought last week for one I needed the money back and two made a couple hundred dollars and three they were not dividend paying for me as I had bought them on the 10th but any way your bottom feeding algae eater when it comes to making a little something something on a down week. I really shouldn&#39;t have bought those last 50 shares anyway but it worked out and I have only Nvidia to thank. I am heading over to the latest FinVid now for my most positive Nvidia News today. C&#39;ya real soon winners!",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:50:20Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "664123123",
-      "title": "$NVDA PEG ratio? 5 yr expected? Come on in PEG!  At .55 PEG ratio for 5 yr expected your my gal! All signs point to stock being currently undervalued and that is not in my honest opinion it is a fact if you have been with PEG before you know. I sold those 50 shares I bought last week for one I needed the money back and two made a couple hundred dollars and three they were not dividend paying for me as I had bought them on the 10th but any way your bottom feeding algae eater when it comes to making a little something something on a down week. I really shouldn&#39;t have bought those last 50 shares anyway but it worked out and I have only Nvidia to thank. I am heading over to the latest FinVid now for my most positive Nvidia News today. C&#39;ya real soon winners!",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:49:02Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "664123102",
-      "title": "$SPY heading into Fed week where are you leaning? \ud83d\udc40\nOptions:\n\n* \ud83d\udcc8 Bullish\n* \ud83d\udcc9 Bearish\n* \u23f3 Waiting for confirmation",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:47:48Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "664123066",
-      "title": "$BTC.X $ICP.X $NEAR.X $TAO.X\n\nThe more I think about ICP\u2019s World Computer idea, the more interesting it becomes.\n\nToday, the internet depends on countless servers, cloud providers, databases, security layers and intermediaries. Building and running applications can be expensive and complex.\n\nWhat if you could have one global, decentralized infrastructure where apps, websites, AI agents and digital services can run securely?\n\nThat\u2019s what makes the World Computer concept so interesting to me.\n\nNot simply \u201canother blockchain,\u201d but potentially a new layer of internet infrastructure.\n\nThe internet connects the world.\n\nMaybe the World Computer could become the infrastructure on which much of the digital world actually runs.\n\nWhether ICP can prove this at global scale remains to be seen.\n\nBut the idea itself?\n\nI don\u2019t think it\u2019s crazy at all. I\u2019m starting to believe in it more and more.",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:45:21Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1wea2ec",
-      "title": "Hodlnaut Liquidation First Interim Distribution \u2013 Previous users has anyone received their payout yet?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wea2ec/hodlnaut_liquidation_first_interim_distribution/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1789212282,
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "664122775",
-      "title": "$TSLA $SPCX $AMZN $AAPL \n\nWHERES THE $2000 TRUMP SAID EVERYONE WAS GETTING FROM THE TARIFFS!???\n\nOH AND THE $5000 FOR THE MIDTERMS!???\nDONT HOLD YOUR BREATH!\n\nBILLIONS IN REFUNDS TO MAJOR COMPANIES\nBECAUSE OF \u2018UNFAIR\u2019 TARIFFS \n\nHEY MAGA HOWS IT LOOKING???",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T11:22:26Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "reddit",
-      "subreddit": "CryptoCurrency",
-      "id": "1we8ls4",
-      "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What\u2019s Next?",
-      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1we8ls4/ethereum_whales_just_woke_up_as_eth_exploded_to/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1789207477,
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "664122098",
-      "title": "Bitcoin Sentiment Hits 2-Year High As Spot Demand Rises: Is A Market Turn Coming?\n\n$BTC.X $IBIT $GBTC $HODL $BITB\n\nhttps://stocktwits.com/news/cryptocurrency/markets/bitcoin-sentiment-hits-2-year-high/cZtLmbuRBbV",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T09:59:33Z",
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1we7t1h",
-      "title": "Would Close Brothers consider overturning their decision to terminate vehicle finance on MH grounds?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1we7t1h/would_close_brothers_consider_overturning_their/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1789204622,
-      "first_seen_utc": 1789216786
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "664121766",
-      "title": "$TSLA momentum feels shaky here. Buyers stepping back or just catching their breath? Volume&#39;s telling a story but I&#39;m not sure which one yet. Anyone else watching this chop closely?\n\nhttps://stockraker.short.gy/stocktwitspicktrading",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-09-12T09:13:21Z",
-      "first_seen_utc": 1789216786
     }
   ]
 }
