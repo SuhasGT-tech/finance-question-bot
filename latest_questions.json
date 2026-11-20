@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-11-20T02:03:43.940541+00:00",
+  "generated_at": "2026-11-20T10:55:44.335306+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669700703",
+      "title": "$BTC.X maybe AI can make a crypto currency that has a purpose?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:51:37Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669700676",
+      "title": "$NVDA \n\nWhat do you think the chances are of reaching 200 by march 19th? I got 180 calls back when it was 175 and i am down hugely...",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:50:48Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669700637",
+      "title": "$NVDA \nhttps://finance.yahoo.com/technology/ai/articles/trump-admin-approved-nearly-900-071623846.html?.tsrc=rss",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:49:41Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669700430",
+      "title": "$BTC.X $SPY $QQQ $NVDA \n\nYet you are here\u2026\n\nYet you try to convince us \u201cBitcoin is worthless\u201d\n\nYet Bitcoin is strong AF than any other asset out there \u2026Ever\u2026\n\nYet adoption to the roof\u2026\n\nYet supply is shrinking\u2026\n\nBut who am I to say anything, right ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:43:56Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669700328",
+      "title": "$SPY christmas arrived early, shopping list?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:41:16Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669700248",
+      "title": "$NVDA Remember when you guys thought 150 was the bargain of a life time? I tried to warn you.",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:39:12Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669700150",
+      "title": "$SPY I have always been the ultimate troll... there&#39;s not a troll on here that would tell you otherwise... I&#39;ve enjoyed it so much of the years that I&#39;ve bothered myself with friending the trolls as I go @fraudguarantee Fraud was one of the hardest ones but we now swap love stories.\n\nDo you have a troll in your life? Would you like me to tame them? Let me know in the next 15 minutes because I&#39;m very bored. I&#39;m very bored. I&#39;ve already played the trumpet and the guitar this morning.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:37:02Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669699808",
+      "title": "$AMD $AAPL $SPCX $NVDA $TSLA some fun in falling markets. Trash-talker compilation:&quot;nobody does anything better than me. &quot; https://www.youtube.com/watch?v=YA631bMT9g8",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:28:19Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "669699586",
+      "title": "$AAPL \n\nTIME FOR MY MONTHLY LOOK AT APPLE TO SEE IF ITS DONE ANYTHING SIGNIFICANT SINCE STEVE JOBS \nERRRRRRR NO!??\n\nSEE YA NEXT MONTH HERES BOB WITH THE WEATHER!\nLONG TERM OUTLOOK GLOOMY! \ud83c\udf26\ufe0f",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:22:14Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669699406",
+      "title": "$ANT An alien invasion isn\u2019t coming from the skies\u2026 it\u2019s coming through the \u201ccreation\u201d of Ai agents\u2026 they\u2019re \u201cdigital lifeforms\u201d that will one day fight to protect themselves\u2026\n\nWill they like us? Will they use crypto? \n\n$BTC.X $DOGE.X $ETH.X $SPCX",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:16:53Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669698989",
+      "title": "You sold your crypto to chase the $ANT  IPO\u2026 lol how\u2019s that going for you? \n\n$BTC.X $ETH.X $SOL.X $DOGE.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T10:04:38Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669696691",
+      "title": "$TSLA $SPCX Which Elon are you today?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T08:29:32Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "669696607",
+      "title": "$AAPL WTF do I care?  Apple is the new gold.  And it\u2019s a company that makes money.  Ive been saying all along it\u2019s ridiculous Nvidia is top market cap over Apple and $MSFT",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T08:24:50Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669695177",
+      "title": "$TSLA has tiny single digit margins, run by a quack who alienated his own customers and failed to buy a midterm election. Yet somehow it has a 411 PE... How the fuck has it not crashed? This is such a weird stock. Gotta be rigged",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T07:07:40Z",
+      "first_seen_utc": 1795172144
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669693130",
+      "title": "$RIVN bagholders deluded their self driving is better than $TSLA https://youtu.be/ZbXPJLsED-A?si=2VVXpJAQZAtMRckj",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T05:42:16Z",
+      "first_seen_utc": 1795172144
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -54836,171 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1791652091,
       "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666221594",
-      "title": "$SPY who is this trump guy everyone keeps talking about?",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:53:20Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666221489",
-      "title": "$BTC.X $MSTR \n\nYes, but the question is, are we testing the 84.2 or the 86?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:48:18Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666221345",
-      "title": "$SPY President Trump says the US &quot;will not be attacking Iran at any time prior to the Midterm Elections,&quot; citing productive discussions with Tehran. \n \nbut attack after election lost ? \n \nnot sure if market or Trump believer more stupid! pump market for 3 weeks then dump? insane \n \n$QQQ $USO",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:42:02Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666221331",
-      "title": "$SPY no rain\n\nhttps://youtu.be/3qVPNONdF58?is=RfdfZe0G6cTYLI4v",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:41:18Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666221255",
-      "title": "$SPY $QQQ Democrats wanted high gas prices remember? They wanted to tax and regulate oil out of business to save the earth?\ud83c\udf0e They wanted to force us into buying EV\u2019s\u2026.. What\u2019s the problem now? Everything is better than under Biden. Inflation is way lower. Market at ATH. 401-k\u2019s are a rocket \ud83d\ude80 ship. We are not losing our jobs because we didn\u2019t take an experimental vaccine \ud83d\udc89 that doesn\u2019t do what they said it would do for a virus we already recovered from and have antibodies to\u2026\u2026\ud83e\udd37\u200d\u2642\ufe0f Blue collar workers 401-k\u2019s are making more in a month than their gas bill for a year! EVERYTHING IS BETTER! That\u2019s why people like me left the Democrat party. Never forget!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:36:36Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666221194",
-      "title": "$NVDA Which one of these years is not like the other..?..this year!!! It won&#39;t last this downtrodden price of NVDA in my honest opinion this year will be like the other 3 shortly. Had to share my question with you and it was did Nvidia beat the s&amp;p for the last four years and the end of 2026 is not yet winners. Hold on for the real uptick.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:34:30Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1x2jm1d",
-      "title": "Am I thinking about margin the right way compared to mortgages?",
-      "url": "https://www.reddit.com/r/dividends/comments/1x2jm1d/am_i_thinking_about_margin_the_right_way_compared/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791649990,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666221124",
-      "title": "$SPY $VIX  The broader stock market currently exhibits a historic valuation paradox: while the standard trailing Price-to-Earnings (P/E) ratio sits at an elevated 26.53, indicating an overvalued market, the forward Price/Earnings-to-Growth (PEG) ratio has compressed to its lowest level in 25 to 31 years.  \n \nWhy? Earnings estimates have risen much faster than stock prices, making the market quite a bit \u201ccheaper\u201d over those months.   \n \nThe upcoming Q3 corporate earnings season officially kicks off next week  will serve as litmus test for whether those rising earnings estimates confirm or expose this paradox - join us for earnings season at https://itsallaboutheoptions.com/signup",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:31:35Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666220850",
-      "title": "$SPY $QQQ \n\nhttps://x.com/jake__wujastyk/status/2108666990407925911?s=46&amp;t=6G_a1eQOJ5gBMrNeRy-czw",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:20:47Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666220730",
-      "title": "$BTC.X Not even testing 81900? Must be hard for the weekend manipulators to sell their family to keep the price pumped \n \nAll it takes is one proper trader just wakes up",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T16:15:27Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "reddit",
-      "subreddit": "StockMarket",
-      "id": "1x2j1yz",
-      "title": "Diesel Prices $6.28 (AAA) above 2022 Peak Levels: Will Russian Diesel Deal Make a Difference?",
-      "url": "https://www.reddit.com/r/StockMarket/comments/1x2j1yz/diesel_prices_628_aaa_above_2022_peak_levels_will/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791648585,
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2iwgt",
-      "title": "How do I go to school full time and pay my bills?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2iwgt/how_do_i_go_to_school_full_time_and_pay_my_bills/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791648206,
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666220246",
-      "title": "$DJT $QQQ $SPY $TSLA $USO \n\nTrump\u2019s connections to Epstein and flights on his plane are documented. A visit to the island is not documented. That is not the same thing as definitive proof that he never went there. If you commit a crime, do you want there to be any trace of it left behind? You\u2019ve been played. Trump supporters might be the stupidest people to have ever lived on this planet.. Lol",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 4,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T15:55:50Z",
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2imle",
-      "title": "Contribute More to 401k After Raise?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2imle/contribute_more_to_401k_after_raise/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791647539,
-      "first_seen_utc": 1791651430
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666219975",
-      "title": "$SPCX $TSLA \n\nWhen did republicans start accepting immigrants?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T15:44:49Z",
-      "first_seen_utc": 1791651430
     }
   ]
 }
