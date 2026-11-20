@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-20T10:55:44.335306+00:00",
+  "generated_at": "2026-11-20T19:37:43.678805+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669790466",
+      "title": "$NVDA I mean i get it the big boys are punishing the board. But why is the board so powe hungry? Just bring Jensen back",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:34:00Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669790458",
+      "title": "$NVDA I repeat, where is Tom Lee?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:33:58Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669790442",
+      "title": "$NVDA where is the guy that bought the dip at 1:35?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:33:55Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669790427",
+      "title": "$QBTS Jensen Huang made his quantum statement on January 7, 2025, saying useful quantum computers were likely 15 to 30 years away. A man who spent 30 years building NVIDIA and taking everyone to the top with him, yet somehow he\u2019s the problem. The greed is already beaming through the board.\n\nLook at QBTS. Alan Baratz openly fought Jensen over his quantum statement while enriching himself. The stock hit $40 a share on high end in 2026, just as I predicted, yet all the board did was enrich themselves.\n\nHave you ever worked in startup construction or the white collar world? Greed is unquenchable. Employees struggle while the boss buys his third house, then there\u2019s no money for payroll. They even call you selfish for needing a paycheque.\n\nJust another story of greed. This board spends more time thinking up 4S insider sales than actually running a quantum computing company. But somehow Jensen is the problem. $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:33:52Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669790424",
+      "title": "$ANT confirmed for trying to summon demons and we don\u2019t want to piss it off. \n\nI didn\u2019t ask to live in this terrifying dystopia did you? $SPY $NVDA",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:33:51Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669790294",
+      "title": "$SPY does gen z know what a financial crisis is now? Lol",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:33:23Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669789724",
+      "title": "Bitcoin at $30,000? History suggests it\u2019s not as crazy as it sounds. \n \n2018 bear market: -84% \n2022 bear market: -77% \nNext bear market bottom: -76%? \n \n$BTC.X \n  is sitting at a critical monthly support level around $57K, with a massive potential head-and-shoulders formation developing. \n \nIf this neckline fails, the long-term ascending trendline around $29K\u2013$30K becomes a very interesting downside destination. \n \nA 76% drawdown wouldn&#39;t be unprecedented. It would be consistent with previous Bitcoin bear markets. \n \nNot a prediction. A scenario. \n \nTrade the chart, not the narrative.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:31:04Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669789277",
+      "title": "$BTC.X It could virtually fall down -80% in a minute, are bulls mentally ready for that crazy ride ?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:29:11Z",
+      "first_seen_utc": 1795203463
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669788449",
+      "title": "what happens of youre Elon and youve borrowed against your unexercised options? \n \n$TSLA $SPCX",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T19:25:32Z",
+      "first_seen_utc": 1795203463
+    },
     {
       "source": "stocktwits",
       "symbol": "BTC.X",
@@ -760,6 +859,17 @@
       "num_comments": 0,
       "created_utc": "2026-11-19T08:54:13Z",
       "first_seen_utc": 1795086458
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "170241",
+      "title": "How should I plan a monthly budget when part of my income is a grant paid on a set date each month?",
+      "url": "https://money.stackexchange.com/questions/170241/how-should-i-plan-a-monthly-budget-when-part-of-my-income-is-a-grant-paid-on-a-s",
+      "score": 1,
+      "num_comments": 2,
+      "created_utc": 1795072479,
+      "first_seen_utc": 1795203463
     },
     {
       "source": "stocktwits",
@@ -54890,116 +55000,6 @@
       "score": 0,
       "num_comments": 0,
       "created_utc": "2026-10-10T19:00:19Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666224005",
-      "title": "$WFF if nobody wants to support the effort i put in to getting this stock to squeeze \u2026 then i will be blocking alot of your guys by monday morning \u2026 what am i getting out of pushing stock for a bunch of people who cant even support me with 100 dollars? \n\n$AIXI $TSLA $AMC $GME",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T18:53:35Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666223881",
-      "title": "$AMD vs $NVDA vs $MU, three chip names with very different price tags. Trailing P/E on my screener at Friday&#39;s close: MU ~13.8 after +467% in 1 year. NVDA ~29 after +25%. AMD ~155 after +183%. The odd one: the stock that ran the most is the cheapest on trailing earnings, because Micron&#39;s gross margin roughly doubled (39.8% to 80.7%). AMD is pricing in a lot of future, NVDA is the laggard of the three on 1-year returns. Short term all three look tired: Quick Momentum flipped to Sell on Oct 8-9 for each, and they&#39;re down 2-4% on the week. Which of these multiples looks wrong to you a year from now?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T18:46:51Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2mb51",
-      "title": "How make a better use of additional income after salary increase?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2mb51/how_make_a_better_use_of_additional_income_after/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791656732,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666223369",
-      "title": "Will $TSLA ever get the big breakout it needs?! \n \n200DMA is posing resistance once again and the stock is pinned at $390 \n \nIf we see a pullback towards $360-370, ride it back up!",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T18:21:42Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2ljxb",
-      "title": "Household income change\u2014what am I forgetting?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2ljxb/household_income_changewhat_am_i_forgetting/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791654845,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1x2lfc7",
-      "title": "Why do people constantly argue overvaluation when the earnings tell a different story?",
-      "url": "https://www.reddit.com/r/investing/comments/1x2lfc7/why_do_people_constantly_argue_overvaluation_when/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791654517,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2ldzf",
-      "title": "Prioritize brokerage account for child instead of 529?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2ldzf/prioritize_brokerage_account_for_child_instead_of/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791654425,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2l0em",
-      "title": "Where to put money for home purchase in 3-6 years?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2l0em/where_to_put_money_for_home_purchase_in_36_years/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791653466,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2kw2o",
-      "title": "Tax arbitrage in retirement \u2013 how's my plan?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2kw2o/tax_arbitrage_in_retirement_hows_my_plan/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791653168,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2kgdy",
-      "title": "Can I afford this new rent, or is this a bad idea?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2kgdy/can_i_afford_this_new_rent_or_is_this_a_bad_idea/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791652091,
       "first_seen_utc": 1791666586
     }
   ]
