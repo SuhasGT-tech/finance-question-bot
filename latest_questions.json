@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-20T19:37:43.678805+00:00",
+  "generated_at": "2026-11-21T02:00:45.149146+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669837479",
+      "title": "$SPY Rice and beans...how was your dinner?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:54:43Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669837425",
+      "title": "$LGHL   pump like $YFI.X  \n \nLGHL You have same thunes like YFI, LOOK THE PRICE AND FLOAT : \n \nLGHL : 45 880 SHARES IN FLAOT : PRICE NOW : 0.71 $ = MARKET CAP : 32 574,8 $ \n \nYFI : 35 884 SHARES IN FLAOT : PRICE NOW : 1611 $ = MARKET CAP : 57 810 000 $ \n \nNOW LGHL WHAT DO YOU NEED FOR PUMP LIKE YFI ? \n \nLGHL AND YFI ARE IN TGE SAME SECTOR CRYPTOCURRENCY \n \nSAME LOW FLOAT UNDER 50K  \n \nLGHL :  $BTC.X  $HYPE.X  \n \nYFI : $ETH.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:53:51Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669837346",
+      "title": "$NVDA boomer rape hows the 401k?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:52:14Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669837232",
+      "title": "imagine if $BRK.A $BRK.B buys the $NVDA dip?!",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:49:21Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669837201",
+      "title": "$NVDA \n https://youtube.com/shorts/3eIKG_gAvjM?si=nq_BqvggWw8oFGpJ",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:48:39Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669837159",
+      "title": "$SPY $QQQ are we in margin call territory yet??",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:47:53Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669837101",
+      "title": "$BTC.X $PEPE.X $SOL.X $TRUMP.X $XRP.X friends? What fucking friends? The man has no friends, only bootlickers and opportunists. They were all his \u201cfriends when he had all the power, but since the election, with 2 years left, no congress and political winds entirely against him, Trump is now like a burning poop bag. No one wants to get close. Even Mr Dark Maga, Doge Lord Musk himself is throwing him under the bus, and renouncing maga. The jig is up, the con is done and you morons will be left holding the bag.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:46:41Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669837100",
+      "title": "$SPY https://youtu.be/4FP3DFVXARw?is=Jl2dM2BWuh9G-kyv",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:46:40Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669836882",
+      "title": "$SPY https://youtu.be/jjCPc-47NmI?is=wIMSeilWnSfChBBh",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:42:17Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669836836",
+      "title": "$TRUMP.X $BTC.X $PEPE.X $XRP.X $SOL.X \n\nTrump doesn&#39;t support them when he throws them under the bus.  Why would they?  Only complete imbeciles will, only to get destroyed by Trump.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:41:21Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669836790",
+      "title": "$NVDA $QQQ $SPCX $SPY $TSLA \n\nIs he you really accusing the democrats for the actual collapse of the tech sector?!?!?!? \n\nI don\u2019t care if you\u2019re blue or red, but NEVER in 1000000000 years the democrats are responsible for this bloodbath!  And you know what, neither the republicans fault!  Its the market fault, the market makers and CEOs of all these AI companies or linked to AI companies\u2026 \n\nThey pumped AI and all semis.  Created this bubble that exploded in everyones face.\n\nThen you have this kind of user, person, dinosaur, that come here and posts this type of garbage, trying to accuse the democrats\u2026\n\nDid your President, which i remember you he\u2019s a republican, did he do anything good?!  GAS PRICES EXPLODED, INTEREST RATES EXPLODED SAME FOR INFLATION OBVIOUSLY, WARS, A NATION WHICH IS DIVIDED, NATIONAL DEBTS SKYROCKETED, USA IN THE WORLD LOOKS LIKE NO F CLASS WHEN THE WORLD WATCHS YOUR PRESIDENT.   And you still have the courage to post your garbage.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:40:37Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669836628",
+      "title": "$BTC.X $QQQ $SLV $SOXL $SPY \n\nWe we winning yet!!!! \ud83d\udcaf\ud83d\ude80\n\nhttps://www.facebook.com/share/r/1EcKNdkfJv/?mibextid=wwXIfr",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:37:43Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669836122",
+      "title": "$TSLA fell 7.6% on Friday, November 20, 2026, to $345.82, while the Nasdaq Composite dropped 5.28%. HSBC raised its rating on the stock the same day, according to Wisevoter. \n \nSee where the price sits against a fair value range built from the company&#39;s own reported numbers, and sign up for free. \n \nEducational, not advice. \n \nSee what it&#39;s worth below \ud83d\udc47 \nhttps://techdamentals.com/v/TSLA?ref=st",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T01:30:18Z",
+      "first_seen_utc": 1795226445
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "669821103",
+      "title": "$AAPL Well I did cover at the close! Oversold? Idk. \n\nBut don\u2019t hold short on most stocks over weekends. \n\nWMT holding short! Only one! \n\nGlta",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-20T22:19:17Z",
+      "first_seen_utc": 1795226445
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -867,7 +1021,7 @@
       "title": "How should I plan a monthly budget when part of my income is a grant paid on a set date each month?",
       "url": "https://money.stackexchange.com/questions/170241/how-should-i-plan-a-monthly-budget-when-part-of-my-income-is-a-grant-paid-on-a-s",
       "score": 1,
-      "num_comments": 2,
+      "num_comments": 1,
       "created_utc": 1795072479,
       "first_seen_utc": 1795203463
     },
@@ -54846,160 +55000,6 @@
       "score": 0,
       "num_comments": 0,
       "created_utc": 1791664089,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666225524",
-      "title": "$QQQ ~ We are in the late stages of the Ponzi economic cycle described by economist Hyman Minsky. A few days ago in Oct 2026, the most famous AI or \u201cinfamous\u201d LLMai company on Earth turned out to be about 20 billion smaller than everyone (the AI Tech Bro CNBC marketing machine team) thought. Then Nvidia lost 169 billion of stock market value in a single day, and Nvidia doesn&#39;t even own OpenAI \u201cdirectly\u201d. So what&#39;s actually going on in the 2026 AI infrastructure capex debt boom mania? We break down the \u201cinfinite money glitch\u201d money loop behind the AI boom: Nvidia invests in Scam Altman\u2019s OpenAI, OpenAI (heavily backed by SoftBankAI) signs giant cloud deals with OracleAI, and OracleAI borrows to buy chips from NvidiaAI. The same dollar gets counted as a win 3 times. We go back to 1999, when the companies selling the internet&#39;s infrastructure hardware found the same shortcut to make large quick stock market gains while the music (bull market) was still playing. $NVDA $ORCL  $SMH $SPY",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:15:24Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2ou8q",
-      "title": "How To Reduce Expenses 36 y/o in OC, CA",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2ou8q/how_to_reduce_expenses_36_yo_in_oc_ca/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791663145,
-      "first_seen_utc": 1791690546
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666225324",
-      "title": "$SPY $DJT $TSLA  \n\nHow do your personal morals compare to Trump&#39;s?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:02:36Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1x2oebc",
-      "title": "What to do?",
-      "url": "https://www.reddit.com/r/dividends/comments/1x2oebc/what_to_do/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791662037,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2o4ga",
-      "title": "Is taking potentially a 40% pay cut worth it if it means I would likely be happier and still being financially comfortable?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2o4ga/is_taking_potentially_a_40_pay_cut_worth_it_if_it/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791661333,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2o3oc",
-      "title": "Inherited IRA for ~5k, what brokerage should I go with?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2o3oc/inherited_ira_for_5k_what_brokerage_should_i_go/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791661278,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666224735",
-      "title": "$WFF bro are you kidding me\u2026 you really want to take it there?? You have no idea what im capable of\u2026 if you follow me and you made money because of me then i dont think it should be an issue to send a small donation\u2026 you are just greedy and are a user\u2026\n\n$GME $TSLA $SPCX $AIXI",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T19:30:18Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666224651",
-      "title": "$NVDA \ud83d\ude2e https://x.com/zerohedge/status/2108987381495804018?s=46&amp;t=7sB_8UTokWceXywlcGNFUA",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T19:25:06Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1x2nogg",
-      "title": "What do you realistically expect from $ENVX by the end of 2026 & 2027?",
-      "url": "https://www.reddit.com/r/stocks/comments/1x2nogg/what_do_you_realistically_expect_from_envx_by_the/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791660185,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1x2nlf0",
-      "title": "Should I keep Bitcoin in my Roth IRA",
-      "url": "https://www.reddit.com/r/investing/comments/1x2nlf0/should_i_keep_bitcoin_in_my_roth_ira/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791659968,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666224446",
-      "title": "Where Is #AI Headed Next? $CSCO \nAlso Mentions: $NVDA $MSFT $AMZN https://talkmarkets.com/article/where-is-ai-headed-next",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T19:14:16Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "FinancialPlanning",
-      "id": "1x2neu0",
-      "title": "Best Retirement Investment Account for a SAHM?",
-      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1x2neu0/best_retirement_investment_account_for_a_sahm/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791659507,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666224203",
-      "title": "$NVDA really bkack monday?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T19:03:21Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666224145",
-      "title": "$NVDA how is tech so strong but nvda sells off?  Makes nonsense.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T19:00:19Z",
       "first_seen_utc": 1791666586
     }
   ]
