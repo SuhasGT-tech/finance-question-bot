@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-11-21T02:00:45.149146+00:00",
+  "generated_at": "2026-11-21T10:40:08.220456+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669849639",
+      "title": "$SPY please won&#39;t you be my neighbor?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T10:33:29Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669849574",
+      "title": "$BTC.X \n\nHitting that low of $55K last night. \n\nHow low can we go?!!!!\n\n\ud83d\ude0b",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T10:28:09Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669849544",
+      "title": "$BTC.X \n\n99% of cryptocurrencies will go to zero\u2026\n\nWhy don\u2019t you guys sell all other useless shit/altcoins and buy Bitcoin ?\n\nIt\u2019s beyond me !!!\n\n$SHIB.X $PEPE.X $BONK.X $DOGE.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T10:25:56Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669849366",
+      "title": "$SPY \ud83d\ude0e\ud83d\udeac\n\nhttps://youtu.be/U3sMjm9Eloo?si=22TcESOH0ipm9Uc3",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T10:11:23Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669849330",
+      "title": "$BTC.X if sheetcoins actually cared about financial freedom they would sell all their collectible coins and buy bitcoin\n\nOh wait. Didn\u2019t Ripple just do this? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T10:07:49Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669849195",
+      "title": "$SPY Does humanity continue to prosper? Yes.  \n \nOtherwise, we need an alien race to come and show these retards how it is done.  \n \nWe will get there.",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T09:57:02Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669849181",
+      "title": "$SPY $QQQ  \n \nLast weekend Bitcoin tanked. $SPY last week fell 9%. If Bitcoin tanks this weekend, does it mean we may see further selling next week? \ud83e\udd14",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T09:56:00Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669849169",
+      "title": "$SPY $QQQ almost every time the stock market enters correction, it bounces back and achieves new high?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T09:55:10Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669848771",
+      "title": "$SPY Why are farmers payments from the government being withheld?  Is it Socialism?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T09:20:05Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669848593",
+      "title": "$SPY How deep is your love? https://music.apple.com/us/album/you-light-up-my-life/1045260969",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T09:03:37Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669848055",
+      "title": "$ORCL $TSLA $NVDA $SPY $AMD \n\n\ud83d\udea8 NEXT WEEK THE MARKET WILL BE GREEN! \ud83d\ude80\n\nGUARANTEED! \ud83e\udd23\n\nWhy? Because Jim Cramer just declared we&#39;re officially in a BEAR MARKET! \ud83d\udc3b\ud83d\udcc9\n\nINVERSE CRAMER NEVER FAILS! LMAO! \ud83d\ude02\ud83d\udc9a\n\nhttps://x.com/SKYSQUAWK/status/2124053690919035263?a=6IBb5jiz4Zj6_a8EAew&amp;s=19",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 7,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T08:18:54Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "669846059",
+      "title": "$AAPL Puts on a pop?? \ud83d\udc40\ud83d\udc40\ud83e\ude78\ud83e\ude78\ud83e\ude78",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T06:07:11Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669845050",
+      "title": "$TSLA \n\nWhat\u2019s everyone\u2019s best guess on \n\nMerger announcement day! \n\nMerger price per share ?  \n\nReasonable.  I know everyone want 650 a share but\u2026\u2026.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T05:22:24Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669841795",
+      "title": "$NVDA $TSLA \n$SPCX \nThis is huge \n\nhttps://x.com/madrid_xtraq/status/2123904028748739028?a=-kY86ltP_SgXds-gdpE&amp;s=09",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T03:46:18Z",
+      "first_seen_utc": 1795257608
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669840633",
+      "title": "$TSLA We could  get a Tesla &amp; SpaceX merger news on late Sunday or Monday . I am guess $490 ?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-11-21T03:12:07Z",
+      "first_seen_utc": 1795257608
+    },
     {
       "source": "stocktwits",
       "symbol": "SPY",
@@ -54836,171 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1791674238,
       "first_seen_utc": 1791690546
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666228183",
-      "title": "$AAPL when does the apple pager come out?",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T23:08:49Z",
-      "first_seen_utc": 1791690546
-    },
-    {
-      "source": "reddit",
-      "subreddit": "dividends",
-      "id": "1x2scbp",
-      "title": "Where should I put $1k for dividends?",
-      "url": "https://www.reddit.com/r/dividends/comments/1x2scbp/where_should_i_put_1k_for_dividends/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791672563,
-      "first_seen_utc": 1791800026
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666227816",
-      "title": "$QQQ ~ AmazonAI\u2019s high-margin advertising machine is facing its first real structural threat going into 2027: AI shopping agents. Today, major business brands pay AmazonAI billions to rank in the top 3 sponsored slots. But personal \u201cAI agents\u201d like Meta&#39;s \u201cMuse\u201d don&#39;t look at sponsored banners. Amazon responded by blocking agents like Muse from completing checkout on its site. The twist? Amazon&#39;s 3PL logistics moat remains untouchable. Even if an \u201cAI agent\u201d buys from an independent merchant, Amazon&#39;s regional warehouses will likely deliver it to the USA \u201cconsumer\u201d. $AMZN $META $SPY $NVDA",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T22:42:15Z",
-      "first_seen_utc": 1791690546
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1x2qi81",
-      "title": "Cna while in school?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1x2qi81/cna_while_in_school/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791667460,
-      "first_seen_utc": 1791690546
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666226425",
-      "title": "$SPY I will survive. You will see.\n\nhttps://youtu.be/3VFOEa8K-6Q?is=DjeBNVK-8CF9wF0r",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T21:05:59Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666226352",
-      "title": "$BTC.X \n\n$RETIRE.X your bloodline.\nIsn\u2019t that why you looked into crypto the first time? Trying to find a way out?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T21:01:11Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666226325",
-      "title": "$BTC.X Done with pushing it 1$ by 1$ mfs? cool now lets get over with testing 81900 and see if its gonna actualy pump or dump \nhate these weekend manuplators",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:59:22Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666226307",
-      "title": "$SPY $DJT $QQQ $USO $BTC.X More than national security? Get a grip. Are you playing a shell game, Frankie?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:58:07Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2prvm",
-      "title": "How do I optimize Credit Cards, Subscriptions, Military Benefits, and cost of living..",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2prvm/how_do_i_optimize_credit_cards_subscriptions/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791665555,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666226183",
-      "title": "It seems like midterms matter more than the  economy and national security. They started a war to distract us from the Epstein files, but now they&#39;re acting nice just for the election. What kind of sht is that?\n$SPY $DJT $QQQ $USO $BTC.X",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:52:16Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666226098",
-      "title": "$SPY Norah Jones, Those Sweet Words.\n\nhttps://youtu.be/PMQtB3qjoh8?is=E5cUuYxmaNNDNEK2",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:46:52Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666225949",
-      "title": "$JEANPHIL.X $SOL.X $BTC.X \n\nhttps://x.com/iclickbutton69/status/2108689498179523028?s=46",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:37:54Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666225821",
-      "title": "$BB There is already massive news from BlackBerry management that the market has YET to acknowledge. \n \nUNDERVALUED \n \n*100M Alloy Kore deal -not priced in \n*Rule of 40 -premium not given \n*NVIDIA \u2764\ufe0f QNX -market silence $NVDA  \n*ANOTHER ER beat -share price flat \n \nThis is the tip of the iceberg. \n \nTry and keep up. The information has been available for years, YEARS and the market cap doesn&#39;t reflect it. \n \nHere is $AAPL iPhone maker Foxconn calling BlackBerry an &quot;automotive software giant&quot; in 2023. \n \n2023! \n \nIs Foxconn wrong? Yeah, THAT BlackBerry.",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 9,
-      "num_comments": 0,
-      "created_utc": "2026-10-10T20:30:33Z",
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2p83p",
-      "title": "Title: Looking to move savings out of Chase \u2014 is E*TRADE a good option?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2p83p/title_looking_to_move_savings_out_of_chase_is/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791664132,
-      "first_seen_utc": 1791666586
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x2p7hs",
-      "title": "Can I afford this house?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x2p7hs/can_i_afford_this_house/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791664089,
-      "first_seen_utc": 1791666586
     }
   ]
 }
