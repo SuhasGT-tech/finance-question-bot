@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-11-22T19:02:42.846186+00:00",
+  "generated_at": "2026-11-23T01:25:46.150667+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669908125",
+      "title": "$SPY Why didn&#39;t you tell us this on Friday before it started revcovering ?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T01:20:26Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "669908120",
+      "title": "$NVDA wonder if Howard Nutlicer bought any stocks or his family. What do you guys think?? \ud83d\ude02",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T01:20:23Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669908035",
+      "title": "$SPY relax..watch for 2nd week of December???",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T01:19:08Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "669907917",
+      "title": "$SPY $UVIX $NVDA trappers delight?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T01:17:30Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669907186",
+      "title": "@SamsonCapital What is it though? Friday you were warning the bulls --implying that they were going to continue to get their asses kicked, now its bears are going to get their asses kicked.  That&#39;s what I call reactionary posturing based on what you see in that moment.  Tends to be a trend with younger traders on here.  @bradley_b my friend -- you too: You were doing the &#39;warning to bears, there&#39;s a lot more rally to come&#39; back in early October, now its &#39;warning to bulls, there is more pain to come.&#39;  \n \nHave to call you out since you&#39;re one of the people I follow and respect -- But I see a lot of this style of posturing on ST, without actually ever showing postions or what that person actually ever bought anything, just &#39;we are in this or that&#39;, &#39;we went all in cash last month&#39; or &#39;I went bearish last week&#39; etc.. \n \nAnyway, too early for bulls to celebrate, the margin call liquidations hit on cash open in the morning.  For me personally, I would like to see $SPY get as high as the 720s tomorrow, but the market can start flipping on a dime as soon as 2am EST.  $BTC.X tends to be the early signal, and for now all seems good. \n \n/end rant \n \nMaybe Bessent &amp; Friends decided to defend the market after all.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T01:06:24Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669906806",
+      "title": "$BTC.X why dose this chart manipulation reek of Elon behind the scenes?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T00:59:46Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669906696",
+      "title": "$BTC.X Out of the few conditions and justification for a falling knife, where is the surging sell volume?\n\nProfessionals don&#39;t just &quot;say&quot;. They back it up \ud83d\ude0f",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T00:57:12Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "669906665",
+      "title": "$BTC.X have you ever had your head check yet? \ud83e\udd26\u200d\u2640\ufe0f",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T00:56:42Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669906502",
+      "title": "$TSLA $META  $SPCX looking good ehh?!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T00:53:02Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669905044",
+      "title": "$SPY $QQQ $AAPL $TSLA $NVDA \n\nThe chuds who sold Friday thinking they were \u201csmart money\u201d will be buying back higher than they sold lmao. Sell low, buy high right?",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 10,
+      "num_comments": 0,
+      "created_utc": "2026-11-23T00:19:14Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "669903925",
+      "title": "$TSLA female driving problem solved !\n\nhttps://x.com/sawyermerritt/status/2124302138771943728?a=Jia4LjE-s3y0YddB2aQ&amp;s=46",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-22T23:55:53Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "669901367",
+      "title": "What Did The #Anthropic #IPO Tell Us About The #AIBubble? $NVDA $AAPL $MSFT $ORCL $ANT https://talkmarkets.com/article/what-did-the-anthropic-ipo-tell-us-about-the-ai-bubble",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-22T23:00:20Z",
+      "first_seen_utc": 1795397146
+    },
+    {
+      "source": "stackexchange",
+      "site": "money",
+      "id": "171253",
+      "title": "How are honoraria for non-recurring academic reviews and talks taxed?",
+      "url": "https://money.stackexchange.com/questions/171253/how-are-honoraria-for-non-recurring-academic-reviews-and-talks-taxed",
+      "score": 1,
+      "num_comments": 1,
+      "created_utc": 1795381879,
+      "first_seen_utc": 1795397146
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -54857,149 +55000,6 @@
       "score": 0,
       "num_comments": 0,
       "created_utc": "2026-10-11T18:56:30Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666242650",
-      "title": "Weekly blog post is now ready: https://net0trader.substack.com/p/the-long-end-passed-its-test-then?r=8cs7pu&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true \n$SPY $QQQ $IWM",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T18:54:12Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666242639",
-      "title": "$BTC.X is it done?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T18:53:50Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666242219",
-      "title": "$TSLA midday thought. \n \nWeekends are for the plan, not the noise.  Pull up the weekly chart, mark your levels, and decide in advance where you&#39;re a buyer and where you&#39;re a seller. \n \nAmateurs react on Monday.  Professionals arrive with a plan.  Which one are you going to be? \n \nFull levels breakdown lives on my X - @Vol888.  Check my profile here, then come find it there.  Levels over narratives. \ud83d\udc8e",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T18:31:49Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1x3f5kz",
-      "title": "How can I claw my way out of this shit?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1x3f5kz/how_can_i_claw_my_way_out_of_this_shit/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791742279,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666241603",
-      "title": "$AMZN bulls lead by 24.5 on our Bull vs Bear gauge after Friday&#39;s +3.3% to $262.43. That&#39;s almost double $TSLA&#39;s lead and way ahead of $NVDA. Big tech&#39;s quiet leader right now?",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T18:03:06Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "reddit",
-      "subreddit": "povertyfinance",
-      "id": "1x3eqdj",
-      "title": "Would the best thing for me to do to get out of my cash advance cycle be to change my debit card, and not pay it back?",
-      "url": "https://www.reddit.com/r/povertyfinance/comments/1x3eqdj/would_the_best_thing_for_me_to_do_to_get_out_of/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791741312,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x3ehhy",
-      "title": "Should I pay off my car asap, or save up my money?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x3ehhy/should_i_pay_off_my_car_asap_or_save_up_my_money/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791740734,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666241120",
-      "title": "Introducing the new PickAlpha: a systematic view of the AI &amp; semiconductor investment cycle. \n \nWhat matters more for AI chips: the next headline, or whether the fundamental cycle is changing? \n \nOur new PickAlpha framework tracks 20 signals and separates fundamental impulse from crowded positioning. \n \n$NVDA $AVGO $AMD $TSM $MU  \n \nRead what we&#39;re building \u2193 \n \nhttps://open.substack.com/pub/pickalpha/p/introducing-the-new-pickalpha-systematic?r=1m2m41&amp;utm_campaign=post-expanded-share&amp;utm_medium=web",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T17:40:49Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666240562",
-      "title": "$NVDA \n\nwhat\u2019s the call then: does this chart pattern outweigh NVDA\u2019s business? with the forward multiple compressing as estimates rise",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T17:16:27Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666240498",
-      "title": "$SPY $DJT $TSLA  \n\nMr. President, do you think that your base is both so loyal and so stupid that they would believe any lie or stupid thing you tell them?\n\nTrump: Does Diet Coke have bubbles?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 12,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T17:13:04Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "reddit",
-      "subreddit": "investing",
-      "id": "1x3dma7",
-      "title": "Ares Capital - Thinking About Investing In It , What Dose The Community Think?",
-      "url": "https://www.reddit.com/r/investing/comments/1x3dma7/ares_capital_thinking_about_investing_in_it_what/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791738642,
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666240006",
-      "title": "$AAPL: the $250M Apple Intelligence settlement is still open. Bought an iPhone 16 or 15 Pro? File with just the serial number and get $25 to $95 per phone, one claim per device. Deadline Dec 21. Open Class Actions.",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T16:50:12Z",
-      "first_seen_utc": 1791746525
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666239754",
-      "title": "$DJT $SPY $QQQ $TSLA $PLTR  \n \nThis is the person you people follow and agree with? Must have been one helluva match book degree. Can you draw a pirate too? I understand my comments are more likely above your head, but I don&#39;t think you want to go head to head with me because I will help you humilate yourself even more than you already have.  \n \nI am not going to block you, but make you my  little kennel darling.  \n \n \n&quot;people are done arguing with you retarded pieces of dog shit\u2026 just stfu dumbass&quot; \n&quot; I posses a physics degree as well, so just so that\u2019s out there \ud83e\udd23&quot;",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-11T16:40:13Z",
       "first_seen_utc": 1791746525
     }
   ]
