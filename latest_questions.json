@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-25T03:59:37.948734+00:00",
+  "generated_at": "2026-11-25T16:48:07.815951+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "670186426",
+      "title": "The 5 biggest bullish options flows so far today (Nov 25), by call premium: \n \n1. $NVDA: $228.6M in calls, most of the premium, 516,846 call contracts (bullish) \n2. $TSLA: $178.9M in calls, most of the premium, 167,430 call contracts (bullish) \n3. $MSFT: $78.8M in calls, about two thirds of the premium, 118,398 call contracts (bullish) \n4. $DELL: $56.3M in calls, about two thirds of the premium, 62,281 call contracts (bullish) \n5. $GOOGL: $41.6M in calls, most of the premium, 91,366 call contracts (bullish) \n \nAll five leaned call-heavy. \n \nSource: GTA Terminal from Global Traders Academy. \n \nRead the article for full details: \nhttps://globaltradersacademy.com/options-flow?utm_source=stocktwits",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:43:55Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "670186388",
+      "title": "$SPY who buy this one for this time ???",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:43:38Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "670186338",
+      "title": "$SPY bearish afternoon?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:43:22Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "670186024",
+      "title": "$TSLA is down 5.40% so far today, one of the biggest moves among large consumer cyclical stocks. Here&#39;s the sector on Stock Meadow&#39;s heatmap: https://stockmeadow.com/heatmap?sector=Consumer%20Cyclical",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:41:14Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670185913",
+      "title": "$BTC.X 40k? 30? 15?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:40:27Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670185763",
+      "title": "$DJT $TSLA $NVDA $BTC.X  \nWere in the world is Marco?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:39:22Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670185693",
+      "title": "$BTC.X It&#39;s no joke - there really is a Cash-Out going on for Black Friday, along with some preferring Cash due to Political Uncertainties in the USA. Impeachment or not? Trump remains President or not? Cash is King when the world gets Nervous, especially when so many network outages, hacking, and clear &quot;breakdowns in society&quot; are in play. This is a Smorgasbord of Catalysts for a negative Bitcoin market at this time. BTC is not a &quot;flight to safety&quot; asset when people lack confidence in the stability of the underlying Network it rides on, along with lowering confidence in the Government to effectively stabilize networks and systems.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:39:02Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "670185665",
+      "title": "$AAPL we going lower than 342?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:38:53Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670185283",
+      "title": "$QQQ $NVDA $TSLA $BTC.X \nMoney printer no brrrr anymore?",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:36:27Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "670185238",
+      "title": "$AAPL shorting apple on my iphone, am i retarded or printing money?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 2,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:36:03Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670184768",
+      "title": "$BTC.X Like everyone is stupid and blind. You have the historical charts to prove it. See? Bears are idiots I tell yah.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 3,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:32:38Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670184185",
+      "title": "\u2696\ufe0f Daily Market Intelligence Report: November 25, 2026 \n \n\ud83d\udccc Key Strategic Takeaways: \n\ud83d\udd39 Macro Overview: Fed Net Liquidity holds at USD 5,848.81 billion with bank reserves at USD 2,979.66 billion, yet SOFR rose to 3.94% ahead of USD 567 billion in settlements. Hot 3.3% Core PCE and 4.3% GDP cemented 97%-98% December Fed hike odds. \ud83c\udfe6 \n\ud83d\udd39 Market Catalysts &amp; Convergence: Surging 31.6 VIX and 14-nation Section 301 tariffs knocked the Nasdaq down roughly 4% as HPE halted neocloud credit and PJM proposed a 50-megawatt behind-the-meter cap. Meanwhile, Sanofi bid USD 41.0 billion cash for Insmed and Fidelity added Chainlink. \ud83d\udcca \n \nGive Yourself Some Grace, Provide Love &amp; Kindness and Remember to Fail-Learn-Grow-Share-Repeat. \n \n\u2014 Marty Gold \nFounder, Au79 Macro \n \n#Au79Macro #MacroLiquidity #FiscalDominance #Geopolitics #PortfolioStrategy \n \n$BTC.X $TAO.X $PAX.G \n \nhttps://martyau79.substack.com/p/25nov2026-au79-daily-market-intelligence?r=5n538&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:28:47Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670183498",
+      "title": "$BTC.X $MSTR $QQQ $SPY $SNDK\n\nSNDK forward PE is 2x now. \nEarnings have adjusted down\n$36.41 to $35.90. Slightly. More to come?  Probably. But\u2026\nThis is pure momo down now stuff.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:24:16Z",
+      "first_seen_utc": 1795625287
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "670182362",
+      "title": "Options Flow Map by GTA, $AAPL (as of 10:50 AM ET): the near-term path from GTA&#39;s proprietary Options Flow Path Model is pinned near the price, while the later expirations lean lower too. The expected-move cone: about 2.0% either way by Nov 27. Across these expirations, 28% of contracts traded were calls (bearish). The path levels are in the article. \n \nSource: GTA Terminal from Global Traders Academy. \n \nRead the article for full details: \nhttps://globaltradersacademy.com/articles/options-flow-map-by-gta-apple-aapl-projected-options-path-nov-25?utm_source=stocktwits",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-25T16:17:09Z",
+      "first_seen_utc": 1795625287
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -54846,160 +55000,6 @@
       "score": 0,
       "num_comments": 0,
       "created_utc": 1791837796,
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666321059",
-      "title": "$SPY $USO $DJT  \nPerfect time to attack them NOW! \n \nDo they really think we&#39;ll share our attack schedule with them??? \nGive up the element of surprise? \n \nOnly democrats are that stupid!",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:40:45Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666320998",
-      "title": "$BYND US is not eating plant based foods. US is not drinking sparkling beverages so why not launch first in europe or especially germany?  \n \nMarket was great $QQQ $SPY $DIA  \n \nhttps://investors.beyondmeat.com/news-releases/news-release-details/beyond-meatr-debuts-phytospheretm-portfolio",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:39:55Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666320987",
-      "title": "$BTC.X only chance to escape the matrix?",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:39:43Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "BTC.X",
-      "id": "666320517",
-      "title": "$BTC.X I was thinking about selling until I saw the massively bearish sentiment from every direction. Is everyone placing the same bet? Seems like something unexpected may be about to happen.",
-      "url": "https://stocktwits.com/symbol/BTC.X",
-      "score": 3,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:33:37Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666320262",
-      "title": "$NVTS $NVDA $SNDK $AMD \n\nIn case you haven\u2019t noticed, those data centers are gonna need lots of energy. \n\nHave you seen energy prices? \n\nThose flashy chips are nice but they need power.\n\nWho is fixing the power problem? \n\nThat\u2019s right: NVTS and NVDA and $MX",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:30:21Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666319894",
-      "title": "$AMD $SNDK $MU $NVDA \n\nsmart balls\n\nhttps://www.facebook.com/share/19zdwJMsUU/?mibextid=wwXIfr",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:25:51Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x4cw3v",
-      "title": "I have a HYS account with 6 months emergency expenses, should I continue to contribute to it or transfer all of my savings to an investment account?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x4cw3v/i_have_a_hys_account_with_6_months_emergency/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791836669,
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666319618",
-      "title": "$ARBE it&#39;s after the bell, 10/12/26... where&#39;s the SEC filing stating Arbe is de-listing?  The Bears and Shorts were blaring it on high for weeks... where is it? \n \n... expect 180 day extension to be announced tomorrow, or sometime later this week.  They should be receiving the letter today, or early tomorrow morning from NASDAQ. \n \nImmediate short term pressure release once announced, followed by a potential squeeze. \n \n-Paris Auto Show is going until the 18th \n-AUSA Defense Conference 12~14th (We&#39;ve already seen a few models with Arbe/Sensrad radars installed) \n-Next week brings $NVDA GTC Berlin \n \nIf VW isn&#39;t going to announce Wayve during the Paris Auto Show, expect it at GTC Berlin instead ;) \n \nI never expected to see a VW/Audi vehicle with an Arbe radar installed at the Paris Auto Show, I speculated that it might be the venue where VW announces the Wayve partnership, and potentially divulges an Arbe chipset selection for L3 in Europe. \n \nIt appears that VW might actually be skipping L2++, and going to L3",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:22:38Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666319014",
-      "title": "$PLTR did you talk to McKinsey and see our $600,000,000,000 2030 TAM??? \nALL GAAAASSSS and no brakes!!! \n$SPY $NVDA $AAPL of Sovereign $AI",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:16:08Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "reddit",
-      "subreddit": "tax",
-      "id": "1x4cdio",
-      "title": "can please someone check their transcripts? its showing audit status not able to load?",
-      "url": "https://www.reddit.com/r/tax/comments/1x4cdio/can_please_someone_check_their_transcripts_its/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791835464,
-      "first_seen_utc": 1791858456
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666317305",
-      "title": "$TSLA https://x.com/jeffreymlevy/status/2109690040917889302?s=20",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 1,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T20:00:48Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x4c7d6",
-      "title": "Sofi debt consolidation verification of employment?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x4c7d6/sofi_debt_consolidation_verification_of_employment/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791835090,
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666314544",
-      "title": "Before the close, breakout stocks to watch \n \nTough day for QQQ and tech stocks, but did a quick scan for stronger breakout watch stocks :  $AAPL $ELF $HOWL $HRTG and $NSIT at https://www.stockconsultant.com/?AAPL",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T19:37:20Z",
-      "first_seen_utc": 1791838479
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666313721",
-      "title": "$TSLA 390 or 370 tommorow??",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 2,
-      "num_comments": 0,
-      "created_utc": "2026-10-12T19:29:57Z",
       "first_seen_utc": 1791838479
     }
   ]
