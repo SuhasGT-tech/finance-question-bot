@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-27T03:31:06.053515+00:00",
+  "generated_at": "2026-11-27T16:06:43.412557+00:00",
   "count": 5000,
   "questions": [
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "670293285",
+      "title": "$NVDA do you think this will tank with his hearings next week?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T16:02:43Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670293274",
+      "title": "$GDC $BTC.X Nice Gap, same person, could it be ALDER77 on both bid and ask, is that why he wished I would shut up until it&#39;s 10 dollars per share and yet act bearish? Just saying?  \nGDC GD CULTURE GROUP LTD COMMON STOCK \n \nLast price x size / Exch \n \n    $0.72 x 700 Pdown-0.0207down (-2.79%) \n \nBid by sizeBid x size \n    $0.72 x 800 K \n \nAsk x size \n    $0.799 x 800 J \n \nVolume \n    86.09K",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T16:02:39Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "SPY",
+      "id": "670293141",
+      "title": "$SPY Can we hit $727 before market closes at 1PM?",
+      "url": "https://stocktwits.com/symbol/SPY",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T16:01:17Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "NVDA",
+      "id": "670293080",
+      "title": "$SOXL how is this up w $NVDA red $AMD back in 300s ?",
+      "url": "https://stocktwits.com/symbol/NVDA",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T16:00:41Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "TSLA",
+      "id": "670292678",
+      "title": "$SPY  I bought a $TSLA they know where the location is.  I bought an iphone $AAPL they know the location $DELL I bought a laptop and they know where it is I bought a TV and they definitely know where it is.  You mean to tell me if I buy a  40K gpu from $NVDA , they don&#39;t know the location?  NONSENSE, These guys knew and should be in jail soon.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:56:50Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670292370",
+      "title": "$4CHAN.X who else is riding this investment vehicle?  \n \nTHE FAST TRACK TO RICHES \ud83c\udf40 \n$BTC.X $SPY $DOGE.X $PEPE.X",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:54:06Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670292163",
+      "title": "$BTC.X $IREN \n\nMy God, what a rollercoaster\u2014up, down, and back up again. When will this casino-like behavior end, so that the focus can return to company fundamentals and the actual mechanics of the stock market\u2014treating it like a reliable ATM? Everything here is manipulated, and people are constantly nitpicking, looking for any little flaw.",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:52:12Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "670291315",
+      "title": "$NVDA $MU $SNDK $AAPL $BA  \n \n \nWHO&#39;S YOUR BUDDY ?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 4,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:45:04Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670291309",
+      "title": "$BTC.X $SPY are... you ... KNEELING yet??",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 1,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:45:01Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "BTC.X",
+      "id": "670291159",
+      "title": "US Goods Trade Deficit Widens 10.7% to $149.5 Billion in October as AI-Related Capital Goods Imports Surge 8.5%\n\nTrade deficit widens for fourth consecutive month... \n    https://bigbreakingwire.in/bbw-live-news-blog-today/?lb_update=5742&amp;lb_v=1795794153#pennion-live-blogging-update-5742 \n\n$SPY $QQQ $TLT $BTC.X $IWM",
+      "url": "https://stocktwits.com/symbol/BTC.X",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T15:43:41Z",
+      "first_seen_utc": 1795795603
+    },
+    {
+      "source": "stocktwits",
+      "symbol": "AAPL",
+      "id": "670282840",
+      "title": "$AAPL \n\nThis bloated pig should be down 10% today! \n\nWho the fuck is buying this stock at this multiple?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "score": 5,
+      "num_comments": 0,
+      "created_utc": "2026-11-27T14:42:50Z",
+      "first_seen_utc": 1795795603
+    },
     {
       "source": "stocktwits",
       "symbol": "NVDA",
@@ -54880,127 +55001,6 @@
       "num_comments": 0,
       "created_utc": 1791919700,
       "first_seen_utc": 1792033455
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666404290",
-      "title": "$QQQ $SPY  how  will  the  debt  be  paid  off?      Asking  for  the  future  of  the  stock  market.  \n \nThere will  be  a  day  stocks never recover  and  it  becomes  a  boring  assets like 20-30 years  ago.      \n \nnothing  goes  up  forever",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:49:02Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "SPY",
-      "id": "666404184",
-      "title": "$RTX $LMT $SPY $DJT $USO Strikes about to start again or? Axios is reporting this \n \nNetanyahu, Trump Reportedly Discuss Renewed Strikes On Iran \u2014 Axios \n \nNetanyahu discussed renewed military action against Iran with Trump last week, according to Axios. US officials believe Netanyahu may push for strikes before Israel&#39;s Oct 27 election, and no military decision has been reported.",
-      "url": "https://stocktwits.com/symbol/SPY",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:48:09Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "reddit",
-      "subreddit": "stocks",
-      "id": "1x5501a",
-      "title": "Amprius Technologies : What do you think about it ?",
-      "url": "https://www.reddit.com/r/stocks/comments/1x5501a/amprius_technologies_what_do_you_think_about_it/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791916946,
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666403272",
-      "title": "$AAPL what&#39;s the rush??! lol $$$$$$$$$$$$$$",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:40:16Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "reddit",
-      "subreddit": "personalfinance",
-      "id": "1x54v19",
-      "title": "Which app do you use for managing/tracking your finances?",
-      "url": "https://www.reddit.com/r/personalfinance/comments/1x54v19/which_app_do_you_use_for_managingtracking_your/",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": 1791916636,
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666402863",
-      "title": "$JBDI $WFF $AIXI $AMC $TSLA  Ouch.. How much did you lose this time? I&#39;m almost starting to feel sorry for you.",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:36:32Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666402632",
-      "title": "$TSLA  \nEver ask yourself why so many dirtbags and grifters hang around the Tesla board? I don&#39;t.",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:34:12Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666402468",
-      "title": "$NVDA didn\u2019t they figure out this is worth like $80 a share yet?  \ud83e\udd23 it\u2019s a gpu for fuck sakes and ai is not even necessary not to mention china already won the race.",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:32:50Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "TSLA",
-      "id": "666402396",
-      "title": "$TSLA profit taking? something happen?",
-      "url": "https://stocktwits.com/symbol/TSLA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:32:09Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "NVDA",
-      "id": "666402307",
-      "title": "$NVDA 227.73 red candle top? Asking for a friend as it seems like it\u2019s struggling. \u26a0\ufe0f \u203c\ufe0f",
-      "url": "https://stocktwits.com/symbol/NVDA",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:31:19Z",
-      "first_seen_utc": 1791917565
-    },
-    {
-      "source": "stocktwits",
-      "symbol": "AAPL",
-      "id": "666402167",
-      "title": "$AAPL Honestly asking: why you folks are bearish on Apple? I might be out of the loop.",
-      "url": "https://stocktwits.com/symbol/AAPL",
-      "score": 0,
-      "num_comments": 0,
-      "created_utc": "2026-10-13T18:29:59Z",
-      "first_seen_utc": 1791917565
     }
   ]
 }
